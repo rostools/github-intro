@@ -1,90 +1,180 @@
-# Pre-course tasks {#sec-pre-course}
+# Pre-tutorial tasks {#sec-pre-tutorial}
 
-{{< include /includes/_wip.qmd >}}
+{{< text_snippet wip >}}
 
-In order to participate in this course, you must complete everything in
-this pre-course tasks section and finish with **completing the
-[survey]()** at the end. These tasks are designed to make it easier for
-everyone to start the course with everything set up. For some of the
-tasks, you might not understand why you need to do them, but you will
-likely understand why once the course begins.
+In order to participate in this tutorial, you must complete everything
+in this section and finish with **completing the
+[survey](@sec-pre-tutorial-survey)** at the end. These tasks are
+designed to make it easier for everyone to start the tutorial with
+everything set up.
 
 Depending on your skills and knowledge, these tasks could take between
-**3-5 hrs to finish**, so we suggest planning a full day to complete
-them. Depending on your institution and how they handle installing
-software on work computers, you also might have to contact IT *very
-early* to make sure everything is properly installed and setup.
+**1-2 hrs to finish**, so we suggest planning some time to complete
+them. The tasks are mostly readings, but bear with us, they are
+important to make sure you get the most out of the tutorial.
 
 ## Summary of tasks
 
 Here's a quick overview of the tasks you need to do. Specific details
 about them are found as you work through the tasks.
 
-1.  Install a version of R, RStudio, Quarto, and Git that is as updated
-    as possible. For some people, depending on their institution, this
-    task can take the **longest amount of time** because you have to
-    contact your IT to install these packages.
-2.  Install necessary R packages.
-3.  TODO: Add more tasks
-4.  Read the syllabus (@sec-syllabus).
-5.  Read the [Code of
+1.  Read the syllabus (@sec-syllabus).
+2.  Read the [Code of
     Conduct](https://guides.rostools.org/conduct.html).
-6.  Complete the pre-course [survey](): This survey is pretty quick,
-    maybe \~10 minutes. There will be some bits from the tasks that you
-    will need to paste into this survey.
+3.  Read the primer on version control, Git, and GitHub
+    (@sec-intro-to-github).
+4.  Create a GitHub user account (@sec-github-user).
+5.  Complete the pre-tutorial survey (@sec-pre-tutorial-survey): This
+    survey is pretty quick, maybe \~10 minutes. You will need to add
+    your GitHub username to the survey.
 
-Check each section for exact details on completing these tasks.
+## :book: Introduction to version control, Git, and GitHub {#sec-intro-to-github}
 
-## Learning objective
+This reading is meant as a primer to the tutorial. It will introduce you
+to the concepts of version control, Git, and GitHub.
 
-In general, these pre-course tasks are meant to help prepare you for the
-course and make sure everything is setup properly so the first session
-runs smoothly. However, some of these tasks are meant for learning as
-well as for general setup, so we have defined the following learning
-objectives for this page:
+### What is version control and Git? {#sec-what-is-version-control}
 
-1.  TODO: List objectives
+In our work lives, we often create and modify files. These files can be
+anything from text documents, to images, to code. When we work on these
+files, we often make changes to them, sometimes many changes. We might
+want to keep track of these changes, so we can see what we've done, when
+we did it, and why we did it.
 
-## Reading the course website {#sec-reading-website}
+Many of us track out changes informally, like saving multiple versions
+of a file with different names:
 
-```{r}
-#| echo: false
-#| eval: true
-#| results: asis
-cat(r3admin::read_common("reading-website.md"), sep = "\n")
-```
+![File naming in the commonly used *informal* 'version
+control'.](../images/informal-version-control.jpg){#fig-file-naming-version-control-comics}
 
-## Installing the latest programs {#sec-install-programs}
+Does this way of saving files and keeping track of versions look
+familiar? While the above images are teasing a bit, there is truth to
+it: It is the most commonly used "version control".
 
-```{r}
-#| echo: false
-#| eval: true
-#| results: asis
-cat(r3admin::read_common("installing-programs.md"), sep = "\n")
-```
+This form of informal "version control" isn't ideal because it requires
+making multiple copies of the same file, even if changes are made to
+only one small part of the file. This approach also makes it difficult
+to find specific changes.
 
-## TODO: Next section
+There are, however, "formal" version control systems that automatically
+manage changes to files. One of the world's most popular version control
+systems is called
+[Git](https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F).
+Git is used by millions of people around the world, including thousands
+of organisations and researchers.
 
-## Course basics
+Git create snapshots of file changes, known as **commits**. Each commit
+captures:
 
-If you haven't read the syllabus, **please read it now**. Read over what
-the course will cover, what we expect you to learn by the end of it, and
-what our basic assumptions are about who you are and what you already
-know. At the end of this section, we'll ask you a few questions to see
-if you understand what you'll learn in the course.
+-   the specific changes
+-   who made the changes
+-   when they made the changes.
 
-One goal of the course is to teach about open science, and true to our
-mission, we practice what we preach. The course material is publicly
-accessible (all on this website) and [openly licensed]() so you can
-(re-)use it for free! The material is organized in the order that we
-will cover it in the course.
+When making a commit, you also provide a short message describing what
+changes were made and why.
 
-We have a [Code of Conduct](https://guides.rostools.org/conduct.html).
-If you haven't read it, **read it now**. The survey involves a question
-about Conduct. We want to make sure this course is a supportive and safe
-environment for learning, so this Code of Conduct is quite important.
+Git stores these commits in a history log. This is extremely useful,
+especially when working in teams, or revisiting your own work after a
+long time (because you *will* forget things). The history log allows you
+to quickly can go back and see what happened and why.
 
-You're almost done. Please fill out the pre-course survey to finish this
-section, either [at this link]().
+Git works by tracking changes to files *within a project*, called a
+**repository** (or a *repo* for short). The repository is the place
+where you store all the files in your project. This includes both code
+and other non-code based files like Word or images, even though Git is
+better at tracking specific changes in text-based files (which makes
+sense because it's easier to track the change in some lines of text,
+rather than changes to e.g., an image).
 
-See you at the course!
+To understand how incredibly powerful version control like Git is, think
+about these questions:
+
+-   How many files of different versions of a scientific documents or
+    thesis do you have laying around after getting feedback from your
+    supervisor or co-authors?
+-   Have you ever wanted to experiment with a file and need to make a
+    new file so that the original is not modified?
+-   Have you ever deleted something and wish you hadn't?
+-   Have you ever forgotten what you were doing on a project, or why you
+    chose a particular strategy or analysis?
+
+All these problems can be fixed by using formal version control! There
+are so many good reasons to use version control, especially in science:
+
+-   Transparency of work done to demonstrate or substantiate your
+    scientific claim.
+-   Claim to first discovery, since you have a time-stamped history of
+    your work.
+-   Defense against fraud, because of the transparency.
+-   Evidence of contributions and work, since who does what is tracked.
+-   Keeping track of changes to files easily, by looking at the history
+    of changes.
+-   Easy collaboration, because you can work on a single file/folder
+    rather than emailing versions around.
+-   Organized files and folders, since there is one single project
+    folder and one single version of each file, rather than multiple
+    versions of the same file.
+-   Less time finding things, because everything is organized and in one
+    place.
+
+### What is GitHub then? {#sec-what-is-git-and-github}
+
+![Git and GitHub. Image from [this
+post](https://medium.com/@amitkhachane.7/an-intro-to-git-and-github-for-beginners-git-for-newbies-f22189553a0a)](../images/git-github.png){#fig-git-and-github}
+
+There a several ways to use Git. In this tutorial, we will use
+[GitHub](https://github.com/), which is a website that hosts projects
+that uses Git (a.k.a. Git repositories). This means that your Git
+repositories can be stored on GitHub, and you can manage your files and
+projects using Git through GitHub.
+
+Everything we do in this tutorial (including storing and managing files)
+will be done through the GitHub website, which under the hood uses Git
+to track the changes. Nice!
+
+### Summary
+
+-   Using a formal version control system like Git can help you keep
+    track of changes to your files and projects.
+-   A Git repository is a place where you store all the files for your
+    project along with their history.\
+-   GitHub is a website that hosts Git repositories.
+-   Through GitHub you can manage your files and projects using Git.
+
+So far, we have encountered the following terminology:
+
+| Term | Definition |
+|-------------------------|----------------------------------------------|
+| **Version control** | A system that records changes to files over time. |
+| **Git** | A widely popular version control system that tracks changes to files and projects. |
+| **(Git) Repository** | A "project" with files that are stored and tracked by Git. |
+| **Commit** | A snapshot of changes made to file(s) in a repository. |
+| **GitHub** | A website that hosts Git repositories. |
+
+## :woman_technologist: Create a GitHub account {#sec-github-user}
+
+To participate in the tutorial, you will need a GitHub account. Please
+go to the [GitHub website](github.com) and create an account.
+
+Please remember your username, as you will need it for the survey at the
+end of this section.
+
+If you already have one, you can skip this task, but we will still need
+your username in the survey at the end of this section.
+
+## Pre-tutorial survey {#sec-pre-tutorial-survey}
+
+If you haven't read the syllabus (@sec-syllabus) and the primer on
+version control and GitHub above (@sec-intro-to-github), **please read
+it now**.
+
+Also make sure to read the [Code of
+Conduct](https://guides.rostools.org/conduct.html), since the survey
+involves a question about it. We want to make sure this tutorial is a
+supportive and safe environment for learning, so this Code of Conduct is
+quite important.
+
+You're almost done. Please fill out the pre-tutorial survey to finish
+this section, either [at this link]().
+
+See you at the tutorial!
