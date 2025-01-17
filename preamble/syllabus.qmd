@@ -1,10 +1,25 @@
 # Syllabus {#sec-syllabus}
 
-{{< include /includes/_wip.qmd >}}
+{{< text_snippet wip >}}
 
-Objectives:
+Our overarching **learning outcome** is that at the end of the tutorial,
+participants will be able to:
 
--   Item 1
+-   Describe and navigate GitHub's features to modify files and files,
+    write text in files, and create or comment on issues.
+
+Our specific **learning objectives** are to:
+
+-   Describe the very basics of the version control software Git,
+    specifically by defining repository, committing, and the history.
+-   Explain the difference between GitHub and Git, and then describe
+    what GitHub can be used for.
+-   Describe and navigate to each of GitHub's basic features,
+    specifically the "code" page, the "commit history", and "issues".
+-   Use GitHub to create, upload, delete, or rename files and folders.
+-   Use GitHub to edit content in an existing file.
+-   Use GitHub's to create "Issues" to start discussions, request for
+    help, or list to-do tasks, as well as to comment on other "Issues".
 
 ## Is this course for you? {#sec-is-it-for-you}
 
