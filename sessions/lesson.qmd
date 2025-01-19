@@ -20,7 +20,120 @@ Specific learning objectives are:
 TODO: Reading text
 :::
 
-## Exercise: TODO: Add title
+## Exercise: Add a new file and modify the content
+
+First, we want to add a file to the repository.
+
+1.  Go to the repository on GitHub.
+2.  In the code tab, click "Add file" and then "Create new file".
+3.  In the "Name your file..." field, type a name for your file. For
+    simplicity, let's call it your name and make it a Markdown file. For
+    example, "your-name.md".
+4.  Click the green "Commit changes" button and fill in the commit
+    message. For example, "Add file with my name". You don't need to
+    fill in the extended description. Keep the "Commit directly to the
+    `main` branch" option selected.
+5.  When you have filled in the commit message, click the green "Commit
+    changes" button.
+6.  Go back to the repository and check that your file has been added.
+
+You have now made your first commit to the repository! :tada:
+
+Now that we have created a file, let's modify it:
+
+1.  Go to the file on GitHub
+2.  Click the pencil icon on the right side of the screen ("Edit this
+    file") to edit the file
+3.  Make a change to the file by adding a new line of text. For example,
+    "This is a new line of text."
+4.  Now, commit the changes as you did before by clicking the green
+    "Commit changes" button and filling in the commit message. When you
+    have filled in the commit message, click the green "Commit changes"
+    button.
+5.  Go back to the file on GitHub and check that your changes have been
+    made.
+
+::: callout-tip
+## See the history of changes
+
+If you want to see the history of changes to the file, go to the file
+and click the "History" button on the right side of the screen. This
+will show you all the changes that have been made to the file along with
+the commit messages.
+
+Since you have made two commits to the file, you should see two entries
+in the history. You can click on each entry to see the changes that were
+made in that commit.
+
+This also shows the importance of meaningful commit messages. Imagine if
+all the commit messages were "Update file.md". Then, it would be hard to
+know what changes were made in each commit. By contrast, if the commits
+have meaningful messages, it would be much more easy to get an overview
+of the changes that have been made.
+:::
+
+{{< text_snippet sticky_up >}}
+
+## Exercise: Rename and move your file
+
+Now it's time to make edits to the file itself. We want to rename the
+file and move it to a new location in the repository.
+
+1.  Go to the file on GitHub.
+2.  Click the pencil icon on the right side of the screen ("Edit this
+    file") to edit the file.
+3.  Now, click the name of the file at the top of the screen. After the
+    current name of the file, add "-new-filename". For example, if the
+    current name of the file is "file.txt", change it to
+    "file-new-filename.txt". Remember to keep the file extension (e.g.,
+    ".txt") the same.
+4.  Commit the changes as we have done it previously, by clicking the
+    green "Commit changes" button and fill in the commit message.
+5.  Go back to the file on GitHub and check that your changes have been
+    made.
+
+{{< text_snippet sticky_up >}}
+
+## Exercise: Create an issue and interact with another's issue
+
+Let's create your first issue!
+
+1.  In the repository on GitHub, click the "Issues" tab.
+2.  Click the green "New issue" button.
+3.  Fill in the title and the description. This could be anything you
+    want to work on or discuss. For example, it could be about something
+    you think should be added (a new file or a new section to a file) or
+    something you think should be changed. It could also be a discussion
+    issue where you ask for feedback on something.
+4.  Click the green "Create" button, to create the issue.
+
+Now, you have created your first issue! :partying_face:
+
+Now, let's interact with another's issue:
+
+1.  Go back to the "Issues" tab in the repository.
+2.  Click on an issue that someone else has created.
+3.  Read the issue and the comments that have been made.
+4.  Scroll down to the bottom of the page and write a comment in the
+    comment field. You can ask a question, give feedback, or suggest a
+    solution to the issue.
+5.  When you have written your comment, click the green "Comment" button
+    to post the comment.
+
+{{< text_snippet sticky_up >}}
+
+## Exercise: Close your issue
+
+Now, let's close the issue you created earlier.
+
+1.  Go to the "Issues" tab in the repository.
+2.  Click on the issue you created.
+3.  In the comment field, write a comment about why you are closing the
+    issue. For example, you could write "This issue has been resolved"
+    or "This issue is no longer relevant". Then, click the "Close issue"
+    button.
+
+{{< text_snippet sticky_up >}}
 
 ## Summary
 
