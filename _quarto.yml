@@ -25,7 +25,6 @@ book:
       - sessions/lesson.qmd
       - sessions/what-next.qmd
   appendices:
-    - appendix/social.qmd
     - appendix/for-instructors.qmd
     - appendix/references.qmd
   page-footer:
