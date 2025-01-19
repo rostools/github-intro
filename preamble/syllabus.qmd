@@ -1,6 +1,6 @@
 # Syllabus {#sec-syllabus}
 
-{{< include /includes/_wip.qmd >}}
+{{< text_snippet wip >}}
 
 Objectives:
 
