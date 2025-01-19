@@ -8,7 +8,7 @@
 
 The overall learning outcome for this session is to:
 
-1. 
+1.  
 
 Specific learning objectives are:
 
@@ -74,7 +74,7 @@ of the changes that have been made.
 
 {{< text_snippet sticky_up >}}
 
-## Exercise: Rename and move your file
+## Exercise: Rename and move your file, then delete it
 
 Now it's time to make edits to the file itself. We want to rename the
 file and move it to a new location in the repository.
@@ -89,8 +89,36 @@ file and move it to a new location in the repository.
     (e.g., ".md") the same.
 4.  Commit the changes as we have done it previously, by clicking the
     green "Commit changes" button and fill in the commit message.
-5.  Go back to the file on GitHub and check that your changes have been
+5.  Go back to the file on GitHub and see that your changes have been
     made.
+
+Now, let's move the file to a new folder in the repository:
+
+1.  Go to the file.
+2.  Click the pencil icon on the right side of the screen ("Edit this
+    file") as we did before.
+3.  Click the name of the file at the top of the screen. Change the path
+    of the file to a new location in the repository. For example, if the
+    current path is "your-name-new-filename.md", change it to
+    "folder/your-name-new-filename.md". Notice the `/` between the
+    folder name and the file name.
+4.  Commit the changes.
+
+Lastly, let's delete the file:
+
+1.  Go to the file.
+2.  On the same line as the file name, click the button with the three
+    dots, saying "More file actions". Click it, scroll down and click
+    "Delete file".
+3.  Commit the changes.
+
+::: callout-tip
+## See the changes in the repository
+
+After you have made the changes, go back to the repository and click the
+History button to see the changes that have been made (including your
+own and the changes made by others).
+:::
 
 {{< text_snippet sticky_up >}}
 
