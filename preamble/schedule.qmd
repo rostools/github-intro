@@ -1,6 +1,6 @@
 # Schedule {#sec-schedule}
 
-{{< include /includes/_wip.qmd >}}
+{{< text_snippet wip >}}
 
 The course is structured as a single participatory live-coding
 session interspersed with a few hands-on exercises. The

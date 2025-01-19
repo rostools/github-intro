@@ -1,6 +1,6 @@
 # TODO: Lesson title here
 
-{{< include /includes/_wip.qmd >}}
+{{< text_snippet wip >}}
 
 <!-- TODO: Add an introduction here -->
 
