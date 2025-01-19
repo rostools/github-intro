@@ -84,9 +84,9 @@ file and move it to a new location in the repository.
     file") to edit the file.
 3.  Now, click the name of the file at the top of the screen. After the
     current name of the file, add "-new-filename". For example, if the
-    current name of the file is "file.txt", change it to
-    "file-new-filename.txt". Remember to keep the file extension (e.g.,
-    ".txt") the same.
+    current name of the file is "file.md", change it to
+    "your-name-new-filename.md". Remember to keep the file extension
+    (e.g., ".md") the same.
 4.  Commit the changes as we have done it previously, by clicking the
     green "Commit changes" button and fill in the commit message.
 5.  Go back to the file on GitHub and check that your changes have been
