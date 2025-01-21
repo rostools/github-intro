@@ -1,7 +1,5 @@
 # Schedule {#sec-schedule}
 
-{{< text_snippet wip >}}
-
 The course is structured as a single participatory live-coding
 session interspersed with a few hands-on exercises. The
 *general* schedule outline is shown in the below table.

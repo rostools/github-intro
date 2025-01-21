@@ -1,7 +1,5 @@
 # TODO: Lesson title here
 
-{{< text_snippet wip >}}
-
 <!-- TODO: Add an introduction here -->
 
 ## Learning objectives
