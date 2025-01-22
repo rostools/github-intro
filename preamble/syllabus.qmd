@@ -1,7 +1,5 @@
 # Syllabus {#sec-syllabus}
 
-{{< text_snippet wip >}}
-
 Objectives:
 
 -   Item 1

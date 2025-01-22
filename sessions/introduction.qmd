@@ -1,7 +1,5 @@
 # Introduction to course {#sec-introduction}
 
-{{< text_snippet wip >}}
-
 > [**Introduction slides**](../slides/introduction.html)
 
 <div>
