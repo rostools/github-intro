@@ -2,24 +2,31 @@
 
 {{< text_snippet wip >}}
 
-Our overarching **learning outcome** is that at the end of the tutorial,
-participants will be able to:
+We designed the tutorial so that by the end of it, the **learning
+outcome** we hope you will have is:
 
--   Describe and navigate GitHub's features to modify files and files,
-    write text in files, and create or comment on issues.
+-   Explain in simple terms what GitHub does and to feel confident enough 
+    to navigate GitHub to work with files as well as GitHub Issues.
 
-Our specific **learning objectives** are to:
+To break this down, we designed the tutorial into specific **learning
+objectives** so that you will:
 
--   Describe the very basics of the version control software Git,
-    specifically by defining repository, committing, and the history.
--   Explain the difference between GitHub and Git, and then describe
-    what GitHub can be used for.
--   Describe and navigate to each of GitHub's basic features,
-    specifically the "code" page, the "commit history", and "issues".
--   Use GitHub to create, upload, delete, or rename files and folders.
--   Use GitHub to edit content in an existing file.
--   Use GitHub's to create "Issues" to start discussions, request for
-    help, or list to-do tasks, as well as to comment on other "Issues".
+-   List and describe Git's core functionality and purpose, and how
+    GitHub expands on that.
+-   Explain the difference between GitHub and Git.
+-   Explain how GitHub differs from services like OneDrive or Dropbox,
+    and what GitHub's advantage is over them.
+-   Interact with and navigate GitHub enough to create, edit, rename,
+    and delete files and folders.
+-   Create GitHub "Issues" to start discussions, request for some help,
+    or list to-do tasks, as well as to comment on existing "Issues".
+-   Explain the benefits to using Issues within the same platform as
+    your files.
+
+More concretely and more simply, during the tutorial we will:
+
+-   Create and edit text files on GitHub.
+-   Create Issues and comment on them.
 
 ## Is this course for you? {#sec-is-it-for-you}
 
