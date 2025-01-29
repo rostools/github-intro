@@ -5,13 +5,14 @@ project:
   #   - slides/*.html
 
 book:
-  title: Testing
+  title: "Introduction to GitHub tutorial"
   author: 
     - Signe Kirk Brødbæk
     - Luke W. Johnston
   date: last-modified
   repo-url: https://github.com/rostools/tutorial-github-intro
   site-url: https://tutorial-github-intro.rostools.org
+  body-header: "{{< text_snippet wip >}}"
   chapters:
     - index.qmd
     - part: "Preamble"
@@ -25,7 +26,6 @@ book:
       - sessions/lesson.qmd
       - sessions/what-next.qmd
   appendices:
-    - appendix/social.qmd
     - appendix/for-instructors.qmd
     - appendix/references.qmd
   page-footer:

@@ -1,7 +1,5 @@
 # Schedule {#sec-schedule}
 
-{{< include /includes/_wip.qmd >}}
-
 The course is structured as a single participatory live-coding
 session interspersed with a few hands-on exercises. The
 *general* schedule outline is shown in the below table.
