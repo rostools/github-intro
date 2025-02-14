@@ -20,115 +20,252 @@ Specific learning objectives are:
 TODO: Reading text
 :::
 
-## :woman_technologist: Exercise:  Add a new file
+## :woman_technologist: Exercise: Add a cookie recipe to the repository {#sec-add-recipe-file}
 
-> Time: ~10 minutes.
+> Time: \~10 minutes.
 
-First, we want to add a file to the repository.
+Let's add the first recipe to your repository: A cookie recipe! :cookie:
+
+First, we want to add a file that will include the recipe to the
+repository.
 
 1.  Go to the repository on GitHub.
 2.  In the code tab, click "Add file" and then "Create new file".
-3.  In the "Name your file..." field, type a name for your file. For
-    simplicity, let's call it your name and make it a Markdown file. For
-    example, "your-name.md".
+3.  In the "Name your file..." field, type a name for your file. Let's
+    call it "cooke-recipe.md". Remember the ".md" file extension so we
+    create a [Markdown](https://www.markdownguide.org/getting-started/)
+    file.
 4.  Click the green "Commit changes" button and fill in the commit
-    message. For example, "Add file with my name". You don't need to
-    fill in the extended description. Keep the "Commit directly to the
-    `main` branch" option selected.
+    message. For example, "Add file with cooke recipe". You don't need
+    to fill in the extended description. Keep the "Commit directly to
+    the `main` branch" option selected.
 5.  When you have filled in the commit message, click the green "Commit
     changes" button.
 6.  Go back to the repository and check that your file has been added.
 
-You have now made your first commit to the repository! :tada:
+You have now added your first recipe and made your first commit to your
+repository! :tada:
 
 {{< text_snippet sticky_up >}}
 
-## :technologist: Exercise: Modify the content
+## :technologist: Exercise: Add the cookie recipe to `cookie-recipe.md` file {#sec-add-recipe-content}
 
-> Time: ~10 minutes.
+> Time: \~10 minutes.
 
-Now that we have created a file, let's modify it:
+Now that we have created the `cookie-recipe.md` file, let's modify it by
+adding the recipe to it:
 
-1.  Go to the file on GitHub
+1.  Go to the file `cookie-recipe.md` in your GitHub repository
+
 2.  Click the pencil icon on the right side of the screen ("Edit this
-    file") to edit the file
-3.  Make a change to the file by adding a new line of text. For example,
-    "This is a new line of text."
+    file") to edit the file.
+
+3.  Make a change to the file by adding a cookie recipe. If you (like
+    most of us) don't know a cookie recipe by heart, you can find one
+    online, or use the example recipe below (inspired by
+    [this](https://twin-food.dk/mit-bud-pa-de-bedste-cookies/) recipe -
+    which is really good by the way :yum:):
+
+    ``` markdown
+    # Chocolate chip cookies
+
+    ## Ingredients
+
+    - 240 grams flour
+    - 3/4 tsp salt
+    - 140 grams butter
+    - 145 grams brown sugar
+    - 115 grams sugar
+    - 1 1/2 tsp vanilla powder
+    - 1 egg
+    - 1/2 tsp baking soda
+    - 1 tsp baking powder
+    - 150 grams chocolate (e.g., a mix of dark and milk chocolate)
+    - 100 grams chopped hazelnuts (can be omitted or replaced with oats)
+
+    ## Instructions
+
+    1. Mix the sugar, brown sugar, and butter well.
+    2. Add the egg and mix again.
+    3. Add salt, baking powder, vanilla powder, baking soda, and flour.
+    4. Add the chopped chocolate and nuts.
+    5. Form clumps of dough on a baking tray with plenty of space
+        between them.
+    6. Bake at 175°C (top and bottom heat) for 16.5-17 minutes.
+    7. Once baked, transfer the baking paper with the cookies onto a
+        wire rack and let them cool for 10 minutes before removing them
+        from the paper.
+    ```
+
 4.  Now, commit the changes as you did before by clicking the green
-    "Commit changes" button and filling in the commit message. When you
-    have filled in the commit message, click the green "Commit changes"
-    button.
+    "Commit changes" button and filling in the commit message (for
+    example: "add cookie recipe"). When you have filled in the commit
+    message, click the green "Commit changes" button.
+
 5.  Go back to the file on GitHub and check that your changes have been
     made.
+
 {{< text_snippet sticky_up >}}
 
 ## :woman_technologist: Exercise: Take a look at the history
 
-> Time: ~10 minutes.
+> Time: \~10 minutes.
 
-If you want to see the history of changes to the file, go to the file
-and click the "History" button on the right side of the screen. This
-will show you all the changes that have been made to the file along with
-the commit messages.
+Now that we have made a couple of commits to our repositories, let's
+take a look at the history of the file:
 
-Since you have made two commits to the file, you should see two entries
-in the history. You can click on each entry to see the changes that were
-made in that commit.
+1.  Go to the `cookie-recipe.md` file and click the "History" button on
+    the right side of the screen. This will show you all the changes
+    that have been made to the file along with the commit messages.
+    Since you have made two commits to the file, you should see two
+    entries in the history.
+2.  Try clicking on each entry to see the changes that were made in each
+    commit.
 
-This also shows the importance of meaningful commit messages. Imagine if
-all the commit messages were "Update file.md". Then, it would be hard to
-know what changes were made in each commit. By contrast, if the commits
-have meaningful messages, it would be much more easy to get an overview
-of the changes that have been made.
+Looking at the history shows the importance of meaningful commit
+messages. Imagine if all the commit messages were "Update file". Then,
+it would be easy to lose track of what changes were made in each commit.
+
+By contrast, if the commits have meaningful messages (like "create
+recipe file" and "add cookie recipe"), it is much easier to get an
+overview of the changes.
 
 {{< text_snippet sticky_up >}}
 
-## :technologist: Exercise:  Rename and move your file, then delete it
+## :technologist: Exercise: Rename and move the `cookie-recipe.md` file, then delete it
 
-> Time: ~10 minutes.
+> Time: \~10 minutes.
 
+Let's imagine that you want to add another cookie recipe (e.g., a peanut
+butter cookie recipe) to your recipe book. Because you know that you
+would like to add other recipes in the future, you decide to create a
+folder for the cookie recipes. Then, it would make sense to rename the
+`cookie-recipe.md` file and move it to a new folder called `cookies`.
 
-Now it's time to make edits to the file itself. We want to rename the
-file and move it to a new location in the repository.
+Let's start by renaming the `cookie-recipe.md` file:
 
 1.  Go to the file on GitHub.
 2.  Click the pencil icon on the right side of the screen ("Edit this
     file") to edit the file.
-3.  Now, click the name of the file at the top of the screen. After the
-    current name of the file, add "-new-filename". For example, if the
-    current name of the file is "file.md", change it to
-    "your-name-new-filename.md". Remember to keep the file extension
-    (e.g., ".md") the same.
+3.  Now, click the name of the file at the top of the screen. Rename the
+    file to `chocolate-chip-cookies.md`. Remember to avoid spaces in the
+    file name and keep the file extension (`.md`).
 4.  Commit the changes as we have done it previously, by clicking the
     green "Commit changes" button and fill in the commit message.
 5.  Go back to the file on GitHub and see that your changes have been
     made.
 
-Now, let's move the file to a new folder in the repository:
+Now, let's move the file to a new `cookies` folder in the repository:
 
 1.  Go to the file.
 2.  Click the pencil icon on the right side of the screen ("Edit this
     file") as we did before.
 3.  Click the name of the file at the top of the screen. Change the path
-    of the file to a new location in the repository. For example, if the
-    current path is "your-name-new-filename.md", change it to
-    "folder/your-name-new-filename.md". Notice the `/` between the
+    of the file to a new location in the repository. The current path is
+    `chocolate-chip-cookies.md`. To create a new folder, change the path
+    to `cookies/chocolate-chip-cookies.md`. Notice the `/` between the
     folder name and the file name.
 4.  Commit the changes.
 
-Lastly, let's delete the file:
+You have now renamed your recipe file and moved it to a new folder in
+the repository! :partying_face:
 
-1.  Go to the file.
-2.  On the same line as the file name, click the button with the three
-    dots, saying "More file actions". Click it, scroll down and click
-    "Delete file".
-3.  Commit the changes.
+{{< text_snippet sticky_up >}}
+
+## :technologist: Exercise: Create an issue with a list of future recipes for your book
+
+> Time: \~10 minutes.
+
+Now that you have added a recipe to the repository, let's create a
+GitHub Issue to keep track of the recipes you want to add to your recipe
+book in the future.
+
+1.  In the repository on GitHub, click the "Issues" tab.
+2.  Click the green "New issue" button.
+3.  Fill in the title and the description. For example, you could write
+    "List of future recipes" as the title and "I want to add the
+    following recipes to the recipe book:
+    -   Pancakes
+    -   Apple pie" as the description.
+4.  Click the green "Create" button, to create the issue.
+
+Now, you have created your first issue! :tada:
+
+{{< text_snippet sticky_up >}}
+
+## :woman_technologist: Exercise: Add a recipe suggestion to another's issue
+
+> Time: \~10 minutes.
+
+Since one of the nice things about GitHub is that it allows for easy
+collaboration, let's interact with another's issue by adding a recipe
+suggestion to it. With your neighbour:
+
+1.  Go to each other's GitHub repositories.
+2.  Go to the "Issues" tab in the repository.
+3.  Click on the issue that they have created with the list of future
+    recipes.
+4.  Scroll down to the bottom of the page and write a comment in the
+    comment field suggesting a recipe that they could add to their
+    recipe book. For example, you could suggest them to add a brownie
+    recipe as well :cake:.
+5.  When you have written your comment, click the green "Comment" button
+    to post the comment.
+
+{{< text_snippet sticky_up >}}
+
+## :technologist: Exercise: Add a recipe to another's repository :cake:
+
+> Time: \~10 minutes.
+
+::: {.callout-note collapse="true"}
+## :teacher: Instructor note
+
+Before starting this exercise, make sure that the learners have added
+their neighbour as collaborators to their repositories. If they haven't,
+they can do so by going to the repository, clicking on "Settings", then
+"Collaborators and teams", and then "Add people".
+:::
+
+Now, let's add a recipe to your neighbour's repository.
+
+1.  Go to your neighbour's GitHub repository.
+
+2.  As we did in @sec-add-recipe-file and @sec-add-recipe-content , add
+    a new file with a recipe - this time, it's just in another person's
+    repository. For example, you could add a brownie recipe like the one
+    below:
+
+    ``` markdown
+    # Brownies
+
+    ## Ingredients 
+
+    - 350 grams dark chocolate
+    - 250 grams butter
+    - 4 eggs
+    - 150 grams brown sugar
+    - 150 grams white sugar
+    - 60 grams flour
+    - 1 tsp baking powder
+
+    ## Instructions
+
+    1. Melt the chocolate and butter together.
+    2. Whisk the eggs until frothy and add brown and white sugar.
+    3. Add the melted chocolate and butter to the egg mixture.
+    4. Add the flour and baking powder.
+    5. Pour the mixture into a baking tray and bake at 170°C for 30-35 minutes.
+    ```
+
+3.  Commit the changes as we have done it previously and go to the
+    repository's history to see the changes you have made.
 
 {{< text_snippet sticky_up >}}
 
 ## :woman_technologist: Exercise: See the changes in the repository
 
-> Time: ~10 minutes.
+> Time: \~10 minutes.
 
 After you have made the changes, go back to the repository and click the
 History button to see the changes that have been made (including your
@@ -136,49 +273,30 @@ own and the changes made by others).
 
 {{< text_snippet sticky_up >}}
 
-## :technologist: Exercise: Create an issue and interact with another's issue
+## :woman_technologist: Exercise: Cleaning up
 
-> Time: ~10 minutes.
+> Time: \~10 minutes.
 
-Let's create your first issue!
+Now, let's close the "Future recipes" issue you created earlier.
 
-1.  In the repository on GitHub, click the "Issues" tab.
-2.  Click the green "New issue" button.
-3.  Fill in the title and the description. This could be anything you
-    want to work on or discuss. For example, it could be about something
-    you think should be added (a new file or a new section to a file) or
-    something you think should be changed. It could also be a discussion
-    issue where you ask for feedback on something.
-4.  Click the green "Create" button, to create the issue.
-
-Now, you have created your first issue! :partying_face:
-
-Now, let's interact with another's issue:
-
-1.  Go back to the "Issues" tab in the repository.
-2.  Click on an issue that someone else has created.
-3.  Read the issue and the comments that have been made.
-4.  Scroll down to the bottom of the page and write a comment in the
-    comment field. You can ask a question, give feedback, or suggest a
-    solution to the issue.
-5.  When you have written your comment, click the green "Comment" button
-    to post the comment.
-
-{{< text_snippet sticky_up >}}
-
-## :woman_technologist: Exercise: Close your issue
-
-> Time: ~10 minutes.
- 
-
-Now, let's close the issue you created earlier.
-
-1.  Go to the "Issues" tab in the repository.
+1.  Go to the "Issues" tab in your repository.
 2.  Click on the issue you created.
 3.  In the comment field, write a comment about why you are closing the
     issue. For example, you could write "This issue has been resolved"
-    or "This issue is no longer relevant". Then, click the "Close issue"
-    button.
+    or "I have now added all the relevant recipes from this issue".
+    Then, click the "Close issue" button.
+
+Lastly, let's delete the `chocolate-chip-cookies.md` file along with the
+`cookies` folder you created earlier:
+
+1.  Go to the file.
+2.  On the same line as the file name, click the button with the three
+    dots, saying "More file actions". Click it, scroll down and click
+    "Delete file".
+3.  Commit the changes.
+4.  Now, go the `cookies` folder and delete it in the same way as you
+    deleted the `chocolate-chip-cookies.md` file. For folders, it will
+    say "Delete directory" instead of "Delete file".
 
 {{< text_snippet sticky_up >}}
 
