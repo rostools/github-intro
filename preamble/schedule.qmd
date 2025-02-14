@@ -1,8 +1,6 @@
 # Schedule {#sec-schedule}
 
-{{< include /includes/_wip.qmd >}}
-
-The course is structured as a single participatory live-coding
+The tutorial is structured as a single participatory live-coding
 session interspersed with a few hands-on exercises. The
 *general* schedule outline is shown in the below table.
 Instead, it is meant to be an approximate
@@ -10,8 +8,12 @@ guide and overview.
 
 | Session topic |
 |:---|
-| {{< fa mug-hot >}} Arrival; Coffee and light breakfast |
-| {{< fa person-chalkboard >}} [Introduction to the course](/sessions/introduction.qmd) |
-| {{< fa mug-hot >}} Break |
-| {{< fa laptop-code >}} TBD |
+| {{< fa mug-hot >}} Arrival, coffee and snacks |
+| {{< fa person-chalkboard >}} [Introduction to the tutorial](/sessions/introduction.qmd) |
+| {{< fa person-chalkboard >}} [The basics of GitHub and Git](/sessions/basics.qmd) |
+| {{< fa mug-hot >}} Short break |
+| {{< fa laptop-code >}} [Working with files on GitHub](/sessions/working-with-files.qmd) |
+| {{< fa mug-hot >}} Short break |
+| {{< fa laptop-code >}} [Making and using GitHub Issues](/sessions/using-issues.qmd) |
+| {{< fa person-chalkboard >}} [Concluding remarks](/sessions/conclusion.qmd) |
 | {{< fa comment-dots >}} [End of session short survey]() |

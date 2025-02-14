@@ -2,5 +2,20 @@
 
 A more general guide to instructing or helping is found on the
 [Guides](https://guides.rostools.org/) website. This page has
-information relevant specifically to this course.
+information relevant specifically to this tutorial.
 
+## Pre-tutorial tasks
+
+Before the tutorial, you should do the steps below.
+
+Optional, if it doesn't already exist:
+
+-   Make a GitHub organisation for the tutorial (if one doesn't already
+    exist)
+-   Make a repository for the tutorial (if one doesn't already exist)
+
+Mandatory:
+
+-   Fetch participants' user names from the pre-survey
+-   Add everyone to the organisation and repository (or make a team that
+    has access to the repository always)

@@ -1,6 +1,4 @@
-# TODO: Lesson title here
-
-{{< include /includes/_wip.qmd >}}
+# The basics of GitHub and Git {#sec-basics}
 
 <!-- TODO: Add an introduction here -->
 
