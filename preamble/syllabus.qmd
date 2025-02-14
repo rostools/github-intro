@@ -17,14 +17,14 @@ in the tutorial, such as one or more of the following:
 -   You are able to and are comfortable enough with only working on files
     through a web browser interface (like GitHub's interface).
 
-While we have these assumptions to help focus the content of the course,
+While we have these assumptions to help focus the content of the tutorial,
 if you have an interest in the tutorial but don't fit any of the
 assumptions, *you are still welcome to attend*! We welcome
 everyone, that is until capacity has been reached.
 
 In addition to the assumptions, we also have a fairly focused scope for
 teaching and expectations for learning. So this may also help you decide
-if this course is for you.
+if this tutorial is for you.
 
 -   We will only interact with GitHub from the website and from a web
     browser.
