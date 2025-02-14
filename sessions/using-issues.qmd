@@ -1,4 +1,4 @@
-# TODO: Lesson title here
+# Making and using GitHub Issues {#sec-using-issues}
 
 <!-- TODO: Add an introduction here -->
 
