@@ -10,6 +10,8 @@ The overall learning outcome for this session is to:
 
 Specific learning objectives are:
 
+{{< include /includes/_basics-objectives.qmd >}}
+
 ## :speech_balloon: Discussion activity: Recall what you read during the pre-tutorial tasks
 
 **Time: \~5 Minutes**
