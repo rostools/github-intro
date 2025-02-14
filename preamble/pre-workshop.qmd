@@ -1,15 +1,15 @@
-# Pre-tutorial tasks {#sec-pre-tutorial}
+# Pre-workshop tasks {#sec-pre-workshop}
 
-In order to participate in this tutorial, you must complete everything
+In order to participate in this workshop, you must complete everything
 in this section and finish with **completing the
-[survey](@sec-pre-tutorial-survey)** at the end. These tasks are
-designed to make it easier for everyone to start the tutorial with
+[survey](@sec-pre-workshop-survey)** at the end. These tasks are
+designed to make it easier for everyone to start the workshop with
 everything set up.
 
 Depending on your skills and knowledge, these tasks could take between
 **1-2 hrs to finish**, so we suggest planning some time to complete
 them. The tasks are mostly readings, but bear with us, they are
-important to make sure you get the most out of the tutorial.
+important to make sure you get the most out of the workshop.
 
 ## Summary of tasks
 
@@ -22,13 +22,13 @@ about them are found as you work through the tasks.
 3.  Read the primer on version control, Git, and GitHub
     (@sec-intro-to-github).
 4.  Create a GitHub user account (@sec-github-user).
-5.  Complete the pre-tutorial survey (@sec-pre-tutorial-survey): This
+5.  Complete the pre-workshop survey (@sec-pre-workshop-survey): This
     survey is pretty quick, maybe \~10 minutes. Note that you will be
     asked to add your GitHub username to the survey.
 
 ## :book: Introduction to version control, Git, and GitHub {#sec-intro-to-github}
 
-This reading is meant as a primer to the tutorial. It will introduce you
+This reading is meant as a primer to the workshop. It will introduce you
 to the concepts of *version control*, *Git*, and *GitHub*.
 
 ### What is version control and Git? {#sec-what-is-version-control}
@@ -122,13 +122,13 @@ are so many good reasons to use version control, especially in science:
 ![Git and GitHub. Image from [this
 post](https://medium.com/@amitkhachane.7/an-intro-to-git-and-github-for-beginners-git-for-newbies-f22189553a0a)](../images/git-github.png){#fig-git-and-github}
 
-There a several ways to use Git. In this tutorial, we will use
+There a several ways to use Git. In this workshop, we will use
 [GitHub](https://github.com/), which is a website that hosts projects
 that uses Git (that is Git repositories). This means that your Git
 repositories can be stored on GitHub, and you can manage your files and
 projects using Git through through GitHub's web interface.
 
-Everything we do in this tutorial (including storing and managing files)
+Everything we do in this workshop (including storing and managing files)
 will be done through the GitHub website, which under the hood uses Git
 to track the changes. Nice!
 
@@ -153,7 +153,7 @@ So far, we have encountered the following terminology:
 
 ## :woman_technologist: Create a GitHub account {#sec-github-user}
 
-To participate in the tutorial, you will need a GitHub account. Please
+To participate in the workshop, you will need a GitHub account. Please
 go to the [GitHub website](github.com) and create an account.
 
 Please remember your username, as you will need it for the survey at the
@@ -162,7 +162,7 @@ end of this section.
 If you already have one, you can skip this task, but we will still ask
 you to provide your username in the survey at the end of this section.
 
-## Pre-tutorial survey {#sec-pre-tutorial-survey}
+## Pre-workshop survey {#sec-pre-workshop-survey}
 
 If you haven't read the syllabus (@sec-syllabus) and the primer on
 version control and GitHub above (@sec-intro-to-github), **please read
@@ -170,11 +170,11 @@ it now**.
 
 Also make sure to read the [Code of
 Conduct](https://guides.rostools.org/conduct.html), since the survey
-involves a question about it. We want to make sure this tutorial is a
+involves a question about it. We want to make sure this workshop is a
 supportive and safe environment for learning, so this Code of Conduct is
 quite important.
 
-You're almost done. Please fill out the pre-tutorial survey to finish
+You're almost done. Please fill out the pre-workshop survey to finish
 this section, either [at this link]().
 
-See you at the tutorial!
+See you at the workshop!
