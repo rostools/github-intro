@@ -20,7 +20,9 @@ Specific learning objectives are:
 TODO: Reading text
 :::
 
-## Exercise: Add a new file and modify the content
+## :woman_technologist: Exercise:  Add a new file
+
+> Time: ~10 minutes.
 
 First, we want to add a file to the repository.
 
@@ -39,6 +41,12 @@ First, we want to add a file to the repository.
 
 You have now made your first commit to the repository! :tada:
 
+{{< text_snippet sticky_up >}}
+
+## :technologist: Exercise: Modify the content
+
+> Time: ~10 minutes.
+
 Now that we have created a file, let's modify it:
 
 1.  Go to the file on GitHub
@@ -52,9 +60,11 @@ Now that we have created a file, let's modify it:
     button.
 5.  Go back to the file on GitHub and check that your changes have been
     made.
+{{< text_snippet sticky_up >}}
 
-::: callout-tip
-## See the history of changes
+## :woman_technologist: Exercise: Take a look at the history
+
+> Time: ~10 minutes.
 
 If you want to see the history of changes to the file, go to the file
 and click the "History" button on the right side of the screen. This
@@ -70,11 +80,13 @@ all the commit messages were "Update file.md". Then, it would be hard to
 know what changes were made in each commit. By contrast, if the commits
 have meaningful messages, it would be much more easy to get an overview
 of the changes that have been made.
-:::
 
 {{< text_snippet sticky_up >}}
 
-## Exercise: Rename and move your file, then delete it
+## :technologist: Exercise:  Rename and move your file, then delete it
+
+> Time: ~10 minutes.
+
 
 Now it's time to make edits to the file itself. We want to rename the
 file and move it to a new location in the repository.
@@ -112,17 +124,21 @@ Lastly, let's delete the file:
     "Delete file".
 3.  Commit the changes.
 
-::: callout-tip
-## See the changes in the repository
+{{< text_snippet sticky_up >}}
+
+## :woman_technologist: Exercise: See the changes in the repository
+
+> Time: ~10 minutes.
 
 After you have made the changes, go back to the repository and click the
 History button to see the changes that have been made (including your
 own and the changes made by others).
-:::
 
 {{< text_snippet sticky_up >}}
 
-## Exercise: Create an issue and interact with another's issue
+## :technologist: Exercise: Create an issue and interact with another's issue
+
+> Time: ~10 minutes.
 
 Let's create your first issue!
 
@@ -150,7 +166,10 @@ Now, let's interact with another's issue:
 
 {{< text_snippet sticky_up >}}
 
-## Exercise: Close your issue
+## :woman_technologist: Exercise: Close your issue
+
+> Time: ~10 minutes.
+ 
 
 Now, let's close the issue you created earlier.
 
