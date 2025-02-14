@@ -24,7 +24,7 @@ Broken down into specific objectives within a few sessions, the workshop will en
 -   Explain the benefits of using Issues to keep track of discussions and to-do lists within the same platform as
     your files.
 
-More concretely and more simply, during the tutorial we will:
+Tangibly, during the tutorial we will:
 
 -   Create your own project (also known as a *repository*) on GitHub
 -   Create and edit text files on GitHub.
