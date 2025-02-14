@@ -15,16 +15,13 @@ in the tutorial, such as one or more of the following:
 -   You want a gentle introduction to what GitHub is and how to use it.
 -   You mostly work alone or maybe irregularly with someone else on your
     project.
--   You are assigned tasks on a project that others are also involved
-    in, but the tasks don't overlap with others, require direct
-    contributions from others, or don't share the same files as others.
 -   You write text in documents as a main activity of your work.
--   You are able to and are comfortable enough to only work on files
+-   You are able to and are comfortable enough with only working on files
     through a web browser interface (like GitHub's interface).
 
 While we have these assumptions to help focus the content of the course,
 if you have an interest in the tutorial but don't fit any of the
-assumptions, *you are still welcome to attend the tutorial*! We welcome
+assumptions, *you are still welcome to attend*! We welcome
 everyone, that is until capacity has been reached.
 
 In addition to the assumptions, we also have a fairly focused scope for
