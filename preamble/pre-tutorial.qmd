@@ -1,7 +1,5 @@
 # Pre-tutorial tasks {#sec-pre-tutorial}
 
-{{< text_snippet wip >}}
-
 In order to participate in this tutorial, you must complete everything
 in this section and finish with **completing the
 [survey](@sec-pre-tutorial-survey)** at the end. These tasks are
@@ -25,36 +23,37 @@ about them are found as you work through the tasks.
     (@sec-intro-to-github).
 4.  Create a GitHub user account (@sec-github-user).
 5.  Complete the pre-tutorial survey (@sec-pre-tutorial-survey): This
-    survey is pretty quick, maybe \~10 minutes. You will need to add
-    your GitHub username to the survey.
+    survey is pretty quick, maybe \~10 minutes. Note that you will be
+    asked to add your GitHub username to the survey.
 
 ## :book: Introduction to version control, Git, and GitHub {#sec-intro-to-github}
 
 This reading is meant as a primer to the tutorial. It will introduce you
-to the concepts of version control, Git, and GitHub.
+to the concepts of *version control*, *Git*, and *GitHub*.
 
 ### What is version control and Git? {#sec-what-is-version-control}
 
 In our work lives, we often create and modify files. These files can be
-anything from text documents, to images, to code. When we work on these
-files, we often make changes to them, sometimes many changes. We might
-want to keep track of these changes, so we can see what we've done, when
-we did it, and why we did it.
+anything from text documents, to images and code. When we work on these
+files, we often make changes to them, and sometimes many changes. We
+might want to keep track of these changes, so we can see *what* we've
+done, *when* we did it, and *why* we did it. This is both helpful for
+potential collaborators and our future selves.
 
-Many of us track out changes informally, like saving multiple versions
-of a file with different names:
+Many of us track changes informally, like saving multiple versions of a
+file with different names:
 
 ![File naming in the commonly used *informal* 'version
 control'.](../images/informal-version-control.jpg){#fig-file-naming-version-control-comics}
 
 Does this way of saving files and keeping track of versions look
-familiar? While the above images are teasing a bit, there is truth to
+familiar? While the above image is teasing a bit, there is some truth to
 it: It is the most commonly used "version control".
 
-This form of informal "version control" isn't ideal because it requires
-making multiple copies of the same file, even if changes are made to
-only one small part of the file. This approach also makes it difficult
-to find specific changes.
+This form of "informal" version control isn't ideal because it involves
+multiple copies of the same file. This approach also makes it difficult
+to keep track of specific changes - and find the right version our
+files.
 
 There are, however, "formal" version control systems that automatically
 manage changes to files. One of the world's most popular version control
@@ -63,31 +62,32 @@ systems is called
 Git is used by millions of people around the world, including thousands
 of organisations and researchers.
 
-Git create snapshots of file changes, known as **commits**. Each commit
+Git creates snapshots of file changes, known as *commits*. Each commit
 captures:
 
 -   the specific changes
 -   who made the changes
--   when they made the changes.
+-   when they made the changes
 
-When making a commit, you also provide a short message describing what
-changes were made and why.
+Each commit also has a short message attached to it that should describe
+what changes were made and why.
 
-Git stores these commits in a history log. This is extremely useful,
-especially when working in teams, or revisiting your own work after a
-long time (because you *will* forget things). The history log allows you
-to quickly can go back and see what happened and why.
+Git stores these commits in a history log. The history log allows you to
+quickly can go back and see what happened when along with the messages
+describing the changes. This is extremely useful when you revisit your
+own work after a long time (because you *will* forget things) and when
+you work in teams.
 
-Git works by tracking changes to files *within a project*, called a
-**repository** (or a *repo* for short). The repository is the place
-where you store all the files in your project. This includes both code
-and other non-code based files like Word or images, even though Git is
-better at tracking specific changes in text-based files (which makes
-sense because it's easier to track the change in some lines of text,
-rather than changes to e.g., an image).
+Git only tracks changes to files *within a project*. In Git terminology,
+a project is called a **repository** (or a *repo* for short). The
+repository is the place where you store all the files in your project.
+This includes both code and other non-code based files like Word or
+images, even though Git is better at tracking specific changes in
+text-based files (which makes sense because it's easier to track the
+change in some lines of text, rather than changes to e.g., an image).
 
-To understand how incredibly powerful version control like Git is, think
-about these questions:
+To understand how incredibly powerful "formal" version control like Git
+is, think about these questions:
 
 -   How many files of different versions of a scientific documents or
     thesis do you have laying around after getting feedback from your
@@ -110,12 +110,12 @@ are so many good reasons to use version control, especially in science:
 -   Keeping track of changes to files easily, by looking at the history
     of changes.
 -   Easy collaboration, because you can work on a single file/folder
-    rather than emailing versions around.
+    rather than emailing file versions around.
 -   Organized files and folders, since there is one single project
     folder and one single version of each file, rather than multiple
     versions of the same file.
--   Less time finding things, because everything is organized and in one
-    place.
+-   Less time spent on finding things related to your projects, because
+    everything is organized and in one place.
 
 ### What is GitHub then? {#sec-what-is-git-and-github}
 
@@ -124,9 +124,9 @@ post](https://medium.com/@amitkhachane.7/an-intro-to-git-and-github-for-beginner
 
 There a several ways to use Git. In this tutorial, we will use
 [GitHub](https://github.com/), which is a website that hosts projects
-that uses Git (a.k.a. Git repositories). This means that your Git
+that uses Git (that is Git repositories). This means that your Git
 repositories can be stored on GitHub, and you can manage your files and
-projects using Git through GitHub.
+projects using Git through through GitHub's web interface.
 
 Everything we do in this tutorial (including storing and managing files)
 will be done through the GitHub website, which under the hood uses Git
@@ -134,18 +134,18 @@ to track the changes. Nice!
 
 ### Summary
 
--   Using a formal version control system like Git can help you keep
+-   Using a *formal version control* system like Git can help you keep
     track of changes to your files and projects.
--   A Git repository is a place where you store all the files for your
-    project along with their history.\
+-   A Git *repository* is a place where you store all the files for your
+    project along with their history.
 -   GitHub is a website that hosts Git repositories.
 -   Through GitHub you can manage your files and projects using Git.
 
 So far, we have encountered the following terminology:
 
 | Term | Definition |
-|-------------------------|----------------------------------------------|
-| **Version control** | A system that records changes to files over time. |
+|--------------------------|----------------------------------------------|
+| **Version control** | The practice of tracking changes to files over time. |
 | **Git** | A widely popular version control system that tracks changes to files and projects. |
 | **(Git) Repository** | A "project" with files that are stored and tracked by Git. |
 | **Commit** | A snapshot of changes made to file(s) in a repository. |
@@ -159,8 +159,8 @@ go to the [GitHub website](github.com) and create an account.
 Please remember your username, as you will need it for the survey at the
 end of this section.
 
-If you already have one, you can skip this task, but we will still need
-your username in the survey at the end of this section.
+If you already have one, you can skip this task, but we will still ask
+you to provide your username in the survey at the end of this section.
 
 ## Pre-tutorial survey {#sec-pre-tutorial-survey}
 
