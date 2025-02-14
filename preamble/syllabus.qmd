@@ -2,29 +2,31 @@
 
 {{< text_snippet wip >}}
 
-We designed the tutorial so that by the end of it, the **learning
-outcome** we hope you will have is:
+## Learning outcome and objectives
 
--   Explain in simple terms what GitHub does and to feel confident enough 
-    to navigate GitHub to work with files as well as GitHub Issues.
+The aim of this workshop is to enable you to:
 
-To break this down, we designed the tutorial into specific **learning
-objectives** so that you will:
+-   Explain in simple terms what GitHub does and navigate
+    GitHub to work with files and GitHub Issues.
+
+
+Broken down into specific objectives within a few sessions, the workshop will enable you to:
 
 -   List and describe Git's core functionality and purpose, and how
     GitHub expands on that.
 -   Explain the difference between GitHub and Git.
 -   Explain how GitHub differs from services like OneDrive or Dropbox,
     and what GitHub's advantage is over them.
--   Interact with and navigate GitHub enough to create, edit, rename,
+-   Interact with and navigate GitHub to create, edit, rename,
     and delete files and folders.
--   Create GitHub "Issues" to start discussions, request for some help,
-    or list to-do tasks, as well as to comment on existing "Issues".
--   Explain the benefits to using Issues within the same platform as
+-   Create GitHub Issues to start discussions, request help,
+    or list to-do tasks and comment on existing "Issues".
+-   Explain the benefits of using Issues to keep track of discussions and to-do lists within the same platform as
     your files.
 
 More concretely and more simply, during the tutorial we will:
 
+-   Create your own project (also known as a *repository*) on GitHub
 -   Create and edit text files on GitHub.
 -   Create Issues and comment on them.
 
