@@ -6,23 +6,15 @@
 
 The aim of this workshop is to enable you to:
 
--   Explain in simple terms what GitHub does and navigate
-    GitHub to work with files and GitHub Issues.
+-   Explain in simple terms what GitHub does and navigate GitHub to work
+    with files and GitHub Issues.
 
+Broken down into specific objectives within a few sessions, the workshop
+will enable you to:
 
-Broken down into specific objectives within a few sessions, the workshop will enable you to:
-
--   List and describe Git's core functionality and purpose, and how
-    GitHub expands on that.
--   Explain the difference between GitHub and Git.
--   Explain how GitHub differs from services like OneDrive or Dropbox,
-    and what GitHub's advantage is over them.
--   Interact with and navigate GitHub to create, edit, rename,
-    and delete files and folders.
--   Create GitHub Issues to start discussions, request help,
-    or list to-do tasks and comment on existing "Issues".
--   Explain the benefits of using Issues to keep track of discussions and to-do lists within the same platform as
-    your files.
+{{< include /includes/_basics-objectives.qmd >}}
+{{< include /includes/_working-with-files-objectives.qmd >}}
+{{< include /includes/_using-issues-objectives.qmd >}}
 
 Tangibly, during the tutorial we will:
 
