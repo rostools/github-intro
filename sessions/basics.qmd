@@ -6,19 +6,32 @@
 
 The overall learning outcome for this session is to:
 
-1. 
+1.  
 
 Specific learning objectives are:
 
+## :speech_balloon: Discussion activity: Recall what you read during the pre-tutorial tasks
+
+**Time: \~5 Minutes**
+
+Before we start the tutorial, we'll take some time to "prime" your
+memory and activate your prior learning of what you read during the
+pre-tutorial tasks. Then after this activity, you'll again read the
+description of Git and GitHub from pre-tutorial tasks. We do this
+because effective learning is about retrieval, repetition, and actively
+engaging in the material. So:
+
+1.  For 1 minute, recall what you understood about Git and GitHub from
+    the pre-tutorial tasks. Think about how you'd explain it to someone
+    else.
+2.  For 4 minutes, pair up with your neighbour and take turns explaining
+    to them what you remember, 2 minutes each.
+
 ## TODO: Section
 
-::: callout-note
 ## Reading task: \~4 minutes
 
 TODO: Reading text
-:::
-
-## Exercise: TODO: Add title
 
 ## Summary
 
