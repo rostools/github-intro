@@ -75,10 +75,6 @@ Let's add the first recipe to your repository: A cookie recipe! :cookie:
     from the paper.
 ```
 
-This recipe is a simplified version of
-[this](https://twin-food.dk/mit-bud-pa-de-bedste-cookies/)
-recipe---which is really good by the way :yum:):
-
 You have now added your first recipe and made your first commit to your
 repository! :tada:
 
