@@ -1,4 +1,4 @@
 - source: project
   netlify:
     - id: "c212b45f-8863-4932-9956-e85bba7460b0"
-      url: "https://rostools-tutorial-github-intro.netlify.app"
+      url: "https://rostools-github-intro.netlify.app"
