@@ -2,16 +2,16 @@
 
 A more general guide to instructing or helping is found on the
 [Guides](https://guides.rostools.org/) website. This page has
-information relevant specifically to this tutorial.
+information relevant specifically to this workshop.
 
-## Pre-tutorial tasks
+## Pre-workshop tasks
 
-Before the tutorial, you need to do the steps below:
+Before the workshop, you need to do the steps below.
 
--   Make a GitHub organisation for the tutorial (if one doesn't already
+-   Make a GitHub organisation for the workshop (if one doesn't already
     exist)
--   Get the participants' GitHub user names from the pre-tutorial survey
+-   Get the participants' GitHub user names from the pre-workshop survey
 -   Add the participants to the organisation and give them write access
     to all (future) repos
--   Make (if not made) the origami hats and bring them to the tutorial,
+-   Make (if not made) the origami hats and bring them to the workshop,
     or alternatively use post-it notes/stickies.

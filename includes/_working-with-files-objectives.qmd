@@ -1,0 +1,2 @@
+-   Interact with and navigate GitHub to create, edit, rename, and
+    delete files and folders.

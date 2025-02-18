@@ -1,36 +1,58 @@
 # Syllabus {#sec-syllabus}
 
-Objectives:
+## Learning outcome and objectives
 
--   Item 1
+The aim of this workshop is to enable you to:
+
+-   Explain in simple terms what GitHub does and navigate GitHub to work
+    with files and GitHub Issues.
+
+Broken down into specific objectives within a few sessions, the workshop
+will enable you to:
+
+{{< include /includes/_basics-objectives.qmd >}}
+{{< include /includes/_working-with-files-objectives.qmd >}}
+{{< include /includes/_using-issues-objectives.qmd >}}
+
+Tangibly, during the workshop we will:
+
+-   Create your own GitHub project (known as a *repository*)
+-   Create and edit text files on GitHub.
+-   Create Issues and comment on them.
 
 ## Is this for you? {#sec-is-it-for-you}
 
-To help manage expectations and develop the material for this tutorial,
+To help manage expectations and develop the material for this workshop,
 we make a few possible assumptions about *who you are* as a participant
-in the tutorial, such as one or more of the following:
+in the workshop, such as one or more of the following:
 
 -   You want a gentle introduction to what GitHub is and how to use it.
+
 -   You mostly work alone or maybe irregularly with someone else on your
     project.
+
 -   You write text in documents as a main activity of your work.
+
 -   You are able to and are comfortable enough with only working on files
     through a web browser interface (like GitHub's interface).
 
-While we have these assumptions to help focus the content of the tutorial,
-if you have an interest in the tutorial but don't fit any of the
+While we have these assumptions to help focus the content of the workshop,
+if you have an interest in the workshop but don't fit any of the
 assumptions, *you are still welcome to attend*! We welcome
 everyone, that is until capacity has been reached.
 
 In addition to the assumptions, we also have a fairly focused scope for
 teaching and expectations for learning. So this may also help you decide
-if this tutorial is for you.
+if this workshop is for you.
 
 -   We will only interact with GitHub from the website and from a web
     browser.
+
 -   We will only write *text*, there will be no code or programming
     used.
+
 -   While we will write in a `.md` Markdown file, we will not write or
     cover Markdown syntax.
+
 -   We will not go over too many details of Git (a software that GitHub
     relies on).

@@ -10,6 +10,8 @@ The overall learning outcome for this session is to:
 
 Specific learning objectives are:
 
+{{< include /includes/_using-issues-objectives.qmd >}}
+
 ## TODO: Section
 
 ::: callout-note
