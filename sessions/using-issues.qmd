@@ -20,140 +20,45 @@ Specific learning objectives are:
 TODO: Reading text
 :::
 
-## :woman_technologist: Exercise: Add a cookie recipe to your repository
-
-**Time: \~10 minutes**
-
-Let's add the first recipe to your repository: A cookie recipe! :cookie:
-
-First, we want to add a file that will include the recipe to your
-repository.
-
-1.  In the "Code" tab of your repository, click "Add file" and then "Create new file".
-1.  In the "Name your file..." field, type a name for your file. Let's
-    call it "cooke-recipe.md". Remember the ".md" file extension so we
-    create a [Markdown](https://quarto.org/docs/authoring/markdown-basics.html)
-    file.
-1.  Add a cookie recipe to the file by either finding one online or using the example recipe below (inspired by
-    [this](https://twin-food.dk/mit-bud-pa-de-bedste-cookies/) recipe---which is really good by the way :yum:):
-
-    ``` markdown
-    # Chocolate chip cookies
-
-    ## Ingredients
-
-    - 240 grams flour
-    - 3/4 tsp salt
-    - 140 grams butter
-    - 145 grams brown sugar
-    - 115 grams sugar
-    - 1 1/2 tsp vanilla powder
-    - 1 egg
-    - 1/2 tsp baking soda
-    - 1 tsp baking powder
-    - 150 grams chocolate (e.g., a mix of dark and milk chocolate)
-    - 100 grams chopped hazelnuts (can be omitted or replaced with oats)
-
-    ## Instructions
-
-    1. Mix the sugar, brown sugar, and butter well.
-    2. Add the egg and mix again.
-    3. Add salt, baking powder, vanilla powder, baking soda, and flour.
-    4. Add the chopped chocolate and nuts.
-    5. Form clumps of dough on a baking tray with plenty of space
-        between them.
-    6. Bake at 175°C (top and bottom heat) for 16.5-17 minutes.
-    7. Once baked, transfer the baking paper with the cookies onto a
-        wire rack and let them cool for 10 minutes before removing them
-        from the paper.
-    ```
-
-1.  Click the green "Commit changes" button and fill in the commit
-    message. For example, "Add cooke recipe". You don't need
-    to fill in the extended description. Keep the "Commit directly to
-    the `main` branch" option selected.
-1.  When you have filled in the commit message, click the green "Commit
-    changes" button.
-1.  Go back to your repository and check that your file has been added.
-
-You have now added your first recipe and made your first commit to your
-repository! :tada:
-
-{{< text_snippet sticky_up >}}
-
-## :technologist: Exercise: Rename and move the `cookie-recipe.md` file
-
-**Time: \~10 minutes**
-
-Just like we did with our soup recipe above, let's rename the 
-`cookie-recipe.md` file so the name is more specific and move it 
-to a new baked goods folder. That way, if you want to
-add other recipes for baked goods, you can put it in that
-folder.
-
-While you can move and rename in the same step, for practice, 
-rename the file first before moving it to another folder:
-Start by renaming the `cookie-recipe.md` file:
-
-1.  Click the pencil icon on the right side of the screen ("Edit this
-    file") to edit the `cookie-recipe.md` file.
-3.  Click the name of the file at the top of the screen and rename the
-    file to `chocolate-chip-cookies.md`. Remember to not use spaces in the
-    file name and keep the file extension (`.md`).
-4.  Commit the changes as we have done it previously, by clicking the
-    green "Commit changes" button and fill in the commit message.
-
-Next, move the file to a new `baked-goods/` folder in your repository:
-
-1.  Click the pencil icon on the right side of the screen ("Edit this
-    file") as we did before on the `chocolate-chip-cookies.md` file.
-3.  Click the name of the file at the top of the screen and change the path
-    of the file to a new folder in your repository. The current file path is
-    `chocolate-chip-cookies.md`. To create a new folder, change the file path by typing `baked-goods/` at the start of the file name.
-    Notice the `/` between the
-    folder name and the file name.
-4.  Commit the changes.
-
-You have now renamed your recipe file and moved it to a new folder in
-your repository! :partying_face:
-
-{{< text_snippet sticky_up >}}
-
 ## :technologist: Exercise: Create an issue with a list of future recipes to add
 
 **Time: \~10 minutes**
 
-You may or may not want to make a to-do list of other recipes to
-add to the repository. Assuming you do want to, you can use GitHub
-Issues to keep track of the recipes you want to add. Time to make one!
+To help you keep track of future tasks, you can use GitHub Issues. Let's
+make an Issue with a list of recipes you want to add to your repository.
 
 1.  In your repository, click the "Issues" tab.
+
 2.  Click the green "New issue" button.
-3.  Fill in the title with text like "List of future recipes".
-    Then fill in the description box with some recipes you
-    would like to add. If you don't know any recipes or are 
-    not sure, you could write:
-    
+
+3.  Fill in the title with text like "List of future recipes". Then fill
+    in the description box with some recipes you would like to add. If
+    you don't know any recipes or are not sure, you could write:
+
     ``` markdown
     I want to add the following recipes to the recipe book:
-    
+
     -   Pancakes
     -   Apple pie
     ```
+
 4.  Click the green "Create" button to create the issue.
 
-You now have an issue to remind yourself of recipes to add! :tada:
+You now have an issue to remind yourself of recipes you want to add!
+:tada:
 
 {{< text_snippet sticky_up >}}
 
-## :woman_technologist: Exercise: Comment with a recipe suggestion to your neighbour's issue
+## :woman_technologist: Exercise: Comment on your neighbour's issue with a recipe suggestion
 
 **Time: \~10 minutes**
 
 One of the great things about GitHub is that it makes it easier to
-collaborate with others. So, interact with someone else's issue by adding a comment to it:
+collaborate with others. So, interact with someone else's issue by
+adding a comment to it:
 
-1.  One at a time, go to your neighbour's GitHub repository.
+1.  With your neighbour one at a time, go to each other's GitHub
+    repository.
 2.  Go to the "Issues" tab in their repository.
 3.  Click on the issue that they have created with the list of future
     recipes.
@@ -166,86 +71,57 @@ collaborate with others. So, interact with someone else's issue by adding a comm
 
 {{< text_snippet sticky_up >}}
 
-## :technologist: Exercise: Add a recipe to your neighbour's repository :cake:
+## Add a collaborator to your repository
+
+<!-- TODO: Add context to this code along -->
+
+In your repository, click "Settings", then "Collaborators and teams",
+and then "Add people". Add your neighbour as a collaborator to your
+repository.
+
+## :technologist: Exercise: Add a recipe to your neighbour's repository
 
 > Time: \~10 minutes.
 
-::: {.callout-note collapse="true"}
-## :teacher: Instructor note
-
-Before starting this exercise, make sure that the learners have added
-their neighbour as collaborators to their repositories. If they haven't,
-they can do so by going to the repository, clicking on "Settings", then
-"Collaborators and teams", and then "Add people".
-:::
-
-Now, let's add a recipe to your neighbour's repository.
+Now, you'll add a recipe to your neighbour's repository.
 
 1.  Go to your neighbour's GitHub repository.
 
-2.  As we've done during this workshop, add
-    a new file with a recipe, naming the file by using the recipe name (remember the correct naming for files!). 
-    This time, you will be adding the file to your 
+2.  As we've done during this workshop, add a new file with a recipe,
+    naming the file by using the recipe name (remember the correct
+    naming for files!). This time, you will be adding the file to your
     neighbour's repository. In the file, add a recipe of your choice.
-    For convenience, you can also use the brownie recipe below:
+    For convenience, you can also use the brownie recipe below.
 
-    ``` markdown
-    # Brownies
+3.  Commit the changes as you have done previously in the workshop. Then
+    go to the neighbour's repository's history to see the changes you
+    have made.
 
-    ## Ingredients 
+**Example brownie recipe:**
 
-    - 350 grams dark chocolate
-    - 250 grams butter
-    - 4 eggs
-    - 150 grams brown sugar
-    - 150 grams white sugar
-    - 60 grams flour
-    - 1 tsp baking powder
+``` markdown
+# Brownies
 
-    ## Instructions
+## Ingredients 
 
-    1. Melt the chocolate and butter together.
-    2. Whisk the eggs until frothy and add brown and white sugar.
-    3. Add the melted chocolate and butter to the egg mixture.
-    4. Add the flour and baking powder.
-    5. Pour the mixture into a baking tray and bake at 170°C for 30-35 minutes.
-    ```
+- 350 grams dark chocolate
+- 250 grams butter
+- 4 eggs
+- 150 grams brown sugar
+- 150 grams white sugar
+- 60 grams flour
+- 1 tsp baking powder
 
-3.  Commit the changes as you have done previously in the workshop. Then go to the neighbour's
-    repository's history to see the changes you have made.
+## Instructions
 
-{{< text_snippet sticky_up >}}
-
-## :woman_technologist: Exercise: Find the commit where you moved the cookie recipe
-
-**Time: \~10 minutes**
-
-Now that you---and your neighbour--have made commits to your repository, let's
-take a look at the history to find the commit where you first added the cookie recipe.
-
-1.  In your repository, click the "Commits" button on
-    the right side of the screen. This will show you all the changes
-    that have been made to your repository along with the commit messages, the author of the changes, and when the changes where made. Neat!
-2.  Go through the list of commits to find the commit where you added the
-    cookie recipe. The commit message should be "Add cookie recipe".
-
-
-::: {.callout-note}
-Looking at the history shows the importance of meaningful commit
-messages. Imagine if all the commit messages were "Update file". Then,
-it would be easy to lose track of what changes were made in each commit.
-
-By contrast, if the commits have meaningful messages (like "Add cookie recipe" or "Move cookie recipe to baked-goods folder"), it is much easier to get an
-overview of the changes.
-:::
+1. Melt the chocolate and butter together.
+2. Whisk the eggs until frothy and add brown and white sugar.
+3. Add the melted chocolate and butter to the egg mixture.
+4. Add the flour and baking powder.
+5. Pour the mixture into a baking tray and bake at 170°C for 30-35 minutes.
+```
 
 {{< text_snippet sticky_up >}}
-
-::: {.callout-tip}
-You can both look at the history of the entire repository or the history of a specific file. The history of the entire repository shows all the commits that have been made to all files in the repository, while the history of a specific file shows the commits that have been made to that file only.
-
-You can access the history of a specific file by going to the file in the repository and clicking the "History" button on the right side of the screen.
-:::
 
 ## Summary
 

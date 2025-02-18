@@ -6,7 +6,7 @@
 
 The overall learning outcome for this session is to:
 
-1. 
+1.  
 
 Specific learning objectives are:
 
@@ -20,9 +20,148 @@ Specific learning objectives are:
 TODO: Reading text
 :::
 
-## Exercise: TODO: Add title
+## :woman_technologist: Exercise: Add a cookie recipe to your repository
+
+**Time: \~10 minutes**
+
+Let's add the first recipe to your repository: A cookie recipe! :cookie:
+
+1.  In the "Code" tab of your repository, click the "Add file" button
+    and then "Create new file".
+2.  In the "Name your file..." field, type the name of your file. Let's
+    call it `cooke-recipe.md`. Remember to not use spaces in the file
+    name as well as the `.md` file extension so you create a
+    [Markdown](https://quarto.org/docs/authoring/markdown-basics.html)
+    file.
+3.  Add a cookie recipe to the file by either finding one online or
+    using the example recipe below.
+4.  Click the green "Commit changes" button and write a descriptive
+    commit message like "Add cookie recipe". You don't need to write an
+    extended description. Keep the "Commit directly to the `main`
+    branch" option selected.
+5.  When you have filled in the commit message, click the green "Commit
+    changes" button.
+
+**Example cookie recipe:**
+
+``` markdown
+# Chocolate chip cookies
+
+## Ingredients
+
+- 240 grams flour
+- 3/4 tsp salt
+- 140 grams butter
+- 145 grams brown sugar
+- 115 grams sugar
+- 1 1/2 tsp vanilla powder
+- 1 egg
+- 1/2 tsp baking soda
+- 1 tsp baking powder
+- 150 grams chocolate (e.g., a mix of dark and milk chocolate)
+- 100 grams chopped hazelnuts (can be omitted or replaced with oats)
+
+## Instructions
+
+1. Mix the sugar, brown sugar, and butter well.
+2. Add the egg and mix again.
+3. Add salt, baking powder, vanilla powder, baking soda, and flour.
+4. Add the chopped chocolate and nuts.
+5. Form clumps of dough on a baking tray with plenty of space
+    between them.
+6. Bake at 175°C (top and bottom heat) for 16.5-17 minutes.
+7. Once baked, transfer the baking paper with the cookies onto a
+    wire rack and let them cool for 10 minutes before removing them
+    from the paper.
+```
+
+This recipe is a simplified version of
+[this](https://twin-food.dk/mit-bud-pa-de-bedste-cookies/)
+recipe---which is really good by the way :yum:):
+
+You have now added your first recipe and made your first commit to your
+repository! :tada:
+
+{{< text_snippet sticky_up >}}
+
+## :technologist: Exercise: Rename and move the `cookie-recipe.md` file
+
+**Time: \~10 minutes**
+
+Just like we did with the soup recipe above, let's rename the
+`cookie-recipe.md` file so the name is more specific. Let's also move it
+to a new baked goods folder. That way, if you want to add other recipes
+for baked goods, you can put it in that folder.
+
+While you can move and rename in the same step, for practice, rename the
+file first before moving it to the new folder: Start by renaming the
+`cookie-recipe.md` file:
+
+1.  Click the pencil icon on the right side of the screen ("Edit this
+    file") to edit the `cookie-recipe.md` file.
+2.  Click the name of the file at the top of the screen and rename the
+    file to `chocolate-chip-cookies.md`. Remember to not use spaces in
+    the file name and keep the file extension (`.md`).
+3.  Commit the changes as we have done it previously, by clicking the
+    green "Commit changes" button and fill in the commit message.
+
+Next, move the file to a new `baked-goods/` folder:
+
+1.  Click the pencil icon on the right side of the screen ("Edit this
+    file") as we did before on the `chocolate-chip-cookies.md` file.
+2.  Click the name of the file at the top of the screen and change the
+    path of the file to a new folder to your repository. The current
+    file path is `chocolate-chip-cookies.md`. To create a new folder,
+    change the file path by typing `baked-goods/` at the start of the
+    file name, so the whole file path
+    becomes`baked-goods/chocolate-chip-cookies.md`. Notice the `/`
+    between the folder name and the file name.
+3.  Commit the changes.
+
+You have now renamed your cookies recipe file and moved it to a new
+folder in your repository! :partying_face:
+
+{{< text_snippet sticky_up >}}
+
+## :woman_technologist: Exercise: Find the commit where you added the cookie recipe
+
+**Time: \~10 minutes**
+
+Now that you have made a couple of commits to your repository, take a
+look at the history to find the commit where you first added the cookie
+recipe.
+
+1.  In your repository, click the "Commits" button on the right side of
+    the screen. This will show you all the changes that have been made
+    to your repository along with the commit messages, the author of the
+    changes, and when the changes where made. Neat!
+2.  Go through the list of commits to find the commit where you added
+    the cookie recipe. The commit message should be "Add cookie recipe".
+
+::: callout-note
+Looking at the history shows the importance of meaningful commit
+messages. Imagine if all the commit messages were "Update file". Then,
+it would be easy to lose track of what changes were made in each commit.
+
+By contrast, if the commits have meaningful messages (like "Add cookie
+recipe" or "Move cookie recipe to baked-goods folder"), it is much
+easier to get an overview of the changes.
+:::
+
+{{< text_snippet sticky_up >}}
+
+::: callout-tip
+You can both look at the history of the entire repository or the history
+of a specific file. The history of the entire repository shows all the
+commits that have been made to all files in the repository, while the
+history of a specific file shows the commits that have been made to that
+file only.
+
+You can access the history of a specific file by going to the file in
+the repository and clicking the "History" button on the right side of
+the screen.
+:::
 
 ## Summary
 
 -   TODO: List of summary items
-
