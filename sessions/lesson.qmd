@@ -22,7 +22,7 @@ TODO: Reading text
 
 ## :woman_technologist: Exercise: Add a cookie recipe to your repository
 
-> Time: \~10 minutes.
+**Time: \~10 minutes**
 
 Let's add the first recipe to your repository: A cookie recipe! :cookie:
 
