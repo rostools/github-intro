@@ -8,8 +8,8 @@ everything set up.
 
 Depending on your skills and knowledge, these tasks could take between
 **1-2 hrs to finish**, so we suggest planning some time to complete
-them. The tasks are mostly readings, but bear with us, they are
-important to make sure you get the most out of the workshop.
+them. While many of the tasks are mostly readings, they are
+important in making sure you get the most out of the workshop.
 
 ## Summary of tasks
 
@@ -34,25 +34,25 @@ to the concepts of *version control*, *Git*, and *GitHub*.
 ### What is version control and Git? {#sec-what-is-version-control}
 
 In our work lives, we often create and modify files. These files can be
-anything from text documents, to images and code. When we work on these
+anything from text documents, to images, to code. When we work on these
 files, we often make changes to them, and sometimes many changes. We
 might want to keep track of these changes, so we can see *what* we've
 done, *when* we did it, and *why* we did it. This is both helpful for
 potential collaborators and our future selves.
 
-Many of us track changes informally, like saving multiple versions of a
-file with different names:
+Many of us track changes to our files informally, by saving multiple versions of a
+file with different names, like the example below in @fig-file-naming-version-control-comics
 
 ![File naming in the commonly used *informal* 'version
 control'.](../images/informal-version-control.jpg){#fig-file-naming-version-control-comics}
 
 Does this way of saving files and keeping track of versions look
-familiar? While the above image is teasing a bit, there is some truth to
-it: It is the most commonly used "version control".
+familiar? While the above image is maybe a bit of an exaggeration and teasing a bit, there is some truth to
+it: It is the most commonly approach to "version control".
 
 This form of "informal" version control isn't ideal because it involves
 multiple copies of the same file. This approach also makes it difficult
-to keep track of specific changes - and find the right version our
+to keep track of specific changes - and find the right version of our
 files.
 
 There are, however, "formal" version control systems that automatically
@@ -73,18 +73,18 @@ Each commit also has a short message attached to it that should describe
 what changes were made and why.
 
 Git stores these commits in a history log. The history log allows you to
-quickly can go back and see what happened when along with the messages
+quickly go back and see what and when a change happened along with the message
 describing the changes. This is extremely useful when you revisit your
 own work after a long time (because you *will* forget things) and when
-you work in teams.
+you work in groups or with collaborators.
 
 Git only tracks changes to files *within a project*. In Git terminology,
 a project is called a **repository** (or a *repo* for short). The
 repository is the place where you store all the files in your project.
 This includes both code and other non-code based files like Word or
-images, even though Git is better at tracking specific changes in
-text-based files (which makes sense because it's easier to track the
-change in some lines of text, rather than changes to e.g., an image).
+images. Though, Git does tend to be better at tracking specific changes in
+text-based files, which makes sense since it's easier to track the
+change in some lines of text, rather than changes to e.g., an image.
 
 To understand how incredibly powerful "formal" version control like Git
 is, think about these questions:
@@ -92,9 +92,9 @@ is, think about these questions:
 -   How many files of different versions of a scientific documents or
     thesis do you have laying around after getting feedback from your
     supervisor or co-authors?
--   Have you ever wanted to experiment with a file and need to make a
+-   Have you ever wanted to test out an analysis with some code in a file and need to make a
     new file so that the original is not modified?
--   Have you ever deleted something and wish you hadn't?
+-   Have you ever deleted something and wished you hadn't?
 -   Have you ever forgotten what you were doing on a project, or why you
     chose a particular strategy or analysis?
 
@@ -107,8 +107,6 @@ are so many good reasons to use version control, especially in science:
     your work.
 -   Defense against fraud, because of the transparency.
 -   Evidence of contributions and work, since who does what is tracked.
--   Keeping track of changes to files easily, by looking at the history
-    of changes.
 -   Easy collaboration, because you can work on a single file/folder
     rather than emailing file versions around.
 -   Organized files and folders, since there is one single project
@@ -122,17 +120,17 @@ are so many good reasons to use version control, especially in science:
 ![Git and GitHub. Image from [this
 post](https://medium.com/@amitkhachane.7/an-intro-to-git-and-github-for-beginners-git-for-newbies-f22189553a0a)](../images/git-github.png){#fig-git-and-github}
 
-There a several ways to use Git. In this workshop, we will use
+There are several ways to use Git. In this workshop, we will use
 [GitHub](https://github.com/), which is a website that hosts projects
-that uses Git (that is Git repositories). This means that your Git
+that uses Git (meaning, Git repositories). This means that your Git
 repositories can be stored on GitHub, and you can manage your files and
-projects using Git through through GitHub's web interface.
+projects using Git through GitHub's web interface.
 
 Everything we do in this workshop (including storing and managing files)
 will be done through the GitHub website, which under the hood uses Git
 to track the changes. Nice!
 
-### Summary
+### Summary of Git and GitHub
 
 -   Using a *formal version control* system like Git can help you keep
     track of changes to your files and projects.
@@ -140,6 +138,8 @@ to track the changes. Nice!
     project along with their history.
 -   GitHub is a website that hosts Git repositories.
 -   Through GitHub you can manage your files and projects using Git.
+
+<!-- TODO: Move the definition list below to a glossary repo? -->
 
 So far, we have encountered the following terminology:
 
@@ -155,8 +155,7 @@ So far, we have encountered the following terminology:
 
 To participate in the workshop, you will need a GitHub account. Please
 go to the [GitHub website](github.com) and create an account.
-
-Please remember your username, as you will need it for the survey at the
+Remember your username, as you will need it for the survey at the
 end of this section.
 
 If you already have one, you can skip this task, but we will still ask
