@@ -6,7 +6,7 @@
 
 The overall learning outcome for this session is to:
 
-1. 
+1.  
 
 Specific learning objectives are:
 
@@ -20,7 +20,106 @@ Specific learning objectives are:
 TODO: Reading text
 :::
 
-## Exercise: TODO: Add title
+## :technologist: Exercise: Create an issue with a list of future recipes to add
+
+**Time: \~10 minutes**
+
+To help you keep track of future tasks, you can use GitHub Issues. Let's
+make an Issue with a list of recipes you want to add to your repository.
+
+1.  In your repository, click the "Issues" tab.
+
+2.  Click the green "New issue" button.
+
+3.  Fill in the title with text like "List of future recipes". Then fill
+    in the description box with some recipes you would like to add. If
+    you don't know any recipes or are not sure, you could write:
+
+    ``` markdown
+    I want to add the following recipes to the recipe book:
+
+    -   Pancakes
+    -   Apple pie
+    ```
+
+4.  Click the green "Create" button to create the issue.
+
+You now have an issue to remind yourself of recipes you want to add!
+:tada:
+
+{{< text_snippet sticky_up >}}
+
+## :woman_technologist: Exercise: Comment on your neighbour's issue with a recipe suggestion
+
+**Time: \~10 minutes**
+
+One of the great things about GitHub is that it makes it easier to
+collaborate with others. So, interact with someone else's issue by
+adding a comment to it:
+
+1.  With your neighbour one at a time, go to each other's GitHub
+    repository.
+2.  Go to the "Issues" tab in their repository.
+3.  Click on the issue that they have created with the list of future
+    recipes.
+4.  Scroll down to the bottom of the page and write a comment in the
+    comment field suggesting a recipe that they could add to their
+    recipe book. For example, you could suggest that they add a brownie
+    recipe as well :cake:.
+5.  When you have written your comment, click the green "Comment" button
+    to post the comment.
+
+{{< text_snippet sticky_up >}}
+
+## Add a collaborator to your repository
+
+<!-- TODO: Add context to this code along -->
+
+In your repository, click "Settings", then "Collaborators and teams",
+and then "Add people". Add your neighbour as a collaborator to your
+repository.
+
+## :technologist: Exercise: Add a recipe to your neighbour's repository
+
+> Time: \~10 minutes.
+
+Now, you'll add a recipe to your neighbour's repository.
+
+1.  Go to your neighbour's GitHub repository.
+
+2.  As we've done during this workshop, add a new file with a recipe,
+    naming the file by using the recipe name (remember the correct
+    naming for files!). This time, you will be adding the file to your
+    neighbour's repository. In the file, add a recipe of your choice.
+    For convenience, you can also use the brownie recipe below.
+
+3.  Commit the changes as you have done previously in the workshop. Then
+    go to the neighbour's repository's history to see the changes you
+    have made.
+
+**Example brownie recipe:**
+
+``` markdown
+Ingredients for brownies
+
+- 350 grams dark chocolate
+- 250 grams butter
+- 4 eggs
+- 150 grams brown sugar
+- 150 grams white sugar
+- 60 grams flour
+- 1 tsp baking powder
+
+Instructions
+
+1. Melt the chocolate and butter together.
+2. Whisk the eggs until frothy and add brown and white sugar.
+3. Add the melted chocolate and butter to the egg mixture.
+4. Add the flour and baking powder.
+5. Pour the mixture into a baking tray and bake at 170°C for 30-35 minutes.
+```
+
+{{< text_snippet sticky_up >}}
 
 ## Summary
 
