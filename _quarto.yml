@@ -5,7 +5,7 @@ project:
   #   - slides/*.html
 
 book:
-  title: "Introduction tutorial to GitHub"
+  title: "Introduction to GitHub"
   author: 
     - Signe Kirk Brødbæk
     - Luke W. Johnston
