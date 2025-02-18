@@ -45,9 +45,7 @@ Let's add the first recipe to your repository: A cookie recipe! :cookie:
 **Example cookie recipe:**
 
 ``` markdown
-# Chocolate chip cookies
-
-## Ingredients
+Ingredients for chocolate chip cookies
 
 - 240 grams flour
 - 3/4 tsp salt
@@ -61,18 +59,15 @@ Let's add the first recipe to your repository: A cookie recipe! :cookie:
 - 150 grams chocolate (e.g., a mix of dark and milk chocolate)
 - 100 grams chopped hazelnuts (can be omitted or replaced with oats)
 
-## Instructions
+Instructions
 
 1. Mix the sugar, brown sugar, and butter well.
 2. Add the egg and mix again.
 3. Add salt, baking powder, vanilla powder, baking soda, and flour.
 4. Add the chopped chocolate and nuts.
-5. Form clumps of dough on a baking tray with plenty of space
-    between them.
+5. Form clumps of dough on a baking tray with plenty of space between them.
 6. Bake at 175°C (top and bottom heat) for 16.5-17 minutes.
-7. Once baked, transfer the baking paper with the cookies onto a
-    wire rack and let them cool for 10 minutes before removing them
-    from the paper.
+7. Once baked, transfer the baking paper with the cookies onto a wire rack and let them cool for 10 minutes before removing them from the paper.
 ```
 
 You have now added your first recipe and made your first commit to your

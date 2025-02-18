@@ -100,9 +100,7 @@ Now, you'll add a recipe to your neighbour's repository.
 **Example brownie recipe:**
 
 ``` markdown
-# Brownies
-
-## Ingredients 
+Ingredients for brownies
 
 - 350 grams dark chocolate
 - 250 grams butter
@@ -112,7 +110,7 @@ Now, you'll add a recipe to your neighbour's repository.
 - 60 grams flour
 - 1 tsp baking powder
 
-## Instructions
+Instructions
 
 1. Melt the chocolate and butter together.
 2. Whisk the eggs until frothy and add brown and white sugar.
