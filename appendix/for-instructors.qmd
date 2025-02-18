@@ -6,16 +6,12 @@ information relevant specifically to this workshop.
 
 ## Pre-workshop tasks
 
-Before the workshop, you should do the steps below.
-
-Optional, if it doesn't already exist:
+Before the workshop, you need to do the steps below.
 
 -   Make a GitHub organisation for the workshop (if one doesn't already
     exist)
--   Make a repository for the workshop (if one doesn't already exist)
-
-Mandatory:
-
--   Fetch participants' user names from the pre-survey
--   Add everyone to the organisation and repository (or make a team that
-    has access to the repository always)
+-   Get the participants' GitHub user names from the pre-workshop survey
+-   Add the participants to the organisation and give them write access
+    to all (future) repos
+-   Make (if not made) the origami hats and bring them to the workshop,
+    or alternatively use post-it notes/stickies.
