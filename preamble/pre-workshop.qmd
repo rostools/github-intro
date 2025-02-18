@@ -1,0 +1,179 @@
+# Pre-workshop tasks {#sec-pre-workshop}
+
+In order to participate in this workshop, you must complete everything
+in this section and finish with **completing the
+[survey](@sec-pre-workshop-survey)** at the end. These tasks are
+designed to make it easier for everyone to start the workshop with
+everything set up.
+
+Depending on your skills and knowledge, these tasks could take between
+**1-2 hrs to finish**, so we suggest planning some time to complete
+them. While many of the tasks are mostly readings, they are
+important in making sure you get the most out of the workshop.
+
+## Summary of tasks
+
+Here's a quick overview of the tasks you need to do. Specific details
+about them are found as you work through the tasks.
+
+1.  Read the syllabus (@sec-syllabus).
+2.  Read the [Code of
+    Conduct](https://guides.rostools.org/conduct.html).
+3.  Read the primer on version control, Git, and GitHub
+    (@sec-intro-to-github).
+4.  Create a GitHub user account (@sec-github-user).
+5.  Complete the pre-workshop survey (@sec-pre-workshop-survey): This
+    survey is pretty quick, maybe \~10 minutes. Note that you will be
+    asked to add your GitHub username to the survey.
+
+## :book: Introduction to version control, Git, and GitHub {#sec-intro-to-github}
+
+This reading is meant as a primer to the workshop. It will introduce you
+to the concepts of *version control*, *Git*, and *GitHub*.
+
+### What is version control and Git? {#sec-what-is-version-control}
+
+In our work lives, we often create and modify files. These files can be
+anything from text documents, to images, to code. When we work on these
+files, we often make changes to them, and sometimes many changes. We
+might want to keep track of these changes, so we can see *what* we've
+done, *when* we did it, and *why* we did it. This is both helpful for
+potential collaborators and our future selves.
+
+Many of us track changes to our files informally, by saving multiple versions of a
+file with different names, like the example below in @fig-file-naming-version-control-comics
+
+![File naming in the commonly used *informal* 'version
+control'.](../images/informal-version-control.jpg){#fig-file-naming-version-control-comics}
+
+Does this way of saving files and keeping track of versions look
+familiar? While the above image is maybe a bit of an exaggeration and teasing a bit, there is some truth to
+it: It is the most commonly approach to "version control".
+
+This form of "informal" version control isn't ideal because it involves
+multiple copies of the same file. This approach also makes it difficult
+to keep track of specific changes - and find the right version of our
+files.
+
+There are, however, "formal" version control systems that automatically
+manage changes to files. One of the world's most popular version control
+systems is called
+[Git](https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F).
+Git is used by millions of people around the world, including thousands
+of organisations and researchers.
+
+Git creates snapshots of file changes, known as *commits*. Each commit
+captures:
+
+-   the specific changes
+-   who made the changes
+-   when they made the changes
+
+Each commit also has a short message attached to it that should describe
+what changes were made and why.
+
+Git stores these commits in a history log. The history log allows you to
+quickly go back and see what and when a change happened along with the message
+describing the changes. This is extremely useful when you revisit your
+own work after a long time (because you *will* forget things) and when
+you work in groups or with collaborators.
+
+Git only tracks changes to files *within a project*. In Git terminology,
+a project is called a **repository** (or a *repo* for short). The
+repository is the place where you store all the files in your project.
+This includes both code and other non-code based files like Word or
+images. Though, Git does tend to be better at tracking specific changes in
+text-based files, which makes sense since it's easier to track the
+change in some lines of text, rather than changes to e.g., an image.
+
+To understand how incredibly powerful "formal" version control like Git
+is, think about these questions:
+
+-   How many files of different versions of a scientific documents or
+    thesis do you have laying around after getting feedback from your
+    supervisor or co-authors?
+-   Have you ever wanted to test out an analysis with some code in a file and need to make a
+    new file so that the original is not modified?
+-   Have you ever deleted something and wished you hadn't?
+-   Have you ever forgotten what you were doing on a project, or why you
+    chose a particular strategy or analysis?
+
+All these problems can be fixed by using formal version control! There
+are so many good reasons to use version control, especially in science:
+
+-   Transparency of work done to demonstrate or substantiate your
+    scientific claim.
+-   Claim to first discovery, since you have a time-stamped history of
+    your work.
+-   Defense against fraud, because of the transparency.
+-   Evidence of contributions and work, since who does what is tracked.
+-   Easy collaboration, because you can work on a single file/folder
+    rather than emailing file versions around.
+-   Organized files and folders, since there is one single project
+    folder and one single version of each file, rather than multiple
+    versions of the same file.
+-   Less time spent on finding things related to your projects, because
+    everything is organized and in one place.
+
+### What is GitHub then? {#sec-what-is-git-and-github}
+
+![Git and GitHub. Image from [this
+post](https://medium.com/@amitkhachane.7/an-intro-to-git-and-github-for-beginners-git-for-newbies-f22189553a0a)](../images/git-github.png){#fig-git-and-github}
+
+There are several ways to use Git. In this workshop, we will use
+[GitHub](https://github.com/), which is a website that hosts projects
+that uses Git (meaning, Git repositories). This means that your Git
+repositories can be stored on GitHub, and you can manage your files and
+projects using Git through GitHub's web interface.
+
+Everything we do in this workshop (including storing and managing files)
+will be done through the GitHub website, which under the hood uses Git
+to track the changes. Nice!
+
+### Summary of Git and GitHub
+
+-   Using a *formal version control* system like Git can help you keep
+    track of changes to your files and projects.
+-   A Git *repository* is a place where you store all the files for your
+    project along with their history.
+-   GitHub is a website that hosts Git repositories.
+-   Through GitHub you can manage your files and projects using Git.
+
+<!-- TODO: Move the definition list below to a glossary repo? -->
+
+So far, we have encountered the following terminology:
+
+| Term | Definition |
+|--------------------------|----------------------------------------------|
+| **Version control** | The practice of tracking changes to files over time. |
+| **Git** | A widely popular version control system that tracks changes to files and projects. |
+| **(Git) Repository** | A "project" with files that are stored and tracked by Git. |
+| **Commit** | A snapshot of changes made to file(s) in a repository. |
+| **GitHub** | A website that hosts Git repositories. |
+
+## :woman_technologist: Create a GitHub account {#sec-github-user}
+
+To participate in the workshop, you will need a GitHub account. Please
+go to the [GitHub website](github.com) and create an account.
+Remember your username, as you will need it for the survey at the
+end of this section.
+
+If you already have one, you can skip this task, but we will still ask
+you to provide your username in the survey at the end of this section.
+
+## Pre-workshop survey {#sec-pre-workshop-survey}
+
+If you haven't read the syllabus (@sec-syllabus) and the primer on
+version control and GitHub above (@sec-intro-to-github), **please read
+it now**.
+
+Also make sure to read the [Code of
+Conduct](https://guides.rostools.org/conduct.html), since the survey
+involves a question about it. We want to make sure this workshop is a
+supportive and safe environment for learning, so this Code of Conduct is
+quite important.
+
+You're almost done. Please fill out the pre-workshop survey to finish
+this section, either [at this link]().
+
+See you at the workshop!
