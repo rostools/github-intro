@@ -216,7 +216,36 @@ Now, let's add a recipe to your neighbour's repository.
 
 {{< text_snippet sticky_up >}}
 
+## :woman_technologist: Exercise: Find the commit where you moved the cookie recipe
 
+**Time: \~10 minutes**
+
+Now that you---and your neighbour--have made commits to your repository, let's
+take a look at the history to find the commit where you first added the cookie recipe.
+
+1.  In your repository, click the "Commits" button on
+    the right side of the screen. This will show you all the changes
+    that have been made to your repository along with the commit messages, the author of the changes, and when the changes where made. Neat!
+2.  Go through the list of commits to find the commit where you added the
+    cookie recipe. The commit message should be "Add cookie recipe".
+
+
+::: {.callout-note}
+Looking at the history shows the importance of meaningful commit
+messages. Imagine if all the commit messages were "Update file". Then,
+it would be easy to lose track of what changes were made in each commit.
+
+By contrast, if the commits have meaningful messages (like "Add cookie recipe" or "Move cookie recipe to baked-goods folder"), it is much easier to get an
+overview of the changes.
+:::
+
+{{< text_snippet sticky_up >}}
+
+::: {.callout-tip}
+You can both look at the history of the entire repository or the history of a specific file. The history of the entire repository shows all the commits that have been made to all files in the repository, while the history of a specific file shows the commits that have been made to that file only.
+
+You can access the history of a specific file by going to the file in the repository and clicking the "History" button on the right side of the screen.
+:::
 
 ## Summary
 
