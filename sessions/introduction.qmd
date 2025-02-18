@@ -1,6 +1,4 @@
-# Introduction to course {#sec-introduction}
-
-{{< text_snippet wip >}}
+# Introduction to tutorial {#sec-introduction}
 
 > [**Introduction slides**](../slides/introduction.html)
 

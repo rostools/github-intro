@@ -1,6 +1,4 @@
-# TODO: Lesson title here
-
-{{< text_snippet wip >}}
+# Making and using GitHub Issues {#sec-using-issues}
 
 <!-- TODO: Add an introduction here -->
 
@@ -11,6 +9,8 @@ The overall learning outcome for this session is to:
 1.  
 
 Specific learning objectives are:
+
+{{< include /includes/_using-issues-objectives.qmd >}}
 
 ## TODO: Section
 

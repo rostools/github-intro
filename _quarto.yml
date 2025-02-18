@@ -5,13 +5,14 @@ project:
   #   - slides/*.html
 
 book:
-  title: "Introduction to GitHub tutorial"
+  title: "Introduction tutorial to GitHub"
   author: 
     - Signe Kirk Brødbæk
     - Luke W. Johnston
   date: last-modified
   repo-url: https://github.com/rostools/tutorial-github-intro
   site-url: https://tutorial-github-intro.rostools.org
+  body-header: "{{< text_snippet wip >}}"
   chapters:
     - index.qmd
     - part: "Preamble"
@@ -22,8 +23,10 @@ book:
     - part: "Sessions"
       chapters:
       - sessions/introduction.qmd
-      - sessions/lesson.qmd
-      - sessions/what-next.qmd
+      - sessions/basics.qmd
+      - sessions/working-with-files.qmd
+      - sessions/using-issues.qmd
+      - sessions/conclusion.qmd
   appendices:
     - appendix/for-instructors.qmd
     - appendix/references.qmd

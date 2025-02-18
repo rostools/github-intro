@@ -1,0 +1,28 @@
+# Working with files on GitHub {#sec-working-with-files}
+
+<!-- TODO: Add an introduction here -->
+
+## Learning objectives
+
+The overall learning outcome for this session is to:
+
+1. 
+
+Specific learning objectives are:
+
+{{< include /includes/_working-with-files-objectives.qmd >}}
+
+## TODO: Section
+
+::: callout-note
+## Reading task: \~4 minutes
+
+TODO: Reading text
+:::
+
+## Exercise: TODO: Add title
+
+## Summary
+
+-   TODO: List of summary items
+
