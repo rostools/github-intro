@@ -176,6 +176,16 @@ folder in your repository! :partying_face:
 
 {{< text_snippet sticky_up >}}
 
+## Explore the history to find previous changes
+
+Now that we've have made quite a few changes to the repository, it's
+time to take a look at the history of the repository. This will show all
+the changes that have been made to the repository, who made them, and
+when they were made.
+
+This can be very useful if you want to see what changes have been made
+over time or if you want to find a specific change.
+
 ## :woman_technologist: Exercise: Find the commit where you added the cookie recipe
 
 **Time: \~10 minutes**
