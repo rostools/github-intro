@@ -35,6 +35,22 @@ engaging in the material. So:
 
 TODO: Reading text
 
+## :speech_balloon: Discussion activity: Explain the basics of Git
+
+**Time: \~4 minutes.**
+
+Learning is about recalling and explaining something in your own words.
+And since Git is such a fundamentally different way of working with and
+thinking about files, this discussion activity aims to help solidify
+what we've covered so far about Git. So:
+
+1.  Take \~1 minute to silently explain to yourself what you understood
+    the basics of Git are.
+2.  Pair up with your neighbour and for the next 3 minutes, take turns
+    (1.5 minutes each) explaining to each other what you understand
+    about the basics of Git. Try to come to a shared understanding of
+    it.
+
 ## Summary
 
 -   TODO: List of summary items
