@@ -73,7 +73,8 @@ Here are some tips for good naming practices:
 
 `.md` stands for
 [Markdown](https://quarto.org/docs/authoring/markdown-basics.html) and
-is a plain text file format (a type of file, like Word's `.docx`) that's designed to be easy to write and read.
+is a plain text file format (a type of file, like Word's `.docx`) that's
+designed to be easy to write and read.
 
 We won't cover how to write Markdown in this workshop. All you need to
 know is that we use Markdown files here because it is a common format
