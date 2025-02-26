@@ -176,6 +176,43 @@ folder in your repository! :partying_face:
 
 {{< text_snippet sticky_up >}}
 
+## Delete files and folders in a GitHub repository
+
+Let's imagine that we have decided that our recipe book should solely
+focus on recipes for sweets, desserts, and baked goods.
+
+This means that we'll want to remove the tomato soup recipe from the
+repository along with the `soups/`folder.
+
+To delete the `tomato-soup.md` file and the `soups/` folder, we'll click
+the `soups/` folder in the "Code" tab of the repository and then click
+the `tomato-soup.md` file within it.
+
+In the top-right corner of the page, we'ææ click the button with three
+dots (`...`), scroll down to the bottom of the dropdown menu and click
+"Delete file".
+
+We'll save the changes by committing the changes as we have done before.
+
+Since there was no other files in the `soups/` folder, the folder will
+be deleted as well :fire:
+
+We have now deleted the tomato soup recipe and the `soups/` folder from
+the repository and are ready to focus on sweets and baked goods! :cake:
+
+::: callout-tip
+## Delete a folder with multiple files
+
+If you wanted to delete a folder with multiple files in it along with
+the files themselves, you can go to the folder and click the three dots
+button (`...`) in the top-right corner of the page. Then, click "Delete
+directory" in the dropdown menu.
+
+This will delete the folder and all the files within it, so be careful
+with deleting folders directly like this.
+:::
+
+
 ## :woman_technologist: Exercise: Find the commit where you added the cookie recipe
 
 **Time: \~10 minutes**
