@@ -84,20 +84,20 @@ for text files.
 
 ## Add a soup recipe to your repository
 
-Now, it's time to create your first file on GitHub. Let's add a soup
+Now, we'll time to create our first file on GitHub. Let's add a soup
 recipe :bowl_with_spoon:.
 
-In the "Code" tab of your repository, click the button saying "Add file"
-in the top-right side of the page. In the dropdown menu, click "Create
+In the "Code" tab of the repository, we'll click the button saying "Add file"
+in the top-right side of the page. In the dropdown menu, we'll click "Create
 new file".
 
 This leads us to a new page with an empty file without any content.
 
-In the "Name your file..." field, in the top-left corner, type the name
-of your file. Let's follow the good naming practices we've read about
+In the "Name your file..." field, in the top-left corner, we'll type the name
+of our file. Let's follow the good naming practices we've read about
 above and call it `soup.md`.
 
-For the content of the file, copy and paste the following recipe:
+For the content of the file, we'll copy and paste the following recipe:
 
 ``` markdown
 Ingredients for tomato soup 
@@ -116,25 +116,23 @@ Instructions
 4. Blend the soup, and season to taste.
 ```
 
-Once you have added the file name and the recipe itself, click the green
+Once we have added the file name and the recipe itself, let's save the changes by clicking the green
 "Commit changes" button in the top right corner of the page.
 
-Write a descriptive commit message like "Add tomato soup recipe". You
-don't need to write an extended description. Keep the "Commit directly
-to the `main` branch" option selected.
+As the commit message, we'll write "Add tomato soup recipe". We
+don't need to write an extended description. We'll keep the "Commit directly
+to the `main` branch" option selected, then click the "Commit changes" button.
 
 Click "Commit changes".
 
-You have now added the first recipe to your repository! :tada:
-
-Now, you'll practice creating files in your repository by adding another
+We've now added our first recipe to the repository! :tada: Now, you'll practice creating files in your repository by adding another
 recipe.
 
 ## :woman_technologist: Exercise: Add a cookie recipe to your repository
 
 **Time: \~10 minutes**
 
-Let's add the second recipe to your repository: A cookie recipe!
+Now you'll add the second recipe to your repository: A cookie recipe!
 :cookie:
 
 1.  In the "Code" tab of your repository, click the "Add file" button
