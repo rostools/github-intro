@@ -146,9 +146,11 @@ Just like we did with the soup recipe above, let's rename the
 to a new `baked-goods/` folder. That way, if you want to add other
 recipes for baked goods, you can put it in that folder.
 
-While you can move and rename in the same step, for practice, rename the
-file first before moving it to the new folder: Start by renaming the
-`cookie-recipe.md` file:
+While you can rename, edit, and move in the same step, for practice,
+rename the file first, then edit the content, and last move it to the
+new folder.
+
+Start by renaming the `cookie-recipe.md` file:
 
 1.  Click the pencil icon on the top-right side of the page ("Edit this
     file") to edit the `cookie-recipe.md` file.
