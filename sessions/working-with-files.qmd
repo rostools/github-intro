@@ -4,15 +4,32 @@
 
 ## Learning objectives
 
-The overall learning outcome for this session is to:
-
-1.  
-
-Specific learning objectives are:
+The learning objectives of this session are:
 
 {{< include /includes/_working-with-files-objectives.qmd >}}
 
-## TODO: Section
+During the session, you will:
+
+-   Add a cookie recipe and a soup recipe to your repository.
+-   Rename and move the recipe files to new folders.
+-   Delete the soup recipe and the folder it is in.
+-   Look at the history of your repository to find a specific change.
+
+Right now, your repository file structure looks like this:
+
+```         
+recipe-book/
+TODO: What is in the repo at this point?
+```
+
+By the end of the session, your repository file structure will look like
+this:
+
+```         
+recipe-book/
+├── baked-goods/
+│   └── chocolate-chip-cookies.md
+```
 
 ## :book: Reading task: Naming of files and folders
 
