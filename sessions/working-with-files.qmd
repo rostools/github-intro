@@ -84,7 +84,7 @@ for text files.
 
 ## Add a soup recipe
 
-Now, we'll time to create our first file on GitHub. Let's add a soup
+Now, we'll create our first file on GitHub. Let's add a soup
 recipe :bowl_with_spoon:.
 
 In the "Code" tab of the repository, we'll click the button saying "Add file"
@@ -122,8 +122,6 @@ Once we have added the file name and the recipe itself, let's save the changes b
 As the commit message, we'll write "Add tomato soup recipe". We
 don't need to write an extended description. We'll keep the "Commit directly
 to the `main` branch" option selected, then click the "Commit changes" button.
-
-Click "Commit changes".
 
 We've now added our first recipe to the repository! :tada: Now, you'll practice creating files in your repository by adding another
 recipe.
