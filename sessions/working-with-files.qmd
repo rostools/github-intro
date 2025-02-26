@@ -188,7 +188,7 @@ To delete the `tomato-soup.md` file and the `soups/` folder, we'll click
 the `soups/` folder in the "Code" tab of the repository and then click
 the `tomato-soup.md` file within it.
 
-In the top-right corner of the page, we'ææ click the button with three
+In the top-right corner of the page, we'll click the button with three
 dots (`...`), scroll down to the bottom of the dropdown menu and click
 "Delete file".
 
