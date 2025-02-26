@@ -29,11 +29,54 @@ engaging in the material. So:
 2.  For 4 minutes, pair up with your neighbour and take turns explaining
     to them what you remember, 2 minutes each.
 
-## TODO: Section
+## :book: Reading task: What is a file path?
 
-## Reading task: \~4 minutes
+**Time: \~3 minutes.**
 
-TODO: Reading text
+Operating systems like Windows and MacOS try really hard to make the
+filesystem, and ultimately file paths, hidden or obscured from the user.
+This has some benefits, but lots of downsides. Computers and their
+programs depend on file paths, so by hiding them from the user, they
+don't learn what they are and how to use them effectively. So as soon as
+a user needs to do even a bit deeper computer work, they encounter file
+paths and need to know how they work. This is especially true of Git and
+GitHub.
+
+So to make sure we're all on the same page, we'll briefly describe what
+file paths are and why they're important to know about.
+
+In simple terms, a path is the location of a file or folder in a
+filesystem. The end of a path is either a folder or a file and indicated
+by either a `/` or an extension like `.txt` or `.docx`. All items in the
+path before the last item are folders. For example:
+
+-   `/Users/username/Documents` is a path to the `Documents` folder,
+    within the `username` folder, which is then within the `Users`
+    folder.
+-   `/Users/username/Documents/notes.txt` is a path to the `notes.txt`
+    file, within the `Documents` folder, which is within the `username`
+    folder, and finally in the `Users` folder.
+
+When you make files for work, it's best to organise files and folders
+based on the project you are working on, so that things are easy to find
+and kept together. This is especially important when using tools like
+Git and GitHub. That's because tools like Git and GitHub work *within* a
+specific folder and treat that *specific* folder as a Git repository.
+Then, all files within that repository (folder) are relative to one
+another. This "relativeness" also is shown by two "special characters":
+
+-   `..`: Two dots mean the folder up one. So if you open up a folder
+    into `/Users/username/`, the `../` is the `/Users/` folder, since it
+    is one folder up from `username`.
+-   `.`: One dot means the current folder. So if you open up a folder
+    and see `./Documents`, it means to add `Documents` to the end of the
+    file path, which in the example above would be
+    `/Users/username/Documents/`.
+
+We'll be working with and navigating the file path on GitHub throughout
+this workshop, you will get more exposure to it as we go along.
+
+{{< text_snippet sticky_up >}}
 
 ## :speech_balloon: Discussion activity: Explain the basics of Git
 
@@ -49,7 +92,8 @@ what we've covered so far about Git. So:
 2.  Pair up with your neighbour and for the next 3 minutes, take turns
     (1.5 minutes each) explaining to each other what you understand
     about the basics of Git. Try to come to a shared understanding of
-    what it is, how to work with it, and how it's different from other ways of working with files.
+    what it is, how to work with it, and how it's different from other
+    ways of working with files.
 
 ## Summary
 
