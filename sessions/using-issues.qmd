@@ -121,6 +121,19 @@ Instructions
 
 {{< text_snippet sticky_up >}}
 
+## :speech_balloon: Discussion activity: Consider advantages to Issues in your own work
+
+**Time: \~4 minutes.**
+
+To connect what we've learned to your own daily work, consider what
+advantages (and barriers) there are to using Issues in your own work.
+Afterwards,
+
+1.  Take \~1 minute to think how you would integrate Issues into your
+    work and what advantages and challenges there may be.
+2.  Pair up with your neighbour, and take 1.5 minutes each to share what
+    you've thought about.
+
 ## Summary
 
 -   TODO: List of summary items
