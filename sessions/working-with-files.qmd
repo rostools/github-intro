@@ -227,8 +227,8 @@ history of a specific file shows the commits that have been made to that
 file only.
 
 You can access the history of a specific file by going to the file in
-the repository and clicking the "History" button on the right side of
-the screen.
+the repository and clicking the "History" button on the top-right side
+of the page.
 :::
 
 ## :speech_balloon: Discussion activity: Consider how you'd use GitHub in your work
