@@ -10,3 +10,5 @@ Before the workshop, you need to do the steps below.
 
 -   Go through the pre-workshop survey to check that all registered
     learners have completed it and have sent their GitHub username.
+-   Make (if not made) the origami hats and bring them to the workshop,
+    or alternatively use post-it notes/stickies.
