@@ -160,7 +160,7 @@ the screen.
 Learning is most effective when there is some connection to what you do
 in your daily work life. On your own and based on what we've covered so
 far, think about how you might use GitHub in your own work. Then, share
-with your neighbour some of your ideas.
+some of your ideas with your neighbour.
 
 1.  Take \~1 minute to think how you might use GitHub in your own work.
 2.  Then, pair up with your neighbour and take 3 minutes (1.5 minutes
