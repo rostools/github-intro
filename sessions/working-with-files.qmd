@@ -143,8 +143,8 @@ repository! :tada:
 
 Just like we did with the soup recipe above, let's rename the
 `cookie-recipe.md` file so the name is more specific. Let's also move it
-to a new baked goods folder. That way, if you want to add other recipes
-for baked goods, you can put it in that folder.
+to a new `baked-goods/` folder. That way, if you want to add other
+recipes for baked goods, you can put it in that folder.
 
 While you can move and rename in the same step, for practice, rename the
 file first before moving it to the new folder: Start by renaming the
