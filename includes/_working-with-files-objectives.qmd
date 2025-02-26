@@ -1,2 +1,4 @@
 -   Interact with and navigate GitHub to create, edit, rename, and
     delete files and folders.
+-   Use good naming practices for files and folders.
+-   Practice finding previous changes by using the Git history.
