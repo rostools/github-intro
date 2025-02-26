@@ -190,16 +190,18 @@ over time or if you want to find a specific change.
 
 **Time: \~10 minutes**
 
-Now that you have made a couple of commits to your repository, take a
-look at the history to find the commit where you first added the cookie
-recipe.
+You will now explore history of your repository to find the commit where
+you first added the cookie recipe.
 
-1.  In your repository, click the "Commits" button on the right side of
-    the screen. This will show you all the changes that have been made
-    to your repository along with the commit messages, the author of the
-    changes, and when the changes where made. Neat!
+1.  In the "Code" tab of your repository, click the "Commits" button on
+    the top-right side of the page. This will show you all the changes
+    that have been made to your repository along with the commit
+    messages, the author of the changes, and when the changes where
+    made. Neat!
 2.  Go through the list of commits to find the commit where you added
     the cookie recipe. The commit message should be "Add cookie recipe".
+    Click it to see what was changed in that commit. Take a moment to
+    explore the information that GitHub provides about the commit.
 
 ::: callout-note
 Looking at the history shows the importance of meaningful commit
