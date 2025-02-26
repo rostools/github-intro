@@ -14,10 +14,42 @@ Specific learning objectives are:
 
 ## TODO: Section
 
-::: callout-note
-## Reading task: \~4 minutes
+## Naming of files and folders
 
-TODO: Reading text
+::: callout-note
+## :book: Reading task: \~5 minutes
+
+When working with files and folders in a repository---and in
+general---it's important to think about how you name them. Good naming
+practices can help you and others understand the content of a file or
+folder and make it easier to find what you are looking for.
+
+Additionally, avoiding certain characters can help prevent issues when
+working with files across different operating systems (like Windows,
+Mac, and Linux).
+
+Here are some tips for good naming practices:
+
+-   **Use descriptive names**: Choose names that describe the content of
+    the file or folder. For example, instead of naming a file
+    `file1.md`, name it `data-analysis-results.md`.
+-   **Use lowercase letters**: Filenames are case-sensitive on some
+    operating systems, so it is a good practice to use lowercase letters
+    to avoid confusion.
+-   **Use hyphens or underscores**: If you need to separate words in a
+    filename, use hyphens (`-`) or underscores (`_`) instead of spaces.
+    For example, instead of `data analysis results.md`, use
+    `data-analysis-results.md` or `data_analysis_results.md`.
+-   **Avoid special characters**: Some special characters, such as `&`,
+    `?`, `#`, and the Danish `æ`, `ø`, `å`, can cause issues in
+    filenames. It is best to avoid using them. If you work in Danish and
+    have a file name with `æ`, `ø`, or `å`, you can use the English
+    equivalents (`ae`, `oe`, and `aa`) instead.
+-   **Use file extensions**: Use file extensions to indicate the type of
+    file. For example, use `.md` for Markdown files, and `.csv` for CSV
+    files.
+
+{{< text_snippet sticky_up >}}
 :::
 
 ## :woman_technologist: Exercise: Add a cookie recipe to your repository
