@@ -35,6 +35,9 @@ recipe-book/
 
 **Time: \~5 minutes.**
 
+Before we start adding files and folders to our repositories, let's take
+a moment to talk about good naming practices for files and folders.
+
 When working with files and folders in a repository---and in
 general---it's important to think about how you name them. Good naming
 practices can help you and others understand the content of a file or
