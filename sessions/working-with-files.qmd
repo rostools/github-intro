@@ -134,7 +134,8 @@ recipe.
 
 **Time: \~10 minutes**
 
-Let's add the first recipe to your repository: A cookie recipe! :cookie:
+Let's add the second recipe to your repository: A cookie recipe!
+:cookie:
 
 1.  In the "Code" tab of your repository, click the "Add file" button
     and then "Create new file".
@@ -180,7 +181,7 @@ Instructions
 7. Once baked, transfer the baking paper with the cookies onto a wire rack and let them cool for 10 minutes before removing them from the paper.
 ```
 
-You have now added your first recipe and made your first commit to your
+You have now added your second recipe and made another commit to your
 repository! :tada:
 
 {{< text_snippet sticky_up >}}
