@@ -137,7 +137,7 @@ repository! :tada:
 
 {{< text_snippet sticky_up >}}
 
-## :technologist: Exercise: Rename and move the `cookie-recipe.md` file
+## :technologist: Exercise: Rename, edit, and move the `cookie-recipe.md` file
 
 **Time: \~10 minutes**
 
@@ -157,6 +157,15 @@ file first before moving it to the new folder: Start by renaming the
     the file name and keep the file extension (`.md`).
 3.  Commit the changes as we have done it previously, by clicking the
     green "Commit changes" button and fill in the commit message.
+
+Similarly to the soup recipe, change the first line of the
+`chocolate-chip-cookies.md` file:
+
+1.  Click the pencil icon on top-right side of the page ("Edit this
+    file") to edit the file.
+2.  Edit the first line of the file by adding "chocolate chip", so it becomes "Ingredients for chocolate chip
+    cookies".
+3.  Commit the changes.
 
 Next, move the file to a new `baked-goods/` folder:
 
