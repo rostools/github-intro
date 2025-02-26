@@ -188,28 +188,28 @@ repository! :tada:
 
 ## Rename, edit, and move the soup recipe to a new folder
 
-Now that you have added a couple of recipes to your repository, we'll
-take a look at how you rename, edit, and move files in repositories on
+Now that we have added a couple of recipes to the repository, we'll
+take a look at how to rename, edit, and move files in repositories on
 GitHub.
 
-Let's imagine that you want to add more recipes to your repository in
-the future. To keep things organised, you want your recipes to have
-descriptive names and content. You also want to create some folders to
+Let's imagine that we want to add more recipes to the repository in
+the future. To keep things organised, we want our recipes to have
+descriptive names and content. We also want to create some folders to
 group similar recipes together.
 
-Let's start by doing this with the soup recipe you added earlier.
+Let's start by doing this with the soup recipe we added earlier.
 
 ### Rename `soup.md`
 
-Let's start by renaming the `soup.md` file. Go to the `soup.md` file in
-your repository by clicking on it in the "Code" tab. Then, click the
+Let's start by renaming the `soup.md` file. We'll to the `soup.md` file in
+the repository by clicking on it in the "Code" tab. Then, we'll click the
 pencil icon on the top-right side of the page to edit the file.
 
-On the top-left side of the page, you'll see the name of the file. Click
+On the top-left side of the page, we'll see the name of the file. Let's click
 on the name and rename the file to `tomato-soup.md`. Remember to keep
 the `.md` file extension.
 
-Once you have renamed the file, click the green "Commit changes" button
+Once we have renamed the file, let's click the green "Commit changes" button
 and commit the changes.
 
 ### Edit the content of `tomato-soup.md`
@@ -218,22 +218,22 @@ When we added the content of the file, you might have noticed that it
 said "Ingredients for soup" on the first line. This is a bit generic, so
 let's change it.
 
-Like before, click the `tomato-soup.md` file in the "Code" tab of your
+Like before, we'll click the `tomato-soup.md` file in the "Code" tab of the
 repository to open it and click the pencil icon on the top-right side of
 the page.
 
-Now, change the first line of the file to "Ingredients for tomato soup".
+Now, let's change the first line of the file to "Ingredients for tomato soup".
 
-Once you have made the changes, commit the changes.
+Once we've made the changes, let's commit them.
 
 ### Move `tomato-soup.md` to a new `soups/` folder
 
 Next, let's move the `tomato-soup.md` file to a new `soups/` folder.
 
-As before, click the `tomato-soup.md` file to open it and click the
+As before, we'll click the `tomato-soup.md` file to open it and click the
 pencil icon on the top-right side of the page.
 
-Now, change the path of the file to a new folder in your repository, by
+Now, let's change the path of the file to a new folder in the repository, by
 adding `soups/` before the file name like so: `soups/tomato-soup.md`.
 Remember to use `/` between the folder name and the file name.
 
@@ -243,25 +243,25 @@ This will both create a new folder called `soups/` and move the
 ::: callout-tip
 ## Fixing a folder name after typing slash `/`
 
-You might have noticed that once you add the slash `/` after the folder
+You might have noticed that once we add the slash `/` after the folder
 name, GitHub moves the cursor to the end of the file path, to the file
-name. This might make it seem like you can't go back to the folder name
-and correct it if you make a typo or change your mind about the name.
+name. This might make it seem like we can't go back to the folder name
+and correct it if we make a typo or change our mind about the name.
 
-However, you can use the backspace key to remove the `/` which leads
-your cursor back to the folder name. Now, you can change the folder name
-as you like :partying_face:
+However, we can use the backspace key to remove the `/` which leads
+the cursor back to the folder name. Now, we can change the folder name
+as we like :partying_face:
 :::
 
-Click the green "Commit changes" button to commit the changes.
+Let's click the green "Commit changes" button and commit the changes.
 
-You have now renamed the soup recipe file, edited its content, and moved
+We have now renamed the soup recipe file, edited its content, and moved
 it to a new folder in your repository! :bowl_with_spoon: :tomato:
 
 ::: callout-tip
 ## Rename, edit, and move files in the same step
 
-You can rename, edit, and move files in the same step if you want to.
+It is possible to rename, edit, and move files in the same step if you want to.
 However, for practice and clarity in the history, we've split the steps
 into first renaming the file *then* moving it to a new folder.
 :::
