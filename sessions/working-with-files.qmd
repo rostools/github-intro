@@ -35,14 +35,17 @@ recipe-book/
 
 **Time: \~5 minutes.**
 
+Before we start adding files and folders to our repositories, let's take
+a moment to talk about good naming practices for files and folders.
+
 When working with files and folders in a repository---and in
 general---it's important to think about how you name them. Good naming
 practices can help you and others understand the content of a file or
 folder and make it easier to find what you are looking for.
 
-Avoiding certain characters can also help prevent issues when
-working with files across different operating systems (like Windows,
-Mac, and Linux).
+Avoiding certain characters can also help prevent issues when working
+with files across different operating systems (like Windows, Mac, and
+Linux).
 
 Here are some tips for good naming practices:
 
@@ -64,6 +67,18 @@ Here are some tips for good naming practices:
 -   **Use file extensions**: Use file extensions to indicate the type of
     file. For example, use `.md` for Markdown files, and `.csv` for CSV
     files.
+
+::: callout-note
+## What is an `.md` file?
+
+`.md` stands for
+[Markdown](https://quarto.org/docs/authoring/markdown-basics.html) and
+is a plain text file format (a type of file, like Word's `.docx`) that's designed to be easy to write and read.
+
+We won't cover how to write Markdown in this workshop. All you need to
+know is that we use Markdown files here because it is a common format
+for text files.
+:::
 
 {{< text_snippet sticky_up >}}
 
