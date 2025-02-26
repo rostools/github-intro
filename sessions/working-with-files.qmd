@@ -230,4 +230,11 @@ some of your ideas with your neighbour.
 
 ## Summary
 
--   TODO: List of summary items
+In this session, we have explored how to work with files on GitHub. In
+particular, we have:
+
+-   Added files and folders to a GitHub repository
+-   Renamed, edited, and moved files in the repository
+-   Deleted files and folders from the repository
+-   Explored the history of the repository to see the changes that have
+    been made
