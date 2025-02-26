@@ -14,17 +14,16 @@ Specific learning objectives are:
 
 ## TODO: Section
 
-## Naming of files and folders
+## :book: Reading task: Naming of files and folders
 
-::: callout-note
-## :book: Reading task: \~5 minutes
+**Time: \~5 minutes.**
 
 When working with files and folders in a repository---and in
 general---it's important to think about how you name them. Good naming
 practices can help you and others understand the content of a file or
 folder and make it easier to find what you are looking for.
 
-Additionally, avoiding certain characters can help prevent issues when
+Avoiding certain characters can also help prevent issues when
 working with files across different operating systems (like Windows,
 Mac, and Linux).
 
@@ -50,7 +49,6 @@ Here are some tips for good naming practices:
     files.
 
 {{< text_snippet sticky_up >}}
-:::
 
 ## :woman_technologist: Exercise: Add a cookie recipe to your repository
 
