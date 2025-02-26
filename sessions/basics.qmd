@@ -49,7 +49,7 @@ what we've covered so far about Git. So:
 2.  Pair up with your neighbour and for the next 3 minutes, take turns
     (1.5 minutes each) explaining to each other what you understand
     about the basics of Git. Try to come to a shared understanding of
-    it.
+    what it is, how to work with it, and how it's different from other ways of working with files.
 
 ## Summary
 
