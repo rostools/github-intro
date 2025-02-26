@@ -43,9 +43,9 @@ general---it's important to think about how you name them. Good naming
 practices can help you and others understand the content of a file or
 folder and make it easier to find what you are looking for.
 
-Avoiding certain characters can also help prevent issues when
-working with files across different operating systems (like Windows,
-Mac, and Linux).
+Avoiding certain characters can also help prevent issues when working
+with files across different operating systems (like Windows, Mac, and
+Linux).
 
 Here are some tips for good naming practices:
 
