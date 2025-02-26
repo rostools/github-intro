@@ -29,6 +29,38 @@ engaging in the material. So:
 2.  For 4 minutes, pair up with your neighbour and take turns explaining
     to them what you remember, 2 minutes each.
 
+## :book: Reading task: What is version control and Git?
+
+::: {.callout-note collapse="true"}
+## :teacher: Instructor note
+
+After they've read it, take some time to repeat some key points from the
+text, such as:
+
+-   Emphasise how people usually version files.
+-   Highlight that Git can track any file type, but that Git has more
+    features for text-based files.
+-   Reinforce what "plain text" files are.
+:::
+
+**Time: \~5 minutes.**
+
+::: callout-note
+This is the same text you read for the pre-workshop tasks. Why are we
+getting you to do a discussion activity to remember Git, then getting
+you to again re-read the text? We're doing this because we know that
+learning and understanding Git is *very hard*, so we're giving you
+repeated exposures to it. Git requires you use the computer in such a
+fundamentally different way to how people usually work on their
+computers, that we've learned that we need to give lots of opportunities
+for learners to learn and try to understand what Git does and why to use
+it. So having these repeated exposures helps reinforce these concepts.
+:::
+
+{{< include /includes/_git-basics.qmd >}}
+
+{{< text_snippet sticky_up >}}
+
 ## TODO: Section
 
 ## Reading task: \~4 minutes
@@ -49,7 +81,8 @@ what we've covered so far about Git. So:
 2.  Pair up with your neighbour and for the next 3 minutes, take turns
     (1.5 minutes each) explaining to each other what you understand
     about the basics of Git. Try to come to a shared understanding of
-    what it is, how to work with it, and how it's different from other ways of working with files.
+    what it is, how to work with it, and how it's different from other
+    ways of working with files.
 
 ## Summary
 
