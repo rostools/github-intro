@@ -100,7 +100,7 @@ above and call it `soup.md`.
 For the content of the file, copy and paste the following recipe:
 
 ``` markdown
-Ingredients for tomato soup 
+Ingredients for soup 
 
 - 4 tbs butter
 - 0.5 large onion, cut into large wedges
