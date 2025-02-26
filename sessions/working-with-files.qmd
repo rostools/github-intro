@@ -259,11 +259,11 @@ You have now renamed the soup recipe file, edited its content, and moved
 it to a new folder in your repository! :bowl_with_spoon: :tomato:
 
 ::: callout-tip
-## Rename and move file in the same step
+## Rename, edit, and move files in the same step
 
-You can rename and move files in the same step if you want to. However,
-for practice and clarity in the history, we've split the steps into
-first renaming the file *then* moving it to a new folder.
+You can rename, edit, and move files in the same step if you want to.
+However, for practice and clarity in the history, we've split the steps
+into first renaming the file *then* moving it to a new folder.
 :::
 
 ## :technologist: Exercise: Rename and move the `cookie-recipe.md` file
