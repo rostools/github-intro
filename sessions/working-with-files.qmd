@@ -107,7 +107,7 @@ Let's add the first recipe to your repository: A cookie recipe! :cookie:
 **Example cookie recipe:**
 
 ``` markdown
-Ingredients for chocolate chip cookies
+Ingredients for cookies
 
 - 240 grams flour
 - 3/4 tsp salt
