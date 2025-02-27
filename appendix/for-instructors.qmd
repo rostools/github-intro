@@ -8,10 +8,7 @@ information relevant specifically to this workshop.
 
 Before the workshop, you need to do the steps below.
 
--   Make a GitHub organisation for the workshop (if one doesn't already
-    exist)
--   Get the participants' GitHub user names from the pre-workshop survey
--   Add the participants to the organisation and give them write access
-    to all (future) repos
+-   Go through the pre-workshop survey to check that all registered
+    learners have completed it and have sent their GitHub username.
 -   Make (if not made) the origami hats and bring them to the workshop,
     or alternatively use post-it notes/stickies.
