@@ -152,7 +152,7 @@ Now you'll add the second recipe to your repository: A cookie recipe!
 **Example cookie recipe:**
 
 ``` markdown
-Ingredients for chocolate chip cookies
+Ingredients for cookies
 
 - 240 grams flour
 - 3/4 tsp salt
@@ -182,33 +182,44 @@ repository! :tada:
 
 {{< text_snippet sticky_up >}}
 
-## :technologist: Exercise: Rename and move the `cookie-recipe.md` file
+## :technologist: Exercise: Rename, edit, and move the `cookie-recipe.md` file
 
 **Time: \~10 minutes**
 
 Just like we did with the soup recipe above, let's rename the
 `cookie-recipe.md` file so the name is more specific. Let's also move it
-to a new baked goods folder. That way, if you want to add other recipes
-for baked goods, you can put it in that folder.
+to a new `baked-goods/` folder. That way, if you want to add other
+recipes for baked goods, you can put it in that folder.
 
-While you can move and rename in the same step, for practice, rename the
-file first before moving it to the new folder: Start by renaming the
-`cookie-recipe.md` file:
+While you can rename, edit, and move in the same step, for practice,
+rename the file first, then edit the content, and last move it to the
+new folder.
 
-1.  Click the pencil icon on the right side of the screen ("Edit this
+Start by renaming the `cookie-recipe.md` file:
+
+1.  Click the pencil icon on the top-right side of the page ("Edit this
     file") to edit the `cookie-recipe.md` file.
-2.  Click the name of the file at the top of the screen and rename the
-    file to `chocolate-chip-cookies.md`. Remember to not use spaces in
-    the file name and keep the file extension (`.md`).
+2.  Click the name of the file at the top-left of the page and rename
+    the file to `chocolate-chip-cookies.md`. Remember to not use spaces
+    in the file name and keep the file extension (`.md`).
 3.  Commit the changes as we have done it previously, by clicking the
     green "Commit changes" button and fill in the commit message.
 
+Similarly to the soup recipe, change the first line of the
+`chocolate-chip-cookies.md` file:
+
+1.  Click the pencil icon on top-right side of the page ("Edit this
+    file") to edit the file.
+2.  Edit the first line of the file by adding "chocolate chip", so it
+    becomes "Ingredients for chocolate chip cookies".
+3.  Commit the changes.
+
 Next, move the file to a new `baked-goods/` folder:
 
-1.  Click the pencil icon on the right side of the screen ("Edit this
+1.  Click the pencil icon on the top-right side of the page ("Edit this
     file") as we did before on the `chocolate-chip-cookies.md` file.
-2.  Click the name of the file at the top of the screen and change the
-    path of the file to a new folder to your repository. The current
+2.  Click the name of the file at the top-left of the page and change
+    the path of the file to a new folder to your repository. The current
     file path is `chocolate-chip-cookies.md`. To create a new folder,
     change the file path by typing `baked-goods/` at the start of the
     file name, so the whole file path
