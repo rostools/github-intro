@@ -37,10 +37,10 @@ engaging in the material. So:
 After they've read it, take some time to repeat some key points from the
 text, such as:
 
--   Emphasise how people usually version files.
--   Highlight that Git can track any file type, but that Git has more
+-   Emphasising how people usually version files.
+-   Highlighting that Git can track any file type, but that Git has more
     features for text-based files.
--   Reinforce what "plain text" files are.
+-   Reinforcing what "plain text" files are.
 :::
 
 **Time: \~5 minutes.**
@@ -49,12 +49,10 @@ text, such as:
 This is the same text you read for the pre-workshop tasks. Why are we
 getting you to do a discussion activity to remember Git, then getting
 you to again re-read the text? We're doing this because we know that
-learning and understanding Git is *very hard*, so we're giving you
-repeated exposures to it. Git requires you use the computer in such a
-fundamentally different way to how people usually work on their
-computers, that we've learned that we need to give lots of opportunities
-for learners to learn and try to understand what Git does and why to use
-it. So having these repeated exposures helps reinforce these concepts.
+learning and understanding Git can be *very hard*, so we're giving you
+repeated exposures to it. Git requires you work with files in a
+fundamentally different way than people usually work, so we've learned to give learners lots of opportunities
+to try to understand what Git does and why it is useful. By including these repeated exposures we want to help reinforce these concepts.
 :::
 
 {{< include /includes/_git-basics.qmd >}}
