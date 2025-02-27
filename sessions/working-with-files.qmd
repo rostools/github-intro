@@ -82,11 +82,56 @@ for text files.
 
 {{< text_snippet sticky_up >}}
 
+## Add a soup recipe
+
+Now, we'll create our first file on GitHub. Let's add a soup
+recipe :bowl_with_spoon:.
+
+In the "Code" tab of the repository, we'll click the button saying "Add file"
+in the top-right side of the page. In the dropdown menu, we'll click "Create
+new file".
+
+This leads us to a new page with an empty file without any content.
+
+In the "Name your file..." field, in the top-left corner, we'll type the name
+of our file. Let's follow the good naming practices we've read about
+above and call it `soup.md`.
+
+For the content of the file, we'll copy and paste the following recipe:
+
+``` markdown
+Ingredients for tomato soup 
+
+- 4 tbs butter
+- 0.5 large onion, cut into large wedges
+- 1 can of tomatoes
+- 1,5 cups water, vegetable or chicken stock
+- 0.5 tsp salt, or more to taste
+
+Instructions
+
+1. Melt the butter over medium heat in a large saucepan.
+2. Add onion wedges, water, tomatoes with their juices, and salt.
+3. Bring to a simmer and cook for about 40 minutes. Stir occasionally.
+4. Blend the soup, and season to taste.
+```
+
+Once we have added the file name and the recipe itself, let's save the changes by clicking the green
+"Commit changes" button in the top right corner of the page.
+
+As the commit message, we'll write "Add tomato soup recipe". We
+don't need to write an extended description. We'll keep the "Commit directly
+to the `main` branch" option selected, then click the "Commit changes" button.
+
+We've now added our first recipe to the repository! :tada: Now, you'll practice creating files in your repository by adding another
+recipe.
+
 ## :woman_technologist: Exercise: Add a cookie recipe to your repository
 
 **Time: \~10 minutes**
 
-Let's add the first recipe to your repository: A cookie recipe! :cookie:
+Now you'll add the second recipe to your repository: A cookie recipe!
+:cookie:
 
 1.  In the "Code" tab of your repository, click the "Add file" button
     and then "Create new file".
@@ -132,7 +177,7 @@ Instructions
 7. Once baked, transfer the baking paper with the cookies onto a wire rack and let them cool for 10 minutes before removing them from the paper.
 ```
 
-You have now added your first recipe and made your first commit to your
+You have now added your second recipe and made another commit to your
 repository! :tada:
 
 {{< text_snippet sticky_up >}}
@@ -175,6 +220,42 @@ You have now renamed your cookies recipe file and moved it to a new
 folder in your repository! :partying_face:
 
 {{< text_snippet sticky_up >}}
+
+## Delete files and folders in a GitHub repository
+
+Let's imagine that we have decided that our recipe book should solely
+focus on recipes for sweets, desserts, and baked goods.
+
+This means that we'll want to remove the tomato soup recipe from the
+repository along with the `soups/`folder.
+
+To delete the `tomato-soup.md` file and the `soups/` folder, we'll click
+the `soups/` folder in the "Code" tab of the repository and then click
+the `tomato-soup.md` file within it.
+
+In the top-right corner of the page, we'll click the button with three
+dots (`...`), scroll down to the bottom of the dropdown menu and click
+"Delete file".
+
+We'll save the changes by committing the changes as we have done before.
+
+Since there was no other files in the `soups/` folder, the folder will
+be deleted as well :fire:
+
+We have now deleted the tomato soup recipe and the `soups/` folder from
+the repository and are ready to focus on sweets and baked goods! :cake:
+
+::: callout-tip
+## Delete a folder with multiple files
+
+If you wanted to delete a folder with multiple files in it along with
+the files themselves, you can go to the folder and click the three dots
+button (`...`) in the top-right corner of the page. Then, click "Delete
+directory" in the dropdown menu.
+
+This will delete the folder and all the files within it, so be careful
+with deleting folders directly like this.
+:::
 
 ## Explore the history to find previous changes
 
