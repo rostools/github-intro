@@ -370,7 +370,7 @@ recipe.
     to your repository along with the commit messages, the author of the
     changes, and when the changes where made. Neat!
 2.  Go through the list of commits to find the commit where you added
-    the cookie recipe. The commit message should be "Add cookie recipe".
+    the cookie recipe. The commit message should be something like "Add cookie recipe".
 
 ::: callout-note
 Looking at the history shows the importance of meaningful commit
