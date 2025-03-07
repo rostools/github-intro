@@ -198,7 +198,7 @@ Let's start by doing this with the soup recipe we added earlier.
 
 ### Rename `soup.md`
 
-Let's start by renaming the `soup.md` file. We'll to the `soup.md` file in
+Let's start by renaming the `soup.md` file. We'll go to the `soup.md` file in
 the repository by clicking on it in the "Code" tab. Then, we'll click the
 pencil icon on the top-right side of the page to edit the file.
 
@@ -219,9 +219,12 @@ Like before, we'll click the `tomato-soup.md` file in the "Code" tab of the
 repository to open it and click the pencil icon on the top-right side of
 the page.
 
-Now, let's change the first line of the file to "Ingredients for tomato soup".
-
-Once we've made the changes, let's commit them.
+Now, let's revise the first line of the file to be "Ingredients for tomato soup".
+Once we've made the changes, let's commit them. Click the "Commit changes" 
+button on the top-right of the page. Then when the message box pops up, 
+write in the commit message "clarify the ingredients are for tomato soup".
+Then click the "Commit changes" button on the bottom of the pop-up so that
+the changes get saved to the history.
 
 ### Move `tomato-soup.md` to a new `soups/` folder
 
@@ -234,7 +237,7 @@ Now, let's change the path of the file to a new folder in the repository, by
 adding `soups/` before the file name like so: `soups/tomato-soup.md`.
 Remember to use `/` between the folder name and the file name.
 
-This will both create a new folder called `soups/` and move the
+This will create a new folder called `soups/` and then move the
 `tomato-soup.md` file into it.
 
 ::: callout-tip
@@ -250,7 +253,10 @@ the cursor back to the folder name. Now, we can change the folder name
 as we like :partying_face:
 :::
 
-Let's click the green "Commit changes" button and commit the changes.
+Now click the "Commit changes" button on the top-right side of the page to 
+open the commit message pop-up. In the commit message section, type out a
+message like: "move file into soups folder". Then click the "Commit changes"
+button on the bottom of the pop-up.
 
 We have now renamed the soup recipe file, edited its content, and moved
 it to a new folder in your repository! :bowl_with_spoon: :tomato:
