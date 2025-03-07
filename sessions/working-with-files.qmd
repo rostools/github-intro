@@ -263,8 +263,8 @@ A descriptive message for these changes could be "Move tomato soup file into the
 We have now renamed the soup recipe file, edited its content, and moved
 it to a new folder in your repository! :bowl_with_spoon: :tomato:
 
-::: callout-tip
-## Rename, edit, and move files in the same step
+::: callout-note
+## Rename, edit, and move files can be done in the same step
 
 It is possible to rename, edit, and move files in the same step if you want to.
 However, for practice and clarity in the history, we've split the steps
