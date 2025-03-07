@@ -19,8 +19,9 @@ Right now, your repository file structure looks like this:
 
 ```         
 recipe-book/
-TODO: What is in the repo at this point?
 ```
+<!-- TODO: What is in the repo at this point? -->
+
 
 By the end of the session, your repository file structure will look like
 this:
