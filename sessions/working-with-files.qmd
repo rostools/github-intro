@@ -117,12 +117,11 @@ Instructions
 4. Blend the soup, and season to taste.
 ```
 
-Once we have added the file name and the recipe itself, let's save the changes by clicking the green
-"Commit changes" button in the top right corner of the page.
+Once we have added the file name and the recipe itself, let's save the changes. {{< var github-commit >}}
 
-As the commit message, we'll write "Add tomato soup recipe". We
-don't need to write an extended description. We'll keep the "Commit directly
-to the `main` branch" option selected, then click the "Commit changes" button.
+::: callout-tip
+A descriptive message for these changes could be "Add tomato soup recipe"
+:::
 
 We've now added our first recipe to the repository! :tada: Now, you'll practice creating files in your repository by adding another
 recipe.
@@ -143,12 +142,11 @@ Now you'll add the second recipe to your repository: A cookie recipe!
     file.
 3.  Add a cookie recipe to the file by either finding one online or
     using the example recipe below.
-4.  Click the green "Commit changes" button and write a descriptive
-    commit message like "Add cookie recipe". You don't need to write an
-    extended description. Keep the "Commit directly to the `main`
-    branch" option selected.
-5.  When you have filled in the commit message, click the green "Commit
-    changes" button.
+4.  Now, save the changes. {{< var github-commit >}}
+
+::: callout-tip
+A descriptive message for these changes could be "Add cookie recipe"
+:::
 
 **Example cookie recipe:**
 
@@ -206,8 +204,11 @@ On the top-left side of the page, we'll see the name of the file. Let's click
 on the name and rename the file to `tomato-soup.md`. Remember to keep
 the `.md` file extension.
 
-Once we have renamed the file, let's click the green "Commit changes" button
-and commit the changes.
+Once we have renamed the file, let's commit the changes. {{< var github-commit >}}
+
+::: callout-tip
+A descriptive commit message for these changes could be "Rename soup recipe to tomato soup"
+:::
 
 ### Edit the content of `tomato-soup.md`
 
@@ -220,11 +221,11 @@ repository to open it and click the pencil icon on the top-right side of
 the page.
 
 Now, let's revise the first line of the file to be "Ingredients for tomato soup".
-Once we've made the changes, let's commit them. Click the "Commit changes" 
-button on the top-right of the page. Then when the message box pops up, 
-write in the commit message "clarify the ingredients are for tomato soup".
-Then click the "Commit changes" button on the bottom of the pop-up so that
-the changes get saved to the history.
+Once we've made the changes, let's commit them. {{< var github-commit >}}
+
+::: callout-tip
+A descriptive commit message for these changes could be "Specify that this is ingredients for a tomato soup".
+:::
 
 ### Move `tomato-soup.md` to a new `soups/` folder
 
@@ -253,10 +254,11 @@ the cursor back to the folder name. Now, we can change the folder name
 as we like :partying_face:
 :::
 
-Now click the "Commit changes" button on the top-right side of the page to 
-open the commit message pop-up. In the commit message section, type out a
-message like: "move file into soups folder". Then click the "Commit changes"
-button on the bottom of the pop-up.
+{{< var github-commit >}}
+
+::: callout-tip
+A descriptive message for these changes could be "Move tomato soup file into the soups folder"
+:::
 
 We have now renamed the soup recipe file, edited its content, and moved
 it to a new folder in your repository! :bowl_with_spoon: :tomato:
@@ -289,8 +291,7 @@ Start by renaming the `cookie-recipe.md` file:
 2.  Click the name of the file at the top-left of the page and rename
     the file to `chocolate-chip-cookies.md`. Remember to not use spaces
     in the file name and keep the file extension (`.md`).
-3.  Commit the changes as we have done it previously, by clicking the
-    green "Commit changes" button and fill in the commit message.
+3.  {{< var github-commit >}} Here, a descriptive message could be "Rename cookie recipe to chocolate chip cookies".
 
 Similarly to the soup recipe, change the first line of the
 `chocolate-chip-cookies.md` file:
@@ -299,7 +300,7 @@ Similarly to the soup recipe, change the first line of the
     file") to edit the file.
 2.  Edit the first line of the file by adding "chocolate chip", so it
     becomes "Ingredients for chocolate chip cookies".
-3.  Commit the changes.
+3.  {{< var github-commit >}} Here, a descriptive message could be "Specify that this is ingredients for chocolate chip cookies".
 
 Next, move the file to a new `baked-goods/` folder:
 
@@ -312,7 +313,7 @@ Next, move the file to a new `baked-goods/` folder:
     file name, so the whole file path
     becomes`baked-goods/chocolate-chip-cookies.md`. Notice the `/`
     between the folder name and the file name.
-3.  Commit the changes.
+3.  {{< var github-commit >}} Here, a descriptive message could be "Move cookie recipe to baked-goods folder".
 
 You have now renamed your cookies recipe file and moved it to a new
 folder in your repository! :partying_face:
