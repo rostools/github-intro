@@ -2,9 +2,8 @@
 
 <!-- TODO: Fill in this intro section. -->
 
-This workshop takes 3 hours and is split into one short introduction
-presentation, three main sessions, and some final concluding remarks
-(including a short feedback survey):
+This workshop lasts 3 hours and is split into the following sessions,
+which will be covered in order:
 
 -   [Introduction to the workshop](/sessions/introduction.qmd)
 -   [The basics of GitHub and Git](/sessions/basics.qmd)
