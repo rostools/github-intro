@@ -1,1 +1,77 @@
 # Welcome!
+
+This 3-hour workshop is a gentle introduction to using GitHub for
+managing and working with files. It is designed for doing participatory
+live-"typing", where the instructor does the activity on their computer
+that is on the projector and learners type along with what is done.
+Along with the live-typing, there are reading tasks, discussion
+activities, and hands-on practical exercises interspersed throughout the
+workshop.
+
+This website contains all of the material for the workshop, from reading
+material to exercises to presentations to live-typing material to
+images. It is structured as a book, with "chapters" as sessions, given
+in order of appearance. We make heavy use of the website throughout the
+course where "type-along" sessions almost identically follow the
+material on the website (with slight modifications for time or more
+detailed explanations).
+
+The workshop material is created using [Quarto](https://quarto.org) to
+write the material and create the book format,
+[GitHub](https://github.com/) to host the [Git](https://git-scm.com/)
+repository of the material, and [GitHub
+Actions](https://github.com/features/actions) with
+[Netlify](https://www.netlify.com/) to build and host the website. The
+original source material for this course is found on the
+[`github-intro`](https://github.com/rostools/github-intro) GitHub
+repository.
+
+Want to contribute to this course? Check out the
+[README](https://github.com/rostools/github-intro/blob/main/README.md)
+file as well as the
+[CONTRIBUTING](https://github.com/rostools/github-intro/blob/main/CONTRIBUTING.md)
+file on the GitHub repository for more details. The easiest way to
+contribute is by using [GitHub](https://github.com/) and creating a [new
+issue](https://github.com/rostools/github-intro/issues/new) to make
+comments and give feedback on the material.
+
+<!-- TODO: Convert this into an includes snippet? -->
+
+::: {.callout-tip appearance="minimal"}
+:star: Do you find this workshop material useful? Please consider
+"starring" our [GitHub
+repository](https://github.com/rostools/github-intro/) to show your
+support! Starring will save it to a list of repositories you like that
+you can easily find again, plus it helps give our project more
+visibility!
+:::
+
+## Target audiences
+
+This website and its content are targeted to three groups:
+
+1.  For the **learners** to use during the course, both to follow along
+    in case they get lost and also to use as a reference after the
+    workshop ends. The learner is someone who is currently or will soon
+    actively be doing research (e.g. a PhD or postdoc) and who has no or
+    little knowledge of using Git and GitHub. A more detailed
+    description of who the learner is can be found in
+    @sec-is-it-for-you.
+2.  For the **instructors** to use as a guide for when they do the
+    type-along sessions and lectures.
+3.  For those who are **interested in teaching**, who may not have much
+    experience or may not know where to start, to use this website as a
+    guide to running and instructing their own workshops.
+
+## Re-use and licensing
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img src="https://i.creativecommons.org/l/by/4.0/80x15.png" alt="Creative Commons License" style="border-width:0"/></a>
+
+The course material is licensed under the [Creative Commons Attribution
+4.0 International
+License](https://creativecommons.org/licenses/by/4.0/), so the material
+can be used, re-used, and modified, as long as there is attribution to
+this source. Check out the
+[CONTRIBUTING](https://github.com/rostools/github-intro/blob/main/CONTRIBUTING.md)
+guidelines and the [For Instructors](/appendix/for-instructors.qmd)
+section for more details and tips on using this material.
