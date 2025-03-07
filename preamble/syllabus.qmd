@@ -1,5 +1,17 @@
 # Syllabus {#sec-syllabus}
 
+<!-- TODO: Fill in this intro section. -->
+
+This workshop takes 3 hours and is split into one short introduction
+presentation, three main sessions, and a final concluding remarks
+(including a short feedback survey):
+
+1.  [Introduction to the workshop](/sessions/introduction.qmd)
+2.  [The basics of GitHub and Git](/sessions/basics.qmd)
+3.  [Working with files on GitHub](/sessions/working-with-files.qmd)
+4.  [Making and using GitHub Issues](/sessions/using-issues.qmd)
+5.  [Concluding remarks](/sessions/conclusion.qmd)
+
 ## Learning outcome and objectives
 
 The aim of this workshop is to enable you to:
@@ -17,7 +29,9 @@ will enable you to:
 Tangibly, during the workshop we will:
 
 -   Create your own GitHub project (known as a *repository*)
+
 -   Create and edit text files on GitHub.
+
 -   Create Issues and comment on them.
 
 ## Is this for you? {#sec-is-it-for-you}
@@ -33,13 +47,13 @@ in the workshop, such as one or more of the following:
 
 -   You write text in documents as a main activity of your work.
 
--   You are able to and are comfortable enough with only working on files
-    through a web browser interface (like GitHub's interface).
+-   You are able to and are comfortable enough with only working on
+    files through a web browser interface (like GitHub's interface).
 
-While we have these assumptions to help focus the content of the workshop,
-if you have an interest in the workshop but don't fit any of the
-assumptions, *you are still welcome to attend*! We welcome
-everyone, that is until capacity has been reached.
+While we have these assumptions to help focus the content of the
+workshop, if you have an interest in the workshop but don't fit any of
+the assumptions, *you are still welcome to attend*! We welcome everyone,
+that is until capacity has been reached.
 
 In addition to the assumptions, we also have a fairly focused scope for
 teaching and expectations for learning. So this may also help you decide
