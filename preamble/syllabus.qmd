@@ -2,15 +2,14 @@
 
 <!-- TODO: Fill in this intro section. -->
 
-This workshop takes 3 hours and is split into one short introduction
-presentation, three main sessions, and some final concluding remarks
-(including a short feedback survey):
+This workshop lasts 3 hours and is split into the following sessions,
+which will be covered in order:
 
-1.  [Introduction to the workshop](/sessions/introduction.qmd)
-2.  [The basics of GitHub and Git](/sessions/basics.qmd)
-3.  [Working with files on GitHub](/sessions/working-with-files.qmd)
-4.  [Making and using GitHub Issues](/sessions/using-issues.qmd)
-5.  [Concluding remarks](/sessions/conclusion.qmd)
+-   [Introduction to the workshop](/sessions/introduction.qmd)
+-   [The basics of GitHub and Git](/sessions/basics.qmd)
+-   [Working with files on GitHub](/sessions/working-with-files.qmd)
+-   [Making and using GitHub Issues](/sessions/using-issues.qmd)
+-   [Concluding remarks](/sessions/conclusion.qmd)
 
 ## Learning outcome and objectives
 
