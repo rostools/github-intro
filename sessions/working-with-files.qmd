@@ -368,44 +368,70 @@ This will delete the folder and all the files within it, so be careful
 with deleting folders directly like this.
 :::
 
-## :woman_technologist: Exercise: Find the commit where you added the cookie recipe
+## Explore the history to find previous changes
 
-**Time: \~10 minutes**
+Now that we've have made quite a few changes to the repository, it's
+time to take a look at the history of the repository. This will show all
+the changes that have been made to the repository, who made them, and
+when they were made.
 
-Now that you have made a couple of commits to your repository, take a
-look at the history to find the commit where you first added the cookie
-recipe.
+This can be very useful if you want to see what changes have been made
+over time or if you want to find a specific change.
 
-1.  In your repository, click the "Commits" button on the right side of
-    the screen. This will show you all the changes that have been made
-    to your repository along with the commit messages, the author of the
-    changes, and when the changes where made. Neat!
-2.  Go through the list of commits to find the commit where you added
-    the cookie recipe. The commit message should be something like "Add
-    cookie recipe".
+Let's say you want to find the commit where you added the cookie recipe.
+You can do this by looking at the history of the repository or the
+history of the file itself.
+
+Because we've made a few changes to the repository, let's explore the
+history of the entire repository.
+
+In the "Code" tab of the repository, click the "Commits" button on the
+top-right side of the page. This leads us to a page that shows all the
+changes that have been made to the repository along with the commit
+messages, the author of the changes, and when the changes where made.
+Neat!
+
+Now, we'll go through the list of commits to find the commit where we
+added the cookie recipe. The commit message should be "Add cookie
+recipe". Notice where you can see the author of the commit and when the
+commit was made.
+
+Let's click on the commit message to see what was changed in that
+commit. Take a moment to explore the information that GitHub provides
+about the commit. On the left side of the page, we can see which files
+were changed in the commit, and on the right side, we can see the
+specific changes that were made to the file. In the top-left corner of
+the page, we can still see who made the changes and when they committed
+these changes.
+
+If we want to go back to the list of commits, we can just click the
 
 ::: callout-note
-Looking at the history shows the importance of meaningful commit
-messages. Imagine if all the commit messages were "Update file". Then,
-it would be easy to lose track of what changes were made in each commit.
+## Importance of meaningful commit messages
+
+When we explore at the history of the repository, it shows the
+importance of meaningful commit messages. Imagine if all the commit
+messages were "Update file". Then, it would be quite cumbersome to find
+the change we were looking for.
 
 By contrast, if the commits have meaningful messages (like "Add cookie
 recipe" or "Move cookie recipe to baked-goods folder"), it is much
-easier to get an overview of the changes.
+easier to get an overview of the changes and locate the one we're
+looking for.
 :::
 
-{{< text_snippet sticky_up >}}
-
 ::: callout-tip
-You can both look at the history of the entire repository or the history
-of a specific file. The history of the entire repository shows all the
-commits that have been made to all files in the repository, while the
-history of a specific file shows the commits that have been made to that
-file only.
+## History of a specific file
+
+It is both possible to explore at the history of the entire repository
+and the history of a specific file. The history of the entire repository
+shows all the commits that have been made to all files in the
+repository, while the history of a specific file shows the commits that
+have been made to that file only.
 
 You can access the history of a specific file by going to the file in
-the repository and clicking the "History" button on the right side of
-the screen.
+the repository and clicking the "History" button on the top-right side
+of the page.
 :::
 
 ## :speech_balloon: Discussion activity: Consider how you'd use GitHub in your work
