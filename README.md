@@ -1,44 +1,51 @@
-# TODO TITLE
+# An introductory workshop on using GitHub
+
+[![License: CC BY
+4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 ## Description
 
-TODO: Very brief intro, motivation, and overview of workshop.
+GitHub is increasingly used as a platform for collaborating and sharing
+research projects, not only for code but for documents. This workshop
+aims to introduce learner to the basics of using GitHub for managing
+files and tracking changes to those files (version control). The
+workshop is designed for learner who have little to no experience with
+Git and GitHub.
 
-This repository contains the lesson, lecture, and assignment material
-for the workshop, including the website source files and other associated
-workshop administration files.
+This repository mainly contains the workshop material that both the
+learner and instructors use during the workshop. It also includes files
+that support building the website as well as configurations and
+documents for contributors.
 
-For more detail on the workshop, check out the [welcome page]().
+For more detail on the workshop itself, check out the [welcome
+page](https://github-intro.rostools.org).
 
 ## Instructional Design
 
-The lectures and lessons in this workshop are designed to be presented
-primarily with a participatory live-coding approach. This involves an
-instructor typing and running code in
-[RStudio](https://posit.co/products/open-source/rstudio/) in front of
-the class, while the class follows along using their own computers.
-Challenges are interspersed in the lesson material, allowing
-participants to collaboratively work on smaller coding problems for a
-few minutes. All lesson materials are provided ahead of time on the
-workshop website for participants to refer to during lectures.
+The material in this workshop is designed to be presented primarily with
+a learner live-"typing" approach. This involves an instructor doing the
+tasks on screen live in front of the learners, while the learners follow
+along by doing the tasks on their own computers. Activities to support
+learning are interspersed throughout the workshop material, allowing
+learner to discuss with their neighbours or work on smaller problems to
+reinforce learning. All material are provided ahead of time on the
+workshop website for learner to refer to at any point.
 
-## Lesson content
+## Workshop content
 
-The teaching material is found mainly in these locations:
+The workshop material is found mainly in these folders in the repository
+or on the [workshop website](https://github-intro.rostools.org):
 
-- `index.Rmd`: Contains the overview of the workshop.
-- `preamble/` folder: Contains the files necessary for use before the
-    workshop, for instance the syllabus, schedule, and pre-workshop tasks.
-- `sessions/` folder: Contains the files used during the workshop (e.g.
-    code-along material)
-- `appendix/` folder: Contains the files used to support the workshop,
-    such as pre-workshop tasks, code of conduct, resources, and
-    instructions for instructors.
-- `slides/`: The lecture slides are rendered into HTML slides from
-    Markdown.
-
-The website is generated from [Quarto](https://quarto.org/), so it
-follows the file and folder structure conventions from that package.
+-   `index.Rmd`: Contains the overview of the workshop. This is the
+    landing page of the website.
+-   `preamble/` folder: Contains the files necessary for use before the
+    workshop, for instance the syllabus, schedule, and pre-workshop
+    tasks.
+-   `sessions/` folder: Contains the files used during the workshop
+    (e.g. code-along material).
+-   `appendix/` folder: Contains the files used to support the workshop,
+    such as resources and instructions for instructors.
+-   `slides/`: Contains the presentation slides used for the workshop.
 
 ## Contributing
 
@@ -53,32 +60,24 @@ this project, you agree to abide by its terms.
 
 ## Re-use
 
-The workshop is largely designed to be taught in the order given, as each
-session builds off of the previous ones. The easiest way to use this
-material is to use it as-is, making use of the tips and instructions
-found throughout this page. The only thing you might want to make as
-your own would be the slides, however, they are also good enough to use
-on their own too.
+The workshop is largely designed to be taught in the order given, as
+each session builds off of the previous one(s). The easiest way to use
+this material is to use it as-is, making use of the tips and
+instructions found throughout its pages. The only thing you might want
+to make as your own would be the slides, however, they can also be used
+on their own.
 
-But if you want to customize a bit more, the best approach is to [fork
-the repository](TODO) into your own GitLab account and modify it to fit your
-needs from there. The website is built automatically with GitHub Actions
-and then published as a website through Netlify. More detail on how to
-build your own website from the material is outside the scope of this
-document but you can find more information on Quarto's
+If you want to customize the content a bit more, the best approach is to
+fork the repository into your own GitHub account and modify it to fit
+your needs from there. The website is built automatically with GitHub
+Actions and then published as a website through Netlify. More detail on
+how to build your own website from the material is outside the scope of
+this document but you can find more information on Quarto's
 [Publishing](https://quarto.org/docs/publishing/) page.
 
 To help with general admin tasks of running the workshop, there is the
 [r3admin](https://github.com/rostools/r3admin) R package. For details of
 the license and acknowledgement of content used from sources, see the
-[license](TODO) page of the website.
+[license](LICENSE.md) file.
 
-### How to cite the material
-
-Please cite the material as:
-
-> TODO: Update
-
-Or as BibTeX:
-
-TODO: Update
+<!-- TODO: Once uploaded to Zenodo, include 'how to cite' info here. -->
