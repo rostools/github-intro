@@ -176,7 +176,8 @@ Instructions
 4. Add the chopped chocolate and nuts.
 5. Form clumps of dough on a baking tray with plenty of space between them.
 6. Bake at 175°C (top and bottom heat) for 16.5-17 minutes.
-7. Once baked, transfer the baking paper with the cookies onto a wire rack and let them cool for 10 minutes before removing them from the paper.
+7. Once baked, transfer the baking paper with the cookies onto a wire rack
+   and let them cool for 10 minutes before removing them from the paper.
 ```
 
 You have now added your second recipe and made another commit to your
@@ -404,7 +405,9 @@ specific changes that were made to the file. In the top-left corner of
 the page, we can still see who made the changes and when they committed
 these changes.
 
-If we want to go back to the list of commits, we can just click the
+If we want to go back to the list of commits, we can use our browser to
+go back to the previous page. For most browsers, this can be achieved by
+clicking the right-facing arrow in the top-left corner of the browser.
 
 ::: callout-note
 ## Importance of meaningful commit messages
