@@ -1,24 +1,21 @@
-# Making and using GitHub Issues {#sec-using-issues}
-
-<!-- TODO: Add an introduction here -->
+# Creating and using GitHub Issues {#sec-using-issues}
 
 ## Learning objectives
 
-The overall learning outcome for this session is to:
-
-1.  
-
-Specific learning objectives are:
+The learning objectives of this session are:
 
 {{< include /includes/_using-issues-objectives.qmd >}}
 
-## TODO: Section
+During the session, you will:
 
-::: callout-note
-## Reading task: \~4 minutes
+-   Create your first GitHub Issues.
+-   Comment on an Issue in your neighbour's repository to discuss which
+    recipes to add to your recipe books.
 
-TODO: Reading text
-:::
+In this session, we will not add files to or edit files in the
+repository. Instead, we will focus on creating and using GitHub Issues
+to keep track of tasks and discussions in your project.
+
 
 ## :technologist: Exercise: Create an issue with a list of future recipes to add
 
