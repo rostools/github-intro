@@ -20,7 +20,7 @@ Specific learning objectives are:
 TODO: Reading text
 :::
 
-## Creating an Issue
+## Creating a GitHub Issue
 
 Since that we've decided that our recipe book should only include
 recipes for sweets and baked goods, we might want to add a new folder
