@@ -305,7 +305,9 @@ specific changes that were made to the file. In the top-left corner of
 the page, we can still see who made the changes and when they committed
 these changes.
 
-If we want to go back to the list of commits, we can just click the
+If we want to go back to the list of commits, we can use our browser to
+go back to the previous page. For most browsers, this can be achieved by
+clicking the right-facing arrow in the top-left corner of the browser.
 
 ::: callout-note
 ## Importance of meaningful commit messages
