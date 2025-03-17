@@ -176,7 +176,8 @@ Instructions
 4. Add the chopped chocolate and nuts.
 5. Form clumps of dough on a baking tray with plenty of space between them.
 6. Bake at 175°C (top and bottom heat) for 16.5-17 minutes.
-7. Once baked, transfer the baking paper with the cookies onto a wire rack and let them cool for 10 minutes before removing them from the paper.
+7. Once baked, transfer the baking paper with the cookies onto a wire rack
+   and let them cool for 10 minutes before removing them from the paper.
 ```
 
 You have now added your second recipe and made another commit to your
