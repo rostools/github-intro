@@ -35,10 +35,10 @@ Issues come in.
 related to a specific project or repository. Issues are not files in
 your repository; they are completely separate from the repository's
 files and folders which we have been working with so far in the "Code"
-tab on GitHub. Instead, Issues live in the "Issues" tab in your
+tab on GitHub. Instead, issues live in the "Issues" tab in your
 repository on GitHub. Later in this session, we'll create multiple
 issues, so you don't have to go to this tab right now. For now, it's
-enough to understand that Issues aren't files in your repository, but a
+enough to understand that issues aren't files in your repository, but a
 separate tool for keeping track of tasks and ideas.
 
 Issues can be used in many ways. For example, you can use them to:
@@ -57,13 +57,13 @@ people by by typing `@` followed by the person's username. Depending on
 the person's notification settings, they will receive an email and/or a
 notification on GitHub when they get tagged.
 
-Once you have created an Issue, you can add comments to it, discuss the
-task with your collaborators, and close the Issue once the task is
+Once you have created an issue, you can add comments to it, discuss the
+task with your collaborators, and close the issue once the task is
 completed. This way, you can keep track of what needs to be done and
 what has already been completed.
 
-Anyone with access to the repository can create an Issue. This means
-that you can create Issues in your own repository, in a repository where
+Anyone with access to the repository can create an issue. This means
+that you can create issues in your own repository, in a repository where
 you are a collaborator, and in public repositories. This can be very
 useful if you, for instance, want to suggest a change or report a
 problem in another person's repository.
@@ -74,7 +74,7 @@ filter the issues by their status, such as "open" or "closed", and by
 who they are assigned to. By default, only open issues are shown.
 
 Now that we've learned about what GitHub Issues are, let's practice
-creating Issues in our repositories.
+creating issues in our repositories.
 
 {{< text_snippet sticky_up >}}
 
