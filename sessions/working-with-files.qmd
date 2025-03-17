@@ -85,18 +85,18 @@ for text files.
 
 ## Add a soup recipe
 
-Now, we'll create our first file on GitHub. Let's add a soup
-recipe :bowl_with_spoon:.
+Now, we'll create our first file on GitHub. Let's add a soup recipe
+:bowl_with_spoon:.
 
-In the "Code" tab of the repository, we'll click the button saying "Add file"
-in the top-right side of the page. In the dropdown menu, we'll click "Create
-new file".
+In the "Code" tab of the repository, we'll click the button saying "Add
+file" in the top-right side of the page. In the dropdown menu, we'll
+click "Create new file".
 
 This leads us to a new page with an empty file without any content.
 
-In the "Name your file..." field, in the top-left corner, we'll type the name
-of our file. Let's follow the good naming practices we've read about
-above and call it `soup.md`.
+In the "Name your file..." field, in the top-left corner, we'll type the
+name of our file. Let's follow the good naming practices we've read
+about above and call it `soup.md`.
 
 For the content of the file, we'll copy and paste the following recipe:
 
@@ -117,15 +117,17 @@ Instructions
 4. Blend the soup, and season to taste.
 ```
 
-Once we have added the file name and the recipe itself, let's save the changes by clicking the green
-"Commit changes" button in the top right corner of the page.
+Once we have added the file name and the recipe itself, let's save the
+changes by clicking the green "Commit changes" button in the top right
+corner of the page.
 
-As the commit message, we'll write "Add tomato soup recipe". We
-don't need to write an extended description. We'll keep the "Commit directly
-to the `main` branch" option selected, then click the "Commit changes" button.
+As the commit message, we'll write "Add tomato soup recipe". We don't
+need to write an extended description. We'll keep the "Commit directly
+to the `main` branch" option selected, then click the "Commit changes"
+button.
 
-We've now added our first recipe to the repository! :tada: Now, you'll practice creating files in your repository by adding another
-recipe.
+We've now added our first recipe to the repository! :tada: Now, you'll
+practice creating files in your repository by adding another recipe.
 
 ## :woman_technologist: Exercise: Add a cookie recipe to your repository
 
