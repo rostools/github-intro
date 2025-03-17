@@ -19,8 +19,9 @@ Right now, your repository file structure looks like this:
 
 ```         
 recipe-book/
-TODO: What is in the repo at this point?
 ```
+
+<!-- TODO: What is in the repo at this point? -->
 
 By the end of the session, your repository file structure will look like
 this:
@@ -85,18 +86,18 @@ for text files.
 
 ## Add a soup recipe
 
-Now, we'll create our first file on GitHub. Let's add a soup
-recipe :bowl_with_spoon:.
+Now, we'll create our first file on GitHub. Let's add a soup recipe
+:bowl_with_spoon:.
 
-In the "Code" tab of the repository, we'll click the button saying "Add file"
-in the top-right side of the page. In the dropdown menu, we'll click "Create
-new file".
+In the "Code" tab of the repository, we'll click the button saying "Add
+file" in the top-right side of the page. In the dropdown menu, we'll
+click "Create new file".
 
 This leads us to a new page with an empty file without any content.
 
-In the "Name your file..." field, in the top-left corner, we'll type the name
-of our file. Let's follow the good naming practices we've read about
-above and call it `soup.md`.
+In the "Name your file..." field, in the top-left corner, we'll type the
+name of our file. Let's follow the good naming practices we've read
+about above and call it `soup.md`.
 
 For the content of the file, we'll copy and paste the following recipe:
 
@@ -117,15 +118,16 @@ Instructions
 4. Blend the soup, and season to taste.
 ```
 
-Once we have added the file name and the recipe itself, let's save the changes by clicking the green
-"Commit changes" button in the top right corner of the page.
+Once we have added the file name and the recipe itself, let's save the
+changes. {{< var github-commit >}}
 
-As the commit message, we'll write "Add tomato soup recipe". We
-don't need to write an extended description. We'll keep the "Commit directly
-to the `main` branch" option selected, then click the "Commit changes" button.
+::: callout-tip
+A descriptive message for these changes could be "Add tomato soup
+recipe"
+:::
 
-We've now added our first recipe to the repository! :tada: Now, you'll practice creating files in your repository by adding another
-recipe.
+We've now added our first recipe to the repository! :tada: Now, you'll
+practice creating files in your repository by adding another recipe.
 
 ## :woman_technologist: Exercise: Add a cookie recipe to your repository
 
@@ -143,12 +145,11 @@ Now you'll add the second recipe to your repository: A cookie recipe!
     file.
 3.  Add a cookie recipe to the file by either finding one online or
     using the example recipe below.
-4.  Click the green "Commit changes" button and write a descriptive
-    commit message like "Add cookie recipe". You don't need to write an
-    extended description. Keep the "Commit directly to the `main`
-    branch" option selected.
-5.  When you have filled in the commit message, click the green "Commit
-    changes" button.
+4.  Now, save the changes. {{< var github-commit >}}
+
+::: callout-tip
+A descriptive message for these changes could be "Add cookie recipe"
+:::
 
 **Example cookie recipe:**
 
@@ -183,6 +184,102 @@ repository! :tada:
 
 {{< text_snippet sticky_up >}}
 
+## Rename, edit, and move the soup recipe to a new folder
+
+Now that we have added a couple of recipes to the repository, we'll take
+a look at how to rename, edit, and move files in repositories on GitHub.
+
+Let's imagine that we want to add more recipes to the repository in the
+future. To keep things organised, we want our recipes to have
+descriptive names and content. We also want to create some folders to
+group similar recipes together.
+
+Let's start by doing this with the soup recipe we added earlier.
+
+### Rename `soup.md`
+
+Let's start by renaming the `soup.md` file. We'll go to the `soup.md`
+file in the repository by clicking on it in the "Code" tab. Then, we'll
+click the pencil icon on the top-right side of the page to edit the
+file.
+
+On the top-left side of the page, we'll see the name of the file. Let's
+click on the name and rename the file to `tomato-soup.md`. Remember to
+keep the `.md` file extension.
+
+Once we have renamed the file, let's commit the changes.
+{{< var github-commit >}}
+
+::: callout-tip
+A descriptive commit message for these changes could be "Rename soup
+recipe to tomato soup".
+:::
+
+### Edit the content of `tomato-soup.md`
+
+When we added the content of the file, you might have noticed that it
+said "Ingredients for soup" on the first line. This is a bit generic, so
+let's change it.
+
+Like before, we'll click the `tomato-soup.md` file in the "Code" tab of
+the repository to open it and click the pencil icon on the top-right
+side of the page.
+
+Now, let's revise the first line of the file to be "Ingredients for
+tomato soup". Once we've made the changes, let's commit them.
+{{< var github-commit >}}
+
+::: callout-tip
+A descriptive commit message for these changes could be "Specify that
+this is ingredients for a tomato soup".
+:::
+
+### Move `tomato-soup.md` to a new `soups/` folder
+
+Next, let's move the `tomato-soup.md` file to a new `soups/` folder.
+
+As before, we'll click the `tomato-soup.md` file to open it and click
+the pencil icon on the top-right side of the page.
+
+Now, let's change the path of the file to a new folder in the
+repository, by adding `soups/` before the file name like so:
+`soups/tomato-soup.md`. Remember to use `/` between the folder name and
+the file name.
+
+This will create a new folder called `soups/` and then move the
+`tomato-soup.md` file into it.
+
+::: callout-tip
+## Fixing a folder name after typing slash `/`
+
+You might have noticed that once we add the slash `/` after the folder
+name, GitHub moves the cursor to the end of the file path, to the file
+name. This might make it seem like we can't go back to the folder name
+and correct it if we make a typo or change our mind about the name.
+
+However, we can use the backspace key to remove the `/` which leads the
+cursor back to the folder name. Now, we can change the folder name as we
+like :partying_face:
+:::
+
+{{< var github-commit >}}
+
+::: callout-tip
+A descriptive message for these changes could be "Move tomato soup file
+into the soups folder".
+:::
+
+We have now renamed the soup recipe file, edited its content, and moved
+it to a new folder in your repository! :bowl_with_spoon: :tomato:
+
+::: callout-note
+## Rename, edit, and move files can be done in the same step
+
+It is possible to rename, edit, and move files in the same step if you
+want to. However, for practice and clarity in the history, we've split
+the steps into first renaming the file *then* moving it to a new folder.
+:::
+
 ## :technologist: Exercise: Rename, edit, and move the `cookie-recipe.md` file
 
 **Time: \~10 minutes**
@@ -203,8 +300,8 @@ Start by renaming the `cookie-recipe.md` file:
 2.  Click the name of the file at the top-left of the page and rename
     the file to `chocolate-chip-cookies.md`. Remember to not use spaces
     in the file name and keep the file extension (`.md`).
-3.  Commit the changes as we have done it previously, by clicking the
-    green "Commit changes" button and fill in the commit message.
+3.  {{< var github-commit >}} Here, a descriptive message could be
+    "Rename cookie recipe to chocolate chip cookies".
 
 Similarly to the soup recipe, change the first line of the
 `chocolate-chip-cookies.md` file:
@@ -213,7 +310,8 @@ Similarly to the soup recipe, change the first line of the
     file") to edit the file.
 2.  Edit the first line of the file by adding "chocolate chip", so it
     becomes "Ingredients for chocolate chip cookies".
-3.  Commit the changes.
+3.  {{< var github-commit >}} Here, a descriptive message could be
+    "Specify that this is ingredients for chocolate chip cookies".
 
 Next, move the file to a new `baked-goods/` folder:
 
@@ -226,7 +324,8 @@ Next, move the file to a new `baked-goods/` folder:
     file name, so the whole file path
     becomes`baked-goods/chocolate-chip-cookies.md`. Notice the `/`
     between the folder name and the file name.
-3.  Commit the changes.
+3.  {{< var github-commit >}} Here, a descriptive message could be "Move
+    cookie recipe to baked-goods folder".
 
 You have now renamed your cookies recipe file and moved it to a new
 folder in your repository! :partying_face:
