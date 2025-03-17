@@ -212,7 +212,7 @@ Once we have renamed the file, let's commit the changes.
 
 ::: callout-tip
 A descriptive commit message for these changes could be "Rename soup
-recipe to tomato soup"
+recipe to tomato soup".
 :::
 
 ### Edit the content of `tomato-soup.md`
@@ -266,7 +266,7 @@ like :partying_face:
 
 ::: callout-tip
 A descriptive message for these changes could be "Move tomato soup file
-into the soups folder"
+into the soups folder".
 :::
 
 We have now renamed the soup recipe file, edited its content, and moved
