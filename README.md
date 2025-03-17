@@ -7,14 +7,15 @@
 
 GitHub is increasingly used as a platform for collaborating and sharing
 research projects, not only for code but for documents. This workshop
-aims to introduce participants to the basics of using GitHub for
-collaboration and version control. The workshop is designed for
-participants who have little to no experience with Git and GitHub.
+aims to introduce learner to the basics of using GitHub for managing
+files and tracking changes to those files (version control). The
+workshop is designed for learner who have little to no experience with
+Git and GitHub.
 
 This repository mainly contains the workshop material that both the
-participants and instructors use during the workshop. It also includes
-files that support building the website as well as configurations
-and documents for contributors.
+learner and instructors use during the workshop. It also includes files
+that support building the website as well as configurations and
+documents for contributors.
 
 For more detail on the workshop itself, check out the [welcome
 page](https://github-intro.rostools.org).
@@ -22,19 +23,18 @@ page](https://github-intro.rostools.org).
 ## Instructional Design
 
 The material in this workshop is designed to be presented primarily with
-a participatory live-"typing" approach. This involves an instructor
-doing the tasks on screen live in front of the learners, while the
-learners follow along by doing the tasks on their own computers. Activities to support
+a learner live-"typing" approach. This involves an instructor doing the
+tasks on screen live in front of the learners, while the learners follow
+along by doing the tasks on their own computers. Activities to support
 learning are interspersed throughout the workshop material, allowing
-participants to discuss with their neighbours or work on smaller
-problems to reinforce learning. All material are
-provided ahead of time on the workshop website for participants to refer
-to at any point.
+learner to discuss with their neighbours or work on smaller problems to
+reinforce learning. All material are provided ahead of time on the
+workshop website for learner to refer to at any point.
 
 ## Workshop content
 
-The workshop material is found mainly in these folders in the
-repository or on the [workshop website](https://github-intro.rostools.org):
+The workshop material is found mainly in these folders in the repository
+or on the [workshop website](https://github-intro.rostools.org):
 
 -   `index.Rmd`: Contains the overview of the workshop. This is the
     landing page of the website.
@@ -64,15 +64,15 @@ The workshop is largely designed to be taught in the order given, as
 each session builds off of the previous one(s). The easiest way to use
 this material is to use it as-is, making use of the tips and
 instructions found throughout its pages. The only thing you might want
-to make as your own would be the slides, however, they can also
-be used on their own.
+to make as your own would be the slides, however, they can also be used
+on their own.
 
-If you want to customize the content a bit more, the best approach is to fork
-the repository into your own GitHub account and modify it to fit your
-needs from there. The website is built automatically with GitHub Actions
-and then published as a website through Netlify. More detail on how to
-build your own website from the material is outside the scope of this
-document but you can find more information on Quarto's
+If you want to customize the content a bit more, the best approach is to
+fork the repository into your own GitHub account and modify it to fit
+your needs from there. The website is built automatically with GitHub
+Actions and then published as a website through Netlify. More detail on
+how to build your own website from the material is outside the scope of
+this document but you can find more information on Quarto's
 [Publishing](https://quarto.org/docs/publishing/) page.
 
 To help with general admin tasks of running the workshop, there is the
