@@ -9,7 +9,7 @@ The learning objectives of this session are:
 During the session, you will:
 
 -   Create your first GitHub Issues.
--   Comment on an Issue in your neighbour's repository to discuss which
+-   Comment on an issue in your neighbour's repository to discuss which
     recipes to add to your recipe books.
 
 In this session, we will not add files to or edit files in the
