@@ -20,6 +20,64 @@ Specific learning objectives are:
 TODO: Reading text
 :::
 
+## :book: Reading task: What are GitHub Issues?
+
+**Time: \~7 minutes.**
+
+So far, we have learned how to create repositories, add files, and make
+changes to files. But what if you want to keep track of tasks or ideas
+for future work, or you need to discuss something with your
+collaborators before you add it to your repository? This is where GitHub
+Issues come in.
+
+[GitHub Issues](https://docs.github.com/en/issues) are "items" or
+"records" that can help you keep track of to-do tasks and discussions
+related to a specific project or repository. Issues are not files in
+your repository; they are completely separate from the repository's
+files and folders which we have been working with so far in the "Code"
+tab on GitHub. Instead, Issues live in the "Issues" tab in your
+repository on GitHub. Later in this session, we'll create multiple
+issues, so you don't have to go to this tab right now. For now, it's
+enough to understand that Issues aren't files in your repository, but a
+separate tool for keeping track of tasks and ideas.
+
+Issues can be used in many ways. For example, you can use them to:
+
+-   Keep track of tasks you need to do.
+-   Discuss ideas with your collaborators.
+-   Report problems or bugs.
+-   Plan future work.
+-   Ask questions or request help from collaborators.
+
+Issues can be assigned to specific people. By assigning an issue to
+someone, it becomes clear who is responsible for completing the task
+referenced in the issue. Another useful feature is that you can tag
+people in comments to notify them of the task or discussion. You tag
+people by by typing `@` followed by the person's username. Depending on
+the person's notification settings, they will receive an email and/or a
+notification on GitHub when they get tagged.
+
+Once you have created an Issue, you can add comments to it, discuss the
+task with your collaborators, and close the Issue once the task is
+completed. This way, you can keep track of what needs to be done and
+what has already been completed.
+
+Anyone with access to the repository can create an Issue. This means
+that you can create Issues in your own repository, in a repository where
+you are a collaborator, and in public repositories. This can be very
+useful if you, for instance, want to suggest a change or report a
+problem in another person's repository.
+
+All issues in the repository are available in the "Issues" tab, where
+you can see a list of all the issues in the repository. You can also
+filter the issues by their status, such as "open" or "closed", and by
+who they are assigned to. By default, only open issues are shown.
+
+Now that we've learned about what GitHub Issues are, let's practice
+creating Issues in our repositories.
+
+{{< text_snippet sticky_up >}}
+
 ## :technologist: Exercise: Create an issue with a list of future recipes to add
 
 **Time: \~10 minutes**
