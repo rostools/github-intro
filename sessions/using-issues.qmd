@@ -31,8 +31,8 @@ this task.
 In the repository, we'll click on the "Issues" tab. On this page, we'll
 see a list of the open issues in our repository. Since we (or someone
 else) haven't added an issue yet, this list is empty. We will create a
-new Issue by clicking the "New issue" button in the top-right side of
-the page. Let's give the Issue the title "Add a folder for sweets" and
+new issue by clicking the "New issue" button in the top-right side of
+the page. Let's give the issue the title "Add a folder for sweets" and
 write that we want to add a new folder for sweets in the description.
 Since this is a very simple task, the description doesn't add much new
 information, but it's good practice to write a description that explains
@@ -45,14 +45,14 @@ achieve this by going to the "Assignees" section on the right side of
 the page and click on our username.
 
 Finally, we can click the "Create issue" button in the bottom right side
-of the page to create the Issue.
+of the page to create the issue.
 
-Once we've created the Issue, we can click the "Issues" tab to see it in
-the list of Issues in the repository. We can click on the Issue to see
-more details, such as comments, and we can also close the Issue once the
+Once we've created the issue, we can click the "Issues" tab to see it in
+the list of issues in the repository. We can click on the issue to see
+more details, such as comments, and we can also close the issue once the
 task is completed.
 
-We have now created our first Issue :tada:!
+We have now created our first issue :tada:!
 
 ## :technologist: Exercise: Create an issue with a list of future recipes to add
 
