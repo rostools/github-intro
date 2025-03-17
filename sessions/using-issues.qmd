@@ -64,9 +64,9 @@ what has already been completed.
 
 Anyone with access to the repository can create an issue. This means
 that you can create issues in your own repository, in a repository where
-you are a collaborator, and in public repositories. This can be very
-useful if you, for instance, want to suggest a change or report a
-problem in another person's repository.
+you are a collaborator, and in public repositories in general. This can
+be very useful if you, for instance, want to suggest a change or report
+a problem in another person's repository.
 
 All issues in the repository are available in the "Issues" tab, where
 you can see a list of all the issues in the repository. You can also
