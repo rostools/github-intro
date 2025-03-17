@@ -2,15 +2,13 @@
 
 This 3-hour workshop is a gentle introduction to using GitHub for
 managing and working with files. It is designed for doing participatory
-live-"typing", where the instructor does the activity on their computer
-that is on the projector and learners type along with what is done.
-Along with the live-typing, there are reading tasks, discussion
-activities, and hands-on practical exercises interspersed throughout the
-workshop.
+live-typing, where the instructor demonstrates the tasks on their computer
+connected to a projector while learners type along on their own computer.
+The workshop also includes reading tasks, discussion
+activities, and hands-on exercises.
 
-This website contains all of the material for the workshop, from reading
-material to exercises to presentations to live-typing material to
-images. It is structured as a book, with "chapters" as sessions, given
+This website contains all of the material for the workshop, including readings, exercises, presentations, live-typing material, and
+images. It is structured as a book, with "chapters" as sessions,
 in order of appearance. We make heavy use of the website throughout the
 course where "type-along" sessions almost identically follow the
 material on the website (with slight modifications for time or more
@@ -41,9 +39,8 @@ comments and give feedback on the material.
 :star: Do you find this workshop material useful? Please consider
 "starring" our [GitHub
 repository](https://github.com/rostools/github-intro/) to show your
-support! Starring will save it to a list of repositories you like that
-you can easily find again, plus it helps give our project more
-visibility!
+appreciation! Starring will save it to your list of saved repositories, so it’s easy to find again later. As a plus, it helps give our project more
+visibility! :star2:
 :::
 
 ## Target audiences
@@ -52,9 +49,7 @@ This website and its content are targeted to three groups:
 
 1.  For the **learners** to use during the course, both to follow along
     in case they get lost and also to use as a reference after the
-    workshop ends. The learner is someone who is currently or will soon
-    actively be doing research (e.g. a PhD or postdoc) and who has no or
-    little knowledge of using Git and GitHub. A more detailed
+    workshop ends. A more detailed
     description of who the learner is can be found in
     @sec-is-it-for-you.
 2.  For the **instructors** to use as a guide for when they do the
