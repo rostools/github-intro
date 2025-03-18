@@ -1,5 +1,30 @@
 # Collaborating on GitHub
 
+## Learning objectives
+
+The learning objectives of this session are:
+
+{{< include /includes/_collaborating-objectives.qmd >}}
+
+Right now, your repository file structure looks like this:
+
+```
+recipe-book/
+├── baked-goods/
+│   └── chocolate-chip-cookies.md
+```
+
+By the end of the session, your repository file structure will look like
+this:
+
+```         
+recipe-book/
+├── baked-goods/
+│   └── chocolate-chip-cookies.md
+├── desserts/ <-- Added by another person!
+│   └── chocolate-mousse.md <-- Added by another person!
+```
+
 ## Add a collaborator to your repository
 
 <!-- TODO: Add context to this code along -->

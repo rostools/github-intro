@@ -1,0 +1,2 @@
+-   Add collaborators to your repositories.
+-   Work with files in a collaborator's repository.
