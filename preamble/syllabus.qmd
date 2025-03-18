@@ -31,7 +31,7 @@ Tangibly, during the workshop we will:
 
 -   Create and edit text files on GitHub.
 
--   Create Issues and comment on them.
+-   Create GitHub Issues and comment on them.
 
 ## Is this for you? {#sec-is-it-for-you}
 
