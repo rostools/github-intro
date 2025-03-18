@@ -54,10 +54,10 @@ You now have an issue to remind yourself of recipes you want to add!
 Now that you've been tagged in your neighbour's issue, you will have
 received a notification on GitHub (and probably also an email).
 
-To see the notification, we'll click on the notification button in the
-top right corner of the GitHub page. It looks like a tray. This will
-show a list of your notifications, including the one from your
-neighbour's issue.
+To see the notification, we'll click on the notification button with the
+inbox icon in the top right corner of the GitHub page. This will show a
+list of your notifications, including the one from your neighbour's
+issue.
 
 Let's take a moment to look at the information in this notification. We
 can see the title of the issue, who created it, and the repository it's
