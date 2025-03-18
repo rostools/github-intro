@@ -14,6 +14,7 @@ on each session may vary a bit.
 | 5 | {{< fa mug-hot >}} Short break |
 | 50 | {{< fa laptop-code >}} [Working with files on GitHub](/sessions/working-with-files.qmd) |
 | 5 | {{< fa mug-hot >}} Short break |
-| 50 | {{< fa laptop-code >}} [Making and using GitHub Issues](/sessions/using-issues.qmd) |
+| 25 | {{< fa laptop-code >}} [Making and using GitHub Issues](/sessions/using-issues.qmd) |
+| 25 | {{< fa laptop-code >}} [Collaborating on GitHub](/sessions/collaborating.qmd) |
 | 5 | {{< fa person-chalkboard >}} [Concluding remarks](/sessions/conclusion.qmd) |
 | 5 | {{< fa comment-dots >}} [End of session short survey]() |
