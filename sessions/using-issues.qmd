@@ -54,6 +54,19 @@ task is completed.
 
 We have now created our first issue :tada:!
 
+::: callout-tip
+## Issue overview
+
+If you want to see get overview of the issues in a specific repository,
+you can go to the "Issues" tab in that repository.
+
+But if you want to see all the issues you have created across
+repositories, you can click the "Your issues" button in the top-right
+corner of the GitHub page. It looks like circle with a dot inside it.
+When you click that, you'll see a list with all the issues you have
+created across all repositories. Nice! :sparkles:
+:::
+
 ## :technologist: Exercise: Create an issue with a list of future recipes to add
 
 **Time: \~10 minutes**
