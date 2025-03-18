@@ -9,6 +9,7 @@ which will be covered in order:
 -   [The basics of GitHub and Git](/sessions/basics.qmd)
 -   [Working with files on GitHub](/sessions/working-with-files.qmd)
 -   [Making and using GitHub Issues](/sessions/using-issues.qmd)
+-   [Collaborating on GitHub](/sessions/collaborating.qmd)
 -   [Concluding remarks](/sessions/conclusion.qmd)
 
 ## Learning outcome and objectives
@@ -24,6 +25,7 @@ will enable you to:
 {{< include /includes/_basics-objectives.qmd >}}
 {{< include /includes/_working-with-files-objectives.qmd >}}
 {{< include /includes/_using-issues-objectives.qmd >}}
+{{< include /includes/_collaborating-objectives.qmd >}}
 
 Tangibly, during the workshop we will:
 
@@ -32,6 +34,9 @@ Tangibly, during the workshop we will:
 -   Create and edit text files on GitHub.
 
 -   Create Issues and comment on them.
+
+-   Add collaborators to your repository and work with files in a
+    collaborator's repository.
 
 ## Is this for you? {#sec-is-it-for-you}
 
