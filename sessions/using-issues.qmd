@@ -49,6 +49,31 @@ You now have an issue to remind yourself of recipes you want to add!
 
 {{< text_snippet sticky_up >}}
 
+## GitHub notifications
+
+Now that you've been tagged in your neighbour's issue, you will have
+received a notification on GitHub (and probably also an email).
+
+To see the notification, we'll click on the notification button in the
+top right corner of the GitHub page. It looks like a tray. This will
+show a list of your notifications, including the one from your
+neighbour's issue.
+
+Let's take a moment to look at the information in this notification. We
+can see the title of the issue, who created it, and the repository it's
+in. We can also see that we've been mentioned in this issue.
+
+If we click on the notification, it will take us to the issue page. Here
+we can see the issue title, description, and comments.
+
+Since you've been tagged in your neighbour's issue, finding the issue is
+easy. You can go to the notifications by clicking the button in the top
+right corner on GitHub and click on the issue to see the details.
+
+However, if you hadn't been tagged, you couldn't find the issue this
+way. So, let's practice finding the issue in your neighbour's
+repository.
+
 ## :woman_technologist: Exercise: Comment on your neighbour's issue with a recipe suggestion
 
 **Time: \~10 minutes**
