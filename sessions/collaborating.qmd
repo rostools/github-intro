@@ -25,13 +25,43 @@ recipe-book/
 │   └── chocolate-mousse.md <-- Added by another person!
 ```
 
-## Add a collaborator to your repository
+## :book: Reading task: Repository collaborators
 
-<!-- TODO: Add context to this code along -->
+**Time: \~4 minutes.**
 
-In your repository, click "Settings", then "Collaborators and teams",
-and then "Add people". Add your neighbour as a collaborator to your
-repository.
+We've mentioned that working on GitHub can ease collaboration. But so
+far, we've only worked on our own repositories.
+
+By default, you can't make changes to files in someone else's repository
+directly even though you can see it on GitHub. If you want to work
+together with someone on a project, you can add them as a
+**collaborator** to your repository. This way, they can make changes to
+your repository as well. This mechanism ensures that only people you
+have agreed to work with can make changes to files in your repository.
+Nice, right?
+
+When you've added someone as a collaborator to your repository--or they
+have added you--you can work in each other's repositories much like
+we've done in this workshop so far: You can add files, edit files, and
+delete files.
+
+::: callout-note
+Collaborating by adding collaborators and working with files in others'
+repositories is quite a simple way of collaborating on a project. It's a
+good starting point for collaboration on GitHub, however, working with
+Git and GitHub includes many more ways of collaborating. Collaborating
+this way is a bit more technical and, unfortunately, we don't have the
+time to cover it in this workshop.
+
+But, working with collaborators and files in others' repositories is a
+great starting point!
+:::
+
+Next, we'll go through the steps to add collaborators to your
+repositories :tada:
+
+{{< text_snippet sticky_up >}}
+
 
 ## :technologist: Exercise: Add a recipe to your neighbour's repository
 
