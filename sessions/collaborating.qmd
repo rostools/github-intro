@@ -12,7 +12,7 @@ The learning objectives of this session are:
 
 Right now, your repository file structure looks like this:
 
-```
+```         
 recipe-book/
 ├── baked-goods/
 │   └── chocolate-chip-cookies.md
@@ -105,9 +105,9 @@ Let's get to it! :rocket:
 
 > Time: \~10 minutes.
 
-Now, to practice working with files in a collaborator's repository, you'll
-add a recipe to your neighbour's repository. For simplicity, let it be a
-brownie recipe like the example recipe below.
+Now, to practice working with files in a collaborator's repository,
+you'll add a recipe to your neighbour's repository. For simplicity, let
+it be a brownie recipe like the example recipe below.
 
 Here's the steps you'll do:
 
@@ -165,11 +165,11 @@ This is what collaboration on GitHub can look like. Nice :+1:
 ## Removing collaborators
 
 But, what if you want to remove a collaborator from your repository?
-This could be if they've finished their work on your repository,
-if they've left the project, or for some other reason.
+This could be if they've finished their work on your repository, if
+they've left the project, or for some other reason.
 
 Let's go through the steps to remove a collaborator from your
-repository. 
+repository.
 
 First, we'll go to the "Settings" tab in our repository. In the sidebar
 to the right, we'll click "Collaborators". Here, we'll see a list of all
