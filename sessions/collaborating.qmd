@@ -158,3 +158,28 @@ repository. If
 
 This is what collaboration on GitHub can look like. Nice :+1:
 
+## Removing collaborators
+
+But, what if you want to remove a collaborator from your repository?
+This could be if they've finished their work on your repository,
+if they've left the project, or for some other reason.
+
+Let's go through the steps to remove a collaborator from your
+repository. 
+
+First, we'll go to the "Settings" tab in our repository. In the sidebar
+to the right, we'll click "Collaborators". Here, we'll see a list of all
+the collaborators on our repository. To remove a collaborator, we'll
+click the trash can button next to their username. We'll then be asked
+to confirm that we want to remove the collaborator. Let's confirm and
+remove the collaborator our repository again.
+
+As earlier, we can go back to the "Collaborators and teams" page to see
+that the collaborator has been removed from our repository.
+
+If we go to our repository's history, we can see that the collaborator's
+changes are still there. This is because the collaborator's changes are
+part of the repository's history. This is nice because it means that
+adding or removing a collaborator doesn't affect the changes they've
+made to the repository :+1:
+
