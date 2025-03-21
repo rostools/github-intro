@@ -183,3 +183,14 @@ part of the repository's history. This is nice because it means that
 adding or removing a collaborator doesn't affect the changes they've
 made to the repository :+1:
 
+## Summary
+
+In this session, we've looked at how we can collaborate with others on
+GitHub. We have:
+
+-   Added a collaborator to our repository (and been added to someone
+    else's repository)
+-   Worked with files in a collaborator's repository
+-   Removed the collaborator from our repository.
+-   Seen how we can see the changes made by our collaborator in our
+    repository.
