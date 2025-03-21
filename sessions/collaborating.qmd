@@ -146,3 +146,15 @@ Instructions
 ```
 
 {{< text_snippet sticky_up >}}
+
+## Check out our collaborator's changes in our repositories
+
+As a last step, let's go back to our own repository and see the changes
+that have been made by our collaborator.
+
+We can see the collaborator's commit message, and if we go to our
+`bakery-goods/` folder, we can see that they have added a file to our
+repository. If
+
+This is what collaboration on GitHub can look like. Nice :+1:
+
