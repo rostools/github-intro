@@ -1,2 +1,3 @@
 -   Add collaborators to your repositories.
--   Work with files in a collaborator's repository.
+-   Work with files in collaborators' repositories.
+-   Remove collaborators from your repositories.
