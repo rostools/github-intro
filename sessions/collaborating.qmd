@@ -174,9 +174,10 @@ repository.
 First, we'll go to the "Settings" tab in our repository. In the sidebar
 to the right, we'll click "Collaborators". Here, we'll see a list of all
 the collaborators on our repository. To remove a collaborator, we'll
-click the trash can button next to their username. We'll then be asked
-to confirm that we want to remove the collaborator. Let's confirm and
-remove the collaborator our repository again.
+click the trash bin ![Trash bin icon. From GitHub](../images/trash.svg)
+button next to their username. We'll then be asked to confirm that we
+want to remove the collaborator. Let's confirm and remove the
+collaborator our repository again.
 
 As earlier, we can go back to the "Collaborators and teams" page to see
 that the collaborator has been removed from our repository.
