@@ -33,7 +33,7 @@ Tangibly, during the workshop we will:
 
 -   Create and edit text files on GitHub.
 
--   Create Issues and comment on them.
+-   Create GitHub Issues and comment on them.
 
 -   Add collaborators to your repository and work with files in a
     collaborator's repository.
