@@ -1,5 +1,9 @@
 # Collaborating on GitHub
 
+Now that we've learned how to work with files and issues on GitHub,
+let's take a look at how to collaborate with others on GitHub
+:handshake:
+
 ## Learning objectives
 
 The learning objectives of this session are:
