@@ -62,6 +62,40 @@ repositories :tada:
 
 {{< text_snippet sticky_up >}}
 
+## Add a collaborator
+
+Now, we'll add a collaborator to our repository. In the repository,
+we'll click the "Settings" tab, then in the sidebar to the right under
+"Access", we'll click "Collaborators". Now, we're on a page called
+"Collaborators and teams". Here, we'll add our neighbour as a
+collaborator to our repository.
+
+Under "Mange access", let's click the "Add people" button. A search bar
+will appear. Here, we'll search for our neighbour's GitHub username.
+When we've found it, we'll click the "Add to repository" at the bottom
+of the pop up.
+
+This will send an invitation email to our neighbour to be a collaborator
+on our repository. When they've accepted the invitation, they'll be able
+to make changes to our repository.
+
+<!-- TODO: Check that the steps above are correct by actually inviting each other to a repo like this -->
+
+<!-- TODO: Add something about types of access? For the next parts, we need write access -->
+
+We've now added our neighbour as a collaborator to our repository. They
+can now make changes to our repository :partying_face:
+
+::: callout-tip
+## See your collaborators
+
+To see that we've added our neighbour as a collaborator, we can go back
+to the "Collaborators and teams" page. Here, we'll see our neighbour's
+username listed as a collaborator to our repository.
+:::
+
+Next up, we'll start working with files in our neighbour's repository.
+Let's get to it! :rocket:
 
 ## :technologist: Exercise: Add a recipe to your neighbour's repository
 
