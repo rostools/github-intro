@@ -97,19 +97,27 @@ username listed as a collaborator to our repository.
 Next up, we'll start working with files in our neighbour's repository.
 Let's get to it! :rocket:
 
-## :technologist: Exercise: Add a recipe to your neighbour's repository
+## :technologist: Exercise: Add a recipe to your collaborator's repository
 
 > Time: \~10 minutes.
 
-Now, you'll add a recipe to your neighbour's repository.
+Now, to practice working with files in a collaborator's repository, you'll
+add a recipe to your neighbour's repository. For simplicity, let it be a
+brownie recipe like the example recipe below.
+
+Here's the steps you'll do:
 
 1.  Go to your neighbour's GitHub repository.
 
-2.  As we've done during this workshop, add a new file with a recipe,
-    naming the file by using the recipe name (remember the correct
-    naming for files!). This time, you will be adding the file to your
-    neighbour's repository. In the file, add a recipe of your choice.
-    For convenience, you can also use the brownie recipe below.
+2.  Since you'll add a brownie recipe, go to their `baked-goods/` folder
+    and click the "Add file" button. Name the file (following the good
+    practice of naming files we've followed during this workshop) and
+    add the example brownie recipe below as the content of the file.
+
+    Notice that this is the same way we've added files in our own
+    repositories in this workshop so far. We can do the same here
+    because we've been added as collaborators of the repository
+    :handshake:
 
 3.  Commit the changes as you have done previously in the workshop. Then
     go to the neighbour's repository's history to see the changes you
