@@ -20,11 +20,11 @@ Specific learning objectives are:
 TODO: Reading text
 :::
 
-## :technologist: Exercise: Create a discussion issue with a list of future recipes
+## :technologist: Exercise: Create an issue to discuss future recipes
 
 **Time: \~10 minutes**
 
-Let's imagine that you would like to discuss or brainstorm some ideas on
+Imagine that you would like to discuss or brainstorm some ideas on
 what recipes to add to your recipe book next. Since GitHub Issues can be
 used for exactly that, it makes sense to create one to keep track of
 these ideas:
@@ -57,7 +57,7 @@ these ideas:
     do you think about the recipes I've listed here? Do you have any
     other suggestions?"
 
-4.  When you have added a title and description to the issue, and tagged
+4.  When you have added a title and description to the issue as well as tagged
     your neighbour in it, click the "Create" button to create it.
 
 You now have an issue to remind yourself of recipes you want to add!
