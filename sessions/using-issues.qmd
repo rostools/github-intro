@@ -22,10 +22,10 @@ TODO: Reading text
 
 ## Creating a GitHub Issue
 
-Since that we've decided that our recipe book should only include
+Since we've decided that our recipe book should only include
 recipes for sweets and baked goods, we might want to add a new folder
 for sweets in the future, such as recipes for chocolate-covered
-strawberries or chocolate mousse. Let's create an Issue to keep track of
+strawberries or chocolate mousse. Let's create an issue to keep track of
 this task.
 
 In the repository, we'll click on the "Issues" tab. On this page, we'll
@@ -40,15 +40,15 @@ the task in more detail.
 
 We can also assign someone to the issue so it is visible that they are
 responsible for completing this task. Since we don't have any
-collaborators on the project yet, let's assign it to ourselves. We can
-achieve this by going to the "Assignees" section on the right side of
-the page and click on our username.
+collaborators on the project yet, let's assign it to ourselves. We do
+this by going to the "Assignees" section on the right side of
+the page and clicking on our username.
 
-Finally, we can click the "Create issue" button in the bottom right side
+Finally, let's click the "Create issue" button in the bottom right side
 of the page to create the issue.
 
-Once we've created the issue, we can click the "Issues" tab to see it in
-the list of issues in the repository. We can click on the issue to see
+Once we've created the issue, when we click the "Issues" tab we'll see the new issue in
+the list of the repository's issues. When we click on the issue to see
 more details, such as comments, and we can also close the issue once the
 task is completed.
 
@@ -57,7 +57,7 @@ We have now created our first issue :tada:!
 ::: callout-tip
 ## Issue overview
 
-If you want to see get overview of the issues in a specific repository,
+If you want to see get an overview of the issues in a specific repository,
 you can go to the "Issues" tab in that repository.
 
 But if you want to see all the issues you have created across
