@@ -122,32 +122,48 @@ When you click that, you'll see a list with all the issues you have
 created across all repositories. Nice! :sparkles:
 :::
 
-## :technologist: Exercise: Create an issue with a list of future recipes to add
+## :technologist: Exercise: Create an issue to discuss future recipes
 
 **Time: \~10 minutes**
 
-To help you keep track of future tasks, you can use GitHub Issues. Let's
-make an Issue with a list of recipes you want to add to your repository.
+Imagine that you would like to discuss or brainstorm some ideas on
+what recipes to add to your recipe book next. Since GitHub Issues can be
+used for exactly that, it makes sense to create one to keep track of
+these ideas:
 
-1.  In your repository, click the "Issues" tab.
+1.  In your repository, click the "Issues" tab, and then the "New issue"
+    button.
 
-2.  Click the green "New issue" button.
-
-3.  Fill in the title with text like "List of future recipes". Then fill
-    in the description box with some recipes you would like to add. If
-    you don't know any recipes or are not sure, you could write:
+2.  Fill in the title with text like "What recipes to add next?". Then
+    fill in the description box with some recipes you might want to add
+    in the future. If you don't know any recipes or are not sure, you
+    could write something like:
 
     ``` markdown
-    I want to add the following recipes to the recipe book:
+    In the future I want to add more recipes to this project, but I'm not
+    entirely sure what to add yet. I'm open to suggestions!
 
-    -   Pancakes
+    Maybe, it could be:
+
+    -   Chocolate mousse
+    -   Chocolate-covered strawberries
     -   Apple pie
     ```
 
-4.  Click the green "Create" button to create the issue.
+3.  To inform the person you would like to get suggestions from, you can
+    tag them in the issue. To do this, type `@` followed by the username
+    of the person you want to tag. For example, if you want to tag
+    someone with the user name `signekb`, you would type `@signekb`. Ask
+    your neighbour about their GitHub username and tag them in the
+    issue. You could write: "Hey \@\[neighbour's GitHub username\], what
+    do you think about the recipes I've listed here? Do you have any
+    other suggestions?"
+
+4.  When you have added a title and description to the issue as well as tagged
+    your neighbour in it, click the "Create" button to create it.
 
 You now have an issue to remind yourself of recipes you want to add!
-:tada:
+:cake:
 
 {{< text_snippet sticky_up >}}
 
