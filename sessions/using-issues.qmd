@@ -72,7 +72,7 @@ Since you've been tagged in your neighbour's issue, finding the issue is
 easy. You can go to the notifications by clicking the button in the top
 right corner on GitHub and click on the issue to see the details.
 
-However, if you hadn't been tagged, you couldn't find the issue this
+However, if you hadn't been tagged, you can't find the issue this
 way. So, let's practice finding the issue in your neighbour's
 repository.
 
