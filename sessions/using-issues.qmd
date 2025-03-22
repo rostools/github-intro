@@ -45,7 +45,7 @@ Issues can be used in many ways. For example, you can use them to:
 
 -   Keep track of tasks you need to do.
 -   Discuss ideas with your collaborators.
--   Report problems or bugs.
+-   Report problems, bugs, or mistakes.
 -   Plan future work.
 -   Ask questions or request help from collaborators.
 
@@ -53,7 +53,7 @@ Issues can be assigned to specific people. By assigning an issue to
 someone, it becomes clear who is responsible for completing the task
 referenced in the issue. Another useful feature is that you can tag
 people in comments to notify them of the task or discussion. You tag
-people by by typing `@` followed by the person's username. Depending on
+people by typing `@` followed by the person's username. Depending on
 the person's notification settings, they will receive an email and/or a
 notification on GitHub when they get tagged.
 
