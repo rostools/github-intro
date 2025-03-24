@@ -218,10 +218,8 @@ adding a comment to it:
 ::: callout-tip
 ## Edit your issue or your comment
 
-TODO: Use the actual icon for the ...
-
 If you want to edit your issue or your comment to an issue, you can do
-so by clicking the "..." button on the right side of the issue or
+so by clicking the ![](/images/icon-ellipsis.svg){fig-alt="Ellipsis icon."} button on the right side of the issue or
 comment. This will open a dropdown menu. Click "Edit" in the dropdown.
 From here you can change the title, description, or comment text.
 
