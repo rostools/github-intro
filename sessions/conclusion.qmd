@@ -20,6 +20,20 @@ More specifically, we've:
 Let's spend a few minutes thinking about how you might use GitHub in
 your own work.
 
+## :speech_balloon: Discussion activity: Consider how you'd use GitHub in your work
+
+**Time: \~4 minutes.**
+
+Learning is most effective when there is some connection to what you do
+in your daily work life. On your own and based on what we've covered so
+far, think about how you might use GitHub in your own work. Then, share
+some of your ideas with your neighbour.
+
+1.  Take \~1 minute to think how you might use GitHub in your own work.
+2.  Then, pair up with your neighbour and take 3 minutes (1.5 minutes
+    each) to share your ideas.
+3.  After this, we'll come back together and share some of the
+    ideas---we might inspire each other!
 
 ## What's next?
 
