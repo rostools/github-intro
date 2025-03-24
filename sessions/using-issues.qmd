@@ -16,7 +16,6 @@ In this session, we will not add files to or edit files in the
 repository. Instead, we will focus on creating and using GitHub Issues
 to keep track of tasks and discussions in your project.
 
-
 ## :book: Reading task: What are GitHub Issues?
 
 **Time: \~7 minutes.**
@@ -50,8 +49,8 @@ Issues can be assigned to specific people. By assigning an issue to
 someone, it becomes clear who is responsible for completing the task
 referenced in the issue. Another useful feature is that you can tag
 people in comments to notify them of the task or discussion. You tag
-people by typing `@` followed by the person's username. Depending on
-the person's notification settings, they will receive an email and/or a
+people by typing `@` followed by the person's username. Depending on the
+person's notification settings, they will receive an email and/or a
 notification on GitHub when they get tagged.
 
 Once you have created an issue, you can add comments to it, discuss the
@@ -77,11 +76,10 @@ creating issues in our repositories.
 
 ## Creating a GitHub Issue
 
-Since we've decided that our recipe book should only include
-recipes for sweets and baked goods, we might want to add a new folder
-for sweets in the future, such as recipes for chocolate-covered
-strawberries or chocolate mousse. Let's create an issue to keep track of
-this task.
+Since we've decided that our recipe book should only include recipes for
+sweets and baked goods, we might want to add a new folder for sweets in
+the future, such as recipes for chocolate-covered strawberries or
+chocolate mousse. Let's create an issue to keep track of this task.
 
 In the repository, we'll click on the "Issues" tab. On this page, we'll
 see a list of the open issues in our repository. Since we (or someone
@@ -96,24 +94,24 @@ the task in more detail.
 We can also assign someone to the issue so it is visible that they are
 responsible for completing this task. Since we don't have any
 collaborators on the project yet, let's assign it to ourselves. We do
-this by going to the "Assignees" section on the right side of
-the page and clicking on our username.
+this by going to the "Assignees" section on the right side of the page
+and clicking on our username.
 
 Finally, let's click the "Create issue" button in the bottom right side
 of the page to create the issue.
 
-Once we've created the issue, when we click the "Issues" tab we'll see the new issue in
-the list of the repository's issues. When we click on the issue to see
-more details, such as comments, and we can also close the issue once the
-task is completed.
+Once we've created the issue, when we click the "Issues" tab we'll see
+the new issue in the list of the repository's issues. When we click on
+the issue to see more details, such as comments, and we can also close
+the issue once the task is completed.
 
 We have now created our first issue :tada:!
 
 ::: callout-tip
 ## Issue overview
 
-If you want to see get an overview of the issues in a specific repository,
-you can go to the "Issues" tab in that repository.
+If you want to see get an overview of the issues in a specific
+repository, you can go to the "Issues" tab in that repository.
 
 But if you want to see all the issues you have created across
 repositories, you can click the "Your issues" button in the top-right
@@ -126,10 +124,10 @@ created across all repositories. Nice! :sparkles:
 
 **Time: \~10 minutes**
 
-Imagine that you would like to discuss or brainstorm some ideas on
-what recipes to add to your recipe book next. Since GitHub Issues can be
-used for exactly that, it makes sense to create one to keep track of
-these ideas:
+Imagine that you would like to discuss or brainstorm some ideas on what
+recipes to add to your recipe book next. Since GitHub Issues can be used
+for exactly that, it makes sense to create one to keep track of these
+ideas:
 
 1.  In your repository, click the "Issues" tab, and then the "New issue"
     button.
@@ -159,8 +157,8 @@ these ideas:
     do you think about the recipes I've listed here? Do you have any
     other suggestions?"
 
-4.  When you have added a title and description to the issue as well as tagged
-    your neighbour in it, click the "Create" button to create it.
+4.  When you have added a title and description to the issue as well as
+    tagged your neighbour in it, click the "Create" button to create it.
 
 You now have an issue to remind yourself of recipes you want to add!
 :cake:
@@ -169,7 +167,8 @@ You now have an issue to remind yourself of recipes you want to add!
 
 ## GitHub notifications
 
-TODO: Add an instructor note here to talk about how to walk through notification tab.
+TODO: Add an instructor note here to talk about how to walk through
+notification tab.
 
 Now that you've been tagged in your neighbour's issue, you will have
 received a notification on GitHub (and probably also an email).
@@ -190,9 +189,8 @@ Since you've been tagged in your neighbour's issue, finding the issue is
 easy. You can go to the notifications by clicking the button in the top
 right corner on GitHub and click on the issue to see the details.
 
-However, if you hadn't been tagged, you can't find the issue this
-way. So, let's practice finding the issue in your neighbour's
-repository.
+However, if you hadn't been tagged, you can't find the issue this way.
+So, let's practice finding the issue in your neighbour's repository.
 
 ## :woman_technologist: Exercise: Comment on your neighbour's issue with a recipe suggestion
 
@@ -213,6 +211,20 @@ adding a comment to it:
     recipe as well :cake:.
 5.  When you have written your comment, click the green "Comment" button
     to post the comment.
+
+::: callout-tip
+## Edit your issue or your comment
+
+If you want to edit your issue or your comment to an issue, you can do
+so by clicking the
+![](/images/icon-ellipsis.svg){fig-alt="Ellipsis icon."} button on the
+right side of the issue or comment. This will open a dropdown menu.
+Click "Edit" in the dropdown. From here you can change the title,
+description, or comment text.
+
+Once you have made your changes, click the "Save" button for issues or
+"Update comment" for comments to save the changes.
+:::
 
 {{< text_snippet sticky_up >}}
 
