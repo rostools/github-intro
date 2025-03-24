@@ -8,8 +8,8 @@ everything set up.
 
 Depending on your skills and knowledge, these tasks could take between
 **1-2 hrs to finish**, so we suggest planning some time to complete
-them. While many of the tasks are mostly readings, they are
-important in making sure you get the most out of the workshop.
+them. While many of the tasks are mostly readings, they are important in
+making sure you get the most out of the workshop.
 
 ## Summary of tasks
 
@@ -37,16 +37,19 @@ to the concepts of *version control*, *Git*, and *GitHub*.
 
 ### What is GitHub then? {#sec-what-is-git-and-github}
 
-::: {#fig-git-and-github-logos layout="[40,-20,40]" layout-valign="center"}
+::::: {#fig-git-and-github-logos layout="[40,-20,40]" layout-valign="center"}
 ::: {#left-column}
-![](../images/logo-git.svg){fig-alt="Git logo" width=50%}
+![](../images/logo-git.svg){fig-alt="Git logo" width="50%"}
 :::
+
 ::: {#right-column}
-![](../images/logo-github.svg){fig-alt="GitHub logo" width=50%}
-![](../images/logo-text-github.svg){fig-alt="GitHub logo text" width=50%}
+![](../images/logo-github.svg){fig-alt="GitHub logo" width="50%"}
+![](../images/logo-text-github.svg){fig-alt="GitHub logo text"
+width="50%"}
 :::
+
 Git and GitHub logos.
-:::
+:::::
 
 There are several ways to use Git. In this workshop, we will use
 [GitHub](https://github.com/), which is a website that hosts projects
@@ -82,9 +85,9 @@ So far, we have encountered the following terminology:
 ## :woman_technologist: Create a GitHub account {#sec-github-user}
 
 To participate in the workshop, you will need a GitHub account. Please
-go to the [GitHub website](github.com) and create an account.
-Remember your username, as you will need it for the survey at the
-end of this section.
+go to the [GitHub website](github.com) and create an account. Remember
+your username, as you will need it for the survey at the end of this
+section.
 
 If you already have one, you can skip this task, but we will still ask
 you to provide your username in the survey at the end of this section.
