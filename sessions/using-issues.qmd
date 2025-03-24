@@ -214,19 +214,23 @@ adding a comment to it:
 5.  When you have written your comment, click the green "Comment" button
     to post the comment.
 
-{{< text_snippet sticky_up >}}
 
 ::: callout-tip
 ## Edit your issue or your comment
 
+TODO: Use the actual icon for the ...
+
 If you want to edit your issue or your comment to an issue, you can do
 so by clicking the "..." button on the right side of the issue or
 comment. This will open a dropdown menu. Click "Edit" in the dropdown.
-This will allow you to change the title, description, or comment text.
+From here you can change the title, description, or comment text.
 
 Once you have made your changes, click the "Save" button for issues or
 "Update comment" for comments to save the changes.
 :::
+
+{{< text_snippet sticky_up >}}
+
 
 ## Add a collaborator to your repository
 
