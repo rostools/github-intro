@@ -1,1 +1,48 @@
 # Concluding remarks {#sec-conclusion}
+
+<!-- TODO: Add content that mirrors/reflects on the bigger picture from the intro (once that has been made) -->
+
+We've reached the end of the workshop! Let's take a look at what we've
+covered.
+
+We've now covered the basics of GitHub and Git, working with files on
+GitHub, and making and using GitHub Issues.
+
+More specifically, we've:
+
+-   Created a repository on GitHub
+-   Worked with files in our own repository on GitHub: Created, edited,
+    renamed, and deleted recipe files and folders
+-   Created and commented on GitHub issues
+-   Added and removed collaborators
+-   Worked with files in our collaborator's repository on GitHub
+
+Let's spend a few minutes thinking about how you might use GitHub in
+your own work.
+
+
+## What's next?
+
+We hope you've enjoyed this workshop and that you've learned something
+new about GitHub and Git. If you want to learn more about Git and
+GitHub, we are working on a series of workshops that will cover more
+advanced topics:
+
+1.  Work-in-progress:
+    [quarto-website-intro](https://github.com/rostools/quarto-website-intro) -
+    Create a website using GitHub and Quarto.
+2.  Work-in-progress: [git4cats]() - Work in
+    **C**oll**A**borative**T**eam**S** using Git and GitHub.
+
+You can continue learning about Git and GitHub by exploring the [GitHub
+Docs](https://docs.github.com/en) where you can learn more about e.g.,
+[repositories](https://docs.github.com/en/repositories) and [GitHub
+Issues](https://docs.github.com/en/issues).
+
+If you are interested in learning about modern approaches and workflows
+in R (that also touch upon Git and GitHub), take loot at our workshop
+series [r-cubed: Reproducible Research in
+R](https://r-cubed.rostools.org/). As this workshop, the workshop
+material is free and open to everyone.
+
+<!-- TODO: Can we add a link to DDEA or somewhere where people can find out when the workshops will be run again? -->
