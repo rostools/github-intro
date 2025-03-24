@@ -37,8 +37,16 @@ to the concepts of *version control*, *Git*, and *GitHub*.
 
 ### What is GitHub then? {#sec-what-is-git-and-github}
 
-![Git and GitHub. Image from [this
-post](https://medium.com/@amitkhachane.7/an-intro-to-git-and-github-for-beginners-git-for-newbies-f22189553a0a)](../images/git-github.png){#fig-git-and-github}
+::: {#fig-git-and-github-logos layout="[40,-20,40]" layout-valign="center"}
+::: {#left-column}
+![](../images/logo-git.svg){fig-alt="Git logo" width=50%}
+:::
+::: {#right-column}
+![](../images/logo-github.svg){fig-alt="GitHub logo" width=50%}
+![](../images/logo-text-github.svg){fig-alt="GitHub logo text" width=50%}
+:::
+Git and GitHub logos.
+:::
 
 There are several ways to use Git. In this workshop, we will use
 [GitHub](https://github.com/), which is a website that hosts projects
