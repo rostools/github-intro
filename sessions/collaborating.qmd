@@ -1,0 +1,202 @@
+# Collaborating on GitHub
+
+Now that we've learned how to work with files and issues on GitHub,
+let's take a look at how to collaborate with others on GitHub
+:handshake:
+
+## Learning objectives
+
+The learning objectives of this session are:
+
+{{< include /includes/_collaborating-objectives.qmd >}}
+
+Right now, your repository file structure looks like this:
+
+```         
+recipe-book/
+├── baked-goods/
+│   └── chocolate-chip-cookies.md
+```
+
+By the end of the session, your repository file structure will look like
+this:
+
+```         
+recipe-book/
+├── baked-goods/
+│   └── chocolate-chip-cookies.md
+├── desserts/ <-- Added by another person!
+│   └── chocolate-mousse.md <-- Added by another person!
+```
+
+## :book: Reading task: Repository collaborators
+
+**Time: \~4 minutes.**
+
+We've mentioned that working on GitHub can ease collaboration. But so
+far, we've only worked on our own repositories.
+
+By default, you can't make changes to files in someone else's repository
+directly even though you can see it on GitHub. If you want to work
+together with someone on a project, you can add them as a
+**collaborator** to your repository. This way, they can make changes to
+your repository as well. This mechanism ensures that only people you
+have agreed to work with can make changes to files in your repository.
+Nice, right?
+
+When you've added someone as a collaborator to your repository--or they
+have added you--you can work in each other's repositories much like
+we've done in this workshop so far: You can add files, edit files, and
+delete files.
+
+::: callout-note
+Collaborating by adding collaborators and working with files in others'
+repositories is quite a simple way of collaborating on a project. It's a
+good starting point for collaboration on GitHub, however, working with
+Git and GitHub includes many more ways of collaborating. Collaborating
+this way is a bit more technical and, unfortunately, we don't have the
+time to cover it in this workshop.
+
+But, working with collaborators and files in others' repositories is a
+great starting point!
+:::
+
+Next, we'll go through the steps to add collaborators to your
+repositories :tada:
+
+{{< text_snippet sticky_up >}}
+
+## Add a collaborator
+
+Now, we'll add a collaborator to our repository. In the repository,
+we'll click the "Settings" tab, then in the sidebar to the right under
+"Access", we'll click "Collaborators". Now, we're on a page called
+"Collaborators and teams". Here, we'll add our neighbour as a
+collaborator to our repository.
+
+Under "Mange access", let's click the "Add people" button. A search bar
+will appear. Here, we'll search for our neighbour's GitHub username.
+When we've found it, we'll click the "Add to repository" at the bottom
+of the pop up.
+
+This will send an invitation email to our neighbour to be a collaborator
+on our repository. When they've accepted the invitation, they'll be able
+to make changes to our repository.
+
+<!-- TODO: Check that the steps above are correct by actually inviting each other to a repo like this -->
+
+<!-- TODO: Add something about types of access? For the next parts, we need write access -->
+
+We've now added our neighbour as a collaborator to our repository. They
+can now make changes to our repository :partying_face:
+
+::: callout-tip
+## See your collaborators
+
+To see that we've added our neighbour as a collaborator, we can go back
+to the "Collaborators and teams" page. Here, we'll see our neighbour's
+username listed as a collaborator to our repository.
+:::
+
+Next up, we'll start working with files in our neighbour's repository.
+Let's get to it! :rocket:
+
+## :technologist: Exercise: Add a recipe to your collaborator's repository
+
+> Time: \~10 minutes.
+
+Now, to practice working with files in a collaborator's repository,
+you'll add a recipe to your neighbour's repository. For simplicity, let
+it be a brownie recipe like the example recipe below.
+
+Here's the steps you'll do:
+
+1.  Go to your neighbour's GitHub repository.
+
+2.  Since you'll add a brownie recipe, go to their `baked-goods/` folder
+    and click the "Add file" button. Name the file (following the good
+    practice of naming files we've followed during this workshop) and
+    add the example brownie recipe below as the content of the file.
+
+    Notice that this is the same way we've added files in our own
+    repositories in this workshop so far. We can do the same here
+    because we've been added as collaborators of the repository
+    :handshake:
+
+3.  Commit the changes as you have done previously in the workshop. Then
+    go to the neighbour's repository's history to see the changes you
+    have made.
+
+**Example brownie recipe:**
+
+``` markdown
+Ingredients for brownies
+
+- 350 grams dark chocolate
+- 250 grams butter
+- 4 eggs
+- 150 grams brown sugar
+- 150 grams white sugar
+- 60 grams flour
+- 1 tsp baking powder
+
+Instructions
+
+1. Melt the chocolate and butter together.
+2. Whisk the eggs until frothy and add brown and white sugar.
+3. Add the melted chocolate and butter to the egg mixture.
+4. Add the flour and baking powder.
+5. Pour the mixture into a baking tray and bake at 170°C for 30-35 minutes.
+```
+
+{{< text_snippet sticky_up >}}
+
+## Check out our collaborator's changes in our repositories
+
+As a last step, let's go back to our own repository and see the changes
+that have been made by our collaborator.
+
+We can see the collaborator's commit message, and if we go to our
+`bakery-goods/` folder, we can see that they have added a file to our
+repository. If
+
+This is what collaboration on GitHub can look like. Nice :+1:
+
+## Removing collaborators
+
+But, what if you want to remove a collaborator from your repository?
+This could be if they've finished their work on your repository, if
+they've left the project, or for some other reason.
+
+Let's go through the steps to remove a collaborator from your
+repository.
+
+First, we'll go to the "Settings" tab in our repository. In the sidebar
+to the right, we'll click "Collaborators". Here, we'll see a list of all
+the collaborators on our repository. To remove a collaborator, we'll
+click the trash bin
+![](/images/icon-trash.svg){fig-alt="The GitHub trash icon."}
+button next to their username. We'll then be asked to confirm that we
+want to remove the collaborator. Let's confirm and remove the
+collaborator our repository again.
+
+As earlier, we can go back to the "Collaborators and teams" page to see
+that the collaborator has been removed from our repository.
+
+If we go to our repository's history, we can see that the collaborator's
+changes are still there. This is because the collaborator's changes are
+part of the repository's history. This is nice because it means that
+adding or removing a collaborator doesn't affect the changes they've
+made to the repository :+1:
+
+## Summary
+
+In this session, we've looked at how we can collaborate with others on
+GitHub. We have:
+
+-   Added a collaborator to our repository (and been added to someone
+    else's repository)
+-   Worked with files in a collaborator's repository
+-   Removed the collaborator from our repository.
+-   Seen how we can see the changes made by our collaborator in our
+    repository.
