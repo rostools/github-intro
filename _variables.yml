@@ -5,4 +5,4 @@ github-commit: |
   "Commit directly to the main branch" option selected. Then, click
   "Commit changes" at the bottom of the pop-up.
 pencil-icon: |
-  ![](../images/icon-pencil.svg){fig-alt="Pencil icon"}
+  ![](/images/icon-pencil.svg){fig-alt="Pencil icon"}
