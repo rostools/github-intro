@@ -107,8 +107,8 @@ graph
 You may notice that GitHub sounds a bit like file synching tools such as
 OneDrive or Dropbox. So how is GitHub different? Unlike OneDrive or
 Dropbox, GitHub (via Git) tracks line-level changes to files, not just
-file-level changes. This means you can see exactly what changed in a
-file, not just that a file changed. OneDrive and Dropbox also use a
+file-level changes. This means you can see the specific changes made in a
+file, not just that it was changed. OneDrive and Dropbox also use a
 simple way of handling conflicts when synching between the cloud and
 your computer by either creating a new file with some details appending
 to it or by overwriting which ever is newer. GitHub, on the other hand,
