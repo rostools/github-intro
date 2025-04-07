@@ -4,3 +4,5 @@ github-commit: |
   describe the change. No extended description is needed. Keep the 
   "Commit directly to the main branch" option selected. Then, click
   "Commit changes" at the bottom of the pop-up.
+pencil-icon: |
+  ![](/images/icon-pencil.svg){fig-alt="Pencil icon"}
