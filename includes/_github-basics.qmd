@@ -62,22 +62,16 @@ graph
 You may notice that GitHub sounds a bit like file synching tools such as
 OneDrive or Dropbox. So how is GitHub different? Unlike OneDrive or
 Dropbox, GitHub (via Git) tracks line-level changes to files, not just
-file-level changes. This means you can see exactly what changed in a
-file, not just that a file changed. OneDrive and Dropbox also use a
+file-level changes. This means you can see the specific changes made in
+a file, not just that it was changed. OneDrive and Dropbox also use a
 simple way of handling conflicts when synching between the cloud and
 your computer by either creating a new file with some details appending
 to it or by overwriting which ever is newer. GitHub, on the other hand,
 uses a more complex way of handling conflicts by showing you the changes
-and asking you to resolve them. We won't cover conflicts in this
-workshop since conflicts usually (but not always) happen when you are
-working with several other people on a repository. But this workshop
-isn't about working with others, only how you can use GitHub on your
-own.
+and asking you to resolve them.
 
 File synching tools are really good for easily sharing files within a
 team or group, but they aren't as good for collaboratively working
 together on files. That's where GitHub shines. It's built for working on
-files together, not just sharing them. But again, we won't cover
-collaborating with others in this workshop, that will be for another
-workshop.
+files together, not just sharing them.
 :::
