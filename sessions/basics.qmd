@@ -12,12 +12,11 @@ The learning objectives of this session are to:
 
 **Time: \~5 Minutes**
 
-Before we start the workshop, we'll take some time to "prime" your
-memory and activate your prior learning of what you read during the
-pre-workshop tasks. Then after this activity, you'll again read the
-description of Git and GitHub from pre-workshop tasks. We do this
-because effective learning is about retrieval, repetition, and actively
-engaging in the material. So:
+Before we start the workshop, we'll take some time to refresh your
+memory on what you read about Git and GitHub in the pre-workshop tasks.
+Then after this activity, you'll again read the description of Git and
+GitHub from pre-workshop tasks. We do this because effective learning is
+about retrieval, repetition, and actively engaging in the material. So:
 
 1.  For 1 minute, recall what you understood about Git and GitHub from
     the pre-workshop tasks. Think about how you'd explain it to someone
@@ -87,9 +86,9 @@ first log in to GitHub. It shows you a summary of what's happening in
 your GitHub account as well as quick links to common items. For this
 workshop, we will only focus on these items:
 
--   **Top repositories** list and search bar at the top of the left sidebar.
-   Since you are new to GitHub, you likely won't have any (or only
-    a few) repositories listed here.
+-   **Top repositories** list and search bar at the top of the left
+    sidebar. Since you are new to GitHub, you likely won't have any (or
+    only a few) repositories listed here.
 -   **Create new...** button on the navigation bar on the top right that
     looks like: {{< fa plus >}} {{< fa caret-down >}}. This is where you
     can create a new repository, as well as other items we won't cover
@@ -98,15 +97,19 @@ workshop, we will only focus on these items:
     like:
     ![](/images/icon-issues.svg){fig-alt="The GitHub issues icon."}.
     This is where you can view all issues you've made, participate in,
-    or have been assigned to.
+    or have been assigned to. From our experience, we don't use this
+    item often, but can be useful to quickly find or search for a
+    specific issue.
 -   **Notifications inbox** button on navigation bar on the top right
     that looks like:
     ![](/images/icon-inbox.svg){fig-alt="The GitHub notifications inbox icon."}.
     This is where you can see all notifications about activities in your
-    repositories, like when someone comments on an issue you made or mentions you in an issue.
+    repositories, like when someone comments on an issue you made or
+    mentions you in an issue.
 
-We'll return to these items later in the workshop, but for now,
-it's enough for you to know where they are. Let’s go to the next section and create a new repository :rocket:
+We'll return to these items later in the workshop, but for now, it's
+enough for you to know where they are. Let’s go to the next section and
+create a new repository :rocket:
 
 ## Creating a new repository
 
@@ -116,12 +119,14 @@ it's enough for you to know where they are. Let’s go to the next section and c
 Take it slow here as you create the repository as this is the first
 "type-along" of the workshop. Make sure to explain each option and what
 it does, using the table below as a guide.
+
+Also briefly introduce Markdown and mention the `.md` file extension.
 :::
 
-Now that we've gone over the landing page of GitHub and taken a look at some
-commonly used areas of GitHub, let's use GitHub for it's main purpose of
-working with and managing files. We'll do that by creating a new
-repository on GitHub.
+Now that we've gone over the landing page of GitHub and taken a look at
+some commonly used areas of GitHub, let's use GitHub for it's main
+purpose of working with and managing files. We'll do that by creating a
+new repository on GitHub.
 
 A repository is essentially a folder that contains all the files and
 sub-folders for a project or for a specific purpose, just like how you
@@ -130,8 +135,8 @@ you could keep all the files related to that project in the repository
 so it is all in one place. Alternatively, you can have a repository to
 store administration files for your lab or group.
 
-For this workshop, we'll create a repository for a recipe project that will contain files with recipes
-:yum: :cake: :pizza: :stew:
+For this workshop, we'll create a repository for a recipe project that
+will contain files with recipes :yum: :cake: :pizza: :stew:
 
 1.  Click on the **Create new...** button {{< fa plus >}}
     {{< fa caret-down >}} on the top right side of the navigation bar.
@@ -146,7 +151,7 @@ For this workshop, we'll create a repository for a recipe project that will cont
 | Repository name | This is the name of the repository or project. | Name it `recipes`. |
 | Description | This is a short description of what the repository is for and what it will contain. | Write "Keeping our favourite recipes for a workshop". |
 | Public or Private | This is whether the repository is visible to everyone (public) or only to you and people you give access to (private). | Leave it as public. |
-| Add a README file | This is a file that is shown on the front page of the repository. It is a good place to put information about the repository. | Make sure it is checked. |
+| Add a README file | This is a file that is shown on the front page of the repository. It is a good place to put information about the repository. When checked, it will say something about "set main as default branch". You can safely ignore this message. | Make sure it is checked. |
 | Add .gitignore | This is a file that tells Git to ignore certain files or folders. | Leave it unchecked. |
 | Choose a license | This is a file that tells others how they can use the files in the repository. | Leave it unchecked. |
 
@@ -156,10 +161,23 @@ GitHub. {#tbl-new-repo-options}
 It's now time to click the **Create repository** button at the bottom of
 the page. After you click the button, you'll be taken to the front page
 of the repository. This is where you can see all the files and folders
-that are currently in this repository. We will go over adding
-and modifying files in the repository in the next section. For now, this
-is the perfect time to talk about something that is fundamental to
-working with files and folders: file paths.
+that are currently in this repository.
+
+In this new repository is only one file: `README.md`. The `README.md`
+file is a common file included in repositories as it describes what the
+repository contains and is used for.
+
+The files that have the file extension `.md` like this `README.md` file
+means they are Markdown files.
+[Markdown](https://quarto.org/docs/authoring/markdown-basics.html) is a
+plain text file format (a type of file, like Word's `.docx`) that's
+designed to be easy to write and read. Markdown files are commonly used
+to write text documents. We won't cover how to write Markdown in this
+workshop, we'll only use them.
+
+We will go over adding and modifying files in the repository in the next
+section. For now, this is the perfect time to talk about something that
+is fundamental to working with files and folders: file paths.
 
 ## :book: Reading task: What is a file path?
 
@@ -210,18 +228,8 @@ another. This "relativeness" also is shown by two "special characters":
     `Documents/` to the end of the file path, which would be
     `/Users/username/Documents/`.
 
-You may have noticed that when we created the repository, a file called
-`README.md` was automatically created. The `.md` file extension stands
-for [Markdown](https://quarto.org/docs/authoring/markdown-basics.html)
-and is a plain text file format (a type of file, like Word's `.docx`)
-that's designed to be easy to write and read.
-
-We won't cover how to write Markdown in this workshop. All you need to
-know is that we use Markdown files here because it is a common format
-for text files.
-
 We'll be working with and navigating the file path on GitHub throughout
-this workshop, you will get more exposure to it as we go along.
+this workshop, so you will get more exposure to it as we go along.
 
 {{< text_snippet sticky_up >}}
 
@@ -237,25 +245,24 @@ of the files in the repository at each step.
 Before we get into hands-on work with files on GitHub, we'll briefly do
 a walkthrough of what happens when you add or modify files stored in a
 Git repository like on GitHub. In @fig-git-commits, we have a
-hypothetical series of actions done in a Git repository on GitHub that create
-commits that are added to the Git history log each time.
+hypothetical series of actions done in a Git repository on GitHub that
+create commits that are added to the Git history log each time.
 
-When we first create a repository, at least when created on GitHub,
-often it will automatically add a file called `README.md` which creates
-the first commit of the repository. The `README.md` file is a common
-file included in repositories as describes what the repository contains
-and is used for. The next step is to add the first file (aside from the
-`README.md`) to the repository, which again creates a new commit. As we
-make a change to that file, this creates another commit. With each new
-file added or when an existing file is modified, moved, deleted, or
-renamed, a new commit is created. As shown in @fig-git-commits, each
-step made adds a new commit, which is the "circle" or "dot" on the
-diagram, to the Git history log.
+The next step is to add the first file (aside from the `README.md`) to
+the repository, which again creates a new commit. As we make a change to
+that file, this creates another commit. With each new file added or when
+an existing file is modified, moved, deleted, or renamed, a new commit
+is created. As shown in @fig-git-commits, each step made (with
+description of the step shown in the diagram) adds a new commit, which
+is the "circle" or "dot" on the diagram, to the Git history log. The
+name "main" is the default name of the "branch" that contains the saved
+commits in the Git history log. We won't cover branches in this
+workshop.
 
 ```{mermaid}
 %%| label: fig-git-commits
 %%| fig-cap: "Each step creates a new commit in the history log of the Git repository on GitHub."
-%%| fig-alt: "A diagram showing a series of commits in a Git repository, with text that is expanded on below the diagram."
+%%| fig-alt: "A diagram showing a series of commits in a Git repository, with text describing the step corresponding to the commit that is expanded on below the diagram."
 %%{init: {'themeVariables': {
   'git0': '#ba8b00', 
   'commitLabelBackground': '#ffffff', 
@@ -286,7 +293,7 @@ commit, they look like:
     ```         
     recipes/
     ├── README.md
-    └── tomato-soup.md
+    └── romato-soup.md
     ```
 
 3.  Fix a typo: 'tomato-soup.md'
@@ -318,12 +325,12 @@ Because of this history of connected commits that each contain changes
 made to a file, it allows you to be able to navigate this history and
 see exactly what was changed. You can even go back to the state of the
 folder, with the exact files and their contents that existed at that
-point in time. 
+point in time.
 
-Why is this important or useful? Because we humans have
-imperfect memories, so having it recorded in a history log makes it much
-easier to recall what you or your collaborators were doing at a specific
-point in time as well as when a specific change was added and why.
+Why is this important or useful? Because we humans have imperfect
+memories, so having it recorded in a history log makes it much easier to
+recall what you or your collaborators were doing at a specific point in
+time as well as when a specific change was added and why.
 
 ## :speech_balloon: Discussion activity: Explain the basics of Git and GitHub
 
@@ -355,6 +362,7 @@ what we've covered so far about Git. So:
     sub-folders for a project.
 -   File paths are the location of a file or folder in a filesystem.
 -   Each change to a file in a repository creates a new commit in the
-    Git history log, each with their own commit message (when working on GitHub).
+    Git history log, each with their own commit message (when working on
+    GitHub).
 -   Commits are connected to each other, creating a history log of
     changes made to files in a repository.
