@@ -275,7 +275,7 @@ gitGraph TB:
   commit id: "2. Add a new recipe: 'romato-soup.md'"
   commit id: "3. Fix a typo: 'tomato-soup.md'"
   commit id: "4. Move file to new folder: 'soups/tomato.md'"
-  commit id: "5. Add a new recipe file: 'baked-goods/cake.md'"
+  commit id: "5. Add a new recipe file and folder: 'baked-goods/cookies.md'"
 ```
 
 When we look at the files that exist in the repository with each new
@@ -321,9 +321,8 @@ commit, they look like:
     └── baked-goods/cake.md
     ```
 
-Because of this history of connected commits that each contain changes
-made to a file, it allows you to be able to navigate this history and
-see exactly what was changed. You can even go back to the state of the
+Because the Git history consists of these connected commits that each have the
+changes, we're able to see exactly what was changed. You can even go back to the state of the
 folder, with the exact files and their contents that existed at that
 point in time.
 
