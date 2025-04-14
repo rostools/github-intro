@@ -68,58 +68,7 @@ Then, highlight some simple differences between tools like OneDrive and
 GitHub.
 :::
 
-In the simplest terms, GitHub is a company and website while Git is
-software. GitHub is a website that hosts Git repositories and builds on
-top of Git's core functionalities. It also simplifies working with Git.
-For instance:
-
--   GitHub requires that whenever you edit a file, 
-    you need to commit those changes *right away*. When using Git on your computer,
-    you don't need to commit changes right away.
--   Viewing the changes you've made in files is easier and nicer on
-    GitHub than with Git.
--   Viewing the history log of changes is easier and more pleasant on
-    GitHub than on Git.
-
-GitHub offers many tools to help you manage your project if its
-files are stored there. For instance, GitHub has "Issues"
-that allow you to create tasks or notes related to the project. We'll create our own GitHub Issues later in this workshop.
-
-While we will only be interacting with Git on GitHub for this workshop,
-when you feel more comfortable with the concepts, you can eventually
-start using Git on your computer. Using Git on your computer has the
-benefit of being faster (you do work locally, so don't need to wait for
-the internet) and more flexible (you can do more things with Git on your
-computer than on GitHub). Then you can use GitHub as a place to keep
-backups of your repository, to track tasks, and to make use of the other
-features GitHub has. How you would use Git with GitHub would look
-something like @fig-git-sync-github.
-
-```{mermaid}
-%%| label: fig-git-sync-github
-%%| fig-cap: "How Git and GitHub can work together by synchronising changes between GitHub and your computer."
-%%| fig-alt: "A diagram showing two boxes, one of a Git repository on your computer and another of a Git repository on GitHub, along with an arrow between each box showing them synchronise between both."
-graph
-  github(Git repository<br>on GitHub) <-- Synch --> git(Git repository<br>on your computer)
-```
-
-::: callout-note
-You may notice that GitHub sounds a bit like file synching tools such as
-OneDrive or Dropbox. So how is GitHub different? Unlike OneDrive or
-Dropbox, GitHub (via Git) tracks line-level changes to files, not just
-file-level changes. This means you can see exactly what changed in a
-file, not just that a file changed. OneDrive and Dropbox also use a
-simple way of handling conflicts when synching between the cloud and
-your computer by either creating a new file with some details appending
-to it or by overwriting which ever is newer. GitHub, on the other hand,
-uses a more complex way of handling conflicts by showing you the changes
-and asking you to resolve them.
-
-File synching tools are really good for easily sharing files within a
-team or group, but they aren't as good for collaboratively working
-together on files. That's where GitHub shines. It's built for working on
-files together, not just sharing them.
-:::
+{{< include /includes/_github-basics.qmd >}}
 
 ## GitHub's landing page
 
