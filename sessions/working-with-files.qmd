@@ -188,8 +188,9 @@ Let's start by doing this with the soup recipe we added earlier.
 
 Let's start by renaming the `soup.md` file. We'll go to the `soup.md`
 file in the repository by clicking on it in the "Code" tab. Then, we'll
-click the pencil icon on the top-right side of the page to edit the
-file.
+click the pencil icon
+{{< var pencil-icon >}} on the top-right
+side of the page to edit the file.
 
 On the top-left side of the page, we'll see the name of the file. Let's
 click on the name and rename the file to `tomato-soup.md`. Remember to
@@ -210,7 +211,8 @@ said "Ingredients for soup" on the first line. This is a bit generic, so
 let's change it.
 
 Like before, we'll click the `tomato-soup.md` file in the "Code" tab of
-the repository to open it and click the pencil icon on the top-right
+the repository to open it and click the pencil icon
+{{< var pencil-icon >}} on the top-right
 side of the page.
 
 Now, let's revise the first line of the file to be "Ingredients for
@@ -227,7 +229,8 @@ this is ingredients for a tomato soup".
 Next, let's move the `tomato-soup.md` file to a new `soups/` folder.
 
 As before, we'll click the `tomato-soup.md` file to open it and click
-the pencil icon on the top-right side of the page.
+the pencil icon {{< var pencil-icon >}} on
+the top-right side of the page.
 
 Now, let's change the path of the file to a new folder in the
 repository, by adding `soups/` before the file name like so:
@@ -283,8 +286,10 @@ new folder.
 
 Start by renaming the `cookie-recipe.md` file:
 
-1.  Click the pencil icon on the top-right side of the page ("Edit this
-    file") to edit the `cookie-recipe.md` file.
+1.  Click the pencil icon
+    {{< var pencil-icon >}} on the
+    top-right side of the page ("Edit this file") to edit the
+    `cookie-recipe.md` file.
 2.  Click the name of the file at the top-left of the page and rename
     the file to `chocolate-chip-cookies.md`. Remember to not use spaces
     in the file name and keep the file extension (`.md`).
@@ -294,8 +299,9 @@ Start by renaming the `cookie-recipe.md` file:
 Similarly to the soup recipe, change the first line of the
 `chocolate-chip-cookies.md` file:
 
-1.  Click the pencil icon on top-right side of the page ("Edit this
-    file") to edit the file.
+1.  Click the pencil icon
+    {{< var pencil-icon >}} on top-right
+    side of the page ("Edit this file") to edit the file.
 2.  Edit the first line of the file by adding "chocolate chip", so it
     becomes "Ingredients for chocolate chip cookies".
 3.  {{< var github-commit >}} Here, a descriptive message could be
@@ -303,8 +309,10 @@ Similarly to the soup recipe, change the first line of the
 
 Next, move the file to a new `baked-goods/` folder:
 
-1.  Click the pencil icon on the top-right side of the page ("Edit this
-    file") as we did before on the `chocolate-chip-cookies.md` file.
+1.  Click the pencil icon
+    {{< var pencil-icon >}} on the
+    top-right side of the page ("Edit this file") as we did before on
+    the `chocolate-chip-cookies.md` file.
 2.  Click the name of the file at the top-left of the page and change
     the path of the file to a new folder to your repository. The current
     file path is `chocolate-chip-cookies.md`. To create a new folder,
@@ -423,19 +431,6 @@ You can access the history of a specific file by going to the file in
 the repository and clicking the "History" button on the top-right side
 of the page.
 :::
-
-## :speech_balloon: Discussion activity: Consider how you'd use GitHub in your work
-
-**Time: \~4 minutes.**
-
-Learning is most effective when there is some connection to what you do
-in your daily work life. On your own and based on what we've covered so
-far, think about how you might use GitHub in your own work. Then, share
-some of your ideas with your neighbour.
-
-1.  Take \~1 minute to think how you might use GitHub in your own work.
-2.  Then, pair up with your neighbour and take 3 minutes (1.5 minutes
-    each) to share your ideas.
 
 ## Summary
 

@@ -1,0 +1,8 @@
+[files]
+extend-exclude = [
+  "*.css",
+  ".quarto/*",
+  "_site/*",
+  "_book/*",
+]
+

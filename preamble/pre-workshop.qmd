@@ -67,8 +67,31 @@ go to the [GitHub website](github.com) and create an account. Remember
 your username, as you will need it for the survey at the end of this
 section.
 
+::: callout-note
 If you already have one, you can skip this task, but we will still ask
 you to provide your username in the survey at the end of this section.
+:::
+
+Whenever events or activities related to you happen on GitHub, you will
+receive a notification. By default, the notification sends to both your
+GitHub "inbox" (which we cover later) and your email. Unfortunately,
+there can quickly become a lot of activities happening and you will
+receive a large volume of email notifications. This can be overwhelming.
+
+You can manage your notifications and prevent your email inbox from
+being sent many GitHub notification emails by setting a few options in
+your GitHub account settings.
+
+While logged into your new GitHub account, click on your account icon in
+the top-right corner of GitHub and select the "Settings" option. In the
+left sidebar, select "Notifications". Under "Subscriptions", select
+"Notify me: on GitHub" and for all options. In the "System" section,
+under "Actions", deselect all options and click "Save". This will show
+up as "Don't notify". If you want some notifications sent to your email,
+you can always come back and change these settings later.
+
+With these options selected, you will only get notifications on GitHub,
+not by email.
 
 ## Pre-workshop survey {#sec-pre-workshop-survey}
 
