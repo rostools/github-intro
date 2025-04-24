@@ -6,7 +6,7 @@
 
 The learning objectives of this session are to:
 
-{{< include /includes/_basics-objectives.qmd >}}
+{{< include /includes/objectives/_basics.qmd >}}
 
 ## :speech_balloon: Discussion activity: Recall what you read during the pre-workshop tasks
 
