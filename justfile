@@ -2,7 +2,7 @@
     just --list --unsorted
 
 # Run all recipes
-run-all: build-website 
+run-all: check-spelling build-website 
 
 # Check spelling
 check-spelling:
