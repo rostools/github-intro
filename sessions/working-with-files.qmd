@@ -6,7 +6,7 @@
 
 The learning objectives of this session are:
 
-{{< include /includes/_working-with-files-objectives.qmd >}}
+{{< include /includes/objectives/_working-with-files.qmd >}}
 
 During the session, you will:
 

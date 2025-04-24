@@ -4,7 +4,7 @@
 
 The learning objectives of this session are:
 
-{{< include /includes/_using-issues-objectives.qmd >}}
+{{< include /includes/objectives/_using-issues.qmd >}}
 
 During the session, you will:
 

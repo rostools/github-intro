@@ -21,9 +21,9 @@ The aim of this workshop is to enable you to:
 Broken down into specific objectives within a few sessions, the workshop
 will enable you to:
 
-{{< include /includes/_basics-objectives.qmd >}}
-{{< include /includes/_working-with-files-objectives.qmd >}}
-{{< include /includes/_using-issues-objectives.qmd >}}
+{{< include /includes/objectives/_basics.qmd >}}
+{{< include /includes/objectives/_working-with-files.qmd >}}
+{{< include /includes/objectives/_using-issues.qmd >}}
 
 Tangibly, during the workshop we will:
 
