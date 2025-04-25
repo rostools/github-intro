@@ -70,7 +70,7 @@ questions:
     thesis do you have laying around after getting feedback from your
     supervisor or co-authors?
 -   Have you ever wanted to test an analysis in a
-    file but ended up creating a new one to avoid modifying the original? 
+    file but ended up creating a new one to avoid modifying the original?
 -   Have you ever deleted something and wished you hadn't?
 -   Have you ever forgotten what you were doing on a project, or why you
     chose a particular strategy or analysis?

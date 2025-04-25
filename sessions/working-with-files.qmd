@@ -17,7 +17,7 @@ During the session, you will:
 
 Right now, your repository file structure looks like this:
 
-```         
+```
 recipe-book/
 ```
 
@@ -26,7 +26,7 @@ recipe-book/
 By the end of the session, your repository file structure will look like
 this:
 
-```         
+```
 recipe-book/
 ├── baked-goods/
 │   └── chocolate-chip-cookies.md
@@ -89,7 +89,7 @@ about above and call it `soup.md`.
 For the content of the file, we'll copy and paste the following recipe:
 
 ``` markdown
-Ingredients for tomato soup 
+Ingredients for tomato soup
 
 - 4 tbs butter
 - 0.5 large onion, cut into large wedges
