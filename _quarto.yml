@@ -1,8 +1,5 @@
 project:
   type: r3-theme
-  # pre-render: quarto render slides/*.qmd
-  # resources:
-  #   - slides/*.html
 
 book:
   title: "Introduction to GitHub"
