@@ -3,9 +3,9 @@
 Over the last few decades, the way we do research has substantially
 changed as the internet and, especially, digital technologies and social
 media have become more embedded in even the more traditional and
-conservative parts of our society. There are many ways this is impacting
-research, that has placed a greater need, expectation, and/or pressure
-on a wide range of things, often at a fundamentally. Some of these needs
+conservative parts of our society. This has impacted research in
+multiple ways and has placed a greater need, expectation, and/or
+pressure on a wide and diverse range of things. Some of these needs
 include, in in no particular order:
 
 1.  Formally disseminate more types of new or existing knowledge and
@@ -21,14 +21,14 @@ include, in in no particular order:
 While academia and research pursue expanding the boundaries of our
 collective knowledge, we also paradoxically are very slow to adapt to
 and adopt changes, especially technological. But the needs listed above
-are now so great that we must embrace these tools
-tools to effectively fulfil those needs.
+are now so great that we must embrace these tools tools to effectively
+fulfil those needs.
 
-This workshop introduces you to one such tool and way of
-working and communicating that is very common in industry and becoming
-more common in academia: GitHub. While GitHub can fulfil the needs
-above and much more, for this workshop we will mainly focus on the
-transparency and sharing aspects, rather than the collaboration aspects.
+This workshop introduces you to one such tool and way of working and
+communicating that is very common in industry and becoming more common
+in academia: GitHub. While GitHub can fulfil the needs above and much
+more, for this workshop we will mainly focus on the transparency and
+sharing aspects, rather than the collaboration aspects.
 
 This workshop lasts 3 hours and is split into the following sessions,
 listed in the schedule in @sec-schedule, which will be covered in order:
