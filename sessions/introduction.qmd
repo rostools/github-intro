@@ -13,9 +13,9 @@ when new content gets incorporated into long-term storage in the brain
 and in a way that it can be later retrieved from storage to be used
 again. Some of the best ways to enable learning is to do "active
 learning" by engaging with the material, practicing retrieving what was
-just taught, repeatedly being exposed to and retrieve the content, linking
-the new information with what you already know, and explaining it to
-someone else.
+just taught, repeatedly being exposed to and retrieve the content,
+linking the new information with what you already know, and explaining
+it to someone else.
 
 We use a variety of activities to target the different pathways of
 learning. A big part of learning is being engaged in the *process* of
@@ -30,35 +30,34 @@ workshop that we've designed to enable optimal learning:
     what to expect along the way.
 
 -   The main activities are "code-alongs", where the teacher types on
-    the computer and explains what it means while you type
-    along. The connection between using the hands and doing something
-    tangible helps reinforce learning. It also helps the teachers to go
-    slower since we have to both explain and type things out, which
-    helps you learn better. The phrase "less is more" applies strongly
-    to learning.
+    the computer and explains what it means while you type along. The
+    connection between using the hands and doing something tangible
+    helps reinforce learning. It also helps the teachers to go slower
+    since we have to both explain and type things out, which helps you
+    learn better. The phrase "less is more" applies strongly to
+    learning.
 
--   We include several hands-on exercises that reinforce what
-    was just taught through retrieval practice and repetition. It gives
-    you a chance to engage with the material and the space to try it out
-    on your own, so you start to get a real sense of how to do it yourself.
+-   We include several hands-on exercises that reinforce what was just
+    taught through retrieval practice and repetition. It gives you a
+    chance to engage with the material and the space to try it out on
+    your own, so you start to get a real sense of how to do it yourself.
 
 -   We have discussion activities to encourage linking the new
     information with what you already know and do in your work and how
     you can apply it. Since humans are social beings, we also tend to
     learn better when there is some social aspect to it. Explaining
     something to someone else is one of the best ways to learn! The
-    quote "while we teach, we learn" is true here.
+    quote "while we teach, we learn" from the Roman philosopher Seneca
+    is true here.
 
--   We have minimal to no
-    slides or lectures, as they are forms of information sharing with
-    the lowest rates of learning. Instead we include reading tasks, so
-    you can re-read things you may not
+-   We have minimal to no slides or lectures, as they are forms of
+    information sharing with the lowest rates of learning. Instead we
+    include reading tasks, so you can re-read things you may not
     understand, go at your pace, and take notes, all of which support
-    learning. To
-    help reinforce what you just read, the teacher will briefly
-    summarise and emphasise key points after you've read it, which is
-    another form of repetition and targets another part of the brain
-    (the auditory pathway).
+    learning. To help reinforce what you just read, the teacher will
+    briefly summarise and emphasise key points after you've read it,
+    which is another form of repetition and targets another part of the
+    brain (the auditory pathway).
 
 -   We include several breaks throughout the workshop to help you
     recharge and refocus. The brain is only able to effectively focus on
@@ -75,8 +74,8 @@ workshop that we've designed to enable optimal learning:
 -   Our brains can get easily distracted, which is completely normal! So
     if you get distracted during the workshop, you can go to the
     material online to quickly get caught up with where we are. We also
-    make sure to follow the material on the website closely, so that it is easier
-    for you to follow along.
+    make sure to follow the material on the website closely, so that it
+    is easier for you to follow along.
 
 -   Being in a safe and supportive environment puts the brain into a
     more relaxed state that also happens to be optimal for learning.
@@ -99,8 +98,9 @@ workshop that we've designed to enable optimal learning:
     will be easier for you to ask for help, which is what we want in a
     learning setting! :grin:
 
-Now you know a bit more about the thoughts behind how we've designed this workshop to really try to
-support and enable your learning! :tada: :grin:
+Now you know a bit more about the thoughts behind how we've designed
+this workshop to really try to support and enable your learning! :tada:
+:grin:
 
 ### Other details {.unnumbered}
 
