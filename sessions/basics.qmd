@@ -264,8 +264,8 @@ workshop.
 %%| fig-cap: "Each step creates a new commit in the history log of the Git repository on GitHub."
 %%| fig-alt: "A diagram showing a series of commits in a Git repository, with text describing the step corresponding to the commit that is expanded on below the diagram."
 %%{init: {'themeVariables': {
-  'git0': '#ba8b00', 
-  'commitLabelBackground': '#ffffff', 
+  'git0': '#ba8b00',
+  'commitLabelBackground': '#ffffff',
   'commitLabelFontSize': '16px'
   }, 'gitGraph': {'rotateCommitLabel': false}}
 }%%
@@ -283,14 +283,14 @@ commit, they look like:
 
 1.  Create repo with README: 'README.md'
 
-    ```         
+    ```
     recipes/
     └── README.md
     ```
 
 2.  Add a new recipe file: 'romato-soup.md'
 
-    ```         
+    ```
     recipes/
     ├── README.md
     └── romato-soup.md
@@ -298,7 +298,7 @@ commit, they look like:
 
 3.  Fix a typo: 'tomato-soup.md'
 
-    ```         
+    ```
     recipes/
     ├── README.md
     └── tomato-soup.md <- typo fix
@@ -306,7 +306,7 @@ commit, they look like:
 
 4.  Move file to new folder: 'soups/tomato.md'
 
-    ```         
+    ```
     recipes/
     ├── README.md
     └── soup/tomato.md
@@ -314,7 +314,7 @@ commit, they look like:
 
 5.  Add a new recipe file: 'baked-goods/cookies.md'
 
-    ```         
+    ```
     recipes/
     ├── README.md
     ├── soup/tomato.md

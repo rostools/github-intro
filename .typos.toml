@@ -5,4 +5,3 @@ extend-exclude = [
   "_site/*",
   "_book/*",
 ]
-
