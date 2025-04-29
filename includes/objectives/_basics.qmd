@@ -1,6 +1,6 @@
 -   List and describe Git's core functionality and purpose, and how
     GitHub expands on that.
--   Explain the difference between GitHub and Git.
+-   Explain the difference between Git and GitHub.
 -   Explain how GitHub differs from services like OneDrive or Dropbox,
     and what GitHub's advantage is over them.
 -   Navigate to commonly used sections on GitHub, like the list
