@@ -48,7 +48,7 @@ License](https://creativecommons.org/licenses/by/4.0/), so the material
 can be used, re-used, and modified, as long as there is attribution to
 this source. Check out the
 [CONTRIBUTING](https://github.com/rostools/github-intro/blob/main/CONTRIBUTING.md)
-guidelines and the [For Teachers](/appendix/for-teachers.qmd)
+guidelines and the [For teachers](/appendix/for-teachers.qmd)
 section for more details and tips on using this material.
 
 ## Contributing
