@@ -1,10 +1,11 @@
 # Pre-workshop tasks {#sec-pre-workshop}
 
 In order to participate in this workshop, you must complete everything
-in this section and finish with **completing the
-[survey](@sec-pre-workshop-survey)** at the end. These tasks are
-designed to make it easier for everyone to start the workshop with
-everything set up and a shared foundation to build on.
+
+in this section and finish with **completing the survey** in [section
+@sec-pre-workshop-survey] at the end. These tasks are designed to make
+it easier for everyone to start the workshop with everything set up and
+a shared foundation to build on.
 
 Depending on your skills and knowledge, these tasks could take between
 **1-2 hrs to finish**, so we suggest planning some time to complete
@@ -53,7 +54,7 @@ to the concepts of *version control*, *Git*, and *GitHub*.
 So far, we have encountered the following terminology:
 
 | Term | Definition |
-|--------------------------|----------------------------------------------|
+|---------------------------|---------------------------------------------|
 | **Version control** | The practice of tracking changes to files over time. |
 | **Git** | A widely popular version control system that tracks changes to files and projects. |
 | **(Git) Repository** | A "project" with files that are stored and tracked by Git. |
@@ -105,7 +106,9 @@ involves a question about it. We want to make sure this workshop is a
 supportive and safe environment for learning, so this Code of Conduct is
 quite important.
 
+<!-- TODO: Add a link to the survey. -->
+
 You're almost done. Please fill out the pre-workshop survey to finish
-this section, either [at this link]().
+this section, [at this link]().
 
 See you at the workshop!
