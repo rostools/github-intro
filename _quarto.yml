@@ -25,7 +25,7 @@ book:
       - sessions/using-issues.qmd
       - sessions/conclusion.qmd
   appendices:
-    - appendix/for-instructors.qmd
+    - appendix/for-teachers.qmd
     - appendix/references.qmd
   page-footer:
     center:
