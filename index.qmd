@@ -1,4 +1,4 @@
-# Welcome!
+# Welcome! {.unnumbered}
 
 This 3-hour workshop is a gentle introduction to using [GitHub](https://github.com/) for
 managing and working with files. It is designed for doing participatory
