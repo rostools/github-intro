@@ -28,9 +28,7 @@ will enable you to:
 Tangibly, during the workshop we will:
 
 -   Create your own project on GitHub (known as a *repository*)
-
 -   Create and edit text files and folders on GitHub.
-
 -   Create GitHub Issues and comment on them.
 
 ## Is this for you? {#sec-is-it-for-you}
@@ -40,12 +38,9 @@ we make a few possible assumptions about *who you are* as a participant
 in the workshop, such as one or more of the following:
 
 -   You want a gentle introduction to what GitHub is and how to use it.
-
 -   You mostly work alone or maybe irregularly with someone else on your
     project.
-
 -   You write text in documents as a main activity of your work.
-
 -   You are able to and are comfortable enough with only working on
     files through a web browser interface (like GitHub's interface).
 
@@ -60,11 +55,8 @@ if this workshop is for you.
 
 -   We will only interact with GitHub from the website and from a web
     browser.
-
 -   We will only write *text*, there will be no code or programming.
-
 -   While we will write in a `.md` Markdown file, we will not write or
     cover Markdown syntax.
-
 -   We will not go over too many details of Git (a software that GitHub
     relies on).
