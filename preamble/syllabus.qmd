@@ -27,7 +27,7 @@ will enable you to:
 
 Tangibly, during the workshop we will:
 
--   Create your own GitHub project (known as a *repository*)
+-   Create your own project on GitHub (known as a *repository*)
 
 -   Create and edit text files on GitHub.
 
