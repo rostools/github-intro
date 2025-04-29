@@ -29,7 +29,7 @@ Tangibly, during the workshop we will:
 
 -   Create your own project on GitHub (known as a *repository*)
 
--   Create and edit text files on GitHub.
+-   Create and edit text files and folders on GitHub.
 
 -   Create GitHub Issues and comment on them.
 
@@ -51,8 +51,8 @@ in the workshop, such as one or more of the following:
 
 While we have these assumptions to help focus the content of the
 workshop, if you have an interest in the workshop but don't fit any of
-the assumptions, *you are still welcome to attend*! We welcome everyone,
-that is until capacity has been reached.
+the assumptions, *you are still welcome to attend*! We welcome everyone 
+until capacity has been reached.
 
 In addition to the assumptions, we also have a fairly focused scope for
 teaching and expectations for learning. So this may also help you decide
@@ -61,8 +61,7 @@ if this workshop is for you.
 -   We will only interact with GitHub from the website and from a web
     browser.
 
--   We will only write *text*, there will be no code or programming
-    used.
+-   We will only write *text*, there will be no code or programming.
 
 -   While we will write in a `.md` Markdown file, we will not write or
     cover Markdown syntax.
