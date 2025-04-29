@@ -2,8 +2,8 @@
 
 This 3-hour workshop is structured as a participatory live-coding
 session interspersed with a few hands-on exercises, reading tasks, and
-discussion activities. The *general* schedule is outlined in the below
-table and is meant as an approximate guide *only*. The actual time spent
+discussion activities. The *general* schedule is outlined in the table
+below and is meant as an approximate guide *only*. The actual time spent
 on each session may vary a bit.
 
 | Minutes | Session topic |
