@@ -2,7 +2,7 @@
 
 In order to participate in this workshop, you must complete everything
 in this section and finish with **completing the
-[survey](@sec-pre-workshop-survey)** at the end. These tasks are
+ survey** at the end (@sec-pre-workshop-survey). These tasks are
 designed to make it easier for everyone to start the workshop with
 everything set up.
 
