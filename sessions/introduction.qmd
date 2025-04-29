@@ -51,7 +51,7 @@ workshop that we've designed to enable optimal learning:
 
 -   We have minimal to no
     slides or lectures, as they are forms of information sharing with
-    the lowest rates of learning. Instead we include reading tasks, so 
+    the lowest rates of learning. Instead we include reading tasks, so
     you can re-read things you may not
     understand, go at your pace, and take notes, all of which support
     learning. To
