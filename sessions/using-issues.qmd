@@ -167,7 +167,7 @@ You now have an issue to remind yourself of recipes you want to add!
 
 ## GitHub notifications
 
-TODO: Add an instructor note here to talk about how to walk through
+TODO: Add an teacher note here to talk about how to walk through
 notification tab.
 
 Now that you've been tagged in your neighbour's issue, you will have

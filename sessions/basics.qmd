@@ -27,7 +27,7 @@ about retrieval, repetition, and actively engaging in the material. So:
 ## :book: Reading task: What is version control and Git?
 
 ::: {.callout-note collapse="true"}
-## :teacher: Instructor note
+## :teacher: Teacher note
 
 After they've read it, take some time to repeat some key points from the
 text, such as:
@@ -59,7 +59,7 @@ to help reinforce these concepts.
 ## What is GitHub?
 
 ::: {.callout-note collapse="true"}
-## :teacher: Instructor note
+## :teacher: Teacher note
 
 Verbally explain the differences between Git and GitHub, briefly go over
 the diagram but reinforce that we won't cover that in this workshop.
@@ -72,7 +72,7 @@ GitHub.
 ## GitHub's landing page
 
 ::: {.callout-note collapse="true"}
-## :teacher: Instructor note
+## :teacher: Teacher note
 
 During this section, visually show and walk through the different parts
 of the landing page. You don't need to go into the pages just yet
@@ -114,7 +114,7 @@ create a new repository :rocket:
 ## Creating a new repository
 
 ::: {.callout-note collapse="true"}
-## :teacher: Instructor note
+## :teacher: Teacher note
 
 Take it slow here as you create the repository as this is the first
 "type-along" of the workshop. Make sure to explain each option and what
@@ -182,7 +182,7 @@ is fundamental to working with files and folders: file paths.
 ## :book: Reading task: What is a file path?
 
 ::: {.callout-note collapse="true"}
-## :teacher: Instructor note
+## :teacher: Teacher note
 :::
 
 **Time: \~3 minutes.**
@@ -236,7 +236,7 @@ this workshop, so you will get more exposure to it as we go along.
 ## A visual walkthrough of working with files on GitHub
 
 ::: {.callout-note collapse="true"}
-## :teacher: Instructor note
+## :teacher: Teacher note
 
 Show this diagram and explain it to the learners, as well as the state
 of the files in the repository at each step.

@@ -2,7 +2,7 @@
 
 This 3-hour workshop is a gentle introduction to using [GitHub](https://github.com/) for
 managing and working with files. It is designed for doing participatory
-live-typing, where the instructor demonstrates the tasks on their
+live-typing, where the teacher demonstrates the tasks on their
 computer connected to a projector while learners type along on their own
 computer. The workshop also includes reading tasks, discussion
 activities, and hands-on exercises.
@@ -34,11 +34,11 @@ This website and its content are targeted to three groups:
     and also to use as a reference after the
     workshop ends. A more detailed description of who the learner is can
     be found in @sec-is-it-for-you.
-2.  For the **instructors** to use as a guide for when they do the
+2.  For the **teachers** to use as a guide for when they do the
     type-along sessions and lectures.
 3.  For those who are **interested in teaching**, who may not have much
     experience or may not know where to start, to use this website as a
-    guide to running and instructing their own workshops.
+    guide to running and teaching their own workshops.
 
 ## Re-use and licensing
 
@@ -48,7 +48,7 @@ License](https://creativecommons.org/licenses/by/4.0/), so the material
 can be used, re-used, and modified, as long as there is attribution to
 this source. Check out the
 [CONTRIBUTING](https://github.com/rostools/github-intro/blob/main/CONTRIBUTING.md)
-guidelines and the [For Instructors](/appendix/for-instructors.qmd)
+guidelines and the [For teachers](/appendix/for-teachers.qmd)
 section for more details and tips on using this material.
 
 ## Contributing
