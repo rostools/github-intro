@@ -105,6 +105,8 @@ involves a question about it. We want to make sure this workshop is a
 supportive and safe environment for learning, so this Code of Conduct is
 quite important.
 
+<!-- TODO: Add a link to the survey. -->
+
 You're almost done. Please fill out the pre-workshop survey to finish
 this section, [at this link]().
 
