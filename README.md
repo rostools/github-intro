@@ -13,7 +13,7 @@ workshop is designed for learner who have little to no experience with
 Git and GitHub.
 
 This repository mainly contains the workshop material that both the
-learner and instructors use during the workshop. It also includes files
+learner and teachers use during the workshop. It also includes files
 that support building the website as well as configurations and
 documents for contributors.
 
@@ -23,7 +23,7 @@ page](https://github-intro.rostools.org).
 ## Instructional Design
 
 The material in this workshop is designed to be presented primarily with
-a learner live-"typing" approach. This involves an instructor doing the
+a learner live-"typing" approach. This involves an teacher doing the
 tasks on screen live in front of the learners, while the learners follow
 along by doing the tasks on their own computers. Activities to support
 learning are interspersed throughout the workshop material, allowing
@@ -44,15 +44,15 @@ or on the [workshop website](https://github-intro.rostools.org):
 -   `sessions/` folder: Contains the files used during the workshop
     (e.g. code-along material).
 -   `appendix/` folder: Contains the files used to support the workshop,
-    such as resources and instructions for instructors.
+    such as resources and help for teachers.
 -   `slides/`: Contains the presentation slides used for the workshop.
 
 ## Contributing
 
 If you are interested in contributing to the workshop material, please
 refer to the [contributing guidelines](CONTRIBUTING.md). For guidelines
-on how to be a helper or instructor, check out the [For
-Instructors](https://r-cubed.rostools.org/for-instructors.html) page.
+on how to be a helper or teacher, check out the [For
+Teacher](https://r-cubed.rostools.org/for-teacher.html) page.
 
 Please note that the project is released with a [Contributor Code of
 Conduct](CODE_OF_CONDUCT.md). By contributing to or being involved in
