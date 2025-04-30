@@ -1,0 +1,3 @@
+# Code of conduct {#sec-code-of-conduct}
+
+<!-- TODO: Add Code of conduct includes from r3theme -->

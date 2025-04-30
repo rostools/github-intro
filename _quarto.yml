@@ -12,11 +12,19 @@ book:
   body-header: "{{< text_snippet wip >}}"
   chapters:
     - index.qmd
-    - part: "Preamble"
+    - part: "Workshop overview"
       chapters:
-      - preamble/syllabus.qmd
-      - preamble/schedule.qmd
-      - preamble/pre-workshop.qmd
+      - overview/syllabus.qmd
+      - overview/is-it-for-you.qmd
+      - overview/learning-design.qmd
+      - overview/schedule.qmd
+    - part: "Pre-workshop tasks"
+      chapters:
+      - pre-workshop/index.qmd
+      - pre-workshop/code-of-conduct.qmd
+      - pre-workshop/git-and-github.qmd
+      - pre-workshop/github-account.qmd
+      - pre-workshop/pre-survey.qmd
     - part: "Sessions"
       chapters:
       - sessions/introduction.qmd
