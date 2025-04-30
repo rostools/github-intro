@@ -32,4 +32,3 @@ So far, we have encountered the following terminology:
 | **(Git) Repository** | A "project" with files that are stored and tracked by Git. |
 | **Commit** | A snapshot of changes made to file(s) in a repository. |
 | **GitHub** | A website that hosts Git repositories. |
-
