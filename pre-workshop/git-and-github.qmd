@@ -1,5 +1,4 @@
-
-# Introduction to version control, Git, and GitHub {#sec-git-and-github}
+# Version control with Git and GitHub {#sec-git-and-github}
 
 This reading is meant as a primer to the workshop. It will introduce you
 to the concepts of *version control*, *Git*, and *GitHub*.

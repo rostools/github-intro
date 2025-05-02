@@ -25,7 +25,7 @@ about them are found as you work through the tasks.
 2.  Go through the the pre-workshop tasks to help build a shared
     foundation to build on when the workshop starts. This includes
     reading the [Code of conduct](/pre-workshop/code-of-conduct.qmd) and
-    [Introduction to version control, Git and
+    [Version control with Git and
     GitHub](/pre-workshop/git-and-github.qmd), as well as creating a
     [GitHub user account](/pre-workshop/github-account.qmd). Remember to
     finish the pre-workshop [survey](/pre-workshop/pre-survey.qmd) at

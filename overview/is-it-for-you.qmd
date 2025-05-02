@@ -1,4 +1,4 @@
-## Is this workshop for you? {#sec-is-it-for-you}
+# Is this workshop for you? {#sec-is-it-for-you}
 
 To help manage expectations and develop the material for this workshop,
 we make a few possible assumptions about *who you are* as a participant
