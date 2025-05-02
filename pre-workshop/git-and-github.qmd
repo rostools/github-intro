@@ -1,0 +1,33 @@
+# Version control with Git and GitHub {#sec-git-and-github}
+
+This reading is meant as a primer to the workshop. It will introduce you
+to the concepts of *version control*, *Git*, and *GitHub*.
+
+## What is version control and Git? {#sec-what-is-version-control}
+
+{{< include /includes/_git-basics.qmd >}}
+
+## What is GitHub then? {#sec-what-is-git-and-github}
+
+{{< include /includes/_github-basics.qmd >}}
+
+## Summary of Git and GitHub
+
+-   Using a *formal version control* system like Git can help you keep
+    track of changes to your files and projects.
+-   A Git *repository* is a place where you store all the files for your
+    project along with their history.
+-   GitHub is a website that hosts Git repositories.
+-   Through GitHub you can manage your files and projects using Git.
+
+<!-- TODO: Move the definition list below to a glossary repo? -->
+
+So far, we have encountered the following terminology:
+
+| Term | Definition |
+|---------------------------|---------------------------------------------|
+| **Version control** | The practice of tracking changes to files over time. |
+| **Git** | A widely popular version control system that tracks changes to files and projects. |
+| **(Git) Repository** | A "project" with files that are stored and tracked by Git. |
+| **Commit** | A snapshot of changes made to file(s) in a repository. |
+| **GitHub** | A website that hosts Git repositories. |
