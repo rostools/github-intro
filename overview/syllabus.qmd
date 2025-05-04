@@ -46,8 +46,8 @@ The aim of this workshop is to enable you to:
 -   Explain in simple terms what GitHub does and navigate GitHub to work
     with files and GitHub Issues.
 
-Broken down into specific objectives, the workshop
-will enable you to do the following, by session:
+Broken down into specific objectives, the workshop will enable you to do
+the following, by session:
 
 **The basics of GitHub and Git** ([session @sec-basics])
 
@@ -76,6 +76,8 @@ same way as you will do for your own website or project on GitHub.
 You will also have experience with creating and using GitHub Issues,
 which is the main way you will ask for help or report problems with your
 website or project.
+
+<!-- TODO Add link to steno-aarhus page -->
 
 To read more about how websites are set up and under the `steno-aarhus`
 GitHub organisation, what format the content should be written in, and
