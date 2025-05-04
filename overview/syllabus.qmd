@@ -67,5 +67,21 @@ Tangibly, during the workshop we will:
 -   Create and edit text files and folders on GitHub.
 -   Create GitHub Issues and comment on them.
 
+::: callout-note
+Working with files in GitHub is the first--essential--step to using
+GitHub for creating and maintaining websites. After this workshop,
+you'll have experience with using GitHub to create and edit files in the
+same way as you will do for your own website or project on GitHub.
+
+You will also have experience with creating and using GitHub Issues,
+which is the main way you will ask for help or report problems with your
+website or project.
+
+To read more about how websites are set up and under the `steno-aarhus`
+GitHub organisation, what format the content should be written in, and
+more advanced website navigation settings, please see the [Basics of
+GitHub websites]() page on the `steno-aarhus` GitHub website.
+:::
+
 We will not go into using GitHub for collaboration as that is beyond the
 scope of this workshop.
