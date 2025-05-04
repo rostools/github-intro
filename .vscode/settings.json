@@ -25,5 +25,11 @@
     "preamble",
     "sessions",
     "appendix"
-  ]
+  ],
+  "[r]": {
+    "editor.formatOnSave": true
+  },
+  "[quarto]": {
+    "editor.formatOnSave": true
+  },
 }
