@@ -46,8 +46,8 @@ The aim of this workshop is to enable you to:
 -   Explain in simple terms what GitHub does and navigate GitHub to work
     with files and GitHub Issues.
 
-Broken down into specific objectives, the workshop
-will enable you to do the following, by session:
+Broken down into specific objectives, the workshop will enable you to do
+the following, by session:
 
 **The basics of GitHub and Git** ([session @sec-basics])
 
@@ -66,6 +66,24 @@ Tangibly, during the workshop we will:
 -   Create your own project on GitHub (known as a *repository*)
 -   Create and edit text files and folders on GitHub.
 -   Create GitHub Issues and comment on them.
+
+::: callout-note
+Working with files in GitHub is the first--essential--step to using
+GitHub for creating and maintaining websites. After this workshop,
+you'll have experience with using GitHub to create and edit files in the
+same way as you will do for your own website or project on GitHub.
+
+You will also have experience with creating and using GitHub Issues,
+which is the main way you will ask for help or report problems with your
+website or project.
+
+<!-- TODO Add link to steno-aarhus page -->
+
+To read more about how websites are set up and under the `steno-aarhus`
+GitHub organisation, what format the content should be written in, and
+more advanced website navigation settings, please see the [Basics of
+GitHub websites]() page on the `steno-aarhus` GitHub website.
+:::
 
 We will not go into using GitHub for collaboration as that is beyond the
 scope of this workshop.
