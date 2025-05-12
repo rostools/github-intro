@@ -55,7 +55,7 @@ something like the figure below.
 %%| fig-cap: "How Git and GitHub can work together by synchronising changes between GitHub and your computer."
 %%| fig-alt: "A diagram showing two boxes, one of a Git repository on your computer and another of a Git repository on GitHub, along with an arrow between each box showing them synchronise between both."
 graph
-  github(Git repository<br>on GitHub) <-- Synch --> git(Git repository<br>on your computer)
+  github(Git repository<br>on GitHub) <-- Sync --> git(Git repository<br>on your computer)
 ```
 
 Using GitHub only is a great way to get started with Git. It allows you to
