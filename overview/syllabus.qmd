@@ -29,13 +29,13 @@ more, for this workshop we will focus on the transparency and
 sharing aspects, rather than the collaboration aspects.
 
 This workshop lasts 3 hours and is split into the following sessions,
-listed in the schedule in @sec-schedule, which will be covered in order:
+listed in the [schedule](/overview/schedule.qmd), which will be covered in order:
 
--   Introduction to the workshop in [session @sec-introduction]
--   The basics of GitHub and Git in [session @sec-basics]
--   Working with files on GitHub in [session @sec-working-with-files]
--   Making and using GitHub Issues in [session @sec-using-issues]
--   Concluding remarks in [session @sec-conclusion]
+-   [Introduction to the workshop in](/sessions/introduction.qmd)
+-   [The basics of GitHub and Git in](/sessions/basics.qmd)
+-   [Working with files on GitHub](/sessions/working-with-files.qmd)
+-   [Making and using GitHub Issues](/sessions/using-issues.qmd)
+-   [Concluding remarks](/sessions/conclusion.qmd)
 
 ## Learning outcome and objectives
 
@@ -47,15 +47,15 @@ The ovrtall aim of this workshop is to enable you to:
 Broken down into specific objectives, the workshop
 is designed to enable you to:
 
-**The basics of GitHub and Git** ([session @sec-basics])
+**[The basics of GitHub and Git](/sessions/basics.qmd)**
 
 {{< include /includes/objectives/_basics.qmd >}}
 
-**Working with files on GitHub** ([session @sec-working-with-files])
+**[Working with files on GitHub](/sessions/working-with-files.qmd)**
 
 {{< include /includes/objectives/_working-with-files.qmd >}}
 
-**Making and using GitHub Issues** ([session @sec-using-issues])
+**[Making and using GitHub Issues](/sessions/using-issues.qmd)**
 
 {{< include /includes/objectives/_using-issues.qmd >}}
 
