@@ -1,31 +1,31 @@
 In our work lives, we regularly work with files, either creating,
 editing, moving, copying, or deleting them. These files can be
 anything from text documents, to images, to code. When we work on these
-files, we often make changes to them, and sometimes many changes. We
-might want to keep track of these changes, so we can see *what* we've
-done, *when* we did it, *why* we did it, and *who* did it. This is both helpful for
-potential collaborators and our future selves.
+files, we often make changes to them, and sometimes many changes. 
+We might want to keep track of how our files change over time or "save" specific versions of
+the files. This tracking of file changes over time is known as *version control*.
+
 
 If a file has the ability to internally "track changes", like Word
-does, you may have used that before, but likely only when getting
+does, you may have used that before, maybe when getting
 feedback from others. On the file level, you may have "tracked changes"
 informally by saving multiple versions of a file with different names,
 like in the example image below.
 
-![File naming in the commonly used *informal* 'version
+![File naming in a commonly used *informal* 'version
 control'.](/images/informal-version-control.jpg)
 
 Does this way of saving files and keeping track of versions look
-familiar? The above image may exaggerate how some people's versioning looks
+familiar? The above image may exaggerate what some people's versioning looks
 like, but there is some truth to it: It is the most common approach to
 "version control".
 
 This "informal" version control isn't ideal because it involves multiple
 copies of the same file. It makes it difficult to keep track of specific
-changes and find the right version of the files.
+changes and find the right version of the files. This also just highlights the need for version control and the fact that is can be difficult to keep track of file changes manually.
 
-There are, however, "formal" version control systems that automatically
-manage changes to files. One of the world's most popular version control
+Luckily for us, there exist "formal" version control systems that automatically
+tracks changes to files. One of the world's most popular version control
 systems is called
 [Git](https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F).
 Git is used by millions of people around the world, including thousands
@@ -34,9 +34,9 @@ of organisations and researchers.
 With Git you can create snapshots of file changes, known as *commits*. Each commit
 captures:
 
--   What specific changes were made to the file or files.
--   Who made the changes to the files.
--   When they made the changes to the files.
+-   *What* specific changes were made to the file or files.
+-   *Who* made the changes to the files.
+-   *When* they made the changes to the files.
 
 Each commit also has a short message attached to it that can
 describe *why* the changes were made.
@@ -44,8 +44,7 @@ describe *why* the changes were made.
 Git stores these commits in a history log. The history log allows you to
 quickly go back and explore the changes made to files, along with a
 message describing the changes. This is extremely useful when you
-revisit your own work after a long time (because you *will* forget
-things) and when you work in groups or with collaborators.
+revisit your own work after a long time and when you work in groups or with collaborators.
 
 Git only tracks changes to files *within a specific folder* (and it's
 sub-folders). In Git terminology, this folder is called a
@@ -55,7 +54,7 @@ project, in this repository (this folder). This way, you can track all
 changes made to all files in the project. It keeps things more organised and
 self-contained, since everything related to a project is in one place.
 
-Any type of file can be stored in the repository, including both
+Any type of file can be stored in a repository, including both
 code and other non-code based files like Word or images. However, Git has
 more features and tools for tracking specific changes when the file is
 text-based, like a `.txt`, `.csv`, or code. Since these text-based files
@@ -63,7 +62,7 @@ are literally only text characters, it is easier to track the changes to
 exact lines of text. Unlike files like images, or Word documents (that
 actually aren't just text), there are no "lines" to track changes on.
 
-To understand how powerful formal version control like Git is, consider about these
+To understand how powerful formal version control like Git is, consider these
 questions:
 
 -   How many files of different versions of a scientific document or
