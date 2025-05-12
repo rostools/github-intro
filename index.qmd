@@ -15,6 +15,9 @@ appearance. We make heavy use of the website throughout the workshop where
 website (with slight modifications for time or more detailed
 explanations).
 
+To get an overview of the workshop, check out the Workshop overview
+section, starting with the [Syllabus](/overview/syllabus.qmd).
+
 <!-- TODO: Convert this into an includes snippet? -->
 
 ::: {.callout-tip appearance="minimal"}
