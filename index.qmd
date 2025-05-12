@@ -1,18 +1,18 @@
 # Welcome! {.unnumbered}
 
-This 3-hour workshop is a gentle introduction to using [GitHub](https://github.com/) for
-managing and working with files. It is designed for doing participatory
-live-typing, where the teacher demonstrates the tasks on their
-computer connected to a projector while learners type along on their own
-computer. The workshop also includes reading tasks, discussion
-activities, and hands-on exercises.
+This 3-hour workshop is a gentle introduction to using
+[GitHub](https://github.com/) for managing and working with files. It is
+designed for doing participatory live-typing, where the teacher
+demonstrates the tasks on their computer connected to a projector while
+learners type along on their own computer. The workshop also includes
+reading tasks, discussion activities, and hands-on exercises.
 
 This website contains all of the material for the workshop, including
 readings, exercises, presentations, live-typing material, and images. It
 is structured as a book, with "chapters" as sessions, in order of
-appearance. We make heavy use of the website throughout the workshop where
-"type-along" sessions almost identically follow the material on the
-website (with slight modifications for time or more detailed
+appearance. We make heavy use of the website throughout the workshop
+where "type-along" sessions almost identically follow the material on
+the website (with slight modifications for time or more detailed
 explanations).
 
 To get an overview of the workshop, check out the Workshop overview
@@ -45,19 +45,19 @@ This website and its content are targeted to three groups:
 
 ## Re-use and licensing
 
-The workshop material is licensed under the [Creative Commons Attribution
-4.0 International
+The workshop material is licensed under the [Creative Commons
+Attribution 4.0 International
 License](https://creativecommons.org/licenses/by/4.0/), so the material
 can be used, re-used, and modified, as long as there is attribution to
 this source. Check out the
 [CONTRIBUTING](https://github.com/rostools/github-intro/blob/main/CONTRIBUTING.md)
-guidelines and the [For teachers](/appendix/for-teachers.qmd)
-section for more details and tips on using this material.
+guidelines and the [For teachers](/appendix/for-teachers.qmd) section
+for more details and tips on using this material.
 
 ## Contributing
 
-Want to contribute to this workshop? The easiest way to
-contribute is by creating a [GitHub
+Want to contribute to this workshop? The easiest way to contribute is by
+creating a [GitHub
 issue](https://github.com/rostools/github-intro/issues/new) to make
 comments and give feedback on the material. Make sure you check out the
 [README](https://github.com/rostools/github-intro/blob/main/README.md)
