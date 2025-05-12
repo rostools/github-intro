@@ -12,7 +12,7 @@ book:
   body-header: "{{< text_snippet wip >}}"
   chapters:
     - index.qmd
-    - part: "Workshop overview"
+    - part: "Overview"
       chapters:
       - overview/syllabus.qmd
       - overview/is-it-for-you.qmd
