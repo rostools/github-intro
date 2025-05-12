@@ -18,7 +18,7 @@ about them are found as you work through the tasks.
 
 If you haven't already, go through the workshop overview section,
 including the [Syllabus](/overview/syllabus.qmd), [Is this for
-you?](/overview/is-it-for-you.qmd), and [Learning
+you?](/overview/is-this-for-you.qmd), and [Learning
 design](/overview/learning-design.qmd) to get an overview of what this
 workshop contains and the learning design behind the workshop material.
 
