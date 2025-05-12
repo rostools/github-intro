@@ -31,5 +31,5 @@ After that, please go through the the pre-workshop tasks designed to establish a
 
 ::: callout-tip
 You will be taken through the pre-workshop tasks in order by clicking
-the arrow at the bottom of each page.
+the arrow at the bottom of each page :arrow_right:
 :::
