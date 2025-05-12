@@ -1,3 +1,5 @@
 # Learning design {#sec-learning-design}
 
 <!-- TODO: Add Learning design includes from r3theme -->
+
+{{< include /_extensions/rostools/r3-theme/includes/learning-design.qmd >}}
