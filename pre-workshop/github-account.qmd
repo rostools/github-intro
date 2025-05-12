@@ -6,27 +6,36 @@ your username, as you will need it for the survey at the end of this
 section.
 
 ::: callout-note
-If you already have one, you can skip this task, but we will still ask
-you to provide your username in the survey at the end of this section.
+If you already have a GitHub account, you can skip this task, but we
+will still ask you to provide your username in the survey at the end of
+this section.
 :::
 
-Whenever events or activities related to you happen on GitHub, you will
-receive a notification. By default, the notification sends to both your
-GitHub "inbox" (which we cover later) and your email. Unfortunately,
-there can quickly become a lot of activities happening and you will
-receive a large volume of email notifications. This can be overwhelming.
+## Managing emails from GitHub
 
-You can manage your notifications and prevent your email inbox from
-being sent many GitHub notification emails by setting a few options in
-your GitHub account settings.
+Whenever events or activities happen on GitHub that are related to you,
+you will receive a notification. By default, the notification sends to
+both your GitHub "inbox" (which we cover later) and your email.
+Unfortunately, a lot of activity can happen quickly, resulting in a
+large amount of of email notifications. Since this can be overwhelming
+we recommend that you manage your notifications and email settings to
+reduce the number of emails you receive from GitHub.
 
-While logged into your new GitHub account, click on your account icon in
-the top-right corner of GitHub and select the "Settings" option. In the
-left sidebar, select "Notifications". Under "Subscriptions", select
-"Notify me: on GitHub" and for all options. In the "System" section,
-under "Actions", deselect all options and click "Save". This will show
-up as "Don't notify". If you want some notifications sent to your email,
-you can always come back and change these settings later.
+You can manage your notifications by setting a few options in your
+GitHub account settings. While logged into your new GitHub account,
+follow these steps:
+
+-   Click on your account icon in the top-right corner of GitHub and
+    select the "Settings" option.
+-   In the left sidebar, select "Notifications".
+-   Under "Subscriptions", select "Notify me: on GitHub" and for all
+    options
+-   In the "System" section, under "Actions", deselect all options and
+    click "Save". This will show up as "Don't notify".
 
 With these options selected, you will only get notifications on GitHub,
-not by email.
+not by email. But don't worry, you will still be able to see all your
+notifications in your GitHub inbox.
+
+If you find that you do want some notifications sent to your email, you
+can always come back and change these settings later.
