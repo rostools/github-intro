@@ -8,7 +8,7 @@ on each session may vary a bit.
 
 | Minutes | Session topic |
 |:-----------------------------------|:-----------------------------------|
-|  | {{< fa mug-hot >}} Arrival, coffee and snacks |
+|  | {{< fa mug-hot >}} Arrival, coffee and tea |
 | 15 | {{< fa person-chalkboard >}} [Introduction to the workshop](/sessions/introduction.qmd) |
 | 45 | {{< fa person-chalkboard >}} [The basics of GitHub and Git](/sessions/basics.qmd) |
 | 5 | {{< fa mug-hot >}} Short break |
@@ -16,4 +16,4 @@ on each session may vary a bit.
 | 5 | {{< fa mug-hot >}} Short break |
 | 50 | {{< fa laptop-code >}} [Making and using GitHub Issues](/sessions/using-issues.qmd) |
 | 5 | {{< fa person-chalkboard >}} [Concluding remarks](/sessions/conclusion.qmd) |
-| 5 | {{< fa comment-dots >}} [End of session short survey]() |
+| 5 | {{< fa comment-dots >}} [Short end of workshop survey]() |
