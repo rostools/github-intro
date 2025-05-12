@@ -77,16 +77,17 @@ questions:
 All these problems can be fixed by using formal version control! There
 are many good reasons to use version control, especially in science:
 
+-   Organized files and folders, since there is one single project
+    folder and one single version of each file, rather than multiple
+    versions of the same file.
+-   Ability to see previous versions of files using the history log.
+-   Less time spent on finding things related to your projects, because
+    everything is organized and in one place.
+-   Easier collaboration, because you can work on a single file/folder
+    in a single central location rather than emailing file versions
+    around.
 -   Transparency of work done to demonstrate or substantiate your
     scientific claim and protect against accusations of fraud.
 -   Claim to first discovery, since you have a time-stamped history of
     your work.
 -   Evidence of contributions and work, since who does what is tracked.
--   Easier collaboration, because you can work on a single file/folder
-    in a single central location rather than emailing file versions
-    around.
--   Organized files and folders, since there is one single project
-    folder and one single version of each file, rather than multiple
-    versions of the same file.
--   Less time spent on finding things related to your projects, because
-    everything is organized and in one place.
