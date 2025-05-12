@@ -11,8 +11,8 @@ We assume you can relate to one or more of the following:
     project.
 -   You write text in documents as the main activity of your work (not
     code, for example).
--   You are able to work on file--and are comfortable enough doing
-    so--only using a web browser interface (like GitHub's interface).
+-   You are able to work on files---and are comfortable enough doing
+    so---while only using a web browser interface (like GitHub's interface).
 
 While we have these assumptions to help focus the content of the
 workshop, if you have an interest in the workshop but don't fit any of
