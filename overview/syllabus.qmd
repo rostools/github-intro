@@ -1,33 +1,31 @@
 # Syllabus {#sec-syllabus}
 
 Over the last few decades, the way we do research has substantially
-changed as the internet and, especially, digital technologies and social
-media have become more embedded in even the more traditional and
-conservative parts of our society. This has impacted research in
-multiple ways and has placed a greater need, expectation, and/or
-pressure on a wide and diverse range of things. Some of these needs
-include, in in no particular order:
+changed as the internet--especially digital technologies and social
+media--have become more embedded in even the more traditional and
+conservative parts of our society. This shift has affected research in
+multiple ways and has increased the need, expectation, and/or
+pressure on various aspects. These needs
+include, in in no particular order, being able to:
 
 1.  Formally disseminate more types of new or existing knowledge and
     scientific output
-2.  Informally sharing information, discussions, or ideas more
+2.  Informally share information, discussions, or ideas more
     frequently and more rapidly
-3.  Collaborate more with others across regions and timezones
+3.  Collaborate more across regions and timezones
 4.  Be more open and transparent about the whole research process
 5.  Network and connect with others in the research community and, at
     least in health, those who participate or want to participate in
     research using a wider variety of tools and platforms
 
-While academia and research pursue expanding the boundaries of our
+While academia and research pursue to expand the boundaries of our
 collective knowledge, we also paradoxically are very slow to adapt to
 and adopt changes, especially technological. But the needs listed above
-are now so great that we must embrace these tools tools to effectively
+are now so great that we must embrace new tools to effectively
 fulfil those needs.
 
-This workshop introduces you to one such tool and way of working and
-communicating that is very common in industry and becoming more common
-in academia: GitHub. While GitHub can fulfil the needs above and much
-more, for this workshop we will mainly focus on the transparency and
+This workshop introduces you to one such tool widely used for working and communicating in industry and increasingly in academia: GitHub. While GitHub can fulfil the needs above and much
+more, for this workshop we will focus on the transparency and
 sharing aspects, rather than the collaboration aspects.
 
 This workshop lasts 3 hours and is split into the following sessions,
@@ -41,13 +39,13 @@ listed in the schedule in @sec-schedule, which will be covered in order:
 
 ## Learning outcome and objectives
 
-The aim of this workshop is to enable you to:
+The ovrtall aim of this workshop is to enable you to:
 
 -   Explain in simple terms what GitHub does and navigate GitHub to work
     with files and GitHub Issues.
 
 Broken down into specific objectives, the workshop
-will enable you to do the following, by session:
+is designed to enable you to:
 
 **The basics of GitHub and Git** ([session @sec-basics])
 
@@ -61,7 +59,7 @@ will enable you to do the following, by session:
 
 {{< include /includes/objectives/_using-issues.qmd >}}
 
-Tangibly, during the workshop we will:
+Tangibly, during the workshop you will:
 
 -   Create your own project on GitHub (known as a *repository*)
 -   Create and edit text files and folders on GitHub.
