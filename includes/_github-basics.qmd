@@ -58,7 +58,7 @@ graph
   github(Git repository<br>on GitHub) <-- Sync --> git(Git repository<br>on your computer)
 ```
 
-Using GitHub only is a great way to get started with Git. It allows you
+Using GitHub on its own is a great way to get started with Git. It allows you
 to learn the concepts of version control and Git without needing to
 install anything on your computer and without needing to learn some of
 the more technical details of Git. Since GitHub is a website it also

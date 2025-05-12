@@ -12,6 +12,7 @@ revert back to a previous version of the file if we make a mistake or so
 we can see how the file has changed over time. This is especially useful
 when we are collaborating with others on a project, as we might want to
 keep track of changes made or feedback given by different people.
+
 Tracking file changes is, however, also useful when we are working
 mostly alone on a project, since we humans tend to forget things. This
 could be why we made a certain change or what the file looked like at a
@@ -35,11 +36,11 @@ approach to "version control".
 This "informal" version control isn't ideal because it involves multiple
 copies of the same file. It makes it difficult to keep track of specific
 changes and find the right version of the files. This also just
-highlights the need for version control and the fact that is can be
+highlights the need for version control and the fact that it can be
 difficult to keep track of file changes manually.
 
 Luckily for us, there exist "formal" version control systems that
-automatically tracks changes to files. One of the world's most popular
+automatically track changes to files. One of the world's most popular
 version control systems is called
 [Git](https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F).
 Git is used by millions of people around the world, including thousands
