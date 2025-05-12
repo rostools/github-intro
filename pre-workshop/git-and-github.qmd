@@ -1,7 +1,9 @@
 # Version control with Git and GitHub {#sec-git-and-github}
 
 This reading is meant as a primer to the workshop. It will introduce you
-to the concepts of *version control*, *Git*, and *GitHub* which are central concepts of the workshop and to working with files on GitHub in general.
+to the concepts of *version control*, *Git*, and *GitHub* which are
+central concepts of the workshop and to working with files on GitHub in
+general.
 
 ## What is version control and Git? {#sec-what-is-version-control}
 
