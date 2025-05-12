@@ -1,17 +1,17 @@
 # Syllabus {#sec-syllabus}
 
 Over the last few decades, the way we do research has substantially
-changed as the internet--especially digital technologies and social
-media--have become more embedded in even the more traditional and
+changed as the internet---especially digital technologies and social
+media---have become more embedded in even the more traditional and
 conservative parts of our society. This shift has affected research in
 multiple ways and has increased the need, expectation, and/or pressure
-on various aspects. These needs include, in in no particular order,
+on various aspects. These needs include, in no particular order,
 being able to:
 
 1.  Formally disseminate more types of new or existing knowledge and
     scientific output
-2.  Informally share information, discussions, or ideas more frequently
-    and more rapidly
+2.  Informally share information, discussions, or ideas regularly
+    and quickly
 3.  Collaborate more across regions and timezones
 4.  Be more open and transparent about the whole research process
 5.  Network and connect with others in the research community and, at
@@ -42,7 +42,7 @@ in order:
 
 ## Learning outcome and objectives
 
-The ovrtall aim of this workshop is to enable you to:
+The overall aim of this workshop is to enable you to:
 
 -   Explain in simple terms what GitHub does and navigate GitHub to work
     with files and GitHub Issues.
