@@ -15,7 +15,7 @@ book:
     - part: "Overview"
       chapters:
       - overview/syllabus.qmd
-      - overview/is-it-for-you.qmd
+      - overview/is-this-for-you.qmd
       - overview/learning-design.qmd
       - overview/schedule.qmd
     - part: "Pre-workshop tasks"
