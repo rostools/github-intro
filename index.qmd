@@ -15,8 +15,8 @@ where "type-along" sessions almost identically follow the material on
 the website (with slight modifications for time or more detailed
 explanations).
 
-To get an overview of the workshop, check out the Workshop overview
-section, starting with the [Syllabus](/overview/syllabus.qmd).
+Check out the overview section of the workshop, starting with the
+[Syllabus](/overview/syllabus.qmd).
 
 <!-- TODO: Convert this into an includes snippet? -->
 
@@ -35,10 +35,10 @@ This website and its content are targeted to three groups:
 
 1.  For the **learners** to use during the workshop, both to follow
     along and also to use as a reference after the workshop ends. A more
-    detailed description of who the learner is can be found in
-    [Is this workshop for you?](/overview/is-it-for-you.qmd)
+    detailed description of who the learner is can be found in [Is it
+    for you?](/overview/is-it-for-you.qmd)
 2.  For the **teachers** to use as a guide for when they do the
-    type-along sessions and lectures.
+    type-along sessions.
 3.  For those who are **interested in teaching**, who may not have much
     experience or may not know where to start, to use this website as a
     guide to running and teaching their own workshops.
