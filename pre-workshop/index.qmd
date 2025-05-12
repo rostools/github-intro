@@ -1,4 +1,4 @@
-# Overview of pre-workshop tasks {#sec-pre-workshop}
+# Overview {#sec-pre-workshop}
 
 In order to participate in this workshop, you must complete everything
 in this section and finish with **completing the
