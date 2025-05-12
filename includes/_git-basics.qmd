@@ -1,76 +1,91 @@
 In our work lives, we regularly work with files, either creating,
-editing, moving, copying, or deleting them. These files can be
-anything from text documents, to images, to code. When we work on these
-files, we often make changes to them, and sometimes many changes. We
-might want to keep track of these changes, so we can see *what* we've
-done, *when* we did it, *why* we did it, and *who* did it. This is both helpful for
-potential collaborators and our future selves.
+editing, moving, copying, or deleting them. These files can be anything
+from text documents, to images, to code. When we work on these files, we
+often make changes to them, and sometimes many changes. We might want to
+keep track of how our files change over time or "save" specific versions
+of the files. This tracking of file changes over time is known as
+*version control*.
 
-If a file has the ability to internally "track changes", like Word
-does, you may have used that before, but likely only when getting
-feedback from others. On the file level, you may have "tracked changes"
-informally by saving multiple versions of a file with different names,
-like in the example image below.
+It can be useful to keep track of changes to files for many reasons. For
+example, we might want to keep track of changes to a file so we can
+revert back to a previous version of the file if we make a mistake or so
+we can see how the file has changed over time. This is especially useful
+when we are collaborating with others on a project, as we might want to
+keep track of changes made or feedback given by different people.
 
-![File naming in the commonly used *informal* 'version
+Tracking file changes is, however, also useful when we are working
+mostly alone on a project, since we humans tend to forget things. This
+could be why we made a certain change or what the file looked like at a
+certain point in time (e.g., if we want to go back to an earlier version
+of the file).
+
+If a file has the ability to internally "track changes", like Word does,
+you may have used that before, maybe when getting feedback from others.
+On the file level, you may have "tracked changes" informally by saving
+multiple versions of a file with different names, like in the example
+image below.
+
+![File naming in a commonly used *informal* 'version
 control'.](/images/informal-version-control.jpg)
 
 Does this way of saving files and keeping track of versions look
-familiar? The above image may exaggerate how some people's versioning looks
-like, but there is some truth to it: It is the most common approach to
-"version control".
+familiar? The above image may exaggerate what some people's versioning
+looks like, but there is some truth to it: It is the most common
+approach to "version control".
 
 This "informal" version control isn't ideal because it involves multiple
 copies of the same file. It makes it difficult to keep track of specific
-changes and find the right version of the files.
+changes and find the right version of the files. This also just
+highlights the need for version control and the fact that it can be
+difficult to keep track of file changes manually.
 
-There are, however, "formal" version control systems that automatically
-manage changes to files. One of the world's most popular version control
-systems is called
+Luckily for us, there exist "formal" version control systems that
+automatically track changes to files. One of the world's most popular
+version control systems is called
 [Git](https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F).
 Git is used by millions of people around the world, including thousands
 of organisations and researchers.
 
-With Git you can create snapshots of file changes, known as *commits*. Each commit
-captures:
+With Git you can create snapshots of file changes, known as *commits*.
+Each commit captures:
 
--   What specific changes were made to the file or files.
--   Who made the changes to the files.
--   When they made the changes to the files.
+-   *What* specific changes were made to the file or files.
+-   *Who* made the changes to the files.
+-   *When* they made the changes to the files.
 
-Each commit also has a short message attached to it that can
-describe *why* the changes were made.
+Each commit also has a short message attached to it that can describe
+*why* the changes were made.
 
 Git stores these commits in a history log. The history log allows you to
 quickly go back and explore the changes made to files, along with a
 message describing the changes. This is extremely useful when you
-revisit your own work after a long time (because you *will* forget
-things) and when you work in groups or with collaborators.
+revisit your own work after a long time and when you work in groups or
+with collaborators.
 
 Git only tracks changes to files *within a specific folder* (and it's
-sub-folders). In Git terminology, this folder is called a
-**repository** (or a *repo* for short). The best way to use a repository
-is to store all files related to a specific project, like a research
-project, in this repository (this folder). This way, you can track all
-changes made to all files in the project. It keeps things more organised and
+sub-folders). In Git terminology, this folder is called a **repository**
+(or a *repo* for short). The best way to use a repository is to store
+all files related to a specific project, like a research project, in
+this repository (this folder). This way, you can track all changes made
+to all files in the project. It keeps things more organised and
 self-contained, since everything related to a project is in one place.
 
-Any type of file can be stored in the repository, including both
-code and other non-code based files like Word or images. However, Git has
-more features and tools for tracking specific changes when the file is
+Any type of file can be stored in a repository, including both code and
+other non-code based files like Word or images. However, Git has more
+features and tools for tracking specific changes when the file is
 text-based, like a `.txt`, `.csv`, or code. Since these text-based files
 are literally only text characters, it is easier to track the changes to
 exact lines of text. Unlike files like images, or Word documents (that
 actually aren't just text), there are no "lines" to track changes on.
 
-To understand how powerful formal version control like Git is, consider about these
-questions:
+To understand how powerful formal version control like Git is, consider
+these questions:
 
 -   How many files of different versions of a scientific document or
     thesis do you have laying around after getting feedback from your
     supervisor or co-authors?
--   Have you ever wanted to test an analysis in a
-    file but ended up creating a new one to avoid modifying the original?
+-   Have you ever wanted to test an analysis in a file but ended up
+    creating a new one to avoid modifying the original?
 -   Have you ever deleted something and wished you hadn't?
 -   Have you ever forgotten what you were doing on a project, or why you
     chose a particular strategy or analysis?
@@ -78,16 +93,17 @@ questions:
 All these problems can be fixed by using formal version control! There
 are many good reasons to use version control, especially in science:
 
+-   Organized files and folders, since there is one single project
+    folder and one single version of each file, rather than multiple
+    versions of the same file.
+-   Ability to see previous versions of files using the history log.
+-   Less time spent on finding things related to your projects, because
+    everything is organized and in one place.
+-   Easier collaboration, because you can work on a single file/folder
+    in a single central location rather than emailing file versions
+    around.
 -   Transparency of work done to demonstrate or substantiate your
     scientific claim and protect against accusations of fraud.
 -   Claim to first discovery, since you have a time-stamped history of
     your work.
 -   Evidence of contributions and work, since who does what is tracked.
--   Easier collaboration, because you can work on a single file/folder
-    in a single central location rather than emailing file versions
-    around.
--   Organized files and folders, since there is one single project
-    folder and one single version of each file, rather than multiple
-    versions of the same file.
--   Less time spent on finding things related to your projects, because
-    everything is organized and in one place.

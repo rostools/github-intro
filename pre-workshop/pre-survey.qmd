@@ -4,7 +4,7 @@ If you haven't read the sections under "Workshop overview" and
 "Pre-workshop tasks", **please read them now**.
 
 Also make sure to read the [Code of
-Conduct](https://guides.rostools.org/conduct.html), since the survey
+conduct](https://guides.rostools.org/conduct.html), since the survey
 involves a question about it. We want to make sure this workshop is a
 supportive and safe environment for learning, so this is
 quite important.

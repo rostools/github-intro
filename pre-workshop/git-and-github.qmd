@@ -1,7 +1,9 @@
 # Version control with Git and GitHub {#sec-git-and-github}
 
 This reading is meant as a primer to the workshop. It will introduce you
-to the concepts of *version control*, *Git*, and *GitHub*.
+to the concepts of *version control*, *Git*, and *GitHub* which are
+central concepts of the workshop and to working with files on GitHub in
+general.
 
 ## What is version control and Git? {#sec-what-is-version-control}
 
@@ -17,7 +19,8 @@ to the concepts of *version control*, *Git*, and *GitHub*.
     track of changes to your files and projects.
 -   A Git *repository* is a place where you store all the files for your
     project along with their history.
--   GitHub is a website that hosts Git repositories.
+-   GitHub is a website that hosts Git repositories, allowing you to
+    store and share your files and projects online.
 -   Through GitHub you can manage your files and projects using Git.
 
 <!-- TODO: Move the definition list below to a glossary repo? -->
