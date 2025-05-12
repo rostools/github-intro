@@ -18,9 +18,9 @@ that use Git (meaning, Git repositories). This means that your Git
 repositories can be stored on GitHub, and you can manage your files and
 projects using Git through GitHub's web interface.
 
-Everything we do in this workshop (including storing and managing files and folders)
-will be done through the GitHub website, which uses Git behind the scenes
-to track changes.
+Everything we do in this workshop (including storing and managing files
+and folders) will be done through the GitHub website, which uses Git
+behind the scenes to track changes.
 
 In the simplest terms, GitHub is a company and website while Git is
 software. GitHub is a website that hosts Git repositories and builds on
@@ -47,8 +47,8 @@ benefit of being faster (you do work locally, so don't need to wait for
 the internet) and more flexible (you can do more things with Git on your
 computer than on GitHub). Then you can use GitHub as a place to keep
 backups of your repository, to track tasks, and to make use of the other
-features GitHub has. How you would use Git locally with GitHub would look
-something like the figure below.
+features GitHub has. How you would use Git locally with GitHub would
+look something like the figure below.
 
 ```{mermaid}
 %%| label: fig-git-sync-github
@@ -58,11 +58,12 @@ graph
   github(Git repository<br>on GitHub) <-- Sync --> git(Git repository<br>on your computer)
 ```
 
-Using GitHub only is a great way to get started with Git. It allows you to
-learn the concepts of version control and Git without needing to
-install anything on your computer and without needing to learn some of the more technical details of Git. Since GitHub is a website it also makes it easier to share your work with
-others and to collaborate with others. This is one of the
-main reasons why GitHub is so popular. 
+Using GitHub only is a great way to get started with Git. It allows you
+to learn the concepts of version control and Git without needing to
+install anything on your computer and without needing to learn some of
+the more technical details of Git. Since GitHub is a website it also
+makes it easier to share your work with others and to collaborate with
+others. This is one of the main reasons why GitHub is so popular.
 
 ::: callout-note
 You may notice that GitHub sounds a bit like file synching tools such as
@@ -72,12 +73,11 @@ file-level changes. This means you can see the specific changes made in
 a file, not just that it was changed. The messages you attach to commits
 can also help you keep track of *why* the changes were made.
 
-OneDrive and Dropbox also use a
-simple way of handling conflicts when synching between the cloud and
-your computer by either creating a new file with some details appending
-to it or by overwriting which ever is newer. GitHub, on the other hand,
-uses a more complex way of handling conflicts by showing you the changes
-and asking you to resolve them.
+OneDrive and Dropbox also use a simple way of handling conflicts when
+synching between the cloud and your computer by either creating a new
+file with some details appending to it or by overwriting which ever is
+newer. GitHub, on the other hand, uses a more complex way of handling
+conflicts by showing you the changes and asking you to resolve them.
 
 File synching tools are really good for easily sharing files within a
 team or group, but they aren't as good for collaboratively working
