@@ -5,6 +5,12 @@ files, we often make changes to them, and sometimes many changes.
 We might want to keep track of how our files change over time or "save" specific versions of
 the files. This tracking of file changes over time is known as *version control*.
 
+It can be useful to keep track of changes to files for many reasons. For
+example, we might want to keep track of changes to a file so we can
+revert back to a previous version of the file if we make a mistake or so we can see how the
+file has changed over time. This is especially useful when we are
+collaborating with others on a project, as we might want to keep track
+of changes made or feedback given by different people. Tracking file changes is, however, also useful when we are working mostly alone on a project, since we humans tend to forget things. This could be why we made a certain change or what the file looked like at a certain point in time (e.g., if we want to go back to an earlier version of the file).
 
 If a file has the ability to internally "track changes", like Word
 does, you may have used that before, maybe when getting
