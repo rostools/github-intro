@@ -77,3 +77,5 @@ So in that context, this workshop is designed as a gentle introduction
 to using GitHub to manage your files related to your research and work.
 
 {{< text_snippet sticky_up >}}
+
+<!-- TODO add section with overview of what we’ll do, i.e., create a recipe book -->
