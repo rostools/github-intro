@@ -121,6 +121,7 @@ Take it slow here as you create the repository as this is the first
 it does, using the table below as a guide.
 
 Also briefly introduce Markdown and mention the `.md` file extension.
+You can verbally relate `.md` to `.qmd`, but not get into it too much.
 :::
 
 Now that we've gone over the landing page of GitHub and taken a look at
@@ -163,9 +164,9 @@ the page. After you click the button, you'll be taken to the front page
 of the repository. This is where you can see all the files and folders
 that are currently in this repository.
 
-In this new repository is only one file: `README.md`. The `README.md`
-file is a common file included in repositories as it describes what the
-repository contains and is used for.
+In this new repository there is only one file: `README.md`. The
+`README.md` file is a common file included in repositories as it
+describes what the repository contains and is used for.
 
 The files that have the file extension `.md` like this `README.md` file
 means they are Markdown files.
@@ -183,6 +184,14 @@ is fundamental to working with files and folders: file paths.
 
 ::: {.callout-note collapse="true"}
 ## :teacher: Teacher note
+
+Reinforce that paths are pointers to files on your computer, that they
+are for us humans to effectively organise and work with files. That
+every file has a parent folder, and every folder may also have a parent
+folder. That files and folders are separated by `/` or `\` and that the
+last item in the path is either a file or a folder. That a path is like
+a family tree, where each parent can have one or more child, but each
+child only has two sets of parents.
 :::
 
 **Time: \~3 minutes.**
@@ -321,10 +330,10 @@ commit, they look like:
     └── baked-goods/cake.md
     ```
 
-Because the Git history consists of these connected commits that each have the
-changes, we're able to see exactly what was changed. You can even go back to the state of the
-folder, with the exact files and their contents that existed at that
-point in time.
+Because the Git history consists of these connected commits that each
+have the changes, we're able to see exactly what was changed. You can
+even go back to the state of the folder, with the exact files and their
+contents that existed at that point in time.
 
 Why is this important or useful? Because we humans have imperfect
 memories, so having it recorded in a history log makes it much easier to
