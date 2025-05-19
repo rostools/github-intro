@@ -15,6 +15,10 @@ Review the learning design, reinforcing why we do each activity.
 Especially highlight the use of the stickies/hats.
 :::
 
+Before we get started, let's go over some of the details of the
+workshop. This will help you understand how the workshop is designed and
+what to expect:
+
 -   We do "type-alongs" where the teacher types and actually shows how
     things are done and explains what they are doing and why, while you
     type along.
@@ -24,7 +28,7 @@ Especially highlight the use of the stickies/hats.
     the key points to reinforce the concepts you just read.
 
 -   We use "stickies" to assess how everyone is doing and for you to
-    request help when you are stuck. When the "help" sticky is up, a
+    request help if you get stuck. When the "help" sticky is up, a
     helper will come by and help you out.
 
 -   The [schedule](/overview/schedule.qmd) is a *guide* only, some
@@ -45,21 +49,19 @@ Especially highlight the use of the stickies/hats.
 
 **Time: \~5 minutes.**
 
-It helps to put what we are teaching and what you are wanting to learn
-into context. While we've already covered some of this in the
+When you're learning something new, it helps to put it into a context. While we've already covered some of this in the
 [syllabus](/overview/syllabus.qmd), we haven't fully addressed probably
 one of the biggest questions people may have: **Why learn and use
-GitHub?**
+GitHub specifically?**
 
 GitHub is an extremely popular and widely used online platform for
-managing Git repositories. But it also does so much more than that. It
+managing Git repositories. And, as we saw in the [pre-workshop tasks](/pre-workshop/git-and-github.qmd), Git repositories comes with a lot of
+features to work with files and track changes to
+them. But GitHub does much more than that. It
 can be used for [project
-management](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects),
-running automatic [workflows](https://docs.github.com/en/actions) to do
-tasks for you, hosting [static
-websites](https://docs.github.com/en/pages), and
-[collaborate](https://docs.github.com/en/get-started/using-github/github-flow)
-with others.
+management](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects), running automatic [workflows](https://docs.github.com/en/actions) that do
+tasks for you, hosting [websites](https://docs.github.com/en/pages), and [collaborating](https://docs.github.com/en/get-started/using-github/github-flow)
+with others, for example by reviewing each others work.
 
 While there are other platforms that do similar things, such as
 [GitLab](https://gitlab.com/) and [Bitbucket](https://bitbucket.org/),
@@ -72,7 +74,7 @@ collaborate with others, and share their work. It is an extremely
 effective and powerful way to collaborate. And because GitHub is
 extensively indexed by search engines, as well as having its own search
 engine, it is also a very effective way of making it easier for other
-researchers to discover your work and research.
+researchers to discover your work and research. It is a great way to share your research and make it more [open and accessible](https://en.wikipedia.org/wiki/Open_research). 
 
 In order to remain relevant and connected to the current and future
 research community, we need to embrace and use tools that improve how we
@@ -80,7 +82,8 @@ do our work and how we disseminate our research. And GitHub is one of
 these tools.
 
 So in that context, this workshop is designed as a gentle introduction
-to using GitHub to manage your files related to your research and work.
+to using GitHub to manage your files related to your research and work. Before diving into some of the more advanced uses, it’s important to understand the basics of how GitHub works and how to use it effectively. In this workshop, our focus is to cover the most fundamental and
+important features of GitHub that will help you get started with using it for your own work.
 
 {{< text_snippet sticky_up >}}
 
