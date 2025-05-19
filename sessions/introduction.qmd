@@ -17,9 +17,9 @@ Especially highlight the use of the stickies/hats.
     your own way. After the reading, the teacher repeats and rephrases
     the key points to reinforce the concepts you just read.
 
--   We use "stickies" to assess how everyone is doing and for you to
-    request help when you are stuck. When the "help" sticky is up, a
-    helper will come by and help you out.
+-   We use "stickies" or origami hats to assess how everyone is doing
+    and for you to request help when you are stuck. When the "help"
+    sticky/origami hat is up, a helper will come by and help you out.
 
 -   The [schedule](/overview/schedule.qmd) is a *guide* only, some
     sessions are longer, others shorter. It is not intended to be firm
