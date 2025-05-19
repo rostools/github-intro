@@ -3,8 +3,8 @@
 ::: {.callout-note collapse="true"}
 ## :teacher: Teacher note
 
-Start of the workshop by introducing yourself and the helpers. Then
-briefly introduce to the workshop by going through the
+Start the workshop by introducing yourself and the helpers. Then
+briefly introduce the workshop by going through the
 [schedule](/overview/schedule.qmd).
 :::
 
@@ -18,8 +18,7 @@ Especially highlight the use of the stickies/hats.
 :::
 
 Before we get started, let's go over some of the details of the
-workshop. This will help you understand how the workshop is designed and
-what to expect:
+workshop, which will help orient you to the workshop structure and what to expect:
 
 -   We do "type-alongs" where the teacher types and actually shows how
     things are done and explains what they are doing and why, while you
@@ -59,7 +58,7 @@ specifically?**
 
 GitHub is an extremely popular and widely used online platform for
 managing Git repositories. And, as we saw in the [pre-workshop
-tasks](/pre-workshop/git-and-github.qmd), Git repositories comes with a
+tasks](/pre-workshop/git-and-github.qmd), Git repositories come with a
 lot of features to work with files and track changes to them. But GitHub
 does much more than that. It can be used for [project
 management](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects),
@@ -91,7 +90,7 @@ these tools.
 
 So in that context, this workshop is designed as a gentle introduction
 to using GitHub to manage your files related to your research and work.
-Before diving into some of the more advanced uses, it’s important to
+Before diving into some of the more advanced uses, it's important to
 understand the basics of how GitHub works and how to use it effectively.
 In this workshop, our focus is to cover the most fundamental and
 important features of GitHub that will help you get started with using
