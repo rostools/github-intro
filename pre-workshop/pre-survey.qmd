@@ -6,11 +6,14 @@ If you haven't read the sections under "Workshop overview" and
 Also make sure to read the [Code of
 conduct](https://guides.rostools.org/conduct.html), since the survey
 involves a question about it. We want to make sure this workshop is a
-supportive and safe environment for learning, so this is
-quite important.
+supportive and safe environment for learning, so this is quite
+important.
 
 You're almost done. Please fill out the pre-workshop survey to finish
-this section, [at this
-link](https://docs.google.com/forms/d/e/1FAIpQLSdbh5fBeyJy6EzrPyNqjrkifq0N3rFT8wqUSW5JhzKNKGJpzg/viewform?usp=dialog).
+this section:
+
+[Pre-workshop survey
+:tada:](https://docs.google.com/forms/d/e/1FAIpQLSdbh5fBeyJy6EzrPyNqjrkifq0N3rFT8wqUSW5JhzKNKGJpzg/viewform?usp=dialog){.btn
+.btn-primary role="button"}
 
 See you at the workshop! :wave:
