@@ -94,18 +94,14 @@ workshop, we will only focus on these items:
     can create a new repository, as well as other items we won't cover
     in this workshop.
 -   **Issues** button on the navigation bar on the top right that looks
-    like:
-    ![](/images/icon-issues.svg){fig-alt="The GitHub issues icon."}.
-    This is where you can view all issues you've made, participate in,
-    or have been assigned to. From our experience, we don't use this
-    item often, but can be useful to quickly find or search for a
-    specific issue.
+    like: {{< var issues-icon >}}. This is where you can view all issues
+    you've made, participate in, or have been assigned to. From our
+    experience, we don't use this item often, but can be useful to
+    quickly find or search for a specific issue.
 -   **Notifications inbox** button on navigation bar on the top right
-    that looks like:
-    ![](/images/icon-inbox.svg){fig-alt="The GitHub notifications inbox icon."}.
-    This is where you can see all notifications about activities in your
-    repositories, like when someone comments on an issue you made or
-    mentions you in an issue.
+    that looks like: {{< var inbox-icon >}}. This is where you can see
+    all notifications about activities in your repositories, like when
+    someone comments on an issue you made or mentions you in an issue.
 
 We'll return to these items later in the workshop, but for now, it's
 enough for you to know where they are. Let’s go to the next section and
@@ -321,10 +317,10 @@ commit, they look like:
     └── baked-goods/cake.md
     ```
 
-Because the Git history consists of these connected commits that each have the
-changes, we're able to see exactly what was changed. You can even go back to the state of the
-folder, with the exact files and their contents that existed at that
-point in time.
+Because the Git history consists of these connected commits that each
+have the changes, we're able to see exactly what was changed. You can
+even go back to the state of the folder, with the exact files and their
+contents that existed at that point in time.
 
 Why is this important or useful? Because we humans have imperfect
 memories, so having it recorded in a history log makes it much easier to
