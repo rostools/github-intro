@@ -18,7 +18,8 @@ Especially highlight the use of the stickies/hats.
 :::
 
 Before we get started, let's go over some of the details of the
-workshop, which will help orient you to the workshop structure and what to expect:
+workshop, which will help orient you to the workshop structure and what 
+to expect:
 
 -   We do "type-alongs" where the teacher types and actually shows how
     things are done and explains what they are doing and why, while you
@@ -28,9 +29,9 @@ workshop, which will help orient you to the workshop structure and what to expec
     your own way. After the reading, the teacher repeats and rephrases
     the key points to reinforce the concepts you just read.
 
--   We use "stickies" to assess how everyone is doing and for you to
-    request help if you get stuck. When the "help" sticky is up, a
-    helper will come by and help you out.
+-   We use "stickies" or origami hats to assess how everyone is doing and
+    for you to request help if you get stuck. When the "help" 
+    sticky/origami hat is up, a helper will come by and help you out.
 
 -   The [schedule](/overview/schedule.qmd) is a *guide* only, some
     sessions are longer, others shorter. It is not intended to be firm
