@@ -19,7 +19,7 @@ Especially highlight the use of the stickies/hats.
 
 -   We use "stickies" or origami hats to assess how everyone is doing
     and for you to request help when you are stuck. When the "help"
-    sticky/hat is up, a helper will come by and help you out.
+    sticky/origami hat is up, a helper will come by and help you out.
 
 -   The [schedule](/overview/schedule.qmd) is a *guide* only, some
     sessions are longer, others shorter. It is not intended to be firm
