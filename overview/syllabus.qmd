@@ -47,8 +47,8 @@ The overall aim of this workshop is to enable you to:
 -   Explain in simple terms what GitHub does and navigate GitHub to work
     with files and GitHub Issues.
 
-Broken down into specific objectives for each session, we've also
-designed the workshop to enable to do the following:
+Broken down into specific objectives for each session, we've
+designed the workshop to enable you to do the following:
 
 [**The basics of GitHub and Git**](/sessions/basics.qmd)
 
