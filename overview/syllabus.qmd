@@ -5,24 +5,24 @@ changed as the internet---especially digital technologies and social
 media---have become more embedded in even the more traditional and
 conservative parts of our society. This shift has affected research in
 multiple ways and has increased the need, expectation, and/or pressure
-on various aspects. These needs include, in no particular order,
-being able to:
+on various aspects. These needs include, in no particular order, being
+able to:
 
 1.  Formally disseminate more types of new or existing knowledge and
-    scientific output
-2.  Informally share information, discussions, or ideas regularly
-    and quickly
-3.  Collaborate more across regions and timezones
-4.  Be more open and transparent about the whole research process
+    scientific output.
+2.  Informally share information, discussions, or ideas regularly and
+    quickly.
+3.  Collaborate more across regions and timezones.
+4.  Be more open and transparent about the whole research process.
 5.  Network and connect with others in the research community and, at
     least in health, those who participate or want to participate in
-    research using a wider variety of tools and platforms
+    research using a wider variety of tools and platforms.
 
-While academia and research pursue to expand the boundaries of our
+While academia and research seek to expand the boundaries of our
 collective knowledge, we also paradoxically are very slow to adapt to
-and adopt changes, especially technological. But the needs listed above
-are now so great that we must embrace new tools to effectively fulfil
-those needs.
+and adopt changes, especially technological ones. But the needs listed
+above are now so great that we must embrace new tools to effectively
+fulfil those needs.
 
 This workshop introduces you to one such tool widely used for working
 and communicating in industry and increasingly in academia: GitHub.
@@ -34,8 +34,8 @@ This workshop lasts 3 hours and is split into the following sessions,
 listed in the [schedule](/overview/schedule.qmd), which will be covered
 in order:
 
--   [Introduction to the workshop in](/sessions/introduction.qmd)
--   [The basics of GitHub and Git in](/sessions/basics.qmd)
+-   [Introduction to the workshop](/sessions/introduction.qmd)
+-   [The basics of GitHub and Git](/sessions/basics.qmd)
 -   [Working with files on GitHub](/sessions/working-with-files.qmd)
 -   [Making and using GitHub Issues](/sessions/using-issues.qmd)
 -   [Concluding remarks](/sessions/conclusion.qmd)
@@ -47,8 +47,8 @@ The overall aim of this workshop is to enable you to:
 -   Explain in simple terms what GitHub does and navigate GitHub to work
     with files and GitHub Issues.
 
-Broken down into specific objectives, the workshop is designed to enable
-you to:
+Broken down into specific objectives for each session, we've
+designed the workshop to enable you to do the following:
 
 [**The basics of GitHub and Git**](/sessions/basics.qmd)
 
