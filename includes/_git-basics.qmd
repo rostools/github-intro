@@ -67,7 +67,7 @@ Git only tracks changes to files *within a specific folder* (and it's
 sub-folders). In Git terminology, this folder is called a **repository**
 (or a *repo* for short). The best way to use a repository is to store
 all files related to a specific project, like a research project, in
-this repository (the folder). This way, you can track all changes made
+this repository (the “folder"). This way, you can track all changes made
 to all files in the project. It keeps things more organised and
 self-contained, since everything related to a project is in one place.
 
