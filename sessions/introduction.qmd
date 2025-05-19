@@ -1,5 +1,11 @@
 # Introduction {#sec-introduction}
 
+::: {.callout-note collapse="true"}
+## :teacher: Teacher note
+
+Start of the workshop by introducing yourself and the helpers. Then briefly introduce to the workshop by going through the [schedule](/overview/schedule.qmd).
+:::
+
 ## Workshop details
 
 ::: {.callout-note collapse="true"}
