@@ -228,57 +228,7 @@ Once you have made your changes, click the "Save" button for issues or
 
 {{< text_snippet sticky_up >}}
 
-## Add a collaborator to your repository
-
-<!-- TODO: Add context to this code along -->
-
-In your repository, click "Settings", then "Collaborators and teams",
-and then "Add people". Add your neighbour as a collaborator to your
-repository.
-
-## :technologist: Exercise: Add a recipe to your neighbour's repository
-
-> Time: \~10 minutes.
-
-Now, you'll add a recipe to your neighbour's repository.
-
-1.  Go to your neighbour's GitHub repository.
-
-2.  As we've done during this workshop, add a new file with a recipe,
-    naming the file by using the recipe name (remember the correct
-    naming for files!). This time, you will be adding the file to your
-    neighbour's repository. In the file, add a recipe of your choice.
-    For convenience, you can also use the brownie recipe below.
-
-3.  Commit the changes as you have done previously in the workshop. Then
-    go to the neighbour's repository's history to see the changes you
-    have made.
-
-**Example brownie recipe:**
-
-``` markdown
-Ingredients for brownies
-
-- 350 grams dark chocolate
-- 250 grams butter
-- 4 eggs
-- 150 grams brown sugar
-- 150 grams white sugar
-- 60 grams flour
-- 1 tsp baking powder
-
-Instructions
-
-1. Melt the chocolate and butter together.
-2. Whisk the eggs until frothy and add brown and white sugar.
-3. Add the melted chocolate and butter to the egg mixture.
-4. Add the flour and baking powder.
-5. Pour the mixture into a baking tray and bake at 170°C for 30-35 minutes.
-```
-
-{{< text_snippet sticky_up >}}
-
-## :speech_balloon: Discussion activity: Consider advantages to issues in your own work
+## :speech_balloon: Discussion activity: Consider the advantages of issues in your own work
 
 **Time: \~4 minutes.**
 
