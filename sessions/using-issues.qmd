@@ -20,7 +20,7 @@ to keep track of tasks and discussions in your project.
 
 **Time: \~7 minutes.**
 
-So far, we have learned how to create repositories, add files, and make
+So far, we've covered how to create repositories, add files, and make
 changes to files. But what if you want to keep track of tasks or ideas
 for future work, or you need to discuss something with your
 collaborators before you add it to your repository? This is where GitHub
@@ -28,13 +28,13 @@ Issues come in.
 
 [GitHub Issues](https://docs.github.com/en/issues) are "items" or
 "records" that can help you keep track of to-do tasks and discussions
-related to a specific project or repository. Issues are not files in
+related to a specific project (as a repository). Issues are not files in
 your repository; they are completely separate from the repository's
 files and folders which we have been working with so far in the "Code"
 tab on GitHub. Instead, issues live in the "Issues" tab in your
 repository on GitHub. Later in this session, we'll create multiple
 issues, so you don't have to go to this tab right now. For now, it's
-enough to understand that issues aren't files in your repository, but a
+enough to know that issues aren't files in your repository, but a
 separate tool for keeping track of tasks and ideas.
 
 Issues can be used in many ways. For example, you can use them to:
@@ -69,8 +69,8 @@ you can see a list of all the issues in the repository. You can also
 filter the issues by their status, such as "open" or "closed", and by
 who they are assigned to. By default, only open issues are shown.
 
-Now that we've learned about what GitHub Issues are, let's practice
-creating issues in our repositories.
+Now that you've read about what GitHub Issues are, let's practice
+creating issues in the repository.
 
 {{< text_snippet sticky_up >}}
 
@@ -108,14 +108,15 @@ the issue once the task is completed.
 We have now created our first issue :tada:!
 
 ::: callout-tip
-## Issue overview
+### Issue overview
 
 If you want to see get an overview of the issues in a specific
 repository, you can go to the "Issues" tab in that repository.
 
 But if you want to see all the issues you have created across
 repositories, you can click the "Your issues" button in the top-right
-corner of the GitHub page. It looks like circle with a dot inside it.
+corner of the GitHub page. It looks like {{< var issues-icon >}}.
+
 When you click that, you'll see a list with all the issues you have
 created across all repositories. Nice! :sparkles:
 :::
@@ -126,8 +127,8 @@ created across all repositories. Nice! :sparkles:
 
 Imagine that you would like to discuss or brainstorm some ideas on what
 recipes to add to your recipe book next. Since GitHub Issues can be used
-for exactly that, it makes sense to create one to keep track of these
-ideas:
+for exactly that purpose, it makes sense to create one to keep track of
+these ideas:
 
 1.  In your repository, click the "Issues" tab, and then the "New issue"
     button.
@@ -152,7 +153,7 @@ ideas:
     tag them in the issue. To do this, type `@` followed by the username
     of the person you want to tag. For example, if you want to tag
     someone with the user name `signekb`, you would type `@signekb`. Ask
-    your neighbour about their GitHub username and tag them in the
+    your neighbour to give you their GitHub username and tag them in the
     issue. You could write: "Hey \@\[neighbour's GitHub username\], what
     do you think about the recipes I've listed here? Do you have any
     other suggestions?"
@@ -167,27 +168,32 @@ You now have an issue to remind yourself of recipes you want to add!
 
 ## GitHub notifications
 
-TODO: Add an teacher note here to talk about how to walk through
-notification tab.
+::: {.callout-note collapse="true"}
+## :teacher: Teacher note
+
+Slowly walkthrough the inbox section, as it can be a lot to take in at
+once.
+:::
 
 Now that you've been tagged in your neighbour's issue, you will have
 received a notification on GitHub (and probably also an email).
 
 To see the notification, we'll click on the notification button with the
-inbox icon in the top right corner of the GitHub page. This will show a
-list of your notifications, including the one from your neighbour's
-issue.
+inbox icon in the top right corner of the GitHub page that looks like
+{{< var inbox-icon >}}. This will show a list of your notifications,
+including the one from your neighbour's issue.
 
 Let's take a moment to look at the information in this notification. We
 can see the title of the issue, who created it, and the repository it's
 in. We can also see that we've been mentioned in this issue.
 
 If we click on the notification, it will take us to the issue page. Here
-we can see the issue title, description, and comments.
+we can see the issue with all its details.
 
-Since you've been tagged in your neighbour's issue, finding the issue is
-easy. You can go to the notifications by clicking the button in the top
-right corner on GitHub and click on the issue to see the details.
+Since you've been tagged in your neighbour's issue, you should be able
+to find the issue fairly quickly. You can go to the notifications by
+clicking the inbox button in the top right corner on GitHub ({{< var inbox-icon >}})  and click on the
+issue to see the details.
 
 However, if you hadn't been tagged, you can't find the issue this way.
 So, let's practice finding the issue in your neighbour's repository.
@@ -213,14 +219,13 @@ adding a comment to it:
     to post the comment.
 
 ::: callout-tip
-## Edit your issue or your comment
+### Edit your issue or your comment
 
 If you want to edit your issue or your comment to an issue, you can do
-so by clicking the
-![](/images/icon-ellipsis.svg){fig-alt="Ellipsis icon."} button on the
-right side of the issue or comment. This will open a dropdown menu.
-Click "Edit" in the dropdown. From here you can change the title,
-description, or comment text.
+so by clicking the {{< var ellipsis-icon >}} button on the right side of
+the issue or comment. This will open a dropdown menu. Click "Edit" in
+the dropdown. From here you can change the title, description, or
+comment text.
 
 Once you have made your changes, click the "Save" button for issues or
 "Update comment" for comments to save the changes.
