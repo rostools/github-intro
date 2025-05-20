@@ -13,24 +13,30 @@ Git and GitHub logos.
 :::::
 
 There are several ways to use Git. In this workshop, we will use
-[GitHub](https://github.com/)---a website that hosts Git reposities and builds on Git's core features. This means that your Git
-repositories can be stored on GitHub, and you can manage your files and
-projects using Git through GitHub's web interface.
+[GitHub](https://github.com/)---a website that hosts Git reposities and
+builds on Git's core features. This means that your Git repositories can
+be stored on GitHub, and you can manage your files and projects using
+Git through GitHub's web interface.
 
 Everything we do in this workshop (including storing and managing files
-and folders) will happen through the GitHub website. Behind the scenes, GitHub will use Git to track the changes we make.
+and folders) will happen through the GitHub website. Behind the scenes,
+GitHub will use Git to track the changes we make.
 
-In the simplest terms, Git is a software, while GitHub is a company and website that makes it easier to use Git and share Git repositories. For beginners, GitHub's web interface has some advantages: you commit changes immediately after editing a file, and it's easier to view changes and file history compared to using Git alone on your computer. 
+In the simplest terms, Git is a software, while GitHub is a company and
+website that makes it easier to use Git and share Git repositories. For
+beginners, GitHub's web interface has some advantages: you commit
+changes immediately after editing a file, and it's easier to view
+changes and file history compared to using Git alone on your computer.
 
-While we will only be interacting with Git on GitHub during this workshop,
-when you feel more comfortable with the concepts, you can eventually
-start using Git on your computer. Using Git on your computer has the
-benefit of being faster (you do work locally, so don't need to wait for
-the internet) and more flexible (you can do more things with Git on your
-computer than on GitHub). Then you can use GitHub as a place to keep
-backups of your repository, to track tasks, and to make use of the other
-features GitHub has. How you would use Git locally with GitHub would
-look something like the figure below.
+While we will only be interacting with Git on GitHub during this
+workshop, when you feel more comfortable with the concepts, you can
+eventually start using Git on your computer. Using Git on your computer
+has the benefit of being faster (you do work locally, so don't need to
+wait for the internet) and more flexible (you can do more things with
+Git on your computer than on GitHub). Then you can use GitHub as a place
+to keep backups of your repository, to track tasks, and to make use of
+the other features GitHub has. How you would use Git locally with GitHub
+would look something like the figure below.
 
 ```{mermaid}
 %%| label: fig-git-sync-github
@@ -59,8 +65,9 @@ can also help you keep track of *why* the changes were made.
 OneDrive and Dropbox also use a simple way of handling conflicts when
 synching between the cloud and your computer by either creating a new
 file with some details appending to it or by overwriting which ever is
-newer. Git and GitHub, on the other hand, use a more complex way of handling
-conflicts by showing you the changes and allowing you to resolve them as you want to.
+newer. Git and GitHub, on the other hand, use a more complex way of
+handling conflicts by showing you the changes and allowing you to
+resolve them as you want to.
 
 File synching tools are really good for easily sharing files within a
 team or group, but they aren't as good for collaboratively working
