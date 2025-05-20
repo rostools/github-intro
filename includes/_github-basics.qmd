@@ -13,7 +13,7 @@ Git and GitHub logos.
 :::::
 
 There are several ways to use Git. In this workshop, we will use
-[GitHub](https://github.com/)---a website that hosts Git reposities and
+[GitHub](https://github.com/), which is a website that hosts Git repositories and
 builds on Git's core features. This means that your Git repositories can
 be stored on GitHub, and you can manage your files and projects using
 Git through GitHub's web interface.
