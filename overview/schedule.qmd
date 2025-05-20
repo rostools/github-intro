@@ -6,6 +6,8 @@ discussion activities. The *general* schedule is outlined in the table
 below and is meant as an approximate guide *only*. The actual time spent
 on each session may vary a bit.
 
+<!-- TODO: Update minutes when sessions content is final -->
+
 | Minutes | Session topic |
 |:-----------------------------------|:-----------------------------------|
 |  | {{< fa mug-hot >}} Arrival, coffee and tea |
