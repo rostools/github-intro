@@ -34,7 +34,6 @@ book:
       - sessions/conclusion.qmd
   appendices:
     - appendix/for-teachers.qmd
-    - appendix/references.qmd
   page-footer:
     center:
       - text: "License: CC BY 4.0 {{< fa brands creative-commons >}} {{< fa brands creative-commons-by >}}"
