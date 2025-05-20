@@ -2,9 +2,9 @@
 
 <!-- TODO: Add content that mirrors/reflects on the bigger picture from the intro (once that has been made) -->
 
-We've reached the end of the workshop! To summarise, we've covered the
-basics of GitHub and Git, working with files on GitHub, and making and
-using GitHub Issues.
+We've nearly reached the end of the workshop! To summarise, we've
+covered the basics of GitHub and Git, working with files on GitHub, and
+making and using GitHub Issues.
 
 More specifically, we've:
 
@@ -20,10 +20,10 @@ your own work.
 
 **Time: \~6 minutes.**
 
-Learning is most effective when there is some connection to what you do
-in your daily work life. On your own and based on what we've covered so
-far, think about how you might use GitHub in your own work. Then, share
-some of your ideas with your neighbour.
+To help consolidate what you've learned in this workshop, let's connect
+it with what you do in your daily work life. On your own and based on
+what we've covered so far, think about how you might use GitHub in your
+own work. Then, share some of your ideas with your neighbour.
 
 1.  Take \~1 minute to think how you might use GitHub in your own work.
 2.  Then, pair up with your neighbour and take 3 minutes (1.5 minutes
@@ -42,12 +42,8 @@ Issues](https://docs.github.com/en/issues). We also have other workshops
 that we regularly run. Check out the rostools [landing
 page](https://github.com/rostools) to see the full list.
 
-::: {.callout-important appearance="simple"}
-Time to finish the final piece of the workshop:
+Time to finish the last piece of the workshop:
 
 [Feedback survey!
 :tada:](https://docs.google.com/forms/d/e/1FAIpQLScTbsxHSLrQxn38KS7kCklurFrccN8g3kVdm6WTSxEiIBypWg/viewform?usp=sf_link){.btn
 .btn-primary role="button"}
-:::
-
-<!-- TODO: Can we add a link to DDEA or somewhere where people can find out when the workshops will be run again? -->
