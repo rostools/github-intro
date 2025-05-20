@@ -38,21 +38,23 @@ or on the [workshop website](https://github-intro.rostools.org):
 
 -   `index.Rmd`: Contains the overview of the workshop. This is the
     landing page of the website.
--   `preamble/` folder: Contains the files necessary for use before the
-    workshop, for instance the syllabus, schedule, and pre-workshop
-    tasks.
+-   `overview/` folder: Contains the files necessary for use before the
+    workshop or to get an idea about what the workshop covers, for
+    instance the syllabus or schedule.
+-   `pre-workshop/` folder: Contains the files that prepares the learner
+    for the workshop, such as setting up GitHub and doing some
+    preparatory reading.
 -   `sessions/` folder: Contains the files used during the workshop
     (e.g. code-along material).
 -   `appendix/` folder: Contains the files used to support the workshop,
     such as resources and help for teachers.
--   `slides/`: Contains the presentation slides used for the workshop.
 
 ## Contributing
 
 If you are interested in contributing to the workshop material, please
 refer to the [contributing guidelines](CONTRIBUTING.md). For guidelines
 on how to be a helper or teacher, check out the [For
-Teacher](https://r-cubed.rostools.org/for-teacher.html) page.
+Teacher](https://github-intro.rostools.org/appendix/for-teachers) page.
 
 Please note that the project is released with a [Contributor Code of
 Conduct](CODE_OF_CONDUCT.md). By contributing to or being involved in
