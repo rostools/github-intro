@@ -67,7 +67,11 @@ Here are some tips for good naming practices:
     filename, use hyphens (`-`) or underscores (`_`) instead of spaces.
     For example, instead of `data analysis results.md`, use
     `data-analysis-results.md` or `data_analysis_results.md`. Spaces can
-    introduce different issues in some situations and contexts. For example, different operating systems (Windows, Mac, Linux, etc.) handle spaces differently, so transferring files with spaces in their names between systems can lead to issues.  So, it’s best to avoid them altogether.
+    introduce different issues in some situations and contexts. For
+    example, different operating systems (Windows, Mac, Linux, etc.)
+    handle spaces differently, so transferring files with spaces in
+    their names between systems can lead to issues. So, it’s best to
+    avoid them altogether.
 -   **Avoid special characters**: Some special characters, such as `&`,
     `?`, `#`, and the Danish `æ`, `ø`, `å`, can cause issues in
     filenames. It is best to avoid using them. If you work in Danish and
