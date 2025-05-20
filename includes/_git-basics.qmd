@@ -66,10 +66,11 @@ with collaborators.
 Git only tracks changes to files *within a specific folder* (and it's
 sub-folders). In Git terminology, this folder is called a **repository**
 (or a *repo* for short). The best way to use a repository is to store
-all files related to a specific project, like a research project or administration files for your lab or group, in the
-repository (the "folder"). This way, you can track all changes made to
-all files in the project. It keeps things more organised and
-self-contained, since everything related to a project is in one place.
+all files related to a specific project, like a research project or
+administration files for your lab or group, in the repository (the
+"folder"). This way, you can track all changes made to all files in the
+project. It keeps things more organised and self-contained, since
+everything related to a project is in one place.
 
 Any type of file can be stored in a repository, including both text and
 other non-text based files like Word or images. However, Git has more
