@@ -233,6 +233,19 @@ adding a comment to it:
     neighbour in the comment by typing `@` followed by their username.
 5.  When you have written your comment, click the green "Comment" button
     to post the comment.
+6.  When both you and your neighbour have added a comment to each
+    other's issues, see if you can find the comment in your
+    notifications inbox (the inbox icon {{< var inbox-icon >}} in the
+    top navigation bar). You can also go to your repository by clicking
+    on your user icon in the top right corner on GitHub and selecting
+    "Your repositories" from the dropdown menu. This will take you to a
+    list of all your repositories, where you can find your repository
+    and go to the issue from there.
+7.  Let’s say you decide to follow your neighbor’s suggestion. Add a
+    comment to say so, then click “Close issue” to mark it as completed.
+    This will remove the issue from the list of open issues in the
+    repository. You can always come back to it later by going to the
+    "Issues" tab and removing the "state:open" part in the search bar.
 
 ::: callout-tip
 ### Edit your issue or your comment
