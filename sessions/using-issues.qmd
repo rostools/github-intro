@@ -262,6 +262,30 @@ Once you have made your changes, click the "Save" button for issues or
 
 {{< text_snippet sticky_up >}}
 
+## :technologist: Exercise: Add new issue with reference to the closed issue
+
+**Time: \~Minutes minutes.**
+
+Another nice feature of GitHub Issues is that you can reference other
+issues in your issues. This is useful if you want to keep track of
+related issues or tasks. For example, now that you have decided to
+follow your neighbour's suggestion about what recipe to add next, you
+can create an issue reminding you to add what your neighbour suggested.
+
+1.  In your repository, click the "Issues" tab, and then the "New issue"
+    button.
+2.  Fill in the title with text like "Add brownie recipe" (or whatever
+    recipe your neighbour suggested).
+3.  Then fill in the description box with the recipe you want to add.
+    Add a link to the issue you closed earlier by typing `#` followed by
+    the issue number. For example, if the issue number was 1, you would
+    type `#1`. This will create a link to the issue in your new issue.
+    When you type out `#`, GitHub will show you a list of things in the
+    repository that you can link to. You can select the issue you want
+    to link to from the dropdown menu.
+
+{{< text_snippet sticky_up >}}
+
 ## :speech_balloon: Discussion activity: Consider the advantages of issues in your own work
 
 **Time: \~4 minutes.**
@@ -286,3 +310,5 @@ have:
 -   Navigated Github to find other people's repositories and issues.
 -   Started collaborating a bit by commenting on someone else's issue to
     suggest a recipe.
+-   Linked issues to each other to keep track of related tasks.
+-   Discussed how we can use issues in our own work.
