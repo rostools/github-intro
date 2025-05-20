@@ -74,6 +74,17 @@ are shown.
 Now that you've read about what GitHub Issues are, let's practice
 creating issues in the repository.
 
+::: callout-note
+## Using issues for project management
+
+Issues are the main tool for managing projects on GitHub. With [GitHub
+Projects](https://docs.github.com/en/issues/planning-and-tracking-with-projects/about-projects),
+you can create a Kanban board to keep track of your issues and tasks. We
+don't have the time to cover that in this workshop, but we'll start with
+the basics of issues, then you can explore GitHub Projects on your own
+if you're interested in using GitHub for project management.
+:::
+
 {{< text_snippet sticky_up >}}
 
 ## Creating a GitHub Issue
