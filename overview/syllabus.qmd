@@ -44,8 +44,8 @@ in order:
 
 The overall aim of this workshop is to enable you to:
 
--   Explain in simple terms what GitHub does and navigate GitHub to work
-    with files and GitHub Issues.
+-   Explain in simple terms what Git and GitHub does, work with files
+    and folders on GitHub and track tasks using GitHub Issues.
 
 Broken down into specific objectives for each session, we've
 designed the workshop to enable you to do the following:
