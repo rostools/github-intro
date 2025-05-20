@@ -29,12 +29,8 @@ to expect:
     your own way. After the reading, the teacher repeats and rephrases
     the key points to reinforce the concepts you just read.
 
--   We include discussion activities where you are first given time to
-    think by yourself before discussing with your neighbour. This is to
-    help you process the information and relate it to your own work.
-    Rephrasing the information and relating it to your context also
-    helps you to remember better.
-
+-   We use "stickies" or origami hats to assess how everyone is doing
+    and for you to request help if you get stuck. When the "help"
     sticky/origami hat is up, a helper will come by and help you out.
 
 -   The [schedule](/overview/schedule.qmd) is a *guide* only, some
