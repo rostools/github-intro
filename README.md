@@ -54,7 +54,7 @@ or on the [workshop website](https://github-intro.rostools.org):
 If you are interested in contributing to the workshop material, please
 refer to the [contributing guidelines](CONTRIBUTING.md). For guidelines
 on how to be a helper or teacher, check out the [For
-Teacher](https://github-intro.rostools.org/for-teachers) page.
+Teacher](https://github-intro.rostools.org/appendix/for-teachers) page.
 
 Please note that the project is released with a [Contributor Code of
 Conduct](CODE_OF_CONDUCT.md). By contributing to or being involved in
