@@ -1,0 +1,13 @@
+<!-- TODO: Update minutes when sessions content is final -->
+
+| Minutes | Session topic |
+|:-----------------------------------|:-----------------------------------|
+|  | {{< fa mug-hot >}} Arrival, coffee and tea |
+| 15 | {{< fa person-chalkboard >}} [Introduction to the workshop](/sessions/introduction.qmd) |
+| 45 | {{< fa person-chalkboard >}} [The basics of GitHub and Git](/sessions/basics.qmd) |
+| 5 | {{< fa mug-hot >}} Short break |
+| 50 | {{< fa laptop-code >}} [Working with files on GitHub](/sessions/working-with-files.qmd) |
+| 5 | {{< fa mug-hot >}} Short break |
+| 50 | {{< fa laptop-code >}} [Making and using GitHub Issues](/sessions/using-issues.qmd) |
+| 5 | {{< fa person-chalkboard >}} [Concluding remarks](/sessions/conclusion.qmd) |
+| 5 | {{< fa comment-dots >}} [Short end of workshop survey]() |
