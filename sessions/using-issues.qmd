@@ -192,7 +192,7 @@ we can see the issue with all its details.
 
 Since you've been tagged in your neighbour's issue, you should be able
 to find the issue fairly quickly. You can go to the notifications by
-clicking the button in the top right corner on GitHub and click on the
+clicking the inbox button in the top right corner on GitHub ({{< var inbox-icon >}})  and click on the
 issue to see the details.
 
 However, if you hadn't been tagged, you can't find the issue this way.
