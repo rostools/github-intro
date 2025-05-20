@@ -2,7 +2,7 @@
 
 ## Learning objectives
 
-The learning objectives of this session are:
+The learning objectives of this session are to:
 
 {{< include /includes/objectives/_using-issues.qmd >}}
 
@@ -20,22 +20,23 @@ to keep track of tasks and discussions in your project.
 
 **Time: \~7 minutes.**
 
-So far, we've covered how to create repositories, add files, and make
-changes to files. But what if you want to keep track of tasks or ideas
-for future work, or you need to discuss something with your
-collaborators before you add it to your repository? This is where GitHub
-Issues come in.
+So far, we've covered how to create repositories, add files and folders,
+and make changes to files. We've mentioned that GitHub can do much more
+than that. For example, GitHub can help you keep track of tasks within
+your project. These tasks could be ideas for future work, or a
+discussion item you want to discuss with your collaborators before you
+add it to your repository. This is where GitHub Issues come in.
 
 [GitHub Issues](https://docs.github.com/en/issues) are "items" or
 "records" that can help you keep track of to-do tasks and discussions
-related to a specific project (as a repository). Issues are not files in
-your repository; they are completely separate from the repository's
-files and folders which we have been working with so far in the "Code"
-tab on GitHub. Instead, issues live in the "Issues" tab in your
-repository on GitHub. Later in this session, we'll create multiple
-issues, so you don't have to go to this tab right now. For now, it's
-enough to know that issues aren't files in your repository, but a
-separate tool for keeping track of tasks and ideas.
+related to a repository. Issues are not files in your repository; they
+are completely separate from the repository's files and folders which we
+have been working with so far in the "Code" tab on GitHub. Instead,
+issues live in the "Issues" tab in your GitHub repository. Later in this
+session, we'll create multiple issues, so you don't have to go to this
+tab right now. For now, it's enough to know that issues aren't files in
+your repository, but a separate tool for keeping track of tasks and
+ideas.
 
 Issues can be used in many ways. For example, you can use them to:
 
@@ -67,7 +68,8 @@ a problem in another person's repository.
 All issues in the repository are available in the "Issues" tab, where
 you can see a list of all the issues in the repository. You can also
 filter the issues by their status, such as "open" or "closed", and by
-who they are assigned to. By default, only open issues are shown.
+who they are assigned to or authored by. By default, only open issues
+are shown.
 
 Now that you've read about what GitHub Issues are, let's practice
 creating issues in the repository.
@@ -93,17 +95,17 @@ the task in more detail.
 
 We can also assign someone to the issue so it is visible that they are
 responsible for completing this task. Since we don't have any
-collaborators on the project yet, let's assign it to ourselves. We do
-this by going to the "Assignees" section on the right side of the page
-and clicking on our username.
+collaborators on our `recipes` repository, let's assign it to ourselves.
+We do this by going to the "Assignees" section on the right side of the
+page and clicking on our username.
 
 Finally, let's click the "Create issue" button in the bottom right side
 of the page to create the issue.
 
 Once we've created the issue, when we click the "Issues" tab we'll see
 the new issue in the list of the repository's issues. When we click on
-the issue to see more details, such as comments, and we can also close
-the issue once the task is completed.
+the issue, we can see the description and potential comments to the
+issue. We can also close the issue once the task is completed.
 
 We have now created our first issue :tada:!
 
@@ -115,7 +117,7 @@ repository, you can go to the "Issues" tab in that repository.
 
 But if you want to see all the issues you have created across
 repositories, you can click the "Your issues" button in the top-right
-corner of the GitHub page. It looks like {{< var issues-icon >}}.
+corner of the GitHub page. It looks like this: {{< var issues-icon >}}.
 
 When you click that, you'll see a list with all the issues you have
 created across all repositories. Nice! :sparkles:
@@ -153,16 +155,17 @@ these ideas:
     tag them in the issue. To do this, type `@` followed by the username
     of the person you want to tag. For example, if you want to tag
     someone with the user name `signekb`, you would type `@signekb`. Ask
-    your neighbour to give you their GitHub username and tag them in the
-    issue. You could write: "Hey \@\[neighbour's GitHub username\], what
-    do you think about the recipes I've listed here? Do you have any
-    other suggestions?"
+    your neighbour for their GitHub username and tag them in the issue.
+    You could write: "Hey \@\[neighbour's GitHub username\], what do you
+    think about the recipes I've listed here? Do you have any other
+    suggestions?"
 
 4.  When you have added a title and description to the issue as well as
     tagged your neighbour in it, click the "Create" button to create it.
 
-You now have an issue to remind yourself of recipes you want to add!
-:cake:
+You now have an issue to remind yourself of recipes you want to add, and
+started a potential discussion by tagging your neighbour and asking for
+suggestions! :cake:
 
 {{< text_snippet sticky_up >}}
 
@@ -176,10 +179,11 @@ once.
 :::
 
 Now that you've been tagged in your neighbour's issue, you will have
-received a notification on GitHub (and probably also an email).
+received a notification on GitHub (and maybe also an email depending on
+your [notification settings](#sec-managing-emails)).
 
-To see the notification, we'll click on the notification button with the
-inbox icon in the top right corner of the GitHub page that looks like
+To see the notification, we'll click on the inbox button in the top
+right corner of the GitHub page that looks like this:
 {{< var inbox-icon >}}. This will show a list of your notifications,
 including the one from your neighbour's issue.
 
@@ -191,12 +195,10 @@ If we click on the notification, it will take us to the issue page. Here
 we can see the issue with all its details.
 
 Since you've been tagged in your neighbour's issue, you should be able
-to find the issue fairly quickly. You can go to the notifications by
-clicking the inbox button in the top right corner on GitHub ({{< var inbox-icon >}})  and click on the
-issue to see the details.
-
-However, if you hadn't been tagged, you can't find the issue this way.
-So, let's practice finding the issue in your neighbour's repository.
+to find the issue fairly quickly in your notifications inbox. However,
+if you hadn't been tagged, you can't find the issue this way. So, let's
+practice finding the issue in your neighbour's repository without using
+the notifications inbox.
 
 ## :woman_technologist: Exercise: Comment on your neighbour's issue with a recipe suggestion
 
@@ -207,14 +209,17 @@ collaborate with others. So, interact with someone else's issue by
 adding a comment to it:
 
 1.  With your neighbour one at a time, go to each other's GitHub
-    repository.
-2.  Go to the "Issues" tab in their repository.
+    repository. You can search for their username in the GitHub search
+    bar in the top navigation bar.
+2.  Once you've found their `recipes` repository, go to the "Issues" tab
+    in the repository.
 3.  Click on the issue that they have created with the list of future
     recipes.
 4.  Scroll down to the bottom of the page and write a comment in the
     comment field suggesting a recipe that they could add to their
     recipe book. For example, you could suggest that they add a brownie
-    recipe as well :cake:.
+    recipe as well :cake: If you want to, you can also tag your
+    neighbour in the comment by typing `@` followed by their username.
 5.  When you have written your comment, click the green "Comment" button
     to post the comment.
 
