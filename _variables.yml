@@ -5,10 +5,10 @@ github-commit: |
   "Commit directly to the main branch" option selected. Then, click
   "Commit changes" at the bottom of the pop-up.
 pencil-icon: |
-  ![](/images/icon-pencil.svg){fig-alt="Pencil icon"}
+  ![](/images/pencil-icon.svg){fig-alt="Pencil icon"}
 issues-icon: |
-  ![](/images/icon-issues.svg){fig-alt="The GitHub issues icon."}
+  ![](/images/issues-icon.svg){fig-alt="The GitHub issues icon."}
 inbox-icon: |
-  ![](/images/icon-inbox.svg){fig-alt="The GitHub notifications inbox icon."}
+  ![](/images/inbox-icon.svg){fig-alt="The GitHub notifications inbox icon."}
 ellipsis-icon: |
-  ![](/images/icon-ellipsis.svg){fig-alt="Ellipsis icon."}
+  ![](/images/ellipsis-icon.svg){fig-alt="Ellipsis icon."}
