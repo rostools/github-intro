@@ -303,7 +303,8 @@ commit, they look like:
     ```         
     recipes/
     ├── README.md
-    └── soup/tomato.md <- moved file
+    └── soup/ <- new folder
+        └── tomato.md <- moved file
     ```
 
 5.  Add a new recipe file: 'baked-goods/cookies.md'
@@ -311,8 +312,10 @@ commit, they look like:
     ```         
     recipes/
     ├── README.md
-    ├── soup/tomato.md
-    └── baked-goods/cake.md <- new file in new folder
+    ├── soup/
+    │   └── tomato.md
+    └── baked-goods/ <- new folder
+        └── cookies.md <- new file
     ```
 
 Because the Git history consists of these connected commits that each
