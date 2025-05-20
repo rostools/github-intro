@@ -1,0 +1,50 @@
+---
+title: "Introduction to GitHub workshop"
+subtitle: "A gentle introduction to using GitHub for working with files and tasks"
+format: 
+    revealjs:
+        theme: default
+        slide-number: true
+        from: markdown+emoji
+---
+
+# The big picture {.center}
+
+::: notes
+Something about:
+
+- Version control
+- Reprodubility
+- Collaboration
+- Keep up with new tools
+
+A little funnel leading us to the workshop aim.
+:::
+
+## Workshop aim {.center}
+
+{{< include ../includes/objectives/_overall.qmd >}}
+
+# Workshop structure {.center}
+
+- Readings
+- Type-alongs
+- Discussion activities
+- Schedule is a guide only
+- Stickies/origami hats to ask for help :tophat: :womans_hat:
+- Feedback survey at the end :raised_hands: :speech_balloon:
+
+::: notes
+Next slide is a question to get learners familiar with using the stickies/origami
+hats.
+:::
+
+# Who has used GitHub before? :tophat: :womans_hat:
+
+::: notes
+Remember to ask them to put the hats down again.
+:::
+
+# Schedule {.smaller}
+
+{{< include ../includes/_schedule.qmd >}}
