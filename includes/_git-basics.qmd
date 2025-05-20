@@ -1,12 +1,11 @@
 In our work lives, we regularly work with files, either creating,
 editing, moving, copying, or deleting them. These files can be anything
-from text documents, to images, to code. When we work on these files, we
+from text documents, to images, to code. When we work with files, we
 often make changes to them, and sometimes many changes. We might want to
 keep track of how our files change over time or "save" specific versions
 of the files. This tracking of file changes over time is known as
 *version control*.
-
-It can be useful to keep track of changes to files for many reasons. For
+It can be useful to keep track of file changes for many reasons. For
 example, we might want to keep track of changes to a file so we can
 revert back to a previous version of the file if we make a mistake or so
 we can see how the file has changed over time. This is especially useful
@@ -34,10 +33,10 @@ familiar? The above image may exaggerate what some people's versioning
 looks like, but there is some truth to it: It is the most common
 approach to "version control".
 
-This "informal" version control isn't ideal because it involves multiple
+This "informal" form of version control isn't ideal because it involves multiple
 copies of the same file. It makes it difficult to keep track of specific
-changes and find the right version of the files. This also just
-highlights the need for version control and the fact that it can be
+changes and find the right version of the files. Having multiple versions of the same file as in the image above really
+highlights the need for version control as well as the fact that it can be
 difficult to keep track of file changes manually.
 
 Luckily for us, there exist "formal" version control systems that
@@ -67,12 +66,12 @@ Git only tracks changes to files *within a specific folder* (and it's
 sub-folders). In Git terminology, this folder is called a **repository**
 (or a *repo* for short). The best way to use a repository is to store
 all files related to a specific project, like a research project, in
-this repository (the “folder"). This way, you can track all changes made
+the repository (the “folder"). This way, you can track all changes made
 to all files in the project. It keeps things more organised and
 self-contained, since everything related to a project is in one place.
 
-Any type of file can be stored in a repository, including both code and
-other non-code based files like Word or images. However, Git has more
+Any type of file can be stored in a repository, including both text and
+other non-text based files like Word or images. However, Git has more
 features and tools for tracking specific changes when the file is
 text-based, like a `.txt`, `.csv`, or code. Since these text-based files
 are literally only text characters, it is easier to track the changes to
@@ -97,7 +96,7 @@ are many good reasons to use version control, especially in science:
 -   Organized files and folders, since there is one single project
     folder and one single version of each file, rather than multiple
     versions of the same file.
--   Ability to see previous versions of files using the history log.
+-   The ability to see previous versions of files using the history log.
 -   Less time spent on finding things related to your projects, because
     everything is organized and in one place.
 -   Easier collaboration, because you can work on a single file/folder
