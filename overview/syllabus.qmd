@@ -44,8 +44,7 @@ in order:
 
 The overall aim of this workshop is to enable you to:
 
--   Explain in simple terms what GitHub does and navigate GitHub to work
-    with files and GitHub Issues.
+{{< include /includes/objectives/_overall.qmd >}}
 
 Broken down into specific objectives for each session, we've
 designed the workshop to enable you to do the following:
