@@ -43,7 +43,7 @@ to expect:
     constructive feedback to improve things! While you are a participant
     of the workshop, you are also a collaborator and "tester" of the
     material. Every time we run a workshop, there are always things to
-    improve on and your feedback help us identify those things.
+    improve on and your feedback helps us identify those things.
 
 <!-- TODO: I feel I am missing something here but can't remember -->
 
@@ -67,7 +67,7 @@ running automatic [workflows](https://docs.github.com/en/actions) that
 do tasks for you, hosting [websites](https://docs.github.com/en/pages),
 and
 [collaborating](https://docs.github.com/en/get-started/using-github/github-flow)
-with others, for example by reviewing each others work. GitHub also
+with others, for example by reviewing each other's work. GitHub also
 allows you to create tasks or notes (known as [GitHub
 Issues](https://github.com/features/issues)) that are connected to your
 project's repository. We'll create our own GitHub Issues later in this
