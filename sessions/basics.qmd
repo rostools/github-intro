@@ -39,15 +39,15 @@ text, such as:
 **Time: \~5 minutes.**
 
 ::: callout-note
-This is the same text you read for the pre-workshop tasks. Why are we
-getting you to do a discussion activity, then getting you to again
-re-read the text? We're doing this because we know that learning and
-understanding Git can be *very hard*, so we're giving you repeated
-exposures to it, by both getting you to retrieve, discuss, and reread
-it. Git requires you work with files in a fundamentally different way
-than people usually work, so we want to give you multiple exposures
-to what Git does before moving into the practical parts of this workshop. By
-including this repetition we aim to reinforce these new concepts.
+The text below is the same text you read for the pre-workshop tasks.
+
+So, **why are we asking you to discuss it and then read it again?**
+
+Because Git is *hard* to learn. It requires changing how you think about working
+with files, which often takes time to adjust to. By revisiting the material
+through reading, discussion, and rereading we want to help you build
+familiarity with these concepts before moving on to the hands-on parts
+of the workshop.
 :::
 
 {{< include /includes/_git-basics.qmd >}}
