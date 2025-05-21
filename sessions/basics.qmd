@@ -1,4 +1,4 @@
-# The basics of GitHub and Git {#sec-basics}
+# The basics of Git and GitHub {#sec-basics}
 
 <!-- TODO: Add an introduction here -->
 
@@ -12,11 +12,9 @@ The learning objectives of this session are to:
 
 **Time: \~5 Minutes**
 
-Before we start the workshop, we'll take some time to refresh your
-memory on what you read about Git and GitHub in the pre-workshop tasks.
-Then after this activity, you'll again read the description of Git and
-GitHub from pre-workshop tasks. We do this because effective learning is
-about retrieval, repetition, and actively engaging in the material. So:
+Before we start the more practical part of the workshop, we'll take some
+time to refresh your memory on what you read about Git and GitHub in the
+pre-workshop tasks. So:
 
 1.  For 1 minute, recall what you understood about Git and GitHub from
     the pre-workshop tasks. Think about how you'd explain it to someone
@@ -42,14 +40,14 @@ text, such as:
 
 ::: callout-note
 This is the same text you read for the pre-workshop tasks. Why are we
-getting you to do a discussion activity to remember Git, then getting
-you to again re-read the text? We're doing this because we know that
-learning and understanding Git can be *very hard*, so we're giving you
-repeated exposures to it. Git requires you work with files in a
-fundamentally different way than people usually work, so we've learned
-to give learners lots of opportunities to try to understand what Git
-does and why it is useful. By including these repeated exposures we want
-to help reinforce these concepts.
+getting you to do a discussion activity, then getting you to again
+re-read the text? We're doing this because we know that learning and
+understanding Git can be *very hard*, so we're giving you repeated
+exposures to it, by both getting you to retrieve, discuss, and reread
+it. Git requires you work with files in a fundamentally different way
+than people usually work, so we want to give you multiple of exposures
+to Git does before moving into the practical parts of this workshop. By
+including this repetition we aim to reinforce these new concepts.
 :::
 
 {{< include /includes/_git-basics.qmd >}}
@@ -88,7 +86,8 @@ workshop, we will only focus on these items:
 
 -   **Top repositories** list and search bar at the top of the left
     sidebar. Since you are new to GitHub, you likely won't have any (or
-    only a few) repositories listed here.
+    only a few) repositories listed here. When you start to work with
+    more repositories, this is a quick way to access them.
 -   **Create new...** button on the navigation bar on the top right that
     looks like: {{< fa plus >}} {{< fa caret-down >}}. This is where you
     can create a new repository, as well as other items we won't cover
@@ -97,7 +96,7 @@ workshop, we will only focus on these items:
     like: {{< var issues-icon >}}. This is where you can view all issues
     you've made, participate in, or have been assigned to. From our
     experience, we don't use this item often, but can be useful to
-    quickly find or search for a specific issue.
+    quickly find or search for issues related to your work.
 -   **Notifications inbox** button on navigation bar on the top right
     that looks like: {{< var inbox-icon >}}. This is where you can see
     all notifications about activities in your repositories, like when
@@ -112,25 +111,17 @@ create a new repository :rocket:
 ::: {.callout-note collapse="true"}
 ## :teacher: Teacher note
 
-Take it slow here as you create the repository as this is the first
+Take it slow here as you create the repository since this is the first
 "type-along" of the workshop. Make sure to explain each option and what
 it does, using the table below as a guide.
 
 Also briefly introduce Markdown and mention the `.md` file extension.
-You can verbally relate `.md` to `.qmd`, but not get into the details of it too much.
 :::
 
 Now that we've gone over the landing page of GitHub and taken a look at
-some commonly used areas of GitHub, let's use GitHub for it's main
-purpose of working with and managing files. We'll do that by creating a
-new repository on GitHub.
-
-A repository is essentially a folder that contains all the files and
-sub-folders for a project or for a specific purpose, just like how you
-might use a folder on your computer. For instance, for a research study,
-you could keep all the files related to that project in the repository
-so it is all in one place. Alternatively, you can have a repository to
-store administration files for your lab or group.
+some commonly used areas of GitHub, let's create a new repository on
+GitHub. This is where we will store all the files and folders for the
+project we will be working on in this workshop.
 
 For this workshop, we'll create a repository for a recipe project that
 will contain files with recipes :yum: :cake: :pizza: :stew:
@@ -146,7 +137,7 @@ will contain files with recipes :yum: :cake: :pizza: :stew:
 |:------------------|:---------------------------------|:------------------|
 | Repository owner | This is the account you are creating the repository under. If you are part of an organisation, you can also create new repositories there. | Leave it as your own personal account. |
 | Repository name | This is the name of the repository or project. | Name it `recipes`. |
-| Description | This is a short description of what the repository is for and what it will contain. | Write "Keeping our favourite recipes for a workshop". |
+| Description | This is a short description of what the repository is for and what it will contain. | Write "This is a practice repository for an introductory GitHub workshop. It includes a few recipes.". |
 | Public or Private | This is whether the repository is visible to everyone (public) or only to you and people you give access to (private). | Leave it as public. |
 | Add a README file | This is a file that is shown on the front page of the repository. It is a good place to put information about the repository. When checked, it will say something about "set main as default branch". You can safely ignore this message. | Make sure it is checked. |
 | Add .gitignore | This is a file that tells Git to ignore certain files or folders. | Leave it unchecked. |
@@ -161,8 +152,8 @@ of the repository. This is where you can see all the files and folders
 that are currently in this repository.
 
 In this new repository there is only one file: `README.md`. The
-`README.md` file is a common file included in repositories as it
-describes what the repository contains and is used for.
+`README.md` file is a common file included in repositories to describe
+what the repository contains and is used for.
 
 The files that have the file extension `.md` like this `README.md` file
 means they are Markdown files.
@@ -172,8 +163,8 @@ designed to be easy to write and read. Markdown files are commonly used
 to write text documents. We won't cover how to write Markdown in this
 workshop, we'll only use them.
 
-We will go over adding and modifying files in the repository in the next
-section. For now, this is the perfect time to talk about something that
+We will start to add and modify files and in the repository in the next
+session. For now, this is the perfect time to talk about something that
 is fundamental to working with files and folders: file paths.
 
 ## :book: Reading task: What is a file path?
@@ -185,10 +176,10 @@ Reinforce that:
 
 -   Paths are pointers to files on your computer
 -   They are for us humans to effectively organise and work with files
--   Every file has a parent folder, and every folder may also have a parent
-    folder
--   Files and folders are separated by `/` or `\` and that the
-    last item in the path is either a file or a folder.
+-   Every file has a parent folder, and every folder may also have a
+    parent folder
+-   Files and folders are separated by `/` or `\` and that the last item
+    in the path is either a file or a folder.
 :::
 
 **Time: \~3 minutes.**
@@ -226,12 +217,11 @@ Then, all files within that repository (folder) are relative to one
 another. This "relativeness" also is shown by two "special characters":
 
 -   `..`: Two dots mean the folder up one, also called the "parent
-    folder". If you open the folder `username/` in the file path
-    `/Users/username/`, the `../` is the `/Users/` folder, since it is
-    one folder up from `username`.
--   `.`: One dot means the current folder. If you open up the folder
-    `/Users/username/` and see `./Documents/` that means to add
-    `Documents/` to the end of the file path, which would be
+    folder". In the file path `/Users/username/`, the `../` is the
+    `/Users/` folder, since it is one folder up from `username/`.
+-   `.`: One dot means the current folder. If you're in the folder
+    `/Users/username/` and see `./Documents/`, it means the `Documents/`
+    folder within the `username/` folder, like so:
     `/Users/username/Documents/`.
 
 We'll be working with and navigating the file path on GitHub throughout
@@ -248,22 +238,20 @@ Show this diagram and explain it to the learners, as well as the state
 of the files in the repository at each step.
 :::
 
-Before we get into hands-on work with files on GitHub, we'll briefly do
-a walkthrough of what happens when you add or modify files stored in a
-Git repository like on GitHub. In @fig-git-commits, we have a
-hypothetical series of actions done in a Git repository on GitHub that
-create commits that are added to the Git history log each time.
+Before we get into hands-on work with files on GitHub in the next
+session, we'll briefly do a walkthrough of what happens when you add or
+modify files stored in a Git repository. In @fig-git-commits, we have a
+hypothetical series of commits (i.e., actions or changes) done in a Git
+repository. Each commit is shown as a "circle" or "dot" on a line that
+forms the Git history. The messages beside each commit is the commit
+message describing what the commit is about.
 
-The next step is to add the first file (aside from the `README.md`) to
-the repository, which again creates a new commit. As we make a change to
-that file, this creates another commit. With each new file added or when
-an existing file is modified, moved, deleted, or renamed, a new commit
-is created. As shown in @fig-git-commits, each step made (with
-description of the step shown in the diagram) adds a new commit, which
-is the "circle" or "dot" on the diagram, to the Git history log. The
-name "main" is the default name of the "branch" that contains the saved
-commits in the Git history log. We won't cover branches in this
-workshop.
+As we make changes to files or folders in the repository another commit
+is created.
+
+The name "main" in the diagram is the default name of the "branch" that
+contains the saved commits in the Git history log. We won't cover
+branches in this workshop.
 
 ```{mermaid}
 %%| label: fig-git-commits
@@ -278,8 +266,8 @@ workshop.
 gitGraph TB:
   checkout main
   commit id: "1. Create repo with README: 'README.md'"
-  commit id: "2. Add a new recipe: 'romato-soup.md'"
-  commit id: "3. Fix a typo: 'tomato-soup.md'"
+  commit id: "2. Add a new recipe: 'toup.md'"
+  commit id: "3. Fix a typo: 'soup.md'"
   commit id: "4. Move file to new folder: 'soups/tomato.md'"
   commit id: "5. Add a new recipe file and folder: 'baked-goods/cookies.md'"
 ```
@@ -294,20 +282,20 @@ commit, they look like:
     └── README.md
     ```
 
-2.  Add a new recipe file: 'romato-soup.md'
+2.  Add a new recipe file: 'toup.md'
 
     ```
     recipes/
     ├── README.md
-    └── romato-soup.md
+    └── toup.md <- new file
     ```
 
-3.  Fix a typo: 'tomato-soup.md'
+3.  Fix a typo: 'soup.md'
 
     ```
     recipes/
     ├── README.md
-    └── tomato-soup.md <- typo fix
+    └── soup.md <- typo fix
     ```
 
 4.  Move file to new folder: 'soups/tomato.md'
@@ -315,7 +303,8 @@ commit, they look like:
     ```
     recipes/
     ├── README.md
-    └── soup/tomato.md
+    └── soup/ <- new folder
+        └── tomato.md <- moved file
     ```
 
 5.  Add a new recipe file: 'baked-goods/cookies.md'
@@ -323,16 +312,18 @@ commit, they look like:
     ```
     recipes/
     ├── README.md
-    ├── soup/tomato.md
-    └── baked-goods/cake.md
+    ├── soup/
+    │   └── tomato.md
+    └── baked-goods/ <- new folder
+        └── cookies.md <- new file
     ```
 
 Because the Git history consists of these connected commits that each
 contain changes, we're able to see exactly what was changed. You can
-even go back to the state of the folder or file and see
-the exact contents that existed at that point in time.
+even go back to the state of the folder or file and see the exact
+contents that existed at that point in time.
 
-Why is this important or useful? Because we humans have imperfect
+Why is this important and useful? Because we humans have imperfect
 memories, so having it recorded in a history log makes it much easier to
 recall what you or your collaborators were doing at a specific point in
 time as well as when a specific change was added and why.
@@ -344,30 +335,31 @@ time as well as when a specific change was added and why.
 Learning is about recalling and explaining something in your own words.
 And since Git is such a fundamentally different way of working with and
 thinking about files, this discussion activity aims to help solidify
-what we've covered so far about Git. So:
+what we've covered so far about Git and GitHub. So:
 
 1.  Take \~1 minute to silently explain to yourself what you understood
-    the basics of Git are.
+    the basics of Git and GitHub are.
 2.  Pair up with your neighbour and for the next 3 minutes, take turns
     (1.5 minutes each) explaining to each other what you understand
-    about the basics of Git. Try to come to a shared understanding of
-    what it is, how to work with it, and how it's different from other
-    ways of working with files.
+    about the basics of Git and GitHub. Try to come to a shared
+    understanding of what it is, how to work with it, and how it's
+    different from other ways of working with files.
 
 ## Summary
 
 -   Git is a version control software that tracks changes to files in a
     repository. It allows you to see what changes were made, who made
     them, when they were made, and why they were made.
+-   A Git repository is a folder that contains all the files and
+    sub-folders for a project.
 -   GitHub is a company and website that hosts Git repositories and adds
     tools to help you work with files in a repository.
 -   GitHub's landing page as well as it's navigation bar has several
-    quick links to commonly used areas of GitHub.
--   A Git repository is a folder that contains all the files and
-    sub-folders for a project.
+    quick links to commonly used areas of GitHub (such as the "Create
+    new" button, notifications inbox and issues)
 -   File paths are the location of a file or folder in a filesystem.
 -   Each change to a file in a repository creates a new commit in the
     Git history log, each with their own commit message (when working on
     GitHub).
--   Commits are connected to each other, creating a history log of
-    changes made to files in a repository.
+-   Commits are connected to each other creating the history of changes
+    made in within a repository.
