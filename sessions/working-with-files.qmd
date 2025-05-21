@@ -488,10 +488,10 @@ repository and create a new commit with the changes.
 
 **Time: \~10 minutes.**
 
-Now, let's upload a file to your repository. Find an image
-of a cookie or recipe book from
-[Pixabay](https://pixabay.com/) (or similar website), download it to your
-computer, and then upload the image to your repository.
+Now, it's your turn to upload a file to your repository. Find an image
+of a cookie or recipe book from [Pixabay](https://pixabay.com/) (or
+similar website), download it to your computer, and then upload the
+image to your repository.
 
 Once you have decided on a file to upload and downloaded it to your
 computer, follow these steps:
