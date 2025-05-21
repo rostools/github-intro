@@ -46,8 +46,8 @@ The overall aim of this workshop is to enable you to:
 
 {{< include /includes/objectives/_overall.qmd >}}
 
-Broken down into specific objectives for each session, we've
-designed the workshop to enable you to do the following:
+Broken down into specific objectives for each session, we've designed
+the workshop to enable you to do the following:
 
 [**The basics of GitHub and Git**](/sessions/basics.qmd)
 
