@@ -455,6 +455,16 @@ that point in time :alarm_clock:
 
 ## Upload files to a GitHub repository
 
+::: {.callout-note collapse="true"}
+## :teacher: Teacher note
+
+Briefly go through the process of uploading files to a GitHub
+repository, showing the actual uploading process.
+
+Make sure to mention that this is not a type-along. The learnes will
+find an image to upload and upload it the upcoming exercise.
+:::
+
 Now that we've explored how to add files and folders to a GitHub
 repository, let's take a look at how to upload files to GitHub.
 
