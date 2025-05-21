@@ -218,10 +218,10 @@ another. This "relativeness" also is shown by two "special characters":
 
 -   `..`: Two dots mean the folder up one, also called the "parent
     folder". In the file path `/Users/username/`, the `../` is the
-    `/Users/` folder, since it is one folder up from `username`.
+    `/Users/` folder, since it is one folder up from `username/`.
 -   `.`: One dot means the current folder. If you're in the folder
-    `/Users/username/` and see `./Documents/`, it means the `Documents`
-    folder within the `username` folder, like so:
+    `/Users/username/` and see `./Documents/`, it means the `Documents/`
+    folder within the `username/` folder, like so:
     `/Users/username/Documents/`.
 
 We'll be working with and navigating the file path on GitHub throughout
