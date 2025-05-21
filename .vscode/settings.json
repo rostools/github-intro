@@ -24,7 +24,8 @@
   "conventionalCommits.scopes": [
     "preamble",
     "sessions",
-    "appendix"
+    "appendix",
+    "includes"
   ],
   "[r]": {
     "editor.formatOnSave": true
