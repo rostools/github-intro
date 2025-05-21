@@ -22,9 +22,7 @@
   "conventional-branch.format": "{Type}/{Branch}",
   "files.insertFinalNewline": true,
   "conventionalCommits.scopes": [
-    "includes",
-    "overview",
-    "pre-workshop",
+    "preamble",
     "sessions",
     "appendix"
   ],
