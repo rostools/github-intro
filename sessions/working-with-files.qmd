@@ -28,7 +28,8 @@ this:
 ```
 recipes/
 ├── baked-goods/
-    └── chocolate-chip-cookies.md
+│ └── chocolate-chip-cookies.md
+└── README.md
 ```
 
 ## :book: Reading task: Naming of files and folders
@@ -273,7 +274,7 @@ recipe into a new soups folder".
 :::
 
 We have now renamed the soup recipe file, edited its content, and moved
-it to a new folder in your repository! By can see the new folder
+it to a new folder in your repository! You can see the new folder
 `soups/` in the `Code` tab of your repository and even click on it to
 see the `tomato-soup.md` file. :bowl_with_spoon: :tomato:
 
@@ -326,7 +327,7 @@ Next, move the file to a new `baked-goods/` folder:
     file path is `chocolate-chip-cookies.md`. To create a new folder,
     change the file path by typing `baked-goods/` at the beginning of
     the file name, so the path
-    becomes`baked-goods/chocolate-chip-cookies.md`. Notice the `/`
+    becomes `baked-goods/chocolate-chip-cookies.md`. Notice the `/`
     between the folder name and the file name.
 3.  {{< var github-commit >}} Here, a descriptive message could be "Move
     cookie recipe to baked-goods folder".
@@ -375,7 +376,7 @@ with deleting folders directly like this.
 
 Now that we've have made several changes, let's look at the repository's
 history. This shows what changes were made, who made them, and when they
-were made. This is very useful for tracking process or finding specific
+were made. This is very useful for tracking progress or finding specific
 changes. On GitHub, we can see the history of the entire repository or
 the history of a specific file.
 
@@ -408,7 +409,7 @@ If we want to go back to the list of commits, we can use our browser to
 go back to the previous page. For most browsers, this can be achieved by
 clicking the right-facing arrow in the top-left corner of the browser.
 
-To see what editing a line within a file looks, we can click on the
+To see what editing a line within a file looks like, we can click on the
 commit message where we edited the heading of the cookie recipe. This
 will show us the changes that were made in that commit. The edited line
 is shown two times: the old line (in red with a minus in front of it)
