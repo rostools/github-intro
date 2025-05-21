@@ -102,16 +102,16 @@ of the page to create the issue.
 
 Once we've created the issue, when we click the "Issues" tab we'll see
 the new issue in the list of the repository's issues. When we click on
-the issue, we can see more details, such as comments, and we can also close
-the issue once the task is completed.
+the issue, we can see more details, such as comments, and we can also
+close the issue once the task is completed.
 
 We have now created our first issue :tada:!
 
 ::: callout-tip
 ### Issue overview
 
-If you want to see an overview of the issues in a specific
-repository, you can go to the "Issues" tab in that repository.
+If you want to see an overview of the issues in a specific repository,
+you can go to the "Issues" tab in that repository.
 
 But if you want to see all the issues you have created across
 repositories, you can click the "Your issues" button in the top-right

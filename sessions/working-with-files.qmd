@@ -17,7 +17,7 @@ During the session, you will:
 
 Right now, your repository file structure looks like this:
 
-```
+```         
 recipes/
 └── README.md
 ```
@@ -25,7 +25,7 @@ recipes/
 By the end of the session, your repository file structure will look like
 this:
 
-```
+```         
 recipes/
 ├── baked-goods/
 │ └── chocolate-chip-cookies.md
@@ -67,8 +67,8 @@ Here are some tips for good naming practices:
     filename, use hyphens (`-`) or underscores (`_`) instead of spaces.
     For example, instead of `data analysis results.md`, name your file
     `data-analysis-results.md` or `data_analysis_results.md`. Spaces can
-    introduce issues in some situations and contexts. So, it’s
-    best to avoid them altogether.
+    introduce issues in some situations and contexts. So, it’s best to
+    avoid them altogether.
 -   **Avoid special characters**: Some special characters, such as `&`,
     `?`, `#`, and the Danish `æ`, `ø`, `å`, can cause issues in
     filenames, so it's best to avoid using them. If you work in Danish

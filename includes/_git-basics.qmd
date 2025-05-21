@@ -78,7 +78,8 @@ features and tools for tracking specific changes when the file is
 text-based, like a `.txt`, `.csv`, or code. Since these text-based files
 are literally only text characters, it is easier to track the changes to
 exact lines of text. Unlike files like images, or Word documents (that
-actually aren't just text), where there are no "lines" to track changes on.
+actually aren't just text), where there are no "lines" to track changes
+on.
 
 To understand how powerful formal version control like Git is, consider
 these questions:

@@ -46,8 +46,9 @@ understanding Git can be *very hard*, so we're giving you repeated
 exposures to it, by both getting you to retrieve, discuss, and reread
 it. Git requires you work with files in a fundamentally different way
 than people usually work, so we want to give you multiple of exposures
-to what Git does before moving onto the practical parts of this workshop. By
-including this repetition we aim to reinforce these new concepts.
+to what Git does before moving onto the practical parts of this
+workshop. By including this repetition we aim to reinforce these new
+concepts.
 :::
 
 {{< include /includes/_git-basics.qmd >}}
@@ -155,8 +156,8 @@ In this new repository there is only one file: `README.md`. The
 `README.md` file is a common file included in repositories to describe
 what the repository contains and is used for.
 
-The files that have the file extension `.md`, like this `README.md` file,
-are Markdown files.
+The files that have the file extension `.md`, like this `README.md`
+file, are Markdown files.
 [Markdown](https://quarto.org/docs/authoring/markdown-basics.html) is a
 plain text file format (a type of file, like Word's `.docx`) that's
 designed to be easy to write and read. Markdown files are commonly used
@@ -277,14 +278,14 @@ commit, they look like:
 
 1.  Create repo with README: 'README.md'
 
-    ```
+    ```         
     recipes/
     └── README.md
     ```
 
 2.  Add a new recipe file: 'toup.md'
 
-    ```
+    ```         
     recipes/
     ├── README.md
     └── toup.md <- new file
@@ -292,7 +293,7 @@ commit, they look like:
 
 3.  Fix a typo: 'soup.md'
 
-    ```
+    ```         
     recipes/
     ├── README.md
     └── soup.md <- typo fix
@@ -300,7 +301,7 @@ commit, they look like:
 
 4.  Move file to new folder: 'soups/tomato.md'
 
-    ```
+    ```         
     recipes/
     ├── README.md
     └── soup/ <- new folder
@@ -309,7 +310,7 @@ commit, they look like:
 
 5.  Add a new recipe file: 'baked-goods/cookies.md'
 
-    ```
+    ```         
     recipes/
     ├── README.md
     ├── soup/
