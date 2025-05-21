@@ -11,6 +11,10 @@ between **1-2 hrs to finish**, so we suggest planning some time to
 complete them. While many of the tasks are mostly readings, they are
 important in making sure you get the most out of the workshop.
 
+## How to read this website
+
+{{< include /_extensions/rostools/r3-theme/includes/reading-website.qmd >}}
+
 ## Summary of tasks
 
 Here's a quick overview of the tasks you need to do. Specific details
