@@ -45,10 +45,9 @@ re-read the text? We're doing this because we know that learning and
 understanding Git can be *very hard*, so we're giving you repeated
 exposures to it, by both getting you to retrieve, discuss, and reread
 it. Git requires you work with files in a fundamentally different way
-than people usually work, so we want to give you multiple of exposures
-to what Git does before moving onto the practical parts of this
-workshop. By including this repetition we aim to reinforce these new
-concepts.
+than people usually work, so we want to give you multiple exposures
+to what Git does before moving into the practical parts of this workshop. By
+including this repetition we aim to reinforce these new concepts.
 :::
 
 {{< include /includes/_git-basics.qmd >}}
@@ -96,7 +95,7 @@ workshop, we will only focus on these items:
 -   **Issues** button on the navigation bar on the top right that looks
     like: {{< var issues-icon >}}. This is where you can view all issues
     you've made, participate in, or have been assigned to. From our
-    experience, we don't use this item often, but can be useful to
+    experience, we don't use this item often, but it can be useful to
     quickly find or search for issues related to your work.
 -   **Notifications inbox** button on navigation bar on the top right
     that looks like: {{< var inbox-icon >}}. This is where you can see
@@ -156,8 +155,8 @@ In this new repository there is only one file: `README.md`. The
 `README.md` file is a common file included in repositories to describe
 what the repository contains and is used for.
 
-The files that have the file extension `.md`, like this `README.md`
-file, are Markdown files.
+The files that have the file extension `.md` (like this `README.md` file)
+are Markdown files.
 [Markdown](https://quarto.org/docs/authoring/markdown-basics.html) is a
 plain text file format (a type of file, like Word's `.docx`) that's
 designed to be easy to write and read. Markdown files are commonly used
@@ -187,7 +186,7 @@ Reinforce that:
 
 Operating systems like Windows and MacOS try really hard to make the
 filesystem, and ultimately file paths, hidden or obscured from the user.
-This has some benefits, but lots of downsides. Computers and their
+This has some benefits, but also some downsides. Computers and their
 programs depend on file paths, so by hiding them from the user, they
 don't learn what they are and how to use them effectively. So as soon as
 a user needs to do even a bit deeper computer work, they encounter file
@@ -195,7 +194,7 @@ paths and need to know how they work. This is especially true for Git
 and GitHub.
 
 So to make sure we're all on the same page, we'll briefly describe what
-file paths are and why they're important to know about.
+file paths are, and why they're important to know about.
 
 In simple terms, a **path** is the location of a file or folder in a
 filesystem. The end of a path is either a folder or a file and indicated
@@ -244,7 +243,7 @@ session, we'll briefly do a walkthrough of what happens when you add or
 modify files stored in a Git repository. In @fig-git-commits, we have a
 hypothetical series of commits (i.e., actions or changes) done in a Git
 repository. Each commit is shown as a "circle" or "dot" on a line that
-forms the Git history. The message beside each commit is the commit
+forms the Git history. The messages beside each commit are the commit
 message describing what the commit is about.
 
 As we make changes to files or folders in the repository another commit
