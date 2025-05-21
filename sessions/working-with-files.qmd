@@ -326,9 +326,9 @@ Next, move the file to a new `baked-goods/` folder:
     the path of the file to a new folder to your repository. The current
     file path is `chocolate-chip-cookies.md`. To create a new folder,
     change the file path by typing `baked-goods/` at the beginning of
-    the file name, so the path
-    becomes `baked-goods/chocolate-chip-cookies.md`. Notice the `/`
-    between the folder name and the file name.
+    the file name, so the path becomes
+    `baked-goods/chocolate-chip-cookies.md`. Notice the `/` between the
+    folder name and the file name.
 3.  {{< var github-commit >}} Here, a descriptive message could be "Move
     cookie recipe to baked-goods folder".
 
@@ -505,7 +505,6 @@ computer, follow these steps:
     changes as you've done before.
 4.  Click the "Commit changes..." button to upload the file to your
     repository.
-
 
 {{< text_snippet sticky_up >}}
 
