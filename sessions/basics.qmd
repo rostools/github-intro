@@ -278,14 +278,14 @@ commit, they look like:
 
 1.  Create repo with README: 'README.md'
 
-    ```         
+    ```
     recipes/
     └── README.md
     ```
 
 2.  Add a new recipe file: 'toup.md'
 
-    ```         
+    ```
     recipes/
     ├── README.md
     └── toup.md <- new file
@@ -293,7 +293,7 @@ commit, they look like:
 
 3.  Fix a typo: 'soup.md'
 
-    ```         
+    ```
     recipes/
     ├── README.md
     └── soup.md <- typo fix
@@ -301,7 +301,7 @@ commit, they look like:
 
 4.  Move file to new folder: 'soups/tomato.md'
 
-    ```         
+    ```
     recipes/
     ├── README.md
     └── soup/ <- new folder
@@ -310,7 +310,7 @@ commit, they look like:
 
 5.  Add a new recipe file: 'baked-goods/cookies.md'
 
-    ```         
+    ```
     recipes/
     ├── README.md
     ├── soup/

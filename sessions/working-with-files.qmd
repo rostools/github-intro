@@ -17,7 +17,7 @@ During the session, you will:
 
 Right now, your repository file structure looks like this:
 
-```         
+```
 recipes/
 └── README.md
 ```
@@ -25,7 +25,7 @@ recipes/
 By the end of the session, your repository file structure will look like
 this:
 
-```         
+```
 recipes/
 ├── baked-goods/
 │ └── chocolate-chip-cookies.md
