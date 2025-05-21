@@ -4,7 +4,7 @@
 
 ## Learning objectives
 
-The learning objectives of this session are:
+The learning objectives of this session are to:
 
 {{< include /includes/objectives/_working-with-files.qmd >}}
 
@@ -18,18 +18,18 @@ During the session, you will:
 Right now, your repository file structure looks like this:
 
 ```
-recipe-book/
+recipes/
+└── README.md
 ```
-
-<!-- TODO: What is in the repo at this point? -->
 
 By the end of the session, your repository file structure will look like
 this:
 
 ```
-recipe-book/
+recipes/
 ├── baked-goods/
-│   └── chocolate-chip-cookies.md
+│ └── chocolate-chip-cookies.md
+└── README.md
 ```
 
 ## :book: Reading task: Naming of files and folders
@@ -65,43 +65,40 @@ Here are some tips for good naming practices:
     letters when naming files and folders to avoid confusion.
 -   **Use hyphens or underscores**: If you need to separate words in a
     filename, use hyphens (`-`) or underscores (`_`) instead of spaces.
-    For example, instead of `data analysis results.md`, use
+    For example, instead of `data analysis results.md`, name your file
     `data-analysis-results.md` or `data_analysis_results.md`. Spaces can
-    introduce different issues in some situations and contexts. For
-    example, different operating systems (Windows, Mac, Linux, etc.)
-    handle spaces differently, so transferring files with spaces in
-    their names between systems can lead to issues. So, it’s best to
-    avoid them altogether.
+    introduce different issues in some situations and contexts. So, it’s
+    best to avoid them altogether.
 -   **Avoid special characters**: Some special characters, such as `&`,
     `?`, `#`, and the Danish `æ`, `ø`, `å`, can cause issues in
-    filenames. It is best to avoid using them. If you work in Danish and
-    have a file name with `æ`, `ø`, or `å`, you can use the non-Danish
-    equivalents (`ae`, `oe`, and `aa`) instead.
--   **Use file extensions**: Use file extensions to indicate the type of
-    file. For example, use `.md` for Markdown files, and `.csv` for CSV
-    files.
+    filenames, so it's best to avoid using them. If you work in Danish
+    and have a file name with `æ`, `ø`, or `å`, you can use the
+    non-Danish equivalents (`ae`, `oe`, and `aa`) instead.
+-   **Use file extensions**: Remember to include file extensions to your
+    file names to indicate the type of file. For example, use `.md` for
+    Markdown files (`soup.md`), and `.csv` for CSV files (`budget.csv`).
 
 {{< text_snippet sticky_up >}}
 
 ## Add a soup recipe
 
-Now, we'll create our first file on GitHub. Let's add a soup recipe
-:bowl_with_spoon:.
+Now, it's time to create the first file on GitHub. Let's add a soup
+recipe together! :bowl_with_spoon:.
 
 In the "Code" tab of the repository, we'll click the button saying "Add
 file" in the top-right side of the page. In the dropdown menu, we'll
 click "Create new file".
 
-This leads us to a new page with an empty file without any content.
+This leads us to a new page with an empty, unnamed file.
 
-In the "Name your file..." field, in the top-left corner, we'll type the
-name of our file. Let's follow the good naming practices we've read
-about above and call it `soup.md`.
+In the "Name your file..." field, in the top-left side of the page,
+we'll type the name of our file. Let's follow the good naming practices
+we've read about above and call it `soup.md`.
 
 For the content of the file, we'll copy and paste the following recipe:
 
 ``` markdown
-Ingredients for tomato soup
+Ingredients for soup
 
 - 4 tbs butter
 - 0.5 large onion, cut into large wedges
@@ -121,8 +118,7 @@ Once we have added the file name and the recipe itself, let's save the
 changes. {{< var github-commit >}}
 
 ::: callout-tip
-A descriptive message for these changes could be "Add tomato soup
-recipe"
+A descriptive message for these changes could be "Add soup recipe"
 :::
 
 We've now added our first recipe to the repository! :tada: Now, you'll
@@ -132,14 +128,14 @@ practice creating files in your repository by adding another recipe.
 
 **Time: \~10 minutes**
 
-Now you'll add the second recipe to your repository: A cookie recipe!
-:cookie:
+In this exercise, you'll add the second recipe to your `recipes`
+repository: A cookie recipe! :cookie:
 
-1.  In the "Code" tab of your repository, click the "Add file" button
-    and then "Create new file".
+1.  As we did with the soup recipe before: In the "Code" tab of your
+    repository, click the "Add file" button and then "Create new file".
 2.  In the "Name your file..." field, type the name of your file. Let's
-    call it `cooke-recipe.md`. Remember to not use spaces in the file
-    name as well as to add the `.md` file extension so you create a
+    call it `cookies.md`. Remember to not use spaces in the file name as
+    well as to add the `.md` file extension so you create a
     [Markdown](https://quarto.org/docs/authoring/markdown-basics.html)
     file.
 3.  Add a cookie recipe to the file by either finding one online or
@@ -186,15 +182,15 @@ repository! :tada:
 
 ## Rename, edit, and move the soup recipe to a new folder
 
-Now that we have added a couple of recipes to the repository, we'll take
-a look at how to rename, edit, and move files in repositories on GitHub.
+Now, we'll take a look at how to rename, edit, and move files in
+repositories on GitHub.
 
 Let's imagine that we want to add more recipes to the repository in the
 future. To keep things organised, we want our recipes to have
 descriptive names and content. We also want to create some folders to
 group similar recipes together.
 
-Let's start by doing this with the soup recipe we added earlier.
+Let's start by doing this with the soup recipe.
 
 ### Rename `soup.md` {.unnumbered}
 
@@ -211,6 +207,13 @@ Once we have renamed the file, let's commit the changes.
 {{< var github-commit >}}
 
 ::: callout-tip
+You might have noticed that GitHub automatically creates a commit
+message for you. Remember that you can edit this message to make it more
+descriptive. It's a good practice to edit it to be more descriptive, as
+it helps you and others understand the changes that were made to the
+repository. Otherwise, you might end up with a commit history that is
+"Update file", "Update file", "Update file", etc. :grimacing:
+
 A descriptive commit message for these changes could be "Rename soup
 recipe to tomato soup".
 :::
@@ -230,8 +233,8 @@ tomato soup". Once we've made the changes, let's commit them.
 {{< var github-commit >}}
 
 ::: callout-tip
-A descriptive commit message for these changes could be "Specify that
-this is ingredients for a tomato soup".
+A descriptive commit message for these changes could be "Edit heading to
+specify that this is a tomato soup recipe".
 :::
 
 ### Move `tomato-soup.md` to a new `soups/` folder {.unnumbered}
@@ -247,8 +250,8 @@ repository, by adding `soups/` before the file name like so:
 `soups/tomato-soup.md`. Remember to use `/` between the folder name and
 the file name.
 
-This will create a new folder called `soups/` and then move the
-`tomato-soup.md` file into it.
+This will create a new folder in your `recipes` repository called
+`soups/` and then move the `tomato-soup.md` file into it.
 
 ::: callout-tip
 ### Fixing a folder name after typing slash `/`
@@ -256,7 +259,7 @@ This will create a new folder called `soups/` and then move the
 You might have noticed that once we add the slash `/` after the folder
 name, GitHub moves the cursor to the end of the file path, to the file
 name. This might make it seem like we can't go back to the folder name
-and correct it if we make a typo or change our mind about the name.
+and correct it if we make a typo or want to change it.
 
 However, we can use the backspace key to remove the `/` which leads the
 cursor back to the folder name. Now, we can change the folder name as we
@@ -266,53 +269,53 @@ like :partying_face:
 {{< var github-commit >}}
 
 ::: callout-tip
-A descriptive message for these changes could be "Move tomato soup file
-into the soups folder".
+A descriptive message for these changes could be "Move tomato soup
+recipe into a new soups folder".
 :::
 
 We have now renamed the soup recipe file, edited its content, and moved
-it to a new folder in your repository! :bowl_with_spoon: :tomato:
+it to a new folder in your repository! You can see the new folder
+`soups/` in the `Code` tab of your repository and even click on it to
+see the `tomato-soup.md` file. :bowl_with_spoon: :tomato:
 
 ::: callout-note
 ### Rename, edit, and move files can be done in the same step
 
 It is possible to rename, edit, and move files in the same step if you
 want to. However, for practice and clarity in the history, we've split
-the steps into first renaming the file *then* moving it to a new folder.
+these changes into separate steps.
 :::
 
-## :technologist: Exercise: Rename, edit, and move the `cookie-recipe.md` file
+## :technologist: Exercise: Rename, edit, and move the `cookies.md` file
 
 **Time: \~10 minutes**
 
 Just like we did with the soup recipe above, let's rename the
-`cookie-recipe.md` file so the name is more specific. Let's also move it
-to a new `baked-goods/` folder. That way, if you want to add other
-recipes for baked goods, you can put it in that folder.
+`cookies.md` file so the name is more specific. Let's also move it to a
+new `baked-goods/` folder. That way, if you want to add other recipes
+for baked goods, you can put it in that folder.
 
-While you can rename, edit, and move in the same step, for practice,
-rename the file first, then edit the content, and last move it to the
-new folder.
+While you can do these changes in one step, for practice, rename the
+file first, then edit the content, and last move it to the new folder.
 
-Start by renaming the `cookie-recipe.md` file:
+Start by renaming the `cookies.md` file:
 
 1.  Click the pencil icon {{< var pencil-icon >}} on the top-right side
-    of the page ("Edit this file") to edit the `cookie-recipe.md` file.
+    of the page ("Edit this file") to edit the `cookies.md` file.
 2.  Click the name of the file at the top-left of the page and rename
     the file to `chocolate-chip-cookies.md`. Remember to not use spaces
     in the file name and to keep the file extension (`.md`).
 3.  {{< var github-commit >}} Here, a descriptive message could be
     "Rename cookie recipe to chocolate chip cookies".
 
-Similarly to the soup recipe, change the first line of the
-`chocolate-chip-cookies.md` file:
+Edit the `chocolate-chip-cookies.md` file by changing the first line:
 
 1.  Click the pencil icon {{< var pencil-icon >}} on top-right side of
     the page ("Edit this file") to edit the file.
 2.  Edit the first line of the file by adding "chocolate chip", so it
     becomes "Ingredients for chocolate chip cookies".
-3.  {{< var github-commit >}} Here, a descriptive message could be
-    "Specify that this is ingredients for chocolate chip cookies".
+3.  {{< var github-commit >}} Here, a descriptive message could be "Edit
+    heading to specify that this is a chocolate chip cookie recipe".
 
 Next, move the file to a new `baked-goods/` folder:
 
@@ -322,9 +325,9 @@ Next, move the file to a new `baked-goods/` folder:
 2.  Click the name of the file at the top-left of the page and change
     the path of the file to a new folder to your repository. The current
     file path is `chocolate-chip-cookies.md`. To create a new folder,
-    change the file path by typing `baked-goods/` at the start of the
-    file name, so the whole file path
-    becomes`baked-goods/chocolate-chip-cookies.md`. Notice the `/`
+    change the file path by typing `baked-goods/` at the beginning of
+    the file name, so the path
+    becomes `baked-goods/chocolate-chip-cookies.md`. Notice the `/`
     between the folder name and the file name.
 3.  {{< var github-commit >}} Here, a descriptive message could be "Move
     cookie recipe to baked-goods folder".
@@ -337,18 +340,17 @@ folder in your repository! :partying_face:
 ## Delete files and folders in a GitHub repository
 
 Let's imagine that we have decided that our recipe book should solely
-focus on recipes for sweets, desserts, and baked goods.
-
-This means that we'll want to remove the tomato soup recipe from the
-repository along with the `soups/`folder.
+focus on recipes for sweets, desserts, and baked goods. This means that
+we want to remove the tomato soup recipe from the repository along with
+the `soups/`folder.
 
 To delete the `tomato-soup.md` file and the `soups/` folder, we'll click
 the `soups/` folder in the "Code" tab of the repository and then click
 the `tomato-soup.md` file within it.
 
 In the top-right corner of the page, we'll click the button with three
-dots (`...`), scroll down to the bottom of the dropdown menu and click
-"Delete file".
+dots ({{< var ellipsis-icon >}}), scroll down to the bottom of the
+dropdown menu and click "Delete file".
 
 We'll save the changes by committing the changes as we have done before.
 
@@ -363,8 +365,8 @@ the repository and are ready to focus on sweets and baked goods! :cake:
 
 If you wanted to delete a folder with multiple files in it along with
 the files themselves, you can go to the folder and click the three dots
-button (`...`) in the top-right corner of the page. Then, click "Delete
-directory" in the dropdown menu.
+button ({{< var ellipsis-icon >}}) in the top-right corner of the page.
+Then, click "Delete directory" in the dropdown menu.
 
 This will delete the folder and all the files within it, so be careful
 with deleting folders directly like this.
@@ -372,31 +374,26 @@ with deleting folders directly like this.
 
 ## Explore the history to find previous changes
 
-Now that we've have made quite a few changes to the repository, it's
-time to take a look at the history of the repository. This will show all
-the changes that have been made to the repository, who made them, and
-when they were made.
+Now that we've have made several changes, let's look at the repository's
+history. This shows what changes were made, who made them, and when they
+were made. This is very useful for tracking progress or finding specific
+changes. On GitHub, we can see the history of the entire repository or
+the history of a specific file.
 
-This can be very useful if you want to see what changes have been made
-over time or if you want to find a specific change.
+Because we've only made a few changes to the repository, let's explore
+the history of the entire repository to locate the commit where we first
+added the cookie recipe.
 
-Let's say you want to find the commit where you added the cookie recipe.
-You can do this by looking at the history of the repository or the
-history of the file itself.
-
-Because we've made a few changes to the repository, let's explore the
-history of the entire repository.
-
-In the "Code" tab of the repository, click the "Commits" button on the
-top-right side of the page. This leads us to a page that shows all the
-changes that have been made to the repository along with the commit
-messages, the author of the changes, and when the changes where made.
-Neat!
+In the "Code" tab of the repository, click the "{{< var history-icon >}}
+Commits" button on the top-right side of the page. This leads us to a
+page that shows all the changes that have been made to the repository
+along with the commit messages, the author of the changes, and when the
+changes where made. Neat!
 
 Now, we'll go through the list of commits to find the commit where we
-added the cookie recipe. The commit message should be "Add cookie
-recipe". Notice where you can see the author of the commit and when the
-commit was made.
+added the cookie recipe. The commit message should be something like
+"Add cookie recipe". Notice where you can see the author of the commit
+and when the commit was made.
 
 Let's click on the commit message to see what was changed in that
 commit. Take a moment to explore the information that GitHub provides
@@ -404,11 +401,19 @@ about the commit. On the left side of the page, we can see which files
 were changed in the commit, and on the right side, we can see the
 specific changes that were made to the file. In the top-left corner of
 the page, we can still see who made the changes and when they committed
-these changes.
+these changes. We can also see that this shows us the version of the
+file where the heading hadn't been changed yet. This is how we can look
+at what the file looked like at that point in time.
 
 If we want to go back to the list of commits, we can use our browser to
 go back to the previous page. For most browsers, this can be achieved by
 clicking the right-facing arrow in the top-left corner of the browser.
+
+To see what editing a line within a file looks like, we can click on the
+commit message where we edited the heading of the cookie recipe. This
+will show us the changes that were made in that commit. The edited line
+is shown two times: the old line (in red with a minus in front of it)
+and the new line (in green with a plus).
 
 ::: callout-note
 ### Importance of meaningful commit messages
@@ -427,15 +432,25 @@ looking for.
 ::: callout-tip
 ### History of a specific file
 
-It is possible to both explore the history of the entire repository and
-the history of a specific file. The history of the entire repository
-shows all the commits that have been made to all files in the
-repository, while the history of a specific file shows the commits that
-have been made to that file only.
+As mentioned above, it's possible to both explore the history of the
+entire repository and the history of a specific file. The history of the
+entire repository shows all the commits that have been made to all files
+in the repository, while the history of a specific file shows the
+commits that have been made to that file only.
 
 You can access the history of a specific file by going to the file in
 the repository and clicking the "History" button on the top-right side
 of the page.
+:::
+
+::: callout-tip
+### Looking at the entire repository at a specific point in time
+
+It can also be useful to look at the entire repository at a specific
+point in time. This can be done by clicking the "Browse files" button on
+the top-right side of the page when you've clicked on a specific commit
+message. This will show you all files in the repository they were at
+that point in time :alarm_clock:
 :::
 
 ## Summary
@@ -447,4 +462,4 @@ particular, we have:
 -   Renamed, edited, and moved files in the repository
 -   Deleted files and folders from the repository
 -   Explored the history of the repository to see the changes that have
-    been made
+    been made and locate specific changes
