@@ -493,16 +493,6 @@ computer, follow these steps:
 4.  Click the "Commit changes..." button to upload the file to your
     repository.
 
-::: callout-note
-Unfortunately, the file will be uploaded to the root of the repository
-and not in a folder. This is a limitation of GitHub's upload feature.
-
-If you want to move the file to a folder, you can do so by going to the
-file in the repository and clicking the pencil icon
-{{< var pencil-icon >}} on the top-right side of the page. Then, you can
-change the file path to the folder you want to move it to as we did
-previously with the recipe files.
-:::
 
 {{< text_snippet sticky_up >}}
 
