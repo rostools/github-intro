@@ -465,8 +465,11 @@ Make sure to mention that this is not a type-along. The learnes will
 find an image to upload and upload it the upcoming exercise.
 :::
 
-Now that we've explored how to add files and folders to a GitHub
-repository, let's take a look at how to upload files to GitHub.
+Until now, we've been adding files and folders to the repository by
+creating them directly on GitHub. This is a great way to add files and
+folders when we want to create new content or edit existing content
+directly on GitHub. But, what if we have files on our computer that we
+want to add to the repository? Then, we need to *upload* them.
 
 Uploading files to a GitHub repository is a bit different from adding
 files and folders. When we upload files, we can select files from our
