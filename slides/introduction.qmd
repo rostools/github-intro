@@ -6,7 +6,6 @@ format:
         theme: default
         slide-number: true
         from: markdown+emoji
-        logo: rostools-logo.svg
 ---
 
 # The big picture
