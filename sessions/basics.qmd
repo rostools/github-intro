@@ -214,7 +214,7 @@ and kept together. This is especially important when using tools like
 Git and GitHub. That's because tools like Git and GitHub work *within* a
 specific folder and treat that *specific* folder as a Git repository.
 Then, all files within that repository (folder) are relative to one
-another. This "relativeness" also is shown by two "special characters":
+another. This "relativeness" is also shown by two "special characters":
 
 -   `..`: Two dots mean the folder up one, also called the "parent
     folder". In the file path `/Users/username/`, the `../` is the
@@ -359,7 +359,7 @@ what we've covered so far about Git and GitHub. So:
     new" button, notifications inbox and issues)
 -   File paths are the location of a file or folder in a filesystem.
 -   Each change to a file in a repository creates a new commit in the
-    Git history log, each with their own commit message (when working on
+    Git history log, each with its own commit message (when working on
     GitHub).
 -   Commits are connected to each other creating the history of changes
     made within a repository.

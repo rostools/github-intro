@@ -63,7 +63,7 @@ message describing the changes. This is extremely useful when you
 revisit your own work after a long time and when you work in groups or
 with collaborators.
 
-Git only tracks changes to files *within a specific folder* (and it's
+Git only tracks changes to files *within a specific folder* (and its
 sub-folders). In Git terminology, this folder is called a **repository**
 (or a *repo* for short). The best way to use a repository is to store
 all files related to a specific project, like a research project or
@@ -78,13 +78,14 @@ features and tools for tracking specific changes when the file is
 text-based, like a `.txt`, `.csv`, or code. Since these text-based files
 are literally only text characters, it is easier to track the changes to
 exact lines of text. Unlike files like images, or Word documents (that
-actually aren't just text), there are no "lines" to track changes on.
+actually aren't just text), where there are no "lines" to track changes
+on.
 
 To understand how powerful formal version control like Git is, consider
 these questions:
 
 -   How many files of different versions of a scientific document or
-    thesis do you have laying around after getting feedback from your
+    thesis do you have lying around after getting feedback from your
     supervisor or co-authors?
 -   Have you ever wanted to test an analysis in a file but ended up
     creating a new one to avoid modifying the original?
