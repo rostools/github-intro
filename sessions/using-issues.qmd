@@ -102,16 +102,16 @@ of the page to create the issue.
 
 Once we've created the issue, when we click the "Issues" tab we'll see
 the new issue in the list of the repository's issues. When we click on
-the issue to see more details, such as comments, and we can also close
-the issue once the task is completed.
+the issue, we can see more details, such as comments, and we can also
+close the issue once the task is completed.
 
 We have now created our first issue :tada:!
 
 ::: callout-tip
 ### Issue overview
 
-If you want to see get an overview of the issues in a specific
-repository, you can go to the "Issues" tab in that repository.
+If you want to see an overview of the issues in a specific repository,
+you can go to the "Issues" tab in that repository.
 
 But if you want to see all the issues you have created across
 repositories, you can click the "Your issues" button in the top-right
@@ -195,7 +195,7 @@ to find the issue fairly quickly. You can go to the notifications by
 clicking the inbox button in the top right corner on GitHub ({{< var inbox-icon >}})  and click on the
 issue to see the details.
 
-However, if you hadn't been tagged, you can't find the issue this way.
+However, if you haven't been tagged, you can't find the issue this way.
 So, let's practice finding the issue in your neighbour's repository.
 
 ## :woman_technologist: Exercise: Comment on your neighbour's issue with a recipe suggestion

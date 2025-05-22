@@ -11,7 +11,6 @@ book:
   date: last-modified
   repo-url: https://github.com/rostools/github-intro
   site-url: https://github-intro.rostools.org
-  body-header: "{{< text_snippet wip >}}"
   chapters:
     - index.qmd
     - part: "Overview"

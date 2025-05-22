@@ -67,14 +67,14 @@ Here are some tips for good naming practices:
     filename, use hyphens (`-`) or underscores (`_`) instead of spaces.
     For example, instead of `data analysis results.md`, name your file
     `data-analysis-results.md` or `data_analysis_results.md`. Spaces can
-    introduce different issues in some situations and contexts. So, it’s
-    best to avoid them altogether.
+    introduce issues in some situations and contexts. So, it’s best to
+    avoid them altogether.
 -   **Avoid special characters**: Some special characters, such as `&`,
     `?`, `#`, and the Danish `æ`, `ø`, `å`, can cause issues in
     filenames, so it's best to avoid using them. If you work in Danish
     and have a file name with `æ`, `ø`, or `å`, you can use the
     non-Danish equivalents (`ae`, `oe`, and `aa`) instead.
--   **Use file extensions**: Remember to include file extensions to your
+-   **Use file extensions**: Remember to include file extensions in your
     file names to indicate the type of file. For example, use `.md` for
     Markdown files (`soup.md`), and `.csv` for CSV files (`budget.csv`).
 
@@ -103,7 +103,7 @@ Ingredients for soup
 - 4 tbs butter
 - 0.5 large onion, cut into large wedges
 - 1 can of tomatoes
-- 1,5 cups water, vegetable or chicken stock
+- 1.5 cups water, vegetable or chicken stock
 - 0.5 tsp salt, or more to taste
 
 Instructions
@@ -279,7 +279,7 @@ it to a new folder in your repository! You can see the new folder
 see the `tomato-soup.md` file. :bowl_with_spoon: :tomato:
 
 ::: callout-note
-### Rename, edit, and move files can be done in the same step
+### Renaming, editing, and moving files can be done in the same step
 
 It is possible to rename, edit, and move files in the same step if you
 want to. However, for practice and clarity in the history, we've split
@@ -323,12 +323,12 @@ Next, move the file to a new `baked-goods/` folder:
     of the page ("Edit this file") as we did before on the
     `chocolate-chip-cookies.md` file.
 2.  Click the name of the file at the top-left of the page and change
-    the path of the file to a new folder to your repository. The current
+    the path of the file to a new folder in your repository. The current
     file path is `chocolate-chip-cookies.md`. To create a new folder,
     change the file path by typing `baked-goods/` at the beginning of
-    the file name, so the path
-    becomes `baked-goods/chocolate-chip-cookies.md`. Notice the `/`
-    between the folder name and the file name.
+    the file name, so the path becomes
+    `baked-goods/chocolate-chip-cookies.md`. Notice the `/` between the
+    folder name and the file name.
 3.  {{< var github-commit >}} Here, a descriptive message could be "Move
     cookie recipe to baked-goods folder".
 
@@ -354,7 +354,7 @@ dropdown menu and click "Delete file".
 
 We'll save the changes by committing the changes as we have done before.
 
-Since there was no other files in the `soups/` folder, the folder will
+Since there were no other files in the `soups/` folder, the folder will
 be deleted as well :fire:
 
 We have now deleted the tomato soup recipe and the `soups/` folder from
@@ -374,7 +374,7 @@ with deleting folders directly like this.
 
 ## Explore the history to find previous changes
 
-Now that we've have made several changes, let's look at the repository's
+Now that we've made several changes, let's look at the repository's
 history. This shows what changes were made, who made them, and when they
 were made. This is very useful for tracking progress or finding specific
 changes. On GitHub, we can see the history of the entire repository or
@@ -407,7 +407,7 @@ at what the file looked like at that point in time.
 
 If we want to go back to the list of commits, we can use our browser to
 go back to the previous page. For most browsers, this can be achieved by
-clicking the right-facing arrow in the top-left corner of the browser.
+clicking the left-facing arrow in the top-left corner of the browser.
 
 To see what editing a line within a file looks like, we can click on the
 commit message where we edited the heading of the cookie recipe. This
@@ -449,9 +449,64 @@ of the page.
 It can also be useful to look at the entire repository at a specific
 point in time. This can be done by clicking the "Browse files" button on
 the top-right side of the page when you've clicked on a specific commit
-message. This will show you all files in the repository they were at
+message. This will show you all files in the repository as they were at
 that point in time :alarm_clock:
 :::
+
+## Upload files to a GitHub repository
+
+::: {.callout-note collapse="true"}
+## :teacher: Teacher note
+
+Briefly go through the process of uploading files to a GitHub
+repository, showing the actual uploading process.
+
+Make sure to mention that this is not a type-along. The learnes will
+find an image to upload and upload it the upcoming exercise.
+:::
+
+Until now, we've been adding files and folders to the repository by
+creating them directly on GitHub. This is a great way to add files and
+folders when we want to create new content or edit existing content
+directly on GitHub. But, what if we have files on our computer that we
+want to add to the repository? Then, we need to *upload* them.
+
+Uploading files to a GitHub repository is a bit different from adding
+files and folders. When we upload files, we can select files from our
+computer and upload them directly to the repository.
+
+To upload files to a GitHub repository, we'll go to the "Code" tab of
+the repository and click the "Add file" button on the top-right side of
+the page. In the dropdown menu, we'll click "Upload files". This leads
+us to a new page where we can drag and drop files from our computer or
+click the "choose your files" button to select files from our computer.
+Once we've selected the files we want to upload, we can add a commit
+message and commit the changes. This will upload the files to the
+repository and create a new commit with the changes.
+
+## :technologist: Upload a file to your repository
+
+**Time: \~10 minutes.**
+
+Now, it's your turn to upload a file to your repository. Find an image
+of a cookie or recipe book from [Pixabay](https://pixabay.com/) (or
+similar website), download it to your computer, and then upload the
+image to your repository.
+
+Once you have decided on a file to upload and downloaded it to your
+computer, follow these steps:
+
+1.  In the "Code" tab of your repository, click the "Add file" button
+    and then "Upload files".
+2.  Drag and drop the file you want to upload into the upload area or
+    click the "choose your files" button to select the file from your
+    computer.
+3.  Once you've selected the file, add a commit message to describe the
+    changes as you've done before.
+4.  Click the "Commit changes..." button to upload the file to your
+    repository.
+
+{{< text_snippet sticky_up >}}
 
 ## Summary
 
@@ -463,3 +518,4 @@ particular, we have:
 -   Deleted files and folders from the repository
 -   Explored the history of the repository to see the changes that have
     been made and locate specific changes
+-   Uploaded a local file to the repository
