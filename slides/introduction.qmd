@@ -6,9 +6,10 @@ format:
         theme: default
         slide-number: true
         from: markdown+emoji
+        logo: rostools-logo.svg
 ---
 
-# The big picture {.center}
+# The big picture
 
 ::: notes
 Something about:
@@ -17,31 +18,15 @@ Something about:
 - Reprodubility
 - Collaboration
 - Keep up with new tools
-
-A little funnel leading us to the workshop aim.
 :::
+
+
+# Who has used GitHub before?
+
+# Who’s lost track of the latest version of a file?
+
+# Who’s deleted something they wish they hadn't?
 
 ## Workshop aim {.center}
 
 {{< include ../includes/objectives/_overall.qmd >}}
-
-# Workshop structure {.center}
-
-- Readings
-- Type-alongs
-- Discussion activities
-- Schedule is a guide only
-- Stickies/origami hats to ask for help :tophat: :womans_hat:
-- Feedback survey at the end :raised_hands: :speech_balloon:
-
-::: notes
-Next slide is a question to get learners familiar with using the stickies/origami
-hats.
-:::
-
-# Who has used GitHub before? :tophat: :womans_hat:
-
-::: notes
-Remember to ask them to put the hats down again.
-:::
-
