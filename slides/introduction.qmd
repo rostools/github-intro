@@ -45,6 +45,3 @@ hats.
 Remember to ask them to put the hats down again.
 :::
 
-# Schedule {.smaller}
-
-{{< include ../includes/_schedule.qmd >}}
