@@ -19,4 +19,3 @@ on each session may vary a bit.
 | 50 | {{< fa laptop-code >}} [Making and using GitHub Issues](/sessions/using-issues.qmd) |
 | 5 | {{< fa person-chalkboard >}} [Concluding remarks](/sessions/conclusion.qmd) |
 | 5 | {{< fa comment-dots >}} [Short end of workshop survey]() |
-
