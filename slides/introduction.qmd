@@ -1,31 +1,37 @@
 ---
-title: "Introduction to GitHub workshop"
-subtitle: "A gentle introduction to using GitHub for working with files and tasks"
-format:
-    revealjs:
-        theme: default
-        slide-number: true
-        from: markdown+emoji
+format: r3-theme-revealjs
 ---
 
-# The big picture
+# Welcome to the Intro to GitHub workshop :tada: :grin:
 
-::: notes
-Something about:
+# Questions for you: Who has ...
 
-- Version control
-- Reprodubility
-- Collaboration
-- Keep up with new tools
-:::
+## Struggled with managing all the changes co-authors make on a paper? {.center}
 
+## Lost track of the latest version of a file? {.center}
 
-# Who has used GitHub before?
+## Deleted something they wish they hadn't? {.center}
 
-# Who’s lost track of the latest version of a file?
+## Used GitHub before? {.center}
 
-# Who’s deleted something they wish they hadn't?
+# Motivation for this workshop
 
-## Workshop aim {.center}
+Git and GitHub make it easier to...
+
+## Be organised with your files {.center}
+
+## Do open science {.center}
+
+## Share your work {.center}
+
+## Track changes to your files {.center}
+
+## Collaborate with others {.center}
+
+## Manage your projects {.center}
+
+## ... After you've learned to use it of course! {.center}
+
+# Workshop aim {.center}
 
 {{< include ../includes/objectives/_overall.qmd >}}
