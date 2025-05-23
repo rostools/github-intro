@@ -1,7 +1,7 @@
 # Create a GitHub account {#sec-github-account}
 
 To participate in the workshop, you will need a GitHub account. Please
-go to the [GitHub website](github.com) and create an account. Remember
+go to the [GitHub website](https://github.com/signup) and create an account. Remember
 your username, as you will need it for the survey at the end of this
 section.
 
