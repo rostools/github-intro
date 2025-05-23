@@ -1,0 +1,37 @@
+---
+format: r3-theme-revealjs
+---
+
+# Welcome to the Intro to GitHub workshop :tada: :grin:
+
+# Questions for you: Who has ...
+
+## Struggled with managing all the changes co-authors make on a paper? {.center}
+
+## Lost track of the latest version of a file? {.center}
+
+## Deleted something they wish they hadn't? {.center}
+
+## Used GitHub before? {.center}
+
+# Motivation for this workshop
+
+Git and GitHub make it easier to...
+
+## Be organised with your files {.center}
+
+## Do open science {.center}
+
+## Share your work {.center}
+
+## Track changes to your files {.center}
+
+## Collaborate with others {.center}
+
+## Manage your projects {.center}
+
+## ... After you've learned to use it of course! {.center}
+
+# Workshop aim {.center}
+
+{{< include ../includes/objectives/_overall.qmd >}}

@@ -44,8 +44,7 @@ in order:
 
 The overall aim of this workshop is to enable you to:
 
--   Explain in simple terms what Git and GitHub do, work with files
-    and folders on GitHub and track tasks using GitHub Issues.
+{{< include /includes/objectives/_overall.qmd >}}
 
 Broken down into specific objectives for each session, we've designed
 the workshop to enable you to do the following:
