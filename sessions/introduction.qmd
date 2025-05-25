@@ -1,5 +1,7 @@
 # Introduction {#sec-introduction}
 
+[**Introduction slides**](/slides/introduction.html)
+
 ::: {.callout-note collapse="true"}
 ## :teacher: Teacher note
 

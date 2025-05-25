@@ -1,0 +1,2 @@
+-   Explain in simple terms what Git and GitHub do, work with files
+    and folders on GitHub, and track tasks using GitHub Issues.
