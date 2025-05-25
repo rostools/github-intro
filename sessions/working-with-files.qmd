@@ -8,30 +8,6 @@ The learning objectives of this session are to:
 
 {{< include /includes/objectives/_working-with-files.qmd >}}
 
-During the session, you will:
-
--   Add a cookie recipe and a soup recipe to your repository.
--   Rename and move the recipe files to new folders.
--   Delete the soup recipe and the folder it is in.
--   Look at the history of your repository to find a specific change.
-
-Right now, your repository file structure looks like this:
-
-```
-recipes/
-└── README.md
-```
-
-By the end of the session, your repository file structure will look like
-this:
-
-```
-recipes/
-├── baked-goods/
-│ └── chocolate-chip-cookies.md
-└── README.md
-```
-
 ## :book: Reading task: Naming of files and folders
 
 ::: {.callout-note collapse="true"}
@@ -118,7 +94,17 @@ Once we have added the file name and the recipe itself, let's save the
 changes. {{< var github-commit >}}
 
 ::: callout-tip
-A descriptive message for these changes could be "Add soup recipe"
+A descriptive message for these changes could be "Create soup recipe md
+file"
+:::
+
+::: callout-note
+You might have noticed that GitHub automatically creates a commit
+message for you. Remember that you can edit this message to make it more
+descriptive. It's a good practice to edit it to be more descriptive, as
+it helps you and others understand the changes that were made to the
+repository. Otherwise, you might end up with a commit history that is
+"Update file", "Update file", "Update file", etc. :grimacing:
 :::
 
 We've now added our first recipe to the repository! :tada: Now, you'll
@@ -180,9 +166,9 @@ repository! :tada:
 
 {{< text_snippet sticky_up >}}
 
-## Rename, edit, and move the soup recipe to a new folder
+## Edit, rename, and move the soup recipe to a new folder
 
-Now, we'll take a look at how to rename, edit, and move files in
+Now, we'll take a look at how to edit, rename, and move files in
 repositories on GitHub.
 
 Let's imagine that we want to add more recipes to the repository in the
@@ -191,6 +177,25 @@ descriptive names and content. We also want to create some folders to
 group similar recipes together.
 
 Let's start by doing this with the soup recipe.
+
+### Edit the content of `soup.md` {.unnumbered}
+
+When we added the content of the file, you might have noticed that it
+said "Ingredients for soup" on the first line. This is a bit generic, so
+let's change it.
+
+Like before, we'll click the `soup.md` file in the "Code" tab of the
+repository to open it and click the pencil icon {{< var pencil-icon >}}
+on the top-right side of the page.
+
+Now, let's revise the first line of the file to be "Ingredients for
+tomato soup". Once we've made the changes, let's commit them.
+{{< var github-commit >}}
+
+::: callout-tip
+A descriptive commit message for these changes could be "Add 'tomato' to
+the heading of the soup recipe".
+:::
 
 ### Rename `soup.md` {.unnumbered}
 
@@ -207,34 +212,8 @@ Once we have renamed the file, let's commit the changes.
 {{< var github-commit >}}
 
 ::: callout-tip
-You might have noticed that GitHub automatically creates a commit
-message for you. Remember that you can edit this message to make it more
-descriptive. It's a good practice to edit it to be more descriptive, as
-it helps you and others understand the changes that were made to the
-repository. Otherwise, you might end up with a commit history that is
-"Update file", "Update file", "Update file", etc. :grimacing:
-
-A descriptive commit message for these changes could be "Rename soup
-recipe to tomato soup".
-:::
-
-### Edit the content of `tomato-soup.md` {.unnumbered}
-
-When we added the content of the file, you might have noticed that it
-said "Ingredients for soup" on the first line. This is a bit generic, so
-let's change it.
-
-Like before, we'll click the `tomato-soup.md` file in the "Code" tab of
-the repository to open it and click the pencil icon
-{{< var pencil-icon >}} on the top-right side of the page.
-
-Now, let's revise the first line of the file to be "Ingredients for
-tomato soup". Once we've made the changes, let's commit them.
-{{< var github-commit >}}
-
-::: callout-tip
-A descriptive commit message for these changes could be "Edit heading to
-specify that this is a tomato soup recipe".
+A descriptive commit message for these changes could be "Rename soup.md
+to tomato-soup.md".
 :::
 
 ### Move `tomato-soup.md` to a new `soups/` folder {.unnumbered}
@@ -279,14 +258,14 @@ it to a new folder in your repository! You can see the new folder
 see the `tomato-soup.md` file. :bowl_with_spoon: :tomato:
 
 ::: callout-note
-### Renaming, editing, and moving files can be done in the same step
+### Editing, renaming and moving files can be done in the same step
 
-It is possible to rename, edit, and move files in the same step if you
+It is possible to edit, rename, and move files in the same step if you
 want to. However, for practice and clarity in the history, we've split
 these changes into separate steps.
 :::
 
-## :technologist: Exercise: Rename, edit, and move the `cookies.md` file
+## :technologist: Exercise: edit, rename, and move the `cookies.md` file
 
 **Time: \~10 minutes**
 
@@ -354,8 +333,12 @@ dropdown menu and click "Delete file".
 
 We'll save the changes by committing the changes as we have done before.
 
-Since there were no other files in the `soups/` folder, the folder will
-be deleted as well :fire:
+Now, when looking at the files and folders in the repository, you might
+notice something unexpected: When we deleted the `tomato-soup.md` file,
+GitHub automatically deleted the `soups/` folder as well! This is
+because the folder only contained that file. GitHub automatically
+removes empty folders when the last file in the folder is deleted. So,
+we don't need to delete the `soups/` folder separately. :fire:
 
 We have now deleted the tomato soup recipe and the `soups/` folder from
 the repository and are ready to focus on sweets and baked goods! :cake:
@@ -371,6 +354,61 @@ Then, click "Delete directory" in the dropdown menu.
 This will delete the folder and all the files within it, so be careful
 with deleting folders directly like this.
 :::
+
+## Upload files to a GitHub repository
+
+::: {.callout-note collapse="true"}
+## :teacher: Teacher note
+
+Briefly go through the process of uploading files to a GitHub
+repository, showing the actual uploading process.
+
+Make sure to mention that this is not a type-along. The learnes will
+find an image to upload and upload it the upcoming exercise.
+:::
+
+Until now, we've been adding files and folders to the repository by
+creating them directly on GitHub. This is a great way to add files and
+folders when we want to create new content or edit existing content
+directly on GitHub. But, what if we have files on our computer that we
+want to add to the repository? Then, we need to *upload* them.
+
+Uploading files to a GitHub repository is a bit different from adding
+files and folders. When we upload files, we can select files from our
+computer and upload them directly to the repository.
+
+To upload files to a GitHub repository, we'll go to the "Code" tab of
+the repository and click the "Add file" button on the top-right side of
+the page. In the dropdown menu, we'll click "Upload files". This leads
+us to a new page where we can drag and drop files from our computer or
+click the "choose your files" button to select files from our computer.
+Once we've selected the files we want to upload, we can add a commit
+message and commit the changes. This will upload the files to the
+repository and create a new commit with the changes.
+
+## :technologist: Exercise: Upload a file to your repository
+
+**Time: \~10 minutes.**
+
+Now, it's your turn to upload a file to your repository. Find an image
+of a cookie or recipe book from [Pixabay](https://pixabay.com/) (or
+similar website), download it to your computer, and then upload the
+image to your repository.
+
+Once you have decided on a file to upload and downloaded it to your
+computer, follow these steps:
+
+1.  In the "Code" tab of your repository, click the "Add file" button
+    and then "Upload files".
+2.  Drag and drop the file you want to upload into the upload area or
+    click the "choose your files" button to select the file from your
+    computer.
+3.  Once you've selected the file, add a commit message to describe the
+    changes as you've done before.
+4.  Click the "Commit changes..." button to upload the file to your
+    repository.
+
+{{< text_snippet sticky_up >}}
 
 ## Explore the history to find previous changes
 
@@ -453,61 +491,6 @@ message. This will show you all files in the repository as they were at
 that point in time :alarm_clock:
 :::
 
-## Upload files to a GitHub repository
-
-::: {.callout-note collapse="true"}
-## :teacher: Teacher note
-
-Briefly go through the process of uploading files to a GitHub
-repository, showing the actual uploading process.
-
-Make sure to mention that this is not a type-along. The learnes will
-find an image to upload and upload it the upcoming exercise.
-:::
-
-Until now, we've been adding files and folders to the repository by
-creating them directly on GitHub. This is a great way to add files and
-folders when we want to create new content or edit existing content
-directly on GitHub. But, what if we have files on our computer that we
-want to add to the repository? Then, we need to *upload* them.
-
-Uploading files to a GitHub repository is a bit different from adding
-files and folders. When we upload files, we can select files from our
-computer and upload them directly to the repository.
-
-To upload files to a GitHub repository, we'll go to the "Code" tab of
-the repository and click the "Add file" button on the top-right side of
-the page. In the dropdown menu, we'll click "Upload files". This leads
-us to a new page where we can drag and drop files from our computer or
-click the "choose your files" button to select files from our computer.
-Once we've selected the files we want to upload, we can add a commit
-message and commit the changes. This will upload the files to the
-repository and create a new commit with the changes.
-
-## :technologist: Upload a file to your repository
-
-**Time: \~10 minutes.**
-
-Now, it's your turn to upload a file to your repository. Find an image
-of a cookie or recipe book from [Pixabay](https://pixabay.com/) (or
-similar website), download it to your computer, and then upload the
-image to your repository.
-
-Once you have decided on a file to upload and downloaded it to your
-computer, follow these steps:
-
-1.  In the "Code" tab of your repository, click the "Add file" button
-    and then "Upload files".
-2.  Drag and drop the file you want to upload into the upload area or
-    click the "choose your files" button to select the file from your
-    computer.
-3.  Once you've selected the file, add a commit message to describe the
-    changes as you've done before.
-4.  Click the "Commit changes..." button to upload the file to your
-    repository.
-
-{{< text_snippet sticky_up >}}
-
 ## Summary
 
 In this session, we have explored how to work with files on GitHub. In
@@ -516,6 +499,6 @@ particular, we have:
 -   Added files and folders to a GitHub repository
 -   Renamed, edited, and moved files in the repository
 -   Deleted files and folders from the repository
--   Explored the history of the repository to see the changes that have
-    been made and locate specific changes
 -   Uploaded a local file to the repository
+-   Explored the history of the repository to see the changes and locate
+    specific changes
