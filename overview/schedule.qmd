@@ -6,8 +6,6 @@ discussion activities. The *general* schedule is outlined in the table
 below and is meant as an approximate guide *only*. The actual time spent
 on each session may vary a bit.
 
-<!-- TODO: Update minutes when sessions content is final -->
-
 | Minutes | Session topic |
 |:-----------------------------------|:-----------------------------------|
 |  | {{< fa mug-hot >}} Arrival, coffee and tea |
@@ -16,6 +14,6 @@ on each session may vary a bit.
 | 5 | {{< fa mug-hot >}} Short break |
 | 50 | {{< fa laptop-code >}} [Working with files on GitHub](/sessions/working-with-files.qmd) |
 | 5 | {{< fa mug-hot >}} Short break |
-| 50 | {{< fa laptop-code >}} [Making and using GitHub Issues](/sessions/using-issues.qmd) |
-| 5 | {{< fa person-chalkboard >}} [Concluding remarks](/sessions/conclusion.qmd) |
-| 5 | {{< fa comment-dots >}} [Short end of workshop survey]() |
+| 30 | {{< fa laptop-code >}} [Making and using GitHub Issues](/sessions/using-issues.qmd) |
+| 10 | {{< fa person-chalkboard >}} [Concluding remarks](/sessions/conclusion.qmd) |
+| 10 | {{< fa comment-dots >}} [Short end of workshop survey]() |
