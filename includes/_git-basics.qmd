@@ -1,22 +1,21 @@
-In our work lives, we regularly work with files, either creating,
-editing, moving, copying, or deleting them. These files can be anything
-from text documents, to images, to code. When we work with files, we
-often make changes to them, and sometimes many changes. We might want to
-keep track of how our files change over time or "save" specific versions
-of the files. This tracking of file changes over time is known as
-*version control*. It can be useful to keep track of file changes for
-many reasons. For example, we might want to keep track of changes to a
-file so we can revert back to a previous version of the file if we make
-a mistake or so we can see how the file has changed over time. This is
-especially useful when we are collaborating with others on a project, as
-we might want to keep track of changes made or feedback given by
-different people.
+In our work lives, we regularly work with files, such as creating or
+editing them. These files can be anything from text documents, to
+images, to code. When we work with files, we often make changes to them,
+and sometimes many changes. We might want to keep track of how our files
+change over time or "save" specific versions of the files. This tracking
+of file changes over time is known as *version control*.
 
-Tracking file changes is, however, also useful when we are working
-mostly alone on a project, since we humans tend to forget things. For
-instance, we might wonder why we made a certain change or what the file
-looked like at a certain point in time (e.g., if we want to go back to
-an earlier version of the file).
+Version control can very useful for many reasons. For example, maybe you
+want to keep track of changes to a file so you can revert back to a
+previous version if you make a mistake. This is especially useful when
+you are collaborating with others on a project, as everyone in the group
+might want to keep track of changes made or feedback given by different
+people.
+
+But version control is also useful when you are working mostly alone on
+a project, since we humans tend to forget things. For instance, you
+might wonder why you made a certain change or what the file looked like
+at a certain point in time by going back to that version.
 
 If a file has the ability to internally "track changes", like Word does,
 you may have used that before, maybe when getting feedback from others.
@@ -36,9 +35,9 @@ approach to "version control".
 This "informal" form of version control isn't ideal because it involves
 multiple copies of the same file. It makes it difficult to keep track of
 specific changes and find the right version of the files. Having
-multiple versions of the same file as in the image above really
-highlights the need for version control as well as the fact that it can
-be difficult to keep track of file changes manually.
+multiple versions of the same file as different names, as in the image,
+really highlights the need for version control and that it is hard to
+manually track file changes.
 
 Luckily for us, there exist "formal" version control systems that
 automatically track changes to files. One of the world's most popular
@@ -73,13 +72,13 @@ project. It keeps things more organised and self-contained, since
 everything related to a project is in one place.
 
 Any type of file can be stored in a repository, including both text and
-other non-text based files like Word or images. However, Git has more
-features and tools for tracking specific changes when the file is
-text-based, like a `.txt`, `.csv`, or code. Since these text-based files
-are literally only text characters, it is easier to track the changes to
-exact lines of text. Unlike files like images, or Word documents (that
-actually aren't just text), where there are no "lines" to track changes
-on.
+other non-text based files like Word or images. However, Git can only
+show specific changes made to a file if it is text-based, like a `.txt`,
+`.csv`, or code. Since these text-based files are literally only text
+characters, it is easier for the computer to show the exact changes to
+the exact lines of text. Unlike files like images, or Word documents
+(that actually aren't just text), where there are no "lines" to track
+changes on.
 
 To understand how powerful formal version control like Git is, consider
 these questions:
@@ -90,23 +89,17 @@ these questions:
 -   Have you ever wanted to test an analysis in a file but ended up
     creating a new one to avoid modifying the original?
 -   Have you ever deleted something and wished you hadn't?
--   Have you ever forgotten what you were doing on a project, or why you
-    chose a particular strategy or analysis?
 
 All these problems can be fixed by using formal version control! There
 are many good reasons to use version control, especially in science:
 
--   Organized files and folders, since there is one single project
-    folder and one single version of each file, rather than multiple
-    versions of the same file.
--   The ability to see previous versions of files using the history log.
--   Less time spent on finding things related to your projects, because
-    everything is organized and in one place.
+-   More organised files and folders, since you only need one version of
+    each file.
 -   Easier collaboration, because you can work on a single file/folder
-    in a single central location rather than emailing file versions
-    around.
--   Transparency of work done to demonstrate or substantiate your
-    scientific claim and protect against accusations of fraud.
+    in a single central location.
+-   Transparency of work done for others to see, which can protect
+    against accusations of fraud or misconduct.
 -   Claim to first discovery, since you have a time-stamped history of
     your work.
--   Evidence of contributions and work, since who does what is tracked.
+-   Easier to share your work with others, since you can share the
+    repository with them.
