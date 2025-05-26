@@ -49,6 +49,33 @@ to expect:
 
 <!-- TODO: I feel I am missing something here but can't remember -->
 
+In this workshop, we'll create a Git repository on GitHub with a recipe
+book, adding, organising, and editing text files with recipes :cake:
+:pancakes: :cookie:
+
+This is meant to be a fun and light-hearted project that will help you
+learn the basics of Git and GitHub.
+
+1.  During the first session, [The Basics of Git and
+    GitHub](/sessions/basics.qmd), we will go through the basics of Git
+    and GitHub, including how to create a repository and navigate
+    GitHub. This will be a more theoretical session, where we will learn
+    about the concepts of Git and GitHub, including what a repository
+    is, how to navigate GitHub, and how to use Git to track changes to
+    files. We will also learn about the difference between Git and
+    GitHub, and how they work together.
+
+2.  Then, in the more practical second session, [Working with files on
+    GitHub](/sessions/working-with-files.qmd), we will learn how to work
+    with files in Git and GitHub, including how to add, edit, and delete
+    files and folders.
+
+3.  Finally, in the last session on [GitHub
+    Issues](/sessions/using-issues.qmd), we will learn how to use GitHub
+    Issues to track tasks and discussions, and how to assign and tag
+    people in issues.
+
+
 ## :book: Reading task: The big picture
 
 **Time: \~5 minutes.**
@@ -104,33 +131,3 @@ important features of GitHub that will help you get started with using
 it for your own work.
 
 {{< text_snippet sticky_up >}}
-
-## Workshop project overview :cake:
-
-In this workshop, we'll create a Git repository on GitHub with a recipe
-book, adding, organising, and editing text files with recipes :cake:
-:pancakes: :cookie:
-
-This is meant to be a fun and light-hearted project that will help you
-learn the basics of Git and GitHub.
-
-1.  During the first session, [The Basics of Git and
-    GitHub](/sessions/basics.qmd), we will go through the basics of Git
-    and GitHub, including how to create a repository and navigate
-    GitHub. This will be a more theoretical session, where we will learn
-    about the concepts of Git and GitHub, including what a repository
-    is, how to navigate GitHub, and how to use Git to track changes to
-    files. We will also learn about the difference between Git and
-    GitHub, and how they work together.
-
-2.  Then, in the more practical second session, [Working with files on
-    GitHub](/sessions/working-with-files.qmd), we will learn how to work
-    with files in Git and GitHub, including how to add, edit, and delete
-    files and folders.
-
-3.  Finally, in the last session on [GitHub
-    Issues](/sessions/using-issues.qmd), we will learn how to use GitHub
-    Issues to track tasks and discussions, and how to assign and tag
-    people in issues.
-
-Let's get started!

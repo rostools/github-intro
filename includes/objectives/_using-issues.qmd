@@ -1,5 +1,4 @@
--   Create GitHub Issues to start discussions, request help, or list
-    to-do tasks
--   Comment on existing "issues".
+-   Use GitHub Issues to start discussions, request help, list to-do
+    tasks, or comment on existing "issues".
 -   Explain the benefits of using issues to keep track of discussions
     and to-do lists within the same platform as your files.
