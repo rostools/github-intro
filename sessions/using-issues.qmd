@@ -97,7 +97,7 @@ see a list of the open issues in our repository. Since we (or someone
 else) haven't added an issue yet, this list is empty. We will create a
 new issue by clicking the "New issue" button in the top-right side of
 the page. We can see two fields for the issue: A title and a
-description. the title is a short summary of the task we want to
+description. The title is a short summary of the task we want to
 complete, while the description provides more details about the task.
 Let's give the issue the title "Add chocolate mousse recipe" and write
 that we want to add a chocolate mousse recipe in a new `sweets/` folder
@@ -192,7 +192,7 @@ You now have an issue to remind yourself of recipes you want to add!
 ## :teacher: Teacher note
 
 Before going through the inbox section, it can be helpful to get someone
-to mention you in an issue so you can show how the notifications work.
+to mention you in an issue so you can show how the notifications works.
 Slowly walkthrough the inbox section, as it can be a lot to take in at
 once.
 :::
@@ -282,5 +282,5 @@ have:
     start brainstorming ideas on which recipes to add in the future.
 -   Explored GitHub notifications.
 -   Navigated Github to find other people's repositories and issues.
--   Started collaborated a bit by commenting on someone else's issue to
+-   Started to collaborate a bit by commenting on someone else's issue to
     suggest a recipe.
