@@ -15,6 +15,9 @@ The learning objectives of this session are to:
 
 Emphasise mainly not to use spaces in file names and *why*, not to use
 special characters and *why*, and to remember file extensions and *why*.
+
+You can show an example of why spaces aren't good by going to your 
+browser and typing in a URL with a space in it, e.g., `google.com/ search`.
 :::
 
 **Time: \~5 minutes.**
