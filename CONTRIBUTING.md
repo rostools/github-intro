@@ -18,8 +18,8 @@ issue on our GitHub repository.
 To contribute to the workshop, you first need to install
 [uv](https://docs.astral.sh/uv/) and
 [justfile](https://just.systems/man/en/packages.html). We use uv and
-justfile to manage our project, such as to run checks and test the
-template. Both the uv and justfile websites have a more detailed guide
+justfile to manage our project, such as to run checks and build the
+workshop website. Both the uv and justfile websites have a more detailed guide
 on using uv, but below are some simple instructions to get you started.
 
 It's easiest to install uv and justfile using
