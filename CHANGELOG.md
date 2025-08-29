@@ -10,6 +10,12 @@ a day. It also means any individual release will not have many changes
 within it. Below is a list of releases along with what was changed
 within it.
 
+## 0.2.1 (2025-08-29)
+
+### Refactor
+
+- :recycle: add learning design text from template (#213)
+
 ## 0.2.0 (2025-08-29)
 
 ## v2025.05.26 (2025-05-27)
