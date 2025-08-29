@@ -1,7 +1,9 @@
 project:
-  type: r3-theme
+  type: rostools-theme
   pre-render:
-     quarto render slides/*.qmd
+    - quarto render slides/*.qmd
+  resources:
+    - slides/*.html
 
 book:
   title: "Introduction to GitHub"
@@ -43,7 +45,8 @@ book:
         href: "https://guides.rostools.org/conduct.html"
 
 format:
-  r3-theme-html: default
+  rostools-theme-html: default
+
 
 editor:
   markdown:
