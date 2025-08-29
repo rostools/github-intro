@@ -5,7 +5,7 @@
 <!-- TODO: Add badge link here -->
 
 This 3-hour workshop is a gentle introduction to using
-[GitHub](https://github.com/) for managing and working with files. 
+[GitHub](https://github.com/) for managing and working with files.
 
 It is designed for doing participatory live-typing, where the teacher
 demonstrates the tasks on their computer connected to a projector while learners
