@@ -1,7 +1,22 @@
+
+
 # An introductory workshop on using GitHub
 
-[![License: CC BY
-4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+<!-- TODO: DOI here -->
+
+[![Copier](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/copier-org/copier/master/img/badge/badge-grayscale-inverted-border-teal.json?raw=true.svg)](https://github.com/copier-org/copier)
+[![GitHub
+License](https://img.shields.io/github/license/rostools/github-intro.svg)](https://github.com/rostools/github-intro/blob/main/LICENSE.md)
+[![GitHub
+Release](https://img.shields.io/github/v/release/rostools/github-intro.svg)](https://github.com/rostools/github-intro/releases/latest)
+[![Build
+website](https://github.com/rostools/github-intro/actions/workflows/build-website.yml/badge.svg)](https://github.com/rostools/github-intro/actions/workflows/build-website.yml)
+[![pre-commit.ci
+status](https://results.pre-commit.ci/badge/github/rostools/github-intro/main.svg)](https://results.pre-commit.ci/latest/github/rostools/github-intro/main)
+[![lifecycle](https://lifecycle.r-lib.org/articles/figures/lifecycle-experimental.svg)](https://lifecycle.r-lib.org/articles/stages.html#experimental)
+[![Project Status: Active – The project has reached a stable, usable
+state and is being actively
+developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
 
 ## Description
 
@@ -12,74 +27,105 @@ files and tracking changes to those files (version control). The
 workshop is designed for learner who have little to no experience with
 Git and GitHub.
 
-This repository mainly contains the workshop material that both the
-learner and teachers use during the workshop. It also includes files
-that support building the website as well as configurations and
-documents for contributors.
+This repository contains the lesson, lecture, and assignment material
+for the workshop, including the website source files and other
+associated workshop administration and development files. For more
+detail on the workshop, check out the [welcome
+page](https://github-intro.rostools.org/).
 
-For more detail on the workshop itself, check out the [welcome
-page](https://github-intro.rostools.org).
+> [!TIP]
+>
+> This workshop repository was generated from the
+> [`template-workshop`](https://github.com/rostools/template-workshop)
+> rostools template.
 
 ## Instructional Design
 
-The material in this workshop is designed to be presented primarily with
-a learner live-"typing" approach. This involves an teacher doing the
-tasks on screen live in front of the learners, while the learners follow
-along by doing the tasks on their own computers. Activities to support
-learning are interspersed throughout the workshop material, allowing
-learner to discuss with their neighbours or work on smaller problems to
-reinforce learning. All material are provided ahead of time on the
-workshop website for learner to refer to at any point.
+The lectures and lessons in this workshop are designed to be presented
+primarily with a participatory live-coding approach. This involves an
+teacher typing and running code in an editor or similar platform in
+front of the class, while the class follows along using their own
+computers. Challenges are interspersed in the lesson material, allowing
+participants to collaboratively work on smaller coding problems for a
+few minutes. All lesson materials are provided ahead of time on the
+workshop website for participants to refer to during lectures.
 
-## Workshop content
+## Lesson content
 
-The workshop material is found mainly in these folders in the repository
-or on the [workshop website](https://github-intro.rostools.org):
+The teaching material is found mainly in these locations:
 
--   `index.Rmd`: Contains the overview of the workshop. This is the
-    landing page of the website.
--   `overview/` folder: Contains the files necessary for use before the
-    workshop or to get an idea about what the workshop covers, for
-    instance the syllabus or schedule.
--   `pre-workshop/` folder: Contains the files that prepares the learner
-    for the workshop, such as setting up GitHub and doing some
-    preparatory reading.
--   `sessions/` folder: Contains the files used during the workshop
-    (e.g. code-along material).
--   `appendix/` folder: Contains the files used to support the workshop,
-    such as resources and help for teachers.
+- `index.Rmd`: Contains the overview of the workshop.
+- `overview/` folder: Contains the files that give an overview to the
+  course, such as the syllabus and schedule.
+- `pre-workshop/` folder: Contains the files necessary for use before
+  the workshop, for instance the pre-workshop tasks.
+- `sessions/` folder: Contains the files used during the workshop
+  (e.g. code-along material).
+- `appendix/` folder: Contains the files used to support the workshop,
+  such as pre-workshop tasks, code of conduct, resources, and
+  instructions for teachers.
+- `slides/`: The lecture slides are rendered into HTML slides from
+  Markdown.
+
+The website is generated from [Quarto](https://quarto.org/), so it
+follows the file and folder structure conventions from that package.
+
+## Support and infrastructure files
+
+- `.copier-answers.yml`: Contains the answers you gave when copying the
+  project from the template. **You should not modify this file
+  directly.**
+- `.cz.toml`:
+  [Commitizen](https://commitizen-tools.github.io/commitizen/)
+  configuration file for managing versions and changelogs.
+- `.pre-commit-config.yaml`: [Pre-commit](https://pre-commit.com/)
+  configuration file for managing and running checks before each commit.
+- `.typos.toml`: [typos](https://github.com/crate-ci/typos) spell
+  checker configuration file.
+- `.zenodo.json`: Structured citation metadata for your project when
+  archived on [Zenodo](https://zenodo.org/). This is used to add the
+  metadata to Zenodo when a GitHub release has been uploaded to Zenodo.
+- `justfile`: [`just`](https://just.systems/man/en/) configuration file
+  for scripting project tasks.
+- `.editorconfig`: Editor configuration file for
+  [EditorConfig](https://editorconfig.org/) to maintain consistent
+  coding styles across different editors and IDEs.
+- `CHANGELOG.md`: Changelog file for tracking changes in the project.
+- `CONTRIBUTING.md`: Guidelines for contributing to the project.
+- `.github/`: Contains GitHub-specific files, such as issue and pull
+  request templates, workflows,
+  [dependabot](https://docs.github.com/en/code-security/getting-started/dependabot-quickstart-guide)
+  configuration, pull request templates, and a
+  [CODEOWNERS](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners)
+  file.
 
 ## Contributing
 
 If you are interested in contributing to the workshop material, please
 refer to the [contributing guidelines](CONTRIBUTING.md). For guidelines
 on how to be a helper or teacher, check out the [For
-Teacher](https://github-intro.rostools.org/appendix/for-teachers) page.
+teachers](https://r-cubed.rostools.org/for-teachers.html) page.
 
 Please note that the project is released with a [Contributor Code of
 Conduct](CODE_OF_CONDUCT.md). By contributing to or being involved in
 this project, you agree to abide by its terms.
 
+## Licensing
+
+This project is licensed under the [CC-BY-4.0 License](LICENSE.md).
+
 ## Re-use
 
 The workshop is largely designed to be taught in the order given, as
-each session builds off of the previous one(s). The easiest way to use
+each session builds off of the previous ones. The easiest way to use
 this material is to use it as-is, making use of the tips and
-instructions found throughout its pages. The only thing you might want
-to make as your own would be the slides, however, they can also be used
-on their own.
-
-If you want to customize the content a bit more, the best approach is to
-fork the repository into your own GitHub account and modify it to fit
-your needs from there. The website is built automatically with GitHub
-Actions and then published as a website through Netlify. More detail on
-how to build your own website from the material is outside the scope of
-this document but you can find more information on Quarto's
-[Publishing](https://quarto.org/docs/publishing/) page.
+instructions found throughout this page. The only thing you might want
+to make as your own would be the slides, however, they are also good
+enough to use on their own too.
 
 To help with general admin tasks of running the workshop, there is the
-[r3admin](https://github.com/rostools/r3admin) R package. For details of
-the license and acknowledgement of content used from sources, see the
-[license](LICENSE.md) file.
+[samwise](https://github.com/rostools/samwise) R package.
 
-<!-- TODO: Once uploaded to Zenodo, include 'how to cite' info here. -->
+## Changelog
+
+For a list of changes, see our [changelog](CHANGELOG.md) page.
