@@ -43,7 +43,8 @@ book:
         href: "https://guides.rostools.org/conduct.html"
 
 format:
-  r3-theme-html: default
+  rostools-theme-html: default
+
 
 editor:
   markdown:
