@@ -54,5 +54,5 @@ automatically create a release based on the commit message by using
 If you don't use Conventional Commits when making a commit, we will
 revise the pull request title to follow that format, as we use [squash
 merges](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/squashing-commits/about-squash-merges)
-when merging pull requests, so all other commits in the pull request
+when merging pull requests. This way, the commits in the pull request
 will be squashed into one commit.
