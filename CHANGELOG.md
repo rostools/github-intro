@@ -10,6 +10,12 @@ a day. It also means any individual release will not have many changes
 within it. Below is a list of releases along with what was changed
 within it.
 
+## 0.2.2 (2025-09-01)
+
+### Refactor
+
+- :truck: moved conduct text from theme to the page (#223)
+
 ## 0.2.1 (2025-08-29)
 
 ### Refactor
