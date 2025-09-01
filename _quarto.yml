@@ -8,8 +8,12 @@ project:
 book:
   title: "Introduction to GitHub"
   author:
-    - Signe Kirk Brødbæk
-    - Luke W. Johnston
+    - name: Signe Kirk Brødbæk
+      affiliation: "Steno Diabetes Center Aarhus"
+      orcid: "0009-0000-2208-7088"
+    - name: Luke William Johnston
+      affiliation: "Steno Diabetes Center Aarhus"
+      orcid: "0000-0003-4169-2616"
   date: last-modified
   repo-url: https://github.com/rostools/github-intro
   site-url: https://github-intro.rostools.org
