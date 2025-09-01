@@ -2,7 +2,7 @@
 
 In order to participate in this workshop, you must complete everything
 in this section and finish with **completing the
-[survey](/pre-workshop/pre-survey.qmd)** at the end. These tasks are
+[survey](/pre-workshop/survey.qmd)** at the end. These tasks are
 meant to provide everyone with the necessary setup and a shared
 foundation for the workshop.
 
@@ -13,7 +13,7 @@ important in making sure you get the most out of the workshop.
 
 ## How to read this website
 
-{{< include /_extensions/rostools/r3-theme/includes/reading-website.qmd >}}
+{{< include /includes/_reading-website.qmd >}}
 
 ## Summary of tasks
 
@@ -34,8 +34,10 @@ includes:
 2.  Reading the section [Version control with Git and
     GitHub](/pre-workshop/git-and-github.qmd),
 3.  Creating a [GitHub user account](/pre-workshop/github-account.qmd).
-4.  Filling out the pre-workshop [survey](/pre-workshop/pre-survey.qmd)
+4.  Filling out the pre-workshop [survey](/pre-workshop/survey.qmd)
     at the end.
+
+Check each section for exact details on completing these tasks.
 
 ::: callout-tip
 You will be taken through the pre-workshop tasks in order by clicking
