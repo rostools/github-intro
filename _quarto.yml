@@ -1,13 +1,19 @@
 project:
-  type: r3-theme
+  type: rostools-theme
   pre-render:
-     quarto render slides/*.qmd
+    - quarto render slides/*.qmd
+  resources:
+    - slides/*.html
 
 book:
   title: "Introduction to GitHub"
   author:
-    - Signe Kirk Brødbæk
-    - Luke W. Johnston
+    - name: Signe Kirk Brødbæk
+      affiliation: "Steno Diabetes Center Aarhus"
+      orcid: "0009-0000-2208-7088"
+    - name: Luke William Johnston
+      affiliation: "Steno Diabetes Center Aarhus"
+      orcid: "0000-0003-4169-2616"
   date: last-modified
   repo-url: https://github.com/rostools/github-intro
   site-url: https://github-intro.rostools.org
@@ -19,13 +25,13 @@ book:
       - overview/is-this-for-you.qmd
       - overview/learning-design.qmd
       - overview/schedule.qmd
-    - part: "Pre-workshop tasks"
+    - part: "Pre-workshop"
       chapters:
-      - pre-workshop/index.qmd
-      - pre-workshop/code-of-conduct.qmd
-      - pre-workshop/git-and-github.qmd
-      - pre-workshop/github-account.qmd
-      - pre-workshop/pre-survey.qmd
+        - pre-workshop/overview.qmd
+        - pre-workshop/code-of-conduct.qmd
+        - pre-workshop/git-and-github.qmd
+        - pre-workshop/github-account.qmd
+        - pre-workshop/survey.qmd
     - part: "Sessions"
       chapters:
       - sessions/introduction.qmd
@@ -43,7 +49,9 @@ book:
         href: "https://guides.rostools.org/conduct.html"
 
 format:
-  r3-theme-html: default
+  rostools-theme-html:
+    include-before-body:
+      - "includes/site-counter.html"
 
 editor:
   markdown:
