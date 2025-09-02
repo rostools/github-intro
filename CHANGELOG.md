@@ -10,6 +10,12 @@ a day. It also means any individual release will not have many changes
 within it. Below is a list of releases along with what was changed
 within it.
 
+## 0.3.0 (2025-09-02)
+
+### Feat
+
+- :sparkles: add that we use GitHub's web interface as a learning tool (#226)
+
 ## 0.2.10 (2025-09-02)
 
 ### Refactor
