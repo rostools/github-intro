@@ -42,8 +42,8 @@ Issues](https://docs.github.com/en/issues). We also have other workshops
 that we regularly run. Check out the rostools [landing
 page](https://github.com/rostools) to see the full list.
 
+## Survey
+
 Time to finish the last piece of the workshop:
 
-[Feedback survey!
-:tada:](https://docs.google.com/forms/d/e/1FAIpQLScTbsxHSLrQxn38KS7kCklurFrccN8g3kVdm6WTSxEiIBypWg/viewform?usp=sf_link){.btn
-.btn-primary role="button"}
+{{< include /includes/_survey.qmd >}}
