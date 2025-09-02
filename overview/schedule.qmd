@@ -1,10 +1,11 @@
 # Schedule {#sec-schedule}
 
-This 3-hour workshop is structured as a participatory live-coding
-session interspersed with a few hands-on exercises, reading tasks, and
-discussion activities. The *general* schedule is outlined in the table
-below and is meant as an approximate guide *only*. The actual time spent
-on each session may vary a bit.
+This 3-hour workshop is structured as a participatory live-coding session
+interspersed with a few hands-on exercises, reading tasks, and discussion
+activities. The general schedule outline is shown in the below table. This is
+not a fixed schedule of the timings of each session---some may be shorter and
+others may be longer. Instead, it is meant to be an approximate guide and
+overview.
 
 | Minutes | Session topic |
 |:-----------------------------------|:-----------------------------------|
@@ -16,4 +17,4 @@ on each session may vary a bit.
 | 5 | {{< fa mug-hot >}} Short break |
 | 30 | {{< fa laptop-code >}} [Making and using GitHub Issues](/sessions/using-issues.qmd) |
 | 10 | {{< fa person-chalkboard >}} [Concluding remarks](/sessions/conclusion.qmd) |
-| 10 | {{< fa comment-dots >}} [Short end of workshop survey]() |
+| 10 | {{< fa comment-dots >}} [Short end of workshop survey]({{< meta surveys.feedback >}}) |

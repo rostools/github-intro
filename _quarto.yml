@@ -57,3 +57,6 @@ editor:
   markdown:
     wrap: 72
     canonical: true
+
+metadata-files:
+  - _metadata.yml
