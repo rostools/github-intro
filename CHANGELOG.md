@@ -10,6 +10,12 @@ a day. It also means any individual release will not have many changes
 within it. Below is a list of releases along with what was changed
 within it.
 
+## 0.4.0 (2025-09-02)
+
+### Feat
+
+- :wrench: add more items to sidebar, like CHANGELOG (#234)
+
 ## 0.3.0 (2025-09-02)
 
 ### Feat
