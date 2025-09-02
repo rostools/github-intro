@@ -1,5 +1,5 @@
 ---
-format: r3-theme-revealjs
+format: rostools-theme-revealjs
 ---
 
 # Welcome to the Intro to GitHub workshop :tada: :grin:
