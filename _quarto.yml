@@ -16,15 +16,15 @@ book:
       orcid: "0000-0003-4169-2616"
   date: last-modified
   repo-url: https://github.com/rostools/github-intro
-  site-url: https://github-intro.rostools.org
+  site-url: https://github-intro.rostools.org/
   chapters:
     - index.qmd
     - part: "Overview"
       chapters:
       - overview/syllabus.qmd
       - overview/is-this-for-you.qmd
-      - overview/learning-design.qmd
       - overview/schedule.qmd
+      - overview/learning-design.qmd
     - part: "Pre-workshop"
       chapters:
         - pre-workshop/overview.qmd
@@ -41,12 +41,15 @@ book:
       - sessions/conclusion.qmd
   appendices:
     - appendix/for-teachers.qmd
+    - CHANGELOG.md
+    - CONTRIBUTING.md
+    - LICENSE.md
   page-footer:
     center:
       - text: "License: CC BY 4.0 {{< fa brands creative-commons >}} {{< fa brands creative-commons-by >}}"
-        href: LICENSE.html
+        href: LICENSE.md
       - text: "Code of Conduct"
-        href: "https://guides.rostools.org/conduct.html"
+        href: "pre-workshop/code-of-conduct.qmd"
 
 format:
   rostools-theme-html:
