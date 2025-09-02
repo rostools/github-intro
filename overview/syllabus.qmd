@@ -30,9 +30,9 @@ While GitHub can fulfil the needs above and much more for this workshop
 we will focus on using GitHub to enhance the transparency and sharing
 aspects, rather than the collaboration aspects.
 
-During this workshop, we’ll just be scratching the surface of what Git
+During this workshop, we'll be just scratching the surface of what Git
 and GitHub can do, focusing on the essentials to help you get started.
-We’ll primarily use GitHub’s web interface as a learning tool, giving
+We'll use GitHub's web interface as a learning tool, giving
 you a simple way to explore and practice the basics. While this approach
 is less powerful than working directly with Git, it serves as a gentle
 introduction to the key concepts and workflows. Our goal is that what
