@@ -23,7 +23,7 @@ install-precommit:
 
 # Update the Quarto rostools-theme extension
 update-quarto-theme:
-  quarto add rostools/rostools-theme --no-prompt
+  quarto update rostools/rostools-theme --no-prompt
 
 # Check spelling
 check-spelling:
