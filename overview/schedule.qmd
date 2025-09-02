@@ -3,7 +3,7 @@
 This 3-hour workshop is structured as a participatory live-coding session
 interspersed with a few hands-on exercises, reading tasks, and discussion
 activities. The general schedule outline is shown in the below table. This is
-not a fixed schedule of the timings of each session --- some may be shorter and
+not a fixed schedule of the timings of each session---some may be shorter and
 others may be longer. Instead, it is meant to be an approximate guide and
 overview.
 
