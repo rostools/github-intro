@@ -15,7 +15,7 @@ introduce the workshop by going through the
 ::: {.callout-note collapse="true"}
 ## :teacher: Teacher note
 
-Review the learning design, reinforcing why we do each activity.
+Briefly review the learning design, reinforcing why we do each activity.
 Especially highlight the use of the stickies/hats.
 :::
 
@@ -49,9 +49,26 @@ to expect:
 
 <!-- TODO: I feel I am missing something here but can't remember -->
 
-In this workshop, we'll create a Git repository on GitHub with a recipe
-book, adding, organising, and editing text files with recipes :cake:
-:pancakes: :cookie:
+## A reminder: The big picture
+
+::: {.callout-note collapse="true"}
+## :teacher: Teacher note
+
+Verbally and briefly go over this section, to remind them about the
+reason and purpose of this workshop.
+:::
+
+As you read about in the pre-workshop tasks, GitHub is an increasingly
+common tool that researchers use. You will likely encounter it in some
+way as you do your work, either through collaborators or when reading
+literature. As research becomes increasingly more dependent on
+integrated digital tools and workflows, it is essential to be familiar
+with these tools in order to be effective in present day research.
+
+This workshop aims to get you more familiar with GitHub and ready to use
+it in your own work. We'll create a Git repository on GitHub with a
+recipe book, adding, organising, and editing text files with recipes
+:cake: :pancakes: :cookie:
 
 This is meant to be a fun and light-hearted project that will help you
 learn the basics of Git and GitHub.
@@ -74,60 +91,3 @@ learn the basics of Git and GitHub.
     Issues](/sessions/using-issues.qmd), we will learn how to use GitHub
     Issues to track tasks and discussions, and how to assign and tag
     people in issues.
-
-
-## :book: Reading task: The big picture
-
-**Time: \~5 minutes.**
-
-When you're learning something new, it helps to put it into a context.
-While we've already covered some of this in the
-[syllabus](/overview/syllabus.qmd), we haven't fully addressed probably
-one of the biggest questions people may have: **Why learn and use GitHub
-specifically?**
-
-GitHub is an extremely popular and widely used online platform for
-managing Git repositories. And, as we saw in the [pre-workshop
-tasks](/pre-workshop/git-and-github.qmd), Git repositories come with a
-lot of features to work with files and track changes to them. But GitHub
-does much more than that. It can be used for [project
-management](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects),
-running automatic [workflows](https://docs.github.com/en/actions) that
-do tasks for you, hosting [websites](https://docs.github.com/en/pages),
-and
-[collaborating](https://docs.github.com/en/get-started/using-github/github-flow)
-with others, for example by reviewing each other's work. GitHub also
-allows you to create tasks or notes (known as [GitHub
-Issues](https://github.com/features/issues)) that are connected to your
-project's repository. We'll create our own GitHub Issues later in this
-workshop.
-
-While there are other platforms that do similar things, such as
-[GitLab](https://gitlab.com/) and [Bitbucket](https://bitbucket.org/),
-GitHub is more widely used than the others and has a much larger
-community. So you will be able to find many different resources, tools,
-and projects on GitHub that you can use and learn from.
-
-More and more researchers are using GitHub to do their research,
-collaborate with others, and share their work. It is an extremely
-effective and powerful way to collaborate. And because GitHub is
-extensively indexed by search engines, as well as having its own search
-engine, it is also a very effective way of making it easier for other
-researchers to discover your work and research. It is a great way to
-share your research and make it more [open and
-accessible](https://en.wikipedia.org/wiki/Open_research).
-
-In order to remain relevant and connected to the current and future
-research community, we need to embrace and use tools that improve how we
-do our work and how we disseminate our research. And GitHub is one of
-these tools.
-
-So in that context, this workshop is designed as a gentle introduction
-to using GitHub to manage your files related to your research and work.
-Before diving into some of the more advanced uses, it's important to
-understand the basics of how GitHub works and how to use it effectively.
-In this workshop, our focus is to cover the most fundamental and
-important features of GitHub that will help you get started with using
-it for your own work.
-
-{{< text_snippet sticky_up >}}
