@@ -3,7 +3,7 @@ gh:
   repo: "github-intro"
 
 titles:
-  full: "An introductory workshop on using GitHub"
+  full: "An introductory workshop on using GitHub for managing and working with files"
 
 urls:
   home: "https://github-intro.rostools.org/"

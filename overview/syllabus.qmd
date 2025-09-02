@@ -26,9 +26,19 @@ fulfil those needs.
 
 This workshop introduces you to one such tool widely used for working
 and communicating in industry and increasingly in academia: GitHub.
-While GitHub can fulfil the needs above and much more, for this workshop
-we will focus on the transparency and sharing aspects, rather than the
-collaboration aspects.
+While GitHub can fulfil the needs above and much more for this workshop
+we will focus on using GitHub to enhance the transparency and sharing
+aspects, rather than the collaboration aspects.
+
+During this workshop, we'll be just scratching the surface of what Git
+and GitHub can do, focusing on the essentials to help you get started.
+We'll use GitHub's web interface as a learning tool, giving
+you a simple way to explore and practice the basics. While this approach
+is less powerful than working directly with Git, it serves as a gentle
+introduction to the key concepts and workflows. Our goal is that what
+you are introduced to in this workshop will provide a solid foundation,
+preparing you to build toward more open, transparent, and advanced
+practices with GitHub.
 
 This workshop lasts 3 hours and is split into the following sessions,
 listed in the [schedule](/overview/schedule.qmd), which will be covered
