@@ -10,6 +10,12 @@ a day. It also means any individual release will not have many changes
 within it. Below is a list of releases along with what was changed
 within it.
 
+## 0.4.2 (2025-09-02)
+
+### Refactor
+
+- :recycle: keep explanation of VCS and Git in pre-workshop only (#239)
+
 ## 0.4.1 (2025-09-02)
 
 ### Refactor
