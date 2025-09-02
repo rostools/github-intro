@@ -1,6 +1,6 @@
 
 
-# An introductory workshop on using GitHub
+# An introductory workshop on using GitHub for managing and working with files
 
 <!-- TODO: DOI here -->
 
@@ -45,7 +45,7 @@ The lectures and lessons in this workshop are designed to be presented
 primarily with a participatory live-coding approach. This involves an
 teacher typing and running code in an editor or similar platform in
 front of the class, while the class follows along using their own
-computers. Exercises are interspersed in the lesson material, allowing
+computers. Challenges are interspersed in the lesson material, allowing
 participants to collaboratively work on smaller coding problems for a
 few minutes. All lesson materials are provided ahead of time on the
 workshop website for participants to refer to during lectures.
@@ -55,19 +55,19 @@ workshop website for participants to refer to during lectures.
 The teaching material is found mainly in these locations:
 
 - `index.Rmd`: Contains the overview of the workshop.
-- `overview/`: Contains the files that give an overview to the
-  course, such as the syllabus and schedule.
-- `pre-workshop/` folder: Contains the files needed before
-  the workshop, like the pre-workshop tasks.
-- `sessions/` folder: Contains the files used during the workshop sessions
-  (e.g. code-along material).
-- `appendix/` folder: Contains the files used to support the workshop,
-  such as, code of conduct, resources, and
-  instructions for teachers.
-- `slides/`: Contains the lecture slides that are rendered into HTML slides from
+- `overview/`: Contains the files that give an overview to the course,
+  such as the syllabus and schedule.
+- `pre-workshop/`: Contains the files necessary for use before the
+  workshop, for instance the pre-workshop tasks.
+- `sessions/`: Contains the files used during the workshop (e.g.
+  code-along material).
+- `appendix/`: Contains the files used to support the workshop, such as
+  pre-workshop tasks, code of conduct, resources, and instructions for
+  teachers.
+- `slides/`: The lecture slides are rendered into HTML slides from
   Markdown.
 
-The website is generated with [Quarto](https://quarto.org/), so it
+The website is generated from [Quarto](https://quarto.org/), so it
 follows the file and folder structure conventions from that package.
 
 ## Support and infrastructure files
