@@ -1,50 +1,7 @@
-In our work lives, we regularly work with files, such as creating or
-editing them. These files can be anything from text documents, to
-images, to code. When we work with files, we often make changes to them,
-and sometimes many changes. We might want to keep track of how our files
-change over time or "save" specific versions of the files. This tracking
-of file changes over time is known as *version control*.
-
-Version control can very useful for many reasons. For example, maybe you
-want to keep track of changes to a file so you can revert back to a
-previous version if you make a mistake. This is especially useful when
-you are collaborating with others on a project, as everyone in the group
-might want to keep track of changes made or feedback given by different
-people.
-
-But version control is also useful when you are working mostly alone on
-a project, since we humans tend to forget things. For instance, you
-might wonder why you made a certain change or what the file looked like
-at a certain point in time by going back to that version.
-
-If a file has the ability to internally "track changes", like Word does,
-you may have used that before, maybe when getting feedback from others.
-At the file level (not when opening it), you may have "tracked changes"
-informally by saving multiple versions of a file with different names,
-like in the example image below.
-
-![File naming in a commonly used *informal* 'version
-control'.](/images/informal-version-control.jpg){#fig-informal-version-control
-fig-alt="A screenshot of a file explorer showing multiple versions of different files."}
-
-Does this way of saving files and keeping track of versions look
-familiar? The above image may exaggerate what some people's versioning
-looks like, but there is some truth to it: It is the most common
-approach to "version control".
-
-This "informal" form of version control isn't ideal because it involves
-multiple copies of the same file. It makes it difficult to keep track of
-specific changes and find the right version of the files. Having
-multiple versions of the same file as different names, as in the image,
-really highlights the need for version control and that it is hard to
-manually track file changes.
-
-Luckily for us, there exist "formal" version control systems that
-automatically track changes to files. One of the world's most popular
-version control systems is called
-[Git](https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F).
-Git is used by millions of people around the world, including thousands
-of organisations. It is also used increasingly by researchers.
+One of the world's most popular version control systems is called
+[Git](https://git-scm.com/book/en/v2/Getting-Started-What-is-Git). Git
+is used by millions of people around the world, including thousands of
+organisations. It is also used increasingly by researchers.
 
 With Git you can create snapshots of file changes, known as *commits*.
 Each commit captures:
@@ -79,27 +36,3 @@ characters, it is easier for the computer to show the exact changes to
 the exact lines of text. Unlike files like images, or Word documents
 (that actually aren't just text), where there are no "lines" to track
 changes on.
-
-To understand how powerful formal version control like Git is, consider
-these questions:
-
--   How many files of different versions of a scientific document or
-    thesis do you have lying around after getting feedback from your
-    supervisor or co-authors?
--   Have you ever wanted to test an analysis in a file but ended up
-    creating a new one to avoid modifying the original?
--   Have you ever deleted something and wished you hadn't?
-
-All these problems can be fixed by using formal version control! There
-are many good reasons to use version control, especially in science:
-
--   More organised files and folders, since you only need one version of
-    each file.
--   Easier collaboration, because you can work on a single file/folder
-    in a single central location.
--   Transparency of work done for others to see, which can protect
-    against accusations of fraud or misconduct.
--   Claim to first discovery, since you have a time-stamped history of
-    your work.
--   Easier to share your work with others, since you can share the
-    repository with them.
