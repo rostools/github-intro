@@ -57,7 +57,7 @@ build-readme:
 
 # Generate a Quarto include file with the contributors
 build-contributors:
-  sh ./tools/get-contributors.sh rostools/github-intro
+  sh ./tools/get-contributors.sh rostools/github-intro > includes/_contributors.qmd
 
 # Check for and apply updates from the template
 update-from-template:
