@@ -14,8 +14,8 @@ Each commit also has a short message attached to it that can describe
 *why* the changes were made.
 
 Git stores these commits in a history log. The history log allows you to
-quickly go back and explore the changes made to files, along with a
-message describing the changes. This is extremely useful when you
+quickly go back and explore each change made to the files, along with the
+individual commit messages. This is extremely useful when you
 revisit your own work after a long time and when you work in groups or
 with collaborators.
 
@@ -33,6 +33,6 @@ other non-text based files like Word or images. However, Git can only
 show specific changes made to a file if it is text-based, like a `.txt`,
 `.csv`, or code. Since these text-based files are literally only text
 characters, it is easier for the computer to show the exact changes to
-the exact lines of text. Unlike files like images, or Word documents
+the exact lines of text. Unlike files like images or Word documents
 (that actually aren't just text), where there are no "lines" to track
 changes on.
