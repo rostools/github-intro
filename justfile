@@ -27,6 +27,7 @@ install-precommit:
 
 # Update the Quarto rostools-theme extension
 update-quarto-theme:
+  # Will also add if it isn't already installed.
   quarto update rostools/rostools-theme --no-prompt
 
 # Check spelling
