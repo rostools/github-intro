@@ -11,14 +11,14 @@
       "orcid": "0000-0003-4169-2616"
     }
   ],
-  "title": "An introductory workshop on using GitHub",
+  "title": "An introductory workshop on using GitHub for managing and working with files",
   "description": "GitHub is increasingly used as a platform for collaborating and sharing research projects, not only for code but for documents. This workshop aims to introduce learner to the basics of using GitHub for managing files and tracking changes to those files (version control). The workshop is designed for learner who have little to no experience with Git and GitHub. See the website (https://github-intro.rostools.org) for more details.",
   "access_right": "open",
   "related_identifiers": [
     {
       "identifier": "https://github.com/rostools/github-intro",
-      "relation": "isSupplementTo",
-      "resource_type": "other"
+      "relation": "isIdenticalTo",
+      "resource_type": "lesson"
     }
   ],
   "keywords": [
