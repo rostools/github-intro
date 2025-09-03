@@ -9,18 +9,15 @@ foundation for the workshop.
 Depending on your prior knowledge and skills, these tasks could take
 between **1-2 hrs to finish**, so we suggest planning some time to
 complete them. While many of the tasks are mostly readings, they are
-important in making sure you get the most out of the workshop.
+important for ensuring you get the most out of the workshop.
 
 ## How to read this website
 
 {{< include /includes/_reading-website.qmd >}}
 
-## Summary of tasks
+## Overview of tasks
 
-Here's a quick overview of the tasks you need to do. Specific details
-about them are found as you work through the tasks.
-
-If you haven't already, go through the workshop overview section,
+If you haven't already, please go through the workshop overview section,
 including the [Syllabus](/overview/syllabus.qmd), [Is this for
 you?](/overview/is-this-for-you.qmd), and [Learning
 design](/overview/learning-design.qmd) to get an overview of what this
