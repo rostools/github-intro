@@ -81,16 +81,16 @@ learn the basics of Git and GitHub.
     learn about the difference between Git and GitHub, and how they work
     together.
 
-2.  Then, in the next practical session, [Creating a repository on
+2.  Then, in the next session, [Creating a repository on
     GitHub](/sessions/create-repo.qmd), we will navigate the GitHub
     landing page and create a new repository.
 
-3.  Then, in the more practical third session, [Working with files on
+3.  Then, in the third session, [Working with files on
     GitHub](/sessions/working-with-files.qmd), we will learn how to work
     with files in Git and GitHub, including how to add, edit, and delete
     files and folders.
 
 4.  Finally, in the last session on [GitHub
-    Issues](/sessions/using-issues.qmd), we will learn how to use GitHub
+    Issues](/sessions/using-issues.qmd), we will use GitHub
     Issues to track tasks and discussions, and how to assign and tag
     people in issues.

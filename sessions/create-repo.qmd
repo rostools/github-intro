@@ -125,6 +125,6 @@ To practice making repositories, create another one on your own:
 -   GitHub's landing page as well as its navigation bar has several
     quick links to commonly used areas of GitHub (such as the "Create
     new" button, notifications inbox and issues)
--   Created a new repository by clicking the **Create new...** button
+-   Create a new repository by clicking the **Create new...** button
     {{< fa plus >}} {{< fa caret-down >}} on the top right side of the
     navigation bar.

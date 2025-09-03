@@ -144,7 +144,7 @@ what we've covered so far about Git and GitHub. So:
 1.  Take \~30 seconds to silently explain to yourself what you
     understood the basics of Git and GitHub are.
 2.  Pair up with your neighbour and for the next 4 minutes, take turns
-    (4 minutes each) explaining to each other what you understand about
+    (2 minutes each) explaining to each other what you understand about
     the basics of Git and GitHub, and how file paths relate to them. Try
     to come to a shared understanding of what it is, how to work with
     it, and how it's different from other ways of working with files.
