@@ -14,17 +14,17 @@ how they change over time. This tracking changes to files is known as
 *version control*.
 
 Version control can very useful for many reasons. For example, you may
-want to track changes so you can revert to an earlier change you made.
-When you collaborate with others on a project, this is especially
+want to be able to revert to an earlier version of your file.
+When you collaborate with others on a project, version control is especially
 useful, as everyone can track who and what was changed in the files you
-work together on.
+collaborate on.
 
 But version control is also useful when you are working mostly alone on
 a project, as we humans tend to forget things. For instance, you may
 wonder why you made a certain change or what the file looked like at a
-certain point in time by going back to that version.
+certain point in time. Version control can help you with this by enabling you to see what was changed in your file and when (called the "history" of your file) and to view earlier versions of your files.
 
-You may have used a file's internal "track changes", like in Word. At
+You may have used a file's internal "track changes" features, like in Word, or at
 the file level (not when opening it), you may have "tracked changes"
 informally by saving multiple versions of a file with different names,
 like in the example image below.
@@ -35,14 +35,14 @@ fig-alt="A screenshot of a file explorer showing multiple versions of different 
 
 Does the above image look familiar? While it may exaggerate what some
 people's 'versioning' looks like, it is the most common approach people
-use to "version control".
+use to "version control" their files.
 
 This "informal" way to do version control isn't ideal because it
-involves multiple copies of the same file. It makes it difficult to keep
+involves multiple copies of the same file; it makes it difficult to keep
 track of specific changes and find the right version of the files.
-Having multiple versions of the same file as different names, as in the
-image, really highlights that it is hard to manually track file changes
-and that there is a need for version control.
+Having multiple versions of the same file with slight modifications under different names, as in the
+image above, really highlights that it is hard to manually track file changes
+and that there is a need for more formal version control.
 
 Luckily for us, there are "formal" version control systems that
 automatically track changes to files.
