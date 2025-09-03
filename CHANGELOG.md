@@ -10,6 +10,12 @@ a day. It also means any individual release will not have many changes
 within it. Below is a list of releases along with what was changed
 within it.
 
+## 0.4.3 (2025-09-03)
+
+### Refactor
+
+- :truck: move "why GitHub" into pre-workshop tasks (#240)
+
 ## 0.4.2 (2025-09-02)
 
 ### Refactor
