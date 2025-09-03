@@ -5,30 +5,27 @@ to the concepts of *version control*, *Git*, and *GitHub* which are
 central concepts of the workshop and to working with files on GitHub in
 general.
 
-## What is version control and Git? {#sec-what-is-version-control}
+## What is version control? {#sec-what-is-version-control}
 
-In our work lives, we regularly work with files, such as creating or
-editing them. These files can be anything from text documents, to
-images, to code. When we work with files, we often make changes to them,
-and sometimes many changes. We might want to keep track of how our files
-change over time or "save" specific versions of the files. This tracking
-of file changes over time is known as *version control*.
+Our work usually involves interacting with or changing files in some way
+or another. These files can be anything from text documents, to images,
+to code. When we change files, we may want to track what was changed and
+how they change over time. This tracking changes to files is known as
+*version control*.
 
-Version control can very useful for many reasons. For example, maybe you
-want to keep track of changes to a file so you can revert back to a
-previous version if you make a mistake. This is especially useful when
-you are collaborating with others on a project, as everyone in the group
-might want to keep track of changes made or feedback given by different
-people.
+Version control can very useful for many reasons. For example, you may
+want to track changes so you can revert to an earlier change you made.
+When you collaborate with others on a project, this is especially
+useful, as everyone can track who and what was changed in the files you
+work together on.
 
 But version control is also useful when you are working mostly alone on
-a project, since we humans tend to forget things. For instance, you
-might wonder why you made a certain change or what the file looked like
-at a certain point in time by going back to that version.
+a project, as we humans tend to forget things. For instance, you may
+wonder why you made a certain change or what the file looked like at a
+certain point in time by going back to that version.
 
-If a file has the ability to internally "track changes", like Word does,
-you may have used that before, maybe when getting feedback from others.
-At the file level (not when opening it), you may have "tracked changes"
+You may have used a file's internal "track changes", like in Word. At
+the file level (not when opening it), you may have "tracked changes"
 informally by saving multiple versions of a file with different names,
 like in the example image below.
 
@@ -36,20 +33,21 @@ like in the example image below.
 control'.](/images/informal-version-control.jpg){#fig-informal-version-control
 fig-alt="A screenshot of a file explorer showing multiple versions of different files."}
 
-Does this way of saving files and keeping track of versions look
-familiar? The above image may exaggerate what some people's versioning
-looks like, but there is some truth to it: It is the most common
-approach to "version control".
+Does the above image look familiar? While it may exaggerate what some
+people's 'versioning' looks like, it is the most common approach people
+use to "version control".
 
-This "informal" form of version control isn't ideal because it involves
-multiple copies of the same file. It makes it difficult to keep track of
-specific changes and find the right version of the files. Having
-multiple versions of the same file as different names, as in the image,
-really highlights the need for version control and that it is hard to
-manually track file changes.
+This "informal" way to do version control isn't ideal because it
+involves multiple copies of the same file. It makes it difficult to keep
+track of specific changes and find the right version of the files.
+Having multiple versions of the same file as different names, as in the
+image, really highlights that it is hard to manually track file changes
+and that there is a need for version control.
 
-Luckily for us, there exist "formal" version control systems that
+Luckily for us, there are "formal" version control systems that
 automatically track changes to files.
+
+## What is Git {#sec-what-is-git}
 
 {{< include /includes/_git-basics.qmd >}}
 
