@@ -92,7 +92,7 @@ GitHub is an extremely popular and widely used online platform for
 managing Git repositories. As you read previously, Git repositories come
 with a lot of features to work with files and track changes to them.
 GitHub does much more than that: It can be used for [project
-management](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects),
+management](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects)[^git-and-github-1],
 running automatic [workflows](https://docs.github.com/en/actions) that
 do tasks for you, hosting [websites](https://docs.github.com/en/pages),
 and
@@ -102,6 +102,10 @@ allows you to create tasks or notes (known as [GitHub
 Issues](https://github.com/features/issues)) that are connected to your
 project's repository. We'll create our own GitHub Issues later in this
 workshop.
+
+[^git-and-github-1]: The links in this and other sections are included so
+    you know where to go for more information, but are not required reading
+    for this workshop.
 
 While there are other platforms that do similar things, such as
 [GitLab](https://gitlab.com/) and [Bitbucket](https://bitbucket.org/),
