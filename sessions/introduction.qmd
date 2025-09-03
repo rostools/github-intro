@@ -21,33 +21,36 @@ Especially highlight the use of the stickies/hats.
 
 Before we get started, let's go over some of the details of the
 workshop, which will help orient you to the workshop structure and what
-to expect:
+to expect. We've already covered a lot of these things in detail in
+[learning design](/overview/learning-design.qmd), so this is mostly a
+brief reminder.
 
--   We do "type-alongs" where the teacher types and actually shows how
-    things are done and explains what they are doing and why, while you
-    type along.
+-   We do **"type-alongs" or "code-alongs"** where the teacher types and
+    shows how to do things and explains what they are doing
+    and why, while you type along.
 
--   Reading activities are used to give you time to think and process in
-    your own way. After the reading, the teacher repeats and rephrases
-    the key points to reinforce the concepts you just read.
+-   **Reading tasks** are used to give you time to think and
+    process at your own pace. After the reading task, the teacher repeats and
+    rephrases the key points to reinforce the concepts you just read.
 
--   We use "stickies" or origami hats to assess how everyone is doing
-    and for you to request help if you get stuck. When the "help"
-    sticky/origami hat is up, a helper will come by and help you out.
+-   **Discussion activities** are used to reflect on the workshop content and give
+    you a chance to talk to your peers about the concepts.
 
--   The [schedule](/overview/schedule.qmd) is a *guide* only, some
-    sessions are longer, others shorter. It is not intended to be firm
-    or strict.
+-   We use **"stickies", origami hats, or other visual indicators** to
+    assess how everyone is doing and for you to request help if you get
+    stuck. When the "help" sticky/origami hat/indicator is up, a helper
+    will come by as soon as they are available and help you out.
 
--   We seek out and use feedback to improve the workshops. At the end of
-    the workshop, you will be asked to fill out an online survey and
-    give your feedback on it. We really want and need honest,
-    constructive feedback to improve things! While you are a participant
-    of the workshop, you are also a collaborator and "tester" of the
-    material. Every time we run a workshop, there are always things to
-    improve on and your feedback helps us identify those things.
+-   The [**schedule**](/overview/schedule.qmd) **is a *guide* only**,
+    some sessions might be longer, others shorter. It is not intended to be
+    firm or strict.
 
-<!-- TODO: I feel I am missing something here but can't remember -->
+-   We depend on and want **honest, constructive, and critical
+    feedback** to improve the workshops. At the end of the workshop, you
+    will fill out a survey to get your feedback. While you are a
+    participant, you are also a "collaborator" and "tester". There are
+    always things to improve on and your feedback helps us identify
+    those things.
 
 ## A reminder: The big picture
 
