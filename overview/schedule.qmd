@@ -13,7 +13,8 @@ overview of the workshop.
 |:-----------------------------------|:-----------------------------------|
 |  | {{< fa mug-hot >}} Arrival, coffee and tea |
 | 15 | {{< fa person-chalkboard >}} [Introduction to the workshop](/sessions/introduction.qmd) |
-| 45 | {{< fa person-chalkboard >}} [The basics of GitHub and Git](/sessions/basics.qmd) |
+| 25 | {{< fa person-chalkboard >}} [The basics of Git and GitHub](/sessions/basics.qmd) |
+| 20 | {{< fa laptop-code >}} [Creating a repository on GitHub](/sessions/create-repo.qmd) |
 | 5 | {{< fa mug-hot >}} Short break |
 | 50 | {{< fa laptop-code >}} [Working with files on GitHub](/sessions/working-with-files.qmd) |
 | 5 | {{< fa mug-hot >}} Short break |
