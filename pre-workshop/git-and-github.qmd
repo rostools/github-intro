@@ -103,7 +103,7 @@ Issues](https://github.com/features/issues)) that are connected to your
 project's repository. We'll create our own GitHub Issues later in this
 workshop.
 
-[^git-and-github-1]: These links in this and other sections are included so
+[^git-and-github-1]: The links in this and other sections are included so
     you know where to go for more information, but are not required reading
     for this workshop.
 
