@@ -10,6 +10,12 @@ a day. It also means any individual release will not have many changes
 within it. Below is a list of releases along with what was changed
 within it.
 
+## 0.5.0 (2025-09-03)
+
+### Feat
+
+- **pre-workshop**: :sparkles: add footnote explaining that links are not required (#246)
+
 ## 0.4.3 (2025-09-03)
 
 ### Refactor
