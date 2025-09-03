@@ -8,27 +8,26 @@ We assume you can relate to one or more of the following:
 
 -   You want a gentle introduction to what GitHub is and how to use it.
 -   You mostly work alone or maybe irregularly with someone else on your
-    project.
+    project(s).
 -   You write text in documents as the main activity of your work (not
     code, for example).
 -   You are able to work on files---and are comfortable enough doing
     so---while only using a web browser interface (like GitHub's or
-    Google Doc's interface).
+    Google Docs' interface).
 
-While we have these assumptions to help focus the content of the
-workshop, if you have an interest in the workshop but don't fit any of
-the assumptions, *you are still welcome to attend*! We welcome everyone
-until capacity has been reached.
+While we have these assumptions about who you are, *you are still
+welcome to attend* if you don't fit any of the assumptions. We
+welcome everyone until capacity has been reached.
 
 In addition to the assumptions above, the workshop also has a fairly
 focused scope, which may also help you decide if this workshop is for
 you:
 
--   We will only interact with GitHub from the website and from a web
-    browser.
--   We will only write *text*, meaning there will be no code or
-    programming.
--   While we will write in a `.md` Markdown file, we will not write or
-    cover Markdown syntax.
 -   We will not go over too many details of Git (a software that GitHub
     relies on).
+-   We will only interact with Git and GitHub from the website and from
+    a web browser.
+-   We will only write *text*, meaning there will be no code or
+    programming.
+-   While we will write in Markdown files (`.md`), we will not write or
+    cover Markdown syntax.
