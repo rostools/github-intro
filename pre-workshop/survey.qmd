@@ -1,13 +1,13 @@
 # Survey {#sec-survey}
 
-If you haven't read the sections under "Workshop overview" and
-"Pre-workshop tasks", **please read them now**.
+If you haven't read and completed the tasks in the pages under
+"Overview" and "Pre-workshop", **please go through them now**.
 
-You're almost done. Please fill out the pre-workshop survey to finish
-this section:
+You're almost done! The only thing left is to complete the pre-workshop
+survey by clicking the button below:
 
-[Pre-workshop survey
-:tada:]({{< meta surveys.pre-workshop >}}){.btn
+[Pre-workshop survey :tada:]({{< meta surveys.pre-workshop >}}){.btn
 .btn-primary role="button"}
 
-See you at the workshop! :wave:
+Thank you for completing the pre-workshop tasks! See you at the
+workshop! :wave:
