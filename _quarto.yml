@@ -36,6 +36,7 @@ book:
       chapters:
       - sessions/introduction.qmd
       - sessions/basics.qmd
+      - sessions/create-repo.qmd
       - sessions/working-with-files.qmd
       - sessions/using-issues.qmd
       - sessions/conclusion.qmd

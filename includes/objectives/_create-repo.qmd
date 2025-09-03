@@ -1,0 +1,3 @@
+-   Navigate to commonly used sections on GitHub, like the list
+    of issues, notifications, and repositories.
+-   Create new repositories on GitHub.

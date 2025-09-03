@@ -1,0 +1,130 @@
+# Creating a repository on GitHub {#sec-create-repo}
+
+<!-- TODO: Add an introduction here -->
+
+## Learning objectives
+
+The learning objectives of this session are to:
+
+{{< include /includes/objectives/_create-repo.qmd >}}
+
+## GitHub's landing page
+
+::: {.callout-note collapse="true"}
+## :teacher: Teacher note
+
+During this section, visually show and walk through the different parts
+of the landing page. You don't need to go into the pages just yet
+though.
+:::
+
+Now that we've covered some of the basics of what Git and GitHub are,
+let's do some practical activities on GitHub. First, we'll start by
+looking at GitHub's landing page. This is the page you see when you
+first log in to GitHub. It shows you a summary of what's happening in
+your GitHub account as well as quick links to common items. For this
+workshop, we will only focus on these items:
+
+-   **Top repositories** list and search bar at the top of the left
+    sidebar. Since you are new to GitHub, you likely won't have any (or
+    only a few) repositories listed here. When you start to work with
+    more repositories, this is a quick way to access them.
+-   **Create new...** button on the navigation bar on the top right that
+    looks like: {{< fa plus >}} {{< fa caret-down >}}. This is where you
+    can create a new repository, as well as other items we won't cover
+    in this workshop.
+-   **Issues** button on the navigation bar on the top right that looks
+    like: {{< var issues-icon >}}. This is where you can view all issues
+    you've made, participate in, or have been assigned to. From our
+    experience, we don't use this item often, but it can be useful to
+    quickly find or search for issues related to your work.
+-   **Notifications inbox** button on navigation bar on the top right
+    that looks like: {{< var inbox-icon >}}. This is where you can see
+    all notifications about activities in your repositories, like when
+    someone comments on an issue you made or mentions you in an issue.
+
+We'll return to these items later in the workshop, but for now, it's
+enough for you to know where they are. Let’s go to the next section and
+create a new repository :rocket:
+
+## Creating a new repository
+
+::: {.callout-note collapse="true"}
+## :teacher: Teacher note
+
+Take it slow here as you create the repository since this is the first
+"type-along" of the workshop. Make sure to explain each option and what
+it does, using the table below as a guide.
+
+Also briefly introduce Markdown and mention the `.md` file extension.
+:::
+
+Now that we've gone over the landing page of GitHub and taken a look at
+some commonly used areas of GitHub, let's create a new repository on
+GitHub. This is where we will store all the files and folders for the
+project we will be working on in this workshop.
+
+For this workshop, we'll create a repository for a recipe project that
+will contain files with recipes :yum: :cake: :pizza: :stew:
+
+1.  Click on the **Create new...** button {{< fa plus >}}
+    {{< fa caret-down >}} on the top right side of the navigation bar.
+2.  Click on the **New repository** option in the dropdown menu.
+3.  A new page will open up that now shows a list of options to check
+    and text boxes to fill in. @tbl-new-repo-options describes what each
+    option is and what to set it as for this workshop.
+
+| Option | Description | Workshop Setting |
+|:------------------|:---------------------------------|:------------------|
+| Repository owner | This is the account you are creating the repository under. If you are part of an organisation, you can also create new repositories there. | Leave it as your own personal account. |
+| Repository name | This is the name of the repository or project. | Name it `recipes`. |
+| Description | This is a short description of what the repository is for and what it will contain. | Write "This is a practice repository for an introductory GitHub workshop. It includes a few recipes.". |
+| Public or Private | This is whether the repository is visible to everyone (public) or only to you and people you give access to (private). | Leave it as public. |
+| Add a README file | This is a file that is shown on the front page of the repository. It is a good place to put information about the repository. When checked, it will say something about "set main as default branch". You can safely ignore this message. | Make sure it is checked. |
+| Add .gitignore | This is a file that tells Git to ignore certain files or folders. | Leave it unchecked. |
+| Choose a license | This is a file that tells others how they can use the files in the repository. | Leave it unchecked. |
+
+: List of options available to set when creating a new repository on
+GitHub. {#tbl-new-repo-options}
+
+It's now time to click the **Create repository** button at the bottom of
+the page. After you click the button, you'll be taken to the front page
+of the repository. This is where you can see all the files and folders
+that are currently in this repository.
+
+In this new repository there is only one file: `README.md`. The
+`README.md` file is a common file included in repositories to describe
+what the repository contains and is used for.
+
+The files that have the file extension `.md` (like this `README.md`
+file) are Markdown files.
+[Markdown](https://quarto.org/docs/authoring/markdown-basics.html) is a
+plain text file format (a type of file, like Word's `.docx`) that's
+designed to be easy to write and read. Markdown files are commonly used
+to write text documents. We won't cover how to write Markdown in this
+workshop, we'll only use them.
+
+We will start to add and modify files in the repository in the next
+session.
+
+## :technologist: Exercise: Create another repository
+
+**Time: \~3 minutes.**
+
+To practice making repositories, create another one on your own:
+
+1.  Go through the same steps as before to create a new repository.
+2.  Name the repository something like "learning-github".
+3.  Test out other settings, such as setting the repository to "private"
+    and adding a `.gitignore` file.
+
+{{< text_snippet sticky_up >}}
+
+## Summary
+
+-   GitHub's landing page as well as its navigation bar has several
+    quick links to commonly used areas of GitHub (such as the "Create
+    new" button, notifications inbox and issues)
+-   Created a new repository by clicking the **Create new...** button
+    {{< fa plus >}} {{< fa caret-down >}} on the top right side of the
+    navigation bar.

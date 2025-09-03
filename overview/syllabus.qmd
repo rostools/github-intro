@@ -32,9 +32,9 @@ aspects, rather than the collaboration aspects.
 
 During this workshop, we'll be just scratching the surface of what Git
 and GitHub can do, focusing on the essentials to help you get started.
-We'll use GitHub's web interface as a learning tool, giving
-you a simple way to explore and practice the basics. While this approach
-is less powerful than working directly with Git, it serves as a gentle
+We'll use GitHub's web interface as a learning tool, giving you a simple
+way to explore and practice the basics. While this approach is less
+powerful than working directly with Git, it serves as a gentle
 introduction to the key concepts and workflows. Our goal is that what
 you are introduced to in this workshop will provide a solid foundation,
 preparing you to build toward more open, transparent, and advanced
@@ -46,6 +46,7 @@ in order:
 
 -   [Introduction to the workshop](/sessions/introduction.qmd)
 -   [The basics of GitHub and Git](/sessions/basics.qmd)
+-   [Creating a repository on GitHub](/sessions/create-repo.qmd)
 -   [Working with files on GitHub](/sessions/working-with-files.qmd)
 -   [Making and using GitHub Issues](/sessions/using-issues.qmd)
 -   [Concluding remarks](/sessions/conclusion.qmd)
@@ -62,6 +63,10 @@ the workshop to enable you to do the following:
 [**The basics of GitHub and Git**](/sessions/basics.qmd)
 
 {{< include /includes/objectives/_basics.qmd >}}
+
+[**Creating a repository on GitHub**](/sessions/create-repo.qmd)
+
+{{< include /includes/objectives/_create-repo.qmd >}}
 
 [**Working with files on GitHub**](/sessions/working-with-files.qmd)
 
