@@ -2,11 +2,10 @@
 
 # An introductory workshop on using GitHub for managing and working with files
 
-<!-- TODO: DOI here -->
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17019292.svg)](https://doi.org/10.5281/zenodo.17019292)
 [![Copier](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/copier-org/copier/master/img/badge/badge-grayscale-inverted-border-teal.json?raw=true.svg)](https://github.com/copier-org/copier)
 [![GitHub
-License](https://img.shields.io/github/license/rostools/github-intro.svg)](https://github.com/rostools/github-intro/blob/main/LICENSE.md)
+License](https://img.shields.io/github/license/rostools/github-intro)](https://github.com/rostools/github-intro/blob/main/LICENSE.md)
 [![GitHub
 Release](https://img.shields.io/github/v/release/rostools/github-intro.svg)](https://github.com/rostools/github-intro/releases/latest)
 [![Build
