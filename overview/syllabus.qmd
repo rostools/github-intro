@@ -1,12 +1,11 @@
 # Syllabus {#sec-syllabus}
 
 Over the last few decades, the way we do research has substantially
-changed as the internet---especially digital technologies and social
-media---has become more embedded in even the more traditional and
-conservative parts of our society. This shift has affected research in
-multiple ways and has increased the need, expectation, and/or pressure
-on various aspects. These needs include, in no particular order, being
-able to:
+changed as digital technologies and social media have become more
+embedded in even the more traditional and conservative parts of our
+society. This shift has affected research in multiple ways and has
+increased the need, expectation, and/or pressure on various aspects.
+These needs include, in no particular order, being able to:
 
 1.  Formally disseminate more types of new or existing knowledge and
     scientific output.
@@ -26,26 +25,25 @@ fulfil those needs.
 
 This workshop introduces you to one such tool widely used for working
 and communicating in industry and increasingly in academia: GitHub.
-While GitHub can fulfil the needs above and much more for this workshop
-we will focus on using GitHub to enhance the transparency and sharing
-aspects, rather than the collaboration aspects.
+While GitHub can fulfil the needs above (and much more) we will focus on
+using GitHub to enhance the transparency and sharing aspects for this
+workshop (4. in the list above), rather than the collaboration aspects.
 
 During this workshop, we'll be just scratching the surface of what Git
 and GitHub can do, focusing on the essentials to help you get started.
-We'll use GitHub's web interface as a learning tool, giving
-you a simple way to explore and practice the basics. While this approach
-is less powerful than working directly with Git, it serves as a gentle
-introduction to the key concepts and workflows. Our goal is that what
-you are introduced to in this workshop will provide a solid foundation,
-preparing you to build toward more open, transparent, and advanced
-practices with GitHub.
+We'll use GitHub's web interface as a learning tool, giving you a simple
+way to explore and practice the basics of working with files on GitHub.
+While this approach is less powerful than working directly with Git, it
+serves as a gentle introduction to the key concepts and workflows. Our
+goal is that what you are introduced to in this workshop will provide a
+solid foundation, preparing you to build toward more open, transparent,
+and advanced practices with GitHub.
 
 This workshop lasts 3 hours and is split into the following sessions,
-listed in the [schedule](/overview/schedule.qmd), which will be covered
-in order:
+listed in the [schedule](/overview/schedule.qmd):
 
 -   [Introduction to the workshop](/sessions/introduction.qmd)
--   [The basics of GitHub and Git](/sessions/basics.qmd)
+-   [The basics of Git and GitHub](/sessions/basics.qmd)
 -   [Working with files on GitHub](/sessions/working-with-files.qmd)
 -   [Making and using GitHub Issues](/sessions/using-issues.qmd)
 -   [Concluding remarks](/sessions/conclusion.qmd)
