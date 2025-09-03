@@ -18,12 +18,12 @@ general.
 When you're learning something new, it helps to put it into a context.
 While we've already covered some of this in the
 [syllabus](/overview/syllabus.qmd), we haven't fully addressed probably
-one of the biggest questions people may have: Why GitHub?
+one of the biggest questions you may have: Why GitHub?
 
 GitHub is an extremely popular and widely used online platform for
-managing Git repositories. As you just read, Git repositories come with a
-lot of features to work with files and track changes to them. But GitHub
-does much more than that. It can be used for [project
+managing Git repositories. As you read previously, Git repositories come with a
+lot of features to work with files and track changes to them. GitHub
+does much more than that: It can be used for [project
 management](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects),
 running automatic [workflows](https://docs.github.com/en/actions) that
 do tasks for you, hosting [websites](https://docs.github.com/en/pages),
@@ -55,10 +55,10 @@ research community, we need to embrace and use tools that improve how we
 do our work and how we disseminate our research. And GitHub is one of
 these tools.
 
-So in that context, this workshop is designed as a gentle introduction
+In that context, this workshop is designed as a gentle introduction
 to using GitHub to manage your files related to your research and work.
 Before diving into some of the more advanced uses, it's important to
-understand the basics of how GitHub works and how to use it effectively.
+learn about and try out the basics of Git and GitHub works and how to use it effectively.
 In this workshop, our focus is to cover the most fundamental and
 important features of GitHub that will help you get started with using
 it for your own work.
