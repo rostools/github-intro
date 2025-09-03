@@ -54,8 +54,8 @@ to expect:
 ::: {.callout-note collapse="true"}
 ## :teacher: Teacher note
 
-Verbally and briefly go over this section, to remind the learners about the
-reason and purpose of this workshop.
+Verbally and briefly go over this section, to remind the learners about
+the reason and purpose of this workshop.
 :::
 
 As you read about in the pre-workshop tasks, GitHub is an increasingly
@@ -65,10 +65,11 @@ literature. As research becomes increasingly more dependent on
 integrated digital tools and workflows, it is essential to be familiar
 with these tools in order to be effective in present day research.
 
-This workshop aims to get you more familiar with GitHub to help you get started with using
-it in your own work. During this workshop, we'll create a Git repository on GitHub with a
-recipe book, adding, organising, and editing text files with recipes
-:cake: :pancakes: :cookie:
+This workshop aims to get you more familiar with GitHub to help you get
+started with using it in your own work. During this workshop, we'll
+create a Git repository on GitHub with a recipe book, adding,
+organising, and editing text files with recipes :cake: :pancakes:
+:cookie:
 
 This is meant to be a fun and light-hearted project that will help you
 learn the basics of Git and GitHub.
