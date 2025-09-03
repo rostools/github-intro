@@ -10,6 +10,12 @@ a day. It also means any individual release will not have many changes
 within it. Below is a list of releases along with what was changed
 within it.
 
+## 0.5.5 (2025-09-03)
+
+### Refactor
+
+- **sessions**: :recycle: split into basics and create repo sessions (#248)
+
 ## 0.5.4 (2025-09-03)
 
 ### Refactor
