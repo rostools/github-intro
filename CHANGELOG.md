@@ -10,6 +10,12 @@ a day. It also means any individual release will not have many changes
 within it. Below is a list of releases along with what was changed
 within it.
 
+## 0.5.4 (2025-09-03)
+
+### Refactor
+
+- :pencil2: simplify what is VCS basics, via editing pass (#242)
+
 ## 0.5.3 (2025-09-03)
 
 ### Refactor
