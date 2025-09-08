@@ -10,6 +10,12 @@ a day. It also means any individual release will not have many changes
 within it. Below is a list of releases along with what was changed
 within it.
 
+## 0.6.1 (2025-09-08)
+
+### Refactor
+
+- **sessions**: :recycle: move and revise callout blocks into FAQ (#254)
+
 ## 0.6.0 (2025-09-08)
 
 ### Feat
