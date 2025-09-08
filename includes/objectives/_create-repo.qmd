@@ -1,3 +1,5 @@
 -   Navigate to commonly used sections on GitHub, like repositories,
     notifications, and the list of issues.
 -   Create new repositories on GitHub.
+-   Navigate a repository's front page on GitHub, like viewing files
+    and folders as well as identifying where Issues and the history are.
