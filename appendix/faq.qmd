@@ -1,0 +1,40 @@
+# FAQ
+
+## How can I delete files in a GitHub repository?
+
+Working with the files we created during the sessions, let's say you
+want to use our repository for recipes of only sweets, desserts, and
+baked goods. This means that you will need to remove the tomato soup
+recipe from the repository.
+
+To delete the `tomato-soup.md` file, you'd click the `soups/` folder in
+the "Code" tab of the repository and then click the `tomato-soup.md`
+file within it.
+
+In the top-right corner of the page, you'd click the button with three
+dots ({{< var ellipsis-icon >}}), scroll down to the bottom of the
+dropdown menu and click "Delete file".
+
+You'd save the changes (the deletion) by committing the changes as
+you've done during the workshop.
+
+When looking at the files and folders in the repository now, you might
+notice something unexpected: When we deleted the `tomato-soup.md` file,
+GitHub automatically deleted the `soups/` folder as well! This is
+because the folder only contained that one file. GitHub will
+automatically remove empty folders if there is only only file was it and
+it was deleted. So, we don't need to delete the `soups/` folder
+separately. :fire:
+
+You've now deleted the tomato soup recipe and the `soups/` folder from
+the repository and are ready to focus on sweets and baked goods! :cake:
+
+## How can I delete a folder with multiple files?
+
+If you wanted to delete a folder with multiple files in it along with
+the files themselves, you can go to the folder and click the three dots
+button ({{< var ellipsis-icon >}}) in the top-right corner of the page.
+Then, click "Delete directory" in the dropdown menu.
+
+This will delete the folder and all the files within it, so be careful
+with deleting folders directly like this.

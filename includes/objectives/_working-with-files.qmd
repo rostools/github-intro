@@ -1,4 +1,4 @@
--   Navigate GitHub to create, upload, rename, edit, and delete files
+-   Navigate GitHub to create, upload, rename, and edit files
     and folders.
 -   Use good naming practices for files and folders.
 -   Use the GitHub history page to explore and find previous changes
