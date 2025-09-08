@@ -115,7 +115,7 @@ practice creating files in your repository by adding another recipe.
 
 ## :woman_technologist: Exercise: Add a cookie recipe to your repository
 
-**Time: \~10 minutes**
+**Time: \~5 minutes**
 
 In this exercise, you'll add the second recipe to your `recipes`
 repository: A cookie recipe! :cookie:
@@ -268,9 +268,9 @@ want to. However, for practice and clarity in the history, we've split
 these changes into separate steps.
 :::
 
-## :technologist: Exercise: edit, rename, and move the `cookies.md` file
+## :technologist: Exercise: Edit, rename, and move the `cookies.md` file
 
-**Time: \~10 minutes**
+**Time: \~6 minutes**
 
 Just like we did with the soup recipe above, let's rename the
 `cookies.md` file so the name is more specific. Let's also move it to a

@@ -143,7 +143,7 @@ created across all repositories. Nice! :sparkles:
 
 ## :technologist: Exercise: Create an issue to discuss future recipes
 
-**Time: \~10 minutes**
+**Time: \~5 minutes**
 
 Imagine that you would like to discuss or brainstorm some ideas on what
 recipes to add to your recipe book next. Since GitHub Issues can be used
@@ -222,7 +222,7 @@ So, let's practice finding the issue in your neighbour's repository.
 
 ## :woman_technologist: Exercise: Comment on your neighbour's issue with a recipe suggestion
 
-**Time: \~10 minutes**
+**Time: \~5 minutes**
 
 One of the great things about GitHub is that it makes it easier to
 collaborate with others. So, interact with someone else's issue by
