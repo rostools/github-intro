@@ -10,6 +10,12 @@ a day. It also means any individual release will not have many changes
 within it. Below is a list of releases along with what was changed
 within it.
 
+## 0.6.2 (2025-09-08)
+
+### Refactor
+
+- **sessions**: :pencil2: shorten expected exercise time (#262)
+
 ## 0.6.1 (2025-09-08)
 
 ### Refactor
