@@ -1,0 +1,16 @@
+# FAQ
+
+## Can I look at all the files at a specific point in time in the repository?
+
+Yes! It can be useful to look at the entire repository at a specific
+point in time. This can be done by clicking the "Browse files" button on
+the top-right side of the page when you've clicked on a specific commit
+message. This will show you all files in the repository as they were at
+that point in time :alarm_clock:
+
+## Can I look at the full history of a specific file?
+
+Yes! It's possible to explore the history of a specific file only. You
+can access the history of a specific file by going to the file in the
+repository and clicking the "History" button on the top-right side of
+the page.
