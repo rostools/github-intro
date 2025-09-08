@@ -22,66 +22,42 @@ discussions.
 
 **Time: \~7 minutes.**
 
-So far, we've covered how to create repositories, add files, and make
-changes to files. But what if you want to keep track of tasks or ideas
-for future work, or you need to discuss something with your
-collaborators before you add it to your repository? This is where GitHub
-Issues come in.
+So far, we've covered how to create repositories and work with files on
+GitHub. But as we've mentioned, GitHub can do more than version control.
+When working on a project, it's common to have a list of tasks that need
+to be completed, ideas to discuss, or problems to solve. Keeping track
+of these things can be challenging, especially when working with others.
+This is where GitHub Issues come in.
 
-[GitHub Issues](https://docs.github.com/en/issues) are "items" or
-"records" that can help you keep track of to-do tasks and discussions
-related to a specific project (as a repository). Issues are not files in
-your repository; they are completely separate from the repository's
-files and folders which we have been working with so far in the "Code"
-tab on GitHub. Instead, issues live in the "Issues" tab in your
-repository on GitHub. Later in this session, we'll create multiple
-issues, so you don't have to go to this tab right now. For now, it's
-enough to know that issues aren't files in your repository, but a
-separate tool for keeping track of tasks and ideas.
+Issues are separate from your repository's files and folders in the
+"Code" tab; instead, they live in the "Issues" tab.
 
-Issues can be used in many ways. For example, you can use them to:
+You can use issues to:
 
--   Keep track of tasks you need to do.
--   Discuss ideas with your collaborators.
--   Report problems, bugs, or mistakes.
--   Plan future work.
--   Ask questions or request help from collaborators.
+-   Track tasks
+-   Discuss ideas
+-   Report bugs or mistakes
+-   Ask questions or request help from collaborators
 
-Issues can be assigned to specific people. By assigning an issue to
-someone, it becomes clear who is responsible for completing the task
-referenced in the issue. Another useful feature is that you can tag
-people in comments to notify them of the task or discussion. You tag
-people by typing `@` followed by the person's username. Depending on the
-person's notification settings, they will receive an email and/or a
-notification on GitHub when they get tagged.
+Issues can be assigned to specific people, making it clear who is
+responsible for what. You can also tag collaborators in issues by typing
+\@ followed by their username, which notifies them by email or GitHub,
+depending on their settings.
 
-Once you have created an issue, you can add comments to it, discuss the
-task with your collaborators, and close the issue once the task is
-completed. This way, you can keep track of what needs to be done and
-what has already been completed.
+Issues can be collaborative: you can add comments and reactions and
+close them once the task or discussion is resolved, making it easy to
+see what's pending and what's done.
 
-You can also assign issues to yourself or others to keep track of who is
-responsible for completing the task. This is especially useful in
-collaborative projects where multiple people are working on the same
-repository. By assigning issues, you can ensure that everyone knows who
-is responsible for what task. You can assign people by going to the
-"Assignees" section on the right side of the issue page and clicking on
-the person's username. If you want to assign the issue to yourself, you
-can click on your own username in the "Assignees" section.
+Anyone with repository access can create issues which means that you can
+create issues in any public repository. This is useful if you want to
+suggest improvements or report problems in someone else's project.
 
-Anyone with access to the repository can create an issue. This means
-that you can create issues in your own repository and in public
-repositories in general. This can be very useful if you, for instance,
-want to suggest a change or report a problem in another person's
-repository.
+All issues related to a repository can be found in the "Issues" tab,
+where you can filter them by status (open or closed) and assignee. By
+default, only open issues are shown.
 
-All issues in the repository are available in the "Issues" tab, where
-you can see a list of all the issues in the repository. You can also
-filter the issues by their status, such as "open" or "closed", and by
-who they are assigned to. By default, only open issues are shown.
-
-Now that you've read about what GitHub Issues are, let's practice
-creating issues in the repository.
+Now that you know what GitHub Issues are, let's practice creating some
+in a repository.
 
 {{< text_snippet sticky_up >}}
 
@@ -110,7 +86,8 @@ the task in more detail.
 We can also assign someone to the issue so it is visible that they are
 responsible for completing this task. Let's assign it to ourselves. We
 do this by going to the "Assignees" section on the right side of the
-page and clicking on our username.
+page and clicking on our username. If we wanted to assign it to someone
+else, we would search for their username and click on it to assign them.
 
 Finally, let's click the "Create issue" button in the bottom right side
 of the page to create the issue.
@@ -282,5 +259,5 @@ have:
     start brainstorming ideas on which recipes to add in the future.
 -   Explored GitHub notifications.
 -   Navigated Github to find other people's repositories and issues.
--   Started to collaborate a bit by commenting on someone else's issue to
-    suggest a recipe.
+-   Started to collaborate a bit by commenting on someone else's issue
+    to suggest a recipe.
