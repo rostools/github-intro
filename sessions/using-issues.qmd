@@ -20,7 +20,7 @@ repository, but a separate tool for keeping track of tasks and
 discussions.
 :::
 
-**Time: \~7 minutes.**
+**Time: \~5 minutes.**
 
 So far, we've covered how to create repositories and work with files on
 GitHub. But as we've mentioned, GitHub can do more than version control.
