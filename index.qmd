@@ -1,8 +1,6 @@
 # Welcome! {.unnumbered}
 
-<!-- TODO: Add a short description and motivation of the workshop here. -->
-
-<!-- TODO: Add badge link here -->
+{{< include /includes/_badges.qmd >}}
 
 This 3-hour workshop is a gentle introduction to using
 [GitHub](https://github.com/) for managing and working with files.
