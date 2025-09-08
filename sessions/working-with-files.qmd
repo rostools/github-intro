@@ -391,7 +391,7 @@ repository and create a new commit with the changes.
 
 ## :technologist: Exercise: Upload a file to your repository
 
-**Time: \~10 minutes.**
+**Time: \~5 minutes.**
 
 Now, it's your turn to upload a file to your repository. Find an image
 of a cookie or recipe book from [Pixabay](https://pixabay.com/) (or
