@@ -21,6 +21,16 @@ If you attended a workshop or used the workshop material as some point
 in time, you can always refer to this changelog page to find out what
 has been changed since you last used it.
 
+## 1.1.0 (2025-09-09)
+
+### Feat
+
+- :memo: add download image to teacher pre-workshop tasks (#268)
+
+### Fix
+
+- :memo: update issues learning objs after discussion activity was removed (#267)
+
 ## 1.0.1 (2025-09-09)
 
 ### Refactor
