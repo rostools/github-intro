@@ -1,9 +1,12 @@
-github-commit: |
+github-commit-start: |
   Click the "Commit changes..." button in the top-right corner of the page
-  to open the commit message pop-up. In the message section, briefly
-  describe the change. No extended description is needed. Keep the
-  "Commit directly to the main branch" option selected. Then, click
+  to open the commit message pop-up.
+github-commit-end: |
+  Keep the "Commit directly to the main branch" option selected. Then, click
   "Commit changes" at the bottom of the pop-up.
+github-commit: |
+  {{< var github-commit-start >}} In the message section, briefly
+  describe the change. {{< var github-commit-end >}}
 pencil-icon: |
   ![](/images/pencil-icon.svg){fig-alt="Pencil icon"}
 issues-icon: |
