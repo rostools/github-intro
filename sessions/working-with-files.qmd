@@ -157,8 +157,8 @@ Alright, now to edit, click the pencil icon {{< var pencil-icon >}} on
 the top-right side of the page. Let's revise the first line of the file
 to be "Ingredients for tomato soup:". When we've made the changes, we'll
 commit them. {{< var github-commit-start >}} A descriptive commit
-message for these changes could be "Identify ingredients are for a
-'tomato' soup". {{< var github-commit-end >}}
+message for these changes could be "Specify that ingredients are for a 
+tomato soup". {{< var github-commit-end >}}
 
 ## Rename and move the soup recipe to a new folder
 
@@ -225,15 +225,26 @@ steps to highlight how to do each.
 
 **Time: \~5 minutes**
 
-Just like we did with the soup recipe above, let's rename the
-`cookies.md` file so the name is more specific. Let's also move it to a
-new `baked-goods/` folder. That way, if you want to add other recipes
-for baked goods, you can put it in that folder.
+Just like we did with the soup recipe above, let's edit and rename the
+`cookies.md` file so the content and name is more specific. Let's also
+move it to a new `baked-goods/` folder. That way, if you want to add
+other recipes for baked goods, you can put it in that folder.
 
 While you can do these changes in one step, for practice, rename the
 file first, then edit the content, and last move it to the new folder.
 
-Start by renaming the `cookies.md` file:
+Start by editing the `cookies.md` file by changing the
+first line:
+
+1.  Click the pencil icon {{< var pencil-icon >}} on top-right side of
+    the page ("Edit this file") to edit the file.
+2.  Edit the first line of the file by adding that it is ingredients for
+    chocolate chip cookies, so it becomes "Ingredients for chocolate
+    chip cookies:".
+3.  {{< var github-commit >}} Here, a descriptive message could be "Edit
+    heading to specify that this is a chocolate chip cookie recipe".
+
+Then, rename the `cookies.md` file:
 
 1.  Click the pencil icon {{< var pencil-icon >}} on the top-right side
     of the page ("Edit this file") to edit the `cookies.md` file.
@@ -242,15 +253,6 @@ Start by renaming the `cookies.md` file:
     in the file name and to keep the file extension (`.md`).
 3.  {{< var github-commit >}} Here, a descriptive message could be
     "Rename cookie recipe to chocolate chip cookies".
-
-Edit the `chocolate-chip-cookies.md` file by changing the first line:
-
-1.  Click the pencil icon {{< var pencil-icon >}} on top-right side of
-    the page ("Edit this file") to edit the file.
-2.  Edit the first line of the file by adding "chocolate chip", so it
-    becomes "Ingredients for chocolate chip cookies".
-3.  {{< var github-commit >}} Here, a descriptive message could be "Edit
-    heading to specify that this is a chocolate chip cookie recipe".
 
 Next, move the file to a new `baked-goods/` folder:
 
@@ -267,8 +269,8 @@ Next, move the file to a new `baked-goods/` folder:
 3.  {{< var github-commit >}} Here, a descriptive message could be "Move
     cookie recipe to baked-goods folder".
 
-You have now renamed your cookies recipe file and moved it to a new
-folder in your repository! :partying_face:
+You have now edited and renamed your cookies recipe file and moved it to
+a new folder in your repository! :partying_face:
 
 {{< text_snippet sticky_up >}}
 

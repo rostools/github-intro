@@ -21,6 +21,18 @@ If you attended a workshop or used the workshop material as some point
 in time, you can always refer to this changelog page to find out what
 has been changed since you last used it.
 
+## 1.1.2 (2025-09-09)
+
+### Refactor
+
+- ♻️ minor changes to working with files (#270)
+
+## 1.1.1 (2025-09-09)
+
+### Refactor
+
+- :pencil2: minor fix in issues objectives (#271)
+
 ## 1.1.0 (2025-09-09)
 
 ### Feat
