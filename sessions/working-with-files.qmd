@@ -144,14 +144,21 @@ Adding a file is great, but most of the time we'll be editing existing
 files. Let's change the first line of the `soup.md` file.
 
 Click the `soup.md` file in the "Code" tab of the repository to open it.
-To edit, click the pencil icon {{< var pencil-icon >}} on the top-right
-side of the page.
+Before continuing to edit, let's walk through this slightly new page
+that we've gone into after clicking the file. We now see a new sidebar
+on the left side of the screen. This sidebar shows the file tree of the
+repository. The file we are currently editing should be highlighted. As
+you add files and folders, this file tree will grow and show them. Use
+it to help you navigate the repository. You can even use the search bar
+at the top of the sidebar to search for specific files and folders in
+the repository.
 
-Let's revise the first line of the file to be "Ingredients for tomato
-soup:". When we've made the changes, we'll commit them.
-{{< var github-commit-start >}} A descriptive commit message for these
-changes could be "Specify that ingredients are for a tomato soup".
-{{< var github-commit-end >}}
+Alright, now to edit, click the pencil icon {{< var pencil-icon >}} on
+the top-right side of the page. Let's revise the first line of the file
+to be "Ingredients for tomato soup:". When we've made the changes, we'll
+commit them. {{< var github-commit-start >}} A descriptive commit
+message for these changes could be "Specify that ingredients are for a
+tomato soup". {{< var github-commit-end >}}
 
 ## Rename and move the soup recipe to a new folder
 
