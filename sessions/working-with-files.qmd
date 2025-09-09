@@ -217,8 +217,8 @@ steps to highlight how to do each.
 
 **Time: \~5 minutes**
 
-Just like we did with the soup recipe above, let's rename the
-`cookies.md` file so the name is more specific. Let's also move it to a
+Just like we did with the soup recipe above, let's edit and rename the
+`cookies.md` file so the content and name is more specific. Let's also move it to a
 new `baked-goods/` folder. That way, if you want to add other recipes
 for baked goods, you can put it in that folder.
 
