@@ -13,5 +13,9 @@ Before the workshop, you need to do the steps below.
 -   If you have any extensions installed in your browser that could
     alter the way GitHub.com looks (like Refined GitHub), disable them,
     so it will look the same for everyone.
+-   If you're teaching the "Working with files" session: Download an
+    image that you can use to demonstrate uploading files to a
+    repository. E.g., an image of a soup or a cookie from
+    [Pixabay](https://pixabay.com/).
 -   Make (if not made) the origami hats and bring them to the workshop,
     or alternatively use post-it notes/stickies.
