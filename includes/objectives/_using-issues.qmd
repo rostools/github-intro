@@ -1,4 +1,3 @@
 -   Use GitHub Issues to start discussions, request help, list to-do
-    tasks, or comment on existing issues.
--   Explain the benefits of using GitHub Issues to keep track of
-    discussions and to-do lists within the same platform as your files.
+    tasks.
+-   Comment on existing issues.
