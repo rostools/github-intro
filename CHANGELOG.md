@@ -21,6 +21,23 @@ If you attended a workshop or used the workshop material as some point
 in time, you can always refer to this changelog page to find out what
 has been changed since you last used it.
 
+## 1.0.0 (2025-09-09)
+
+### BREAKING CHANGE
+
+- Deleting files is no longer part of the workshop, now
+only in FAQ.
+
+### Feat
+
+- **sessions**: :sparkles: add walkthrough of repository landing page (#260)
+
+### Refactor
+
+- **sessions**: :fire: remove issue discussion activity (#263)
+- **sessions**: :recycle: shorten recipes and simplify add/edit file section (#258)
+- **sessions**: :truck: move file deletion section into FAQ (#259)
+
 ## 0.6.2 (2025-09-08)
 
 ### Refactor
