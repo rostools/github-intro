@@ -259,7 +259,7 @@ Next, move the file to a new `baked-goods/` folder:
 3.  {{< var github-commit >}} Here, a descriptive message could be "Move
     cookie recipe to baked-goods folder".
 
-You have now renamed your cookies recipe file and moved it to a new
+You have now edited and renamed your cookies recipe file and moved it to a new
 folder in your repository! :partying_face:
 
 {{< text_snippet sticky_up >}}
