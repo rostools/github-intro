@@ -21,6 +21,24 @@ If you attended a workshop or used the workshop material as some point
 in time, you can always refer to this changelog page to find out what
 has been changed since you last used it.
 
+## 0.6.2 (2025-09-08)
+
+### Refactor
+
+- **sessions**: :pencil2: shorten expected exercise time (#262)
+
+## 0.6.1 (2025-09-08)
+
+### Refactor
+
+- **sessions**: :recycle: move and revise callout blocks into FAQ (#254)
+
+## 0.6.0 (2025-09-08)
+
+### Feat
+
+- :memo: add badges to landing page (#256)
+
 ## 0.5.7 (2025-09-03)
 
 ### Refactor
