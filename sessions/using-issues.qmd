@@ -120,7 +120,7 @@ created across all repositories. Nice! :sparkles:
 
 ## :technologist: Exercise: Create an issue to discuss future recipes
 
-**Time: \~10 minutes**
+**Time: \~5 minutes**
 
 Imagine that you would like to discuss or brainstorm some ideas on what
 recipes to add to your recipe book next. Since GitHub Issues can be used
@@ -199,7 +199,7 @@ So, let's practice finding the issue in your neighbour's repository.
 
 ## :woman_technologist: Exercise: Comment on your neighbour's issue with a recipe suggestion
 
-**Time: \~10 minutes**
+**Time: \~5 minutes**
 
 One of the great things about GitHub is that it makes it easier to
 collaborate with others. So, interact with someone else's issue by
@@ -236,18 +236,6 @@ Once you have made your changes, click the "Save" button for issues or
 :::
 
 {{< text_snippet sticky_up >}}
-
-## :speech_balloon: Discussion activity: Consider the advantages of issues in your own work
-
-**Time: \~4 minutes.**
-
-To connect what we've learned to your own daily work, consider what
-advantages (and barriers) there are to using issues in your own work.
-
-1.  Take \~1 minute to think how you would integrate issues into your
-    work and what advantages and challenges there may be.
-2.  Pair up with your neighbour, and take 1.5 minutes each to share what
-    you've thought about.
 
 ## Summary
 

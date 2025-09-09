@@ -1,3 +1,5 @@
 -   Navigate to commonly used sections on GitHub, like repositories,
     notifications, and the list of issues.
 -   Create new repositories on GitHub.
+-   Navigate a repository's landing page (the "Code" tab) on GitHub to view files
+    and folders, and locate the Issues and history areas.

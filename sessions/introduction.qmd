@@ -26,15 +26,16 @@ to expect. We've already covered a lot of these things in detail in
 brief reminder.
 
 -   We do **"type-alongs" or "code-alongs"** where the teacher types and
-    shows how to do things and explains what they are doing
-    and why, while you type along.
+    shows how to do things and explains what they are doing and why,
+    while you type along.
 
--   **Reading tasks** are used to give you time to think and
-    process at your own pace. After the reading task, the teacher repeats and
+-   **Reading tasks** are used to give you time to think and process at
+    your own pace. After the reading task, the teacher repeats and
     rephrases the key points to reinforce the concepts you just read.
 
--   **Discussion activities** are used to reflect on the workshop content and give
-    you a chance to talk to your peers about the concepts.
+-   **Discussion activities** are used to reflect on the workshop
+    content and give you a chance to talk to your peers about the
+    concepts.
 
 -   We use **"stickies", origami hats, or other visual indicators** to
     assess how everyone is doing and for you to request help if you get
@@ -42,8 +43,8 @@ brief reminder.
     will come by as soon as they are available and help you out.
 
 -   The [**schedule**](/overview/schedule.qmd) **is a *guide* only**,
-    some sessions might be longer, others shorter. It is not intended to be
-    firm or strict.
+    some sessions might be longer, others shorter. It is not intended to
+    be firm or strict.
 
 -   We depend on and want **honest, constructive, and critical
     feedback** to improve the workshops. At the end of the workshop, you
@@ -90,10 +91,10 @@ learn the basics of Git and GitHub.
 
 3.  Then, in the third session, [Working with files on
     GitHub](/sessions/working-with-files.qmd), we will learn how to work
-    with files in Git and GitHub, including how to add, edit, and delete
-    files and folders.
+    with files in Git and GitHub, including how to add, and edit files
+    and folders.
 
 4.  Finally, in the last session on [GitHub
-    Issues](/sessions/using-issues.qmd), we will use GitHub
-    Issues to track tasks and discussions, and how to assign and tag
-    people in issues.
+    Issues](/sessions/using-issues.qmd), we will use GitHub Issues to
+    track tasks and discussions, and how to assign and tag people in
+    issues.

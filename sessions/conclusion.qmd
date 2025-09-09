@@ -10,7 +10,7 @@ More specifically, we've:
 
 -   Created a repository on GitHub
 -   Worked with files in our own repository on GitHub: Created, edited,
-    renamed, and deleted recipe files and folders
+    and renamed recipe files and folders
 -   Created and commented on GitHub issues
 
 Let's spend a few minutes thinking about how you might use GitHub in

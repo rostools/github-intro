@@ -107,6 +107,38 @@ workshop, we'll only use them.
 We will start to add and modify files in the repository in the next
 session.
 
+## A repositories' front page
+
+::: {.callout-note collapse="true"}
+## :teacher: Teacher note
+
+Walk through the different parts, explaining as you go.
+:::
+
+After creating a new repository, we're taken to the repository's landing
+page. This is where we can see all the files and folders in the
+repository. On the top navigation bar, there are several items, but only
+two that we will focus on in this workshop:
+
+-   The **\<\> Code** tab: This is where we can see all the files and
+    folders in the repository. This is the default tab that is shown
+    when you go to a repository.
+-   The {{< var issues-icon >}} **Issues** tab: This is where we can see all
+    the issues related to the repository.
+
+In the files and folders area, you'll see a "table" style layout with a
+"header" that contains the most recent "commit" (we'll cover that later)
+with a "commit" icon {{< var issues-icon >}} on the right-hand side that links to the history
+(that we will also cover later). This view has "columns" for files or
+folders, the commit message relevant to changes made in that particular
+file or folder, and the time when that change was made. Below this file
+and folder area is a display of the `README.md` file that was
+automatically created when we created the repository. GitHub will always
+by default display the contents of a `README.md` file at the bottom of this page if one exists.
+
+Even though the repository landing page includes other sections, we won't cover them in
+this workshop. The sections we've mentioned here are the most important and commonly used items.
+
 ## :technologist: Exercise: Create another repository
 
 **Time: \~3 minutes.**
@@ -128,3 +160,6 @@ To practice making repositories, create another one on your own:
 -   Create a new repository by clicking the **Create new...** button
     {{< fa plus >}} {{< fa caret-down >}} on the top right side of the
     navigation bar.
+-   A repository's landing page shows all the files and folders in the
+    repository as well as a display of the `README.md` file if one
+    exists.
