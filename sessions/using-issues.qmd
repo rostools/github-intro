@@ -260,18 +260,6 @@ Once you have made your changes, click the "Save" button for issues or
 
 {{< text_snippet sticky_up >}}
 
-## :speech_balloon: Discussion activity: Consider the advantages of issues in your own work
-
-**Time: \~4 minutes.**
-
-To connect what we've learned to your own daily work, consider what
-advantages (and barriers) there are to using issues in your own work.
-
-1.  Take \~1 minute to think how you would integrate issues into your
-    work and what advantages and challenges there may be.
-2.  Pair up with your neighbour, and take 1.5 minutes each to share what
-    you've thought about.
-
 ## Summary
 
 In this session, we have learned about GitHub Issues. Specifically, we
@@ -282,5 +270,5 @@ have:
     start brainstorming ideas on which recipes to add in the future.
 -   Explored GitHub notifications.
 -   Navigated Github to find other people's repositories and issues.
--   Started to collaborate a bit by commenting on someone else's issue to
-    suggest a recipe.
+-   Started to collaborate a bit by commenting on someone else's issue
+    to suggest a recipe.
