@@ -87,25 +87,26 @@ For the content of the file, we'll write out the following text:
 ``` markdown
 Ingredients:
 
+- Tomato
 - Onion
 - Oil
 - Water
 ```
 
 Once we have added the file name and the recipe itself, let's save the
-changes. {{< var github-commit-start >}} This will open a pop-up where
-we can add a commit message to describe the changes.
+changes. {{< var github-commit-start >}} This pop-up is where
+we will add the commit message to describe the changes we've made.
 
 You might have noticed that GitHub automatically creates a commit
-message for you. It's good practice to edit it to be descriptive, as it
+message for you. It's good practice to edit it to be more descriptive, as it
 helps you and others understand the changes that were made to the
 repository. Otherwise, you might end up with a commit history that is
 "Update file", "Update file", "Update file", etc. :grimacing: We'll use
-a descriptive message for these changes by writing "Start of soup recipe
+a descriptive message for these changes by writing "Add soup recipe
 md file".
 
-You usually don't need to add an extended description of the changes, so
-we can leave it empty. {{< var github-commit-end >}}
+We usually don't need to add an extended description of the changes, so
+we can leave it empty here. {{< var github-commit-end >}}
 
 We've now added our first recipe to the repository! :tada: Now, you'll
 practice creating files in your repository by adding another recipe.
@@ -126,7 +127,7 @@ repository: A cookie recipe! :cookie:
     file.
 3.  In the new file, write one or two lines of text of some basic
     ingredients. It doesn't even need to be a real or full recipe. The
-    point is to write something here.
+    point is to add a file to your repository, so the actual content isn't important.
 4.  Now, save the changes. {{< var github-commit-start >}} Write a
     descriptive message for these changes, like "Add cookie recipe".
     {{< var github-commit-end >}}
@@ -171,8 +172,8 @@ click on the name and rename the file to `tomato-soup.md`. Remember to
 keep the `.md` file extension.
 
 Once we have renamed the file, let's commit the changes.
-{{< var github-commit-start >}} Write the commit message for these
-changes as "Rename soup.md to tomato-soup.md".
+{{< var github-commit-start >}} Write a descriptive commit message for this
+change, e.g., "Rename soup.md to tomato-soup.md".
 {{< var github-commit-end >}}
 
 ### Move `tomato-soup.md` to a new `soups/` folder {.unnumbered}
@@ -187,22 +188,20 @@ repository, by adding `soups/` before the file name like so:
 the file name.
 
 This will create a new folder in your `recipes` repository called
-`soups/` and then move the `tomato-soup.md` file into it. Noticed that
+`soups/` and then move the `tomato-soup.md` file into it. Notice that
 once we add the slash `/` after the folder name, GitHub moves the cursor
 to the end of the file path, to the file name. This might make it seem
 like we can't go back to the folder name and correct it if we make a
-typo or want to change it.
-
-But we can still change it! If we make a mistake in the folder name, we
+typo or want to change it. But we can still change it! If we make a mistake in the folder name, we
 can fix it by using the backspace key to remove the `/`, moving the
 cursor back to the folder name. Now, we can change the folder name as we
 like :partying_face:
 
-{{< var github-commit-start >}} Write a message for these changes to be
+{{< var github-commit-start >}} Write a descriptive message for these changes like
 "Move tomato soup recipe into a new soups folder".
 {{< var github-commit-end >}}
 
-We've moved it! You can see the new folder `soups/` in the `Code` tab of
+We've now moved the file! You can see the new folder `soups/` in the `Code` tab of
 your repository and even click on it to see the `tomato-soup.md` file.
 :bowl_with_spoon: :tomato:
 
