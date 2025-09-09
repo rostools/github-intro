@@ -36,12 +36,12 @@ You can use issues to:
 
 -   Track tasks
 -   Discuss ideas
--   Report bugs or mistakes
+-   Report problems or mistakes
 -   Ask questions or request help from collaborators
 
 Issues can be assigned to specific people, making it clear who is
 responsible for what. You can also tag collaborators in issues by typing
-\@ followed by their username, which notifies them by email or GitHub,
+`@` followed by their username, which notifies them by email or GitHub,
 depending on their settings.
 
 Issues can be collaborative: you can add comments and reactions and
