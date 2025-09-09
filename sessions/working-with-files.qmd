@@ -226,7 +226,7 @@ other recipes for baked goods, you can put it in that folder.
 While you can do these changes in one step, for practice, rename the
 file first, then edit the content, and last move it to the new folder.
 
-Start by editing the `chocolate-chip-cookies.md` file by changing the
+Start by editing the `cookies.md` file by changing the
 first line:
 
 1.  Click the pencil icon {{< var pencil-icon >}} on top-right side of
