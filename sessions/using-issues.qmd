@@ -63,10 +63,10 @@ in a repository.
 
 ## Creating a GitHub Issue
 
-Since we've decided that our recipe book should only include recipes for
-sweets and baked goods, we might want to add a sweets recipe, like
+Let's imagine that we want to add a sweets recipe, like
 chocolate-covered strawberries or chocolate mousse, in a `sweets/`
-folder. Let's create an issue to keep track of this task.
+folder of our recipe repository. Let's create an issue to keep track of
+this task.
 
 In the repository, we'll click on the "Issues" tab. On this page, we'll
 see a list of the open issues in our repository. Since we (or someone
