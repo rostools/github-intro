@@ -2,6 +2,22 @@
 
 ## How can I delete files in a GitHub repository?
 
+To delete a file in a repository, you first need to go to the file in the "Code" tab. This might include clicking on some folders until you can see the file you want to delete. Once you see it, e.g., "tomato-soup.md", click it. In this view, you can see the content of the file. 
+
+In the top-right corner of the page, you'll click the button with three
+dots ({{< var ellipsis-icon >}}), scroll down to the bottom of the
+dropdown menu and click "Delete file".
+
+You then save the changes (the deletion) by committing the changes as
+you've done during the workshop.
+
+If you've deleted the only file within a folder, you might
+notice something unexpected: When you deleted the file,
+GitHub automatically deleted the folder as well! This is
+because the folder only contained that one file and GitHub will
+automatically remove empty folders. So, if this was the case, you don't have to
+delete the folder separately :fire:
+
 Working with the files we created during the sessions, let's say you
 want to use our repository for recipes of only sweets, desserts, and
 baked goods. This means that you will need to remove the tomato soup
