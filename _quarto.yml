@@ -41,6 +41,7 @@ book:
       - sessions/using-issues.qmd
       - sessions/conclusion.qmd
   appendices:
+    - appendix/faq.qmd
     - appendix/for-teachers.qmd
     - CHANGELOG.md
     - CONTRIBUTING.md

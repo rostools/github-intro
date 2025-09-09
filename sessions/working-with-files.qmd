@@ -213,7 +213,7 @@ want to. For this workshop, we've split these changes into separate
 steps to highlight how to do each.
 :::
 
-## :technologist: Exercise: edit, rename, and move the `cookies.md` file
+## :technologist: Exercise: Edit, rename, and move the `cookies.md` file
 
 **Time: \~5 minutes**
 
@@ -336,7 +336,7 @@ repository and create a new commit with the changes.
 
 ## :technologist: Exercise: Upload a file to your repository
 
-**Time: \~10 minutes.**
+**Time: \~5 minutes.**
 
 Now, it's your turn to upload a file to your repository. Find an image
 of a cookie or recipe book from [Pixabay](https://pixabay.com/) (or
@@ -360,6 +360,13 @@ computer, follow these steps:
 
 ## Explore the history to find previous changes
 
+::: {.callout-note collapse="true"}
+## :teacher: Teacher note
+
+Use this text below as a guide to visually walkthrough the repository's
+history.
+:::
+
 Now that we've made several changes, let's look at the repository's
 history. This shows what changes were made, who made them, and when they
 were made. This is very useful for tracking progress or finding specific
@@ -381,6 +388,20 @@ added the cookie recipe. The commit message should be something like
 "Add cookie recipe". Notice where you can see the author of the commit
 and when the commit was made.
 
+::: callout-note
+### Importance of meaningful commit messages
+
+As we explore the history of the repository, it (hopefully) highlights
+the importance of writing meaningful commit messages. Imagine if all the
+commit messages were "Update file". Then, it would be quite cumbersome
+to find the change we were looking for.
+
+By contrast, if the commits have meaningful messages (like "Add cookie
+recipe" or "Move cookie recipe to baked-goods folder"), it is much
+easier to get an overview of the changes and locate the one we're
+looking for.
+:::
+
 Let's click on the commit message to see what was changed in that
 commit. Take a moment to explore the information that GitHub provides
 about the commit. On the left side of the page, we can see which files
@@ -400,44 +421,6 @@ commit message where we edited the heading of the cookie recipe. This
 will show us the changes that were made in that commit. The edited line
 is shown two times: the old line (in red with a minus in front of it)
 and the new line (in green with a plus).
-
-::: callout-note
-### Importance of meaningful commit messages
-
-When we explore the history of the repository, it will (hopefully)
-highlight the importance of writing meaningful commit messages. Imagine
-if all the commit messages were "Update file". Then, it would be quite
-cumbersome to find the change we were looking for.
-
-By contrast, if the commits have meaningful messages (like "Add cookie
-recipe" or "Move cookie recipe to baked-goods folder"), it is much
-easier to get an overview of the changes and locate the one we're
-looking for.
-:::
-
-::: callout-tip
-### History of a specific file
-
-As mentioned above, it's possible to both explore the history of the
-entire repository and the history of a specific file. The history of the
-entire repository shows all the commits that have been made to all files
-in the repository, while the history of a specific file shows the
-commits that have been made to that file only.
-
-You can access the history of a specific file by going to the file in
-the repository and clicking the "History" button on the top-right side
-of the page.
-:::
-
-::: callout-tip
-### Looking at the entire repository at a specific point in time
-
-It can also be useful to look at the entire repository at a specific
-point in time. This can be done by clicking the "Browse files" button on
-the top-right side of the page when you've clicked on a specific commit
-message. This will show you all files in the repository as they were at
-that point in time :alarm_clock:
-:::
 
 ## Summary
 
