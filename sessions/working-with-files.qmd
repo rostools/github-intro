@@ -149,7 +149,7 @@ side of the page.
 Let's revise the first line of the file to be "Ingredients for tomato
 soup:". When we've made the changes, we'll commit them.
 {{< var github-commit-start >}} A descriptive commit message for these
-changes could be "Identify ingredients are for a 'tomato' soup".
+changes could be "Specify that ingredients are for a tomato soup".
 {{< var github-commit-end >}}
 
 ## Rename and move the soup recipe to a new folder
