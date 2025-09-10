@@ -80,7 +80,7 @@ will contain files with recipes :yum: :cake: :pizza: :stew:
 | Repository name | This is the name of the repository or project. | Name it `recipes`. |
 | Description | This is a short description of what the repository is for and what it will contain. | Write "This is a practice repository for an introductory GitHub workshop. It includes a few recipes.". |
 | Public or Private | This is whether the repository is visible to everyone (public) or only to you and people you give access to (private). | Leave it as public. |
-| Add a README file | This is a file that is shown on the front page of the repository. It is a good place to put information about the repository. When checked, it will say something about "set main as default branch". You can safely ignore this message. | Make sure it is checked. |
+| Add a README file | This is a file that is shown on the landing page of the repository. It is a good place to put information about the repository. When checked, it will say something about "set main as default branch". You can safely ignore this message. | Make sure it is checked. |
 | Add .gitignore | This is a file that tells Git to ignore certain files or folders. | Leave it unchecked. |
 | Choose a license | This is a file that tells others how they can use the files in the repository. | Leave it unchecked. |
 
@@ -88,7 +88,7 @@ will contain files with recipes :yum: :cake: :pizza: :stew:
 GitHub. {#tbl-new-repo-options}
 
 It's now time to click the **Create repository** button at the bottom of
-the page. After you click the button, you'll be taken to the front page
+the page. After you click the button, you'll be taken to the landing page
 of the repository. This is where you can see all the files and folders
 that are currently in this repository.
 
@@ -107,7 +107,7 @@ workshop, we'll only use them.
 We will start to add and modify files in the repository in the next
 session.
 
-## A repositories' front page
+## A repository's landing page
 
 ::: {.callout-note collapse="true"}
 ## :teacher: Teacher note
