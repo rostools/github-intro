@@ -80,7 +80,7 @@ will contain files with recipes :yum: :cake: :pizza: :stew:
 | Repository name | This is the name of the repository or project. | Name it `recipes`. |
 | Description | This is a short description of what the repository is for and what it will contain. | Write "This is a practice repository for an introductory GitHub workshop. It includes a few recipes.". |
 | Public or Private | This is whether the repository is visible to everyone (public) or only to you and people you give access to (private). | Leave it as public. |
-| Add a README file | This is a file that is shown on the front page of the repository. It is a good place to put information about the repository. When checked, it will say something about "set main as default branch". You can safely ignore this message. | Make sure it is checked. |
+| Add a README file | This is a file that is shown on the landing page of the repository. It is a good place to put information about the repository. When checked, it will say something about "set main as default branch". You can safely ignore this message. | Make sure it is checked. |
 | Add .gitignore | This is a file that tells Git to ignore certain files or folders. | Leave it unchecked. |
 | Choose a license | This is a file that tells others how they can use the files in the repository. | Leave it unchecked. |
 
@@ -88,9 +88,9 @@ will contain files with recipes :yum: :cake: :pizza: :stew:
 GitHub. {#tbl-new-repo-options}
 
 It's now time to click the **Create repository** button at the bottom of
-the page. After you click the button, you'll be taken to the front page
-of the repository. This is where you can see all the files and folders
-that are currently in this repository.
+the page. After you click the button, you'll be taken to the landing
+page of the repository. This is where you can see all the files and
+folders that are currently in this repository.
 
 In this new repository there is only one file: `README.md`. The
 `README.md` file is a common file included in repositories to describe
@@ -107,7 +107,7 @@ workshop, we'll only use them.
 We will start to add and modify files in the repository in the next
 session.
 
-## A repositories' front page
+## A repository's landing page
 
 ::: {.callout-note collapse="true"}
 ## :teacher: Teacher note
@@ -123,21 +123,23 @@ two that we will focus on in this workshop:
 -   The **\<\> Code** tab: This is where we can see all the files and
     folders in the repository. This is the default tab that is shown
     when you go to a repository.
--   The {{< var issues-icon >}} **Issues** tab: This is where we can see all
-    the issues related to the repository.
+-   The {{< var issues-icon >}} **Issues** tab: This is where we can see
+    all the issues related to the repository.
 
 In the files and folders area, you'll see a "table" style layout with a
 "header" that contains the most recent "commit" (we'll cover that later)
-with a "commit" icon {{< var issues-icon >}} on the right-hand side that links to the history
-(that we will also cover later). This view has "columns" for files or
-folders, the commit message relevant to changes made in that particular
-file or folder, and the time when that change was made. Below this file
-and folder area is a display of the `README.md` file that was
-automatically created when we created the repository. GitHub will always
-by default display the contents of a `README.md` file at the bottom of this page if one exists.
+with a "commit" icon {{< var issues-icon >}} on the right-hand side that
+links to the history (that we will also cover later). This view has
+"columns" for files or folders, the commit message relevant to changes
+made in that particular file or folder, and the time when that change
+was made. Below this file and folder area is a display of the
+`README.md` file that was automatically created when we created the
+repository. GitHub will always by default display the contents of a
+`README.md` file at the bottom of this page if one exists.
 
-Even though the repository landing page includes other sections, we won't cover them in
-this workshop. The sections we've mentioned here are the most important and commonly used items.
+Even though the repository landing page includes other sections, we
+won't cover them in this workshop. The sections we've mentioned here are
+the most important and commonly used items.
 
 ## :technologist: Exercise: Create another repository
 
