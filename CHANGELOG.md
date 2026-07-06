@@ -21,6 +21,12 @@ If you attended a workshop or used the workshop material as some point
 in time, you can always refer to this changelog page to find out what
 has been changed since you last used it.
 
+## 1.2.4 (2026-07-06)
+
+### Fix
+
+- :pencil2: use single quotes within fig alt text (#317)
+
 ## 1.2.3 (2025-09-16)
 
 ### Fix
