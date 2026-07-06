@@ -32,9 +32,8 @@ example image below.
 
 ![File naming in a commonly used informal "version
 control".](/images/informal-version-control.jpg){#fig-informal-version-control
-fig-alt="A screenshot of a file explorer showing multiple versions of
-different files with names like "draft.txt", "draft1.txt", and
-"draft_final.txt"."}
+fig-alt="A screenshot of a file explorer showing multiple versions of different
+files with names like 'draft.txt' , 'draft1.txt' , and 'draft_final.txt'."}
 
 Does the above image look familiar? While it may exaggerate what some
 people's "versioning" looks like, it is the most common approach people
